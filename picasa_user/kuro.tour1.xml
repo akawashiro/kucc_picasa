@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/kuro.tour1</id>
+  <updated>2015-09-04T17:23:59.938Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">kuro.tour1</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-qID6DyQXbE0/AAAAAAAAAAA/AAAAAAAAAAA/eUU6G-OoGU4/s64-c/kuro.tour1.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kuro.tour1?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Kuro.tour1</name>
+    <uri>https://picasaweb.google.com/kuro.tour1</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>19</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>kuro.tour1</gphoto:user>
+  <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-qID6DyQXbE0/AAAAAAAAAAA/AAAAAAAAAAA/eUU6G-OoGU4/s64-c/kuro.tour1.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251053721884848001</id>
+    <published>2008-09-28T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:54.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">9月池田山</title>
+    <summary type="text">TQRのあとに行きました。
+激アップダート600upのあとの峠からみた濃尾平野が印象的でした。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251053721884848001"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/902"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251053721884848001"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5251053721884848001</gphoto:id>
+    <gphoto:name>902</gphoto:name>
+    <gphoto:location>長者の里</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1222585200000</gphoto:timestamp>
+    <gphoto:numphotos>22</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5x4udB1IbF8/SN99ie1wb4E/AAAAAAAAIU8/0C46MQ8yP7U/902.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">TQRのあとに行きました。
+激アップダート600upのあとの峠からみた濃尾平野が印象的でした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5x4udB1IbF8/SN99ie1wb4E/AAAAAAAAIU8/0C46MQ8yP7U/s160-c/902.jpg" height="160" width="160"/>
+      <media:title type="plain">9月池田山</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.51776 136.451621</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689</id>
+    <published>2008-09-28T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">9月鳥越峠</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5251057502950370689</gphoto:id>
+    <gphoto:name>903</gphoto:name>
+    <gphoto:location>奥伊吹スキー場</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1222585200000</gphoto:timestamp>
+    <gphoto:numphotos>11</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jznOILf2clQ/SN-A-kaBrYE/AAAAAAAAIVc/4JiP4-4KEIQ/903.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jznOILf2clQ/SN-A-kaBrYE/AAAAAAAAIVc/4JiP4-4KEIQ/s160-c/903.jpg" height="160" width="160"/>
+      <media:title type="plain">9月鳥越峠</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.522253 136.387426</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5244171435526883057</id>
+    <published>2008-09-08T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:52.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">9月山伏峠＆大井川鉄道</title>
+    <summary type="text">【9月8日】
+下部温泉→雨畑→井川雨畑林道→山伏峠→勘行峰林道→大日峠→富士見峠の少し手前→井川ダム→接阻峡→長島ダム
+
+【9月9日】
+寸又峡・夢の吊橋ピストン→千頭→大井川鉄道（南アルプス・アプトライン）で井川まで往復→川根温泉→金谷</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5244171435526883057"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/9"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5244171435526883057"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5244171435526883057</gphoto:id>
+    <gphoto:name>9</gphoto:name>
+    <gphoto:location>井川</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1220857200000</gphoto:timestamp>
+    <gphoto:numphotos>101</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rgcjTO8G6ws/SMcKIsPUhvE/AAAAAAAAIU4/cg6KkwpaDmg/9.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">【9月8日】
+下部温泉→雨畑→井川雨畑林道→山伏峠→勘行峰林道→大日峠→富士見峠の少し手前→井川ダム→接阻峡→長島ダム
+
+【9月9日】
+寸又峡・夢の吊橋ピストン→千頭→大井川鉄道（南アルプス・アプトライン）で井川まで往復→川根温泉→金谷</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rgcjTO8G6ws/SMcKIsPUhvE/AAAAAAAAIU4/cg6KkwpaDmg/s160-c/9.jpg" height="160" width="160"/>
+      <media:title type="plain">9月山伏峠＆大井川鉄道</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.212379 138.221269</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5239724191812686961</id>
+    <published>2008-08-23T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:50.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">8月甲子峠</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5239724191812686961"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/803"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5239724191812686961"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5239724191812686961</gphoto:id>
+    <gphoto:name>803</gphoto:name>
+    <gphoto:location>甲子温泉</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1219474800000</gphoto:timestamp>
+    <gphoto:numphotos>96</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lxmAelp1V7g/SLc9ZCYEFHE/AAAAAAAAIUg/eBE_CJhkFBM/803.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lxmAelp1V7g/SLc9ZCYEFHE/AAAAAAAAIUg/eBE_CJhkFBM/s160-c/803.jpg" height="160" width="160"/>
+      <media:title type="plain">8月甲子峠</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>37.180506 139.992189</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5236019397170244529</id>
+    <published>2008-08-09T20:40:08.000Z</published>
+    <updated>2013-05-12T09:11:48.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">8月四国カルスト→九州・水田班</title>
+    <summary type="text">【8月10日】高知→四国カルスト→東津野城川林道→大洲→八幡浜
+【8月11日】別府（水田班と合流）→九重大つり橋→やまなみハイウェイ→大観峰→阿蘇・内牧温泉
+【8月12日】阿蘇登山→地蔵峠→外輪山を越えて通潤橋
+【8月13日】内大臣林道→涙の撤退→松橋</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5236019397170244529"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/802"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5236019397170244529"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5236019397170244529</gphoto:id>
+    <gphoto:name>802</gphoto:name>
+    <gphoto:location>阿蘇山</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1218314408000</gphoto:timestamp>
+    <gphoto:numphotos>133</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-r4SCTZqjCBc/SKoT5m1jK7E/AAAAAAAAEv4/2aBTelw7_9w/802.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">【8月10日】高知→四国カルスト→東津野城川林道→大洲→八幡浜
+【8月11日】別府（水田班と合流）→九重大つり橋→やまなみハイウェイ→大観峰→阿蘇・内牧温泉
+【8月12日】阿蘇登山→地蔵峠→外輪山を越えて通潤橋
+【8月13日】内大臣林道→涙の撤退→松橋</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-r4SCTZqjCBc/SKoT5m1jK7E/AAAAAAAAEv4/2aBTelw7_9w/s160-c/802.jpg" height="160" width="160"/>
+      <media:title type="plain">8月四国カルスト→九州・水田班</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>32.879869 131.0747099</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5231117348514546529</id>
+    <published>2008-08-04T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:46.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">8月黒部峡谷鉄道</title>
+    <summary type="text">【8月5日】
+高山→（高山本線、北陸本線、富山地方鉄道）→宇奈月→（黒部峡谷鉄道）→欅平→鐘釣温泉→（黒部峡谷鉄道、富山地方鉄道）→魚津</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5231117348514546529"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/8"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5231117348514546529"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5231117348514546529</gphoto:id>
+    <gphoto:name>8</gphoto:name>
+    <gphoto:location>欅平</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1217833200000</gphoto:timestamp>
+    <gphoto:numphotos>79</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FtBNCCknVQI/SJipg0iXw2E/AAAAAAAAEc8/O0AUEB0GgGw/8.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">【8月5日】
+高山→（高山本線、北陸本線、富山地方鉄道）→宇奈月→（黒部峡谷鉄道）→欅平→鐘釣温泉→（黒部峡谷鉄道、富山地方鉄道）→魚津</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FtBNCCknVQI/SJipg0iXw2E/AAAAAAAAEc8/O0AUEB0GgGw/s160-c/8.jpg" height="160" width="160"/>
+      <media:title type="plain">8月黒部峡谷鉄道</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>36.696821 137.658096</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5231107297140363553</id>
+    <published>2008-07-31T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:45.004Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">8月北アルプス・雲の平(Kurokawa)</title>
+    <summary type="text">＜行程＞
+【8月1日】富山→折立→薬師峠キャンプ場
+【8月2日】→薬師沢出合→雲ノ平→雲ノ平キャンプ場→鷲羽岳ピストン
+【8月3日】→竜晶池・高天原温泉ピストン→黒部川源流→三俣蓮華岳キャンプ場
+【8月4日】→双六小屋→鏡平→新穂高温泉→高山
+
+＜カットしてしまった行程＞
+●三俣蓮華岳→双六小屋→西鎌尾根→槍ヶ岳山荘キャンプ場
+●→槍ヶ岳→飛騨乗越（日本最高所の峠）→新穂高温泉→高山</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5231107297140363553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/8Kurokawa"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5231107297140363553"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5231107297140363553</gphoto:id>
+    <gphoto:name>8Kurokawa</gphoto:name>
+    <gphoto:location>有峰湖</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1217487600000</gphoto:timestamp>
+    <gphoto:numphotos>224</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CEVDWYZiXr0/SJigXwQBUSE/AAAAAAAAEc0/xrmz5GQ3EGg/8Kurokawa.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">＜行程＞
+【8月1日】富山→折立→薬師峠キャンプ場
+【8月2日】→薬師沢出合→雲ノ平→雲ノ平キャンプ場→鷲羽岳ピストン
+【8月3日】→竜晶池・高天原温泉ピストン→黒部川源流→三俣蓮華岳キャンプ場
+【8月4日】→双六小屋→鏡平→新穂高温泉→高山
+
+＜カットしてしまった行程＞
+●三俣蓮華岳→双六小屋→西鎌尾根→槍ヶ岳山荘キャンプ場
+●→槍ヶ岳→飛騨乗越（日本最高所の峠）→新穂高温泉→高山</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CEVDWYZiXr0/SJigXwQBUSE/AAAAAAAAEc0/xrmz5GQ3EGg/s160-c/8Kurokawa.jpg" height="160" width="160"/>
+      <media:title type="plain">8月北アルプス・雲の平(Kurokawa)</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.370994 137.5215339</gml:lowerCorner>
+        <gml:upperCorner>36.4406261 137.6736258</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>36.4058101 137.5975799</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5225868392527539409</id>
+    <published>2008-07-18T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:42.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">R405開通(ikeda)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5225868392527539409"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/R405Ikeda"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5225868392527539409"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5225868392527539409</gphoto:id>
+    <gphoto:name>R405Ikeda</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1216364400000</gphoto:timestamp>
+    <gphoto:numphotos>333</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TzmEpl0aMEk/SIYDnXuLrNE/AAAAAAAAD0c/DqZfsgGG9MI/R405Ikeda.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TzmEpl0aMEk/SIYDnXuLrNE/AAAAAAAAD0c/DqZfsgGG9MI/s160-c/R405Ikeda.jpg" height="160" width="160"/>
+      <media:title type="plain">R405開通(ikeda)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5225830172023907585</id>
+    <published>2008-07-17T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:40.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">7月秋山郷(Kurokawa)</title>
+    <summary type="text">7/18：白馬→戸隠→長野
+7/19：小布施→上信スカイライン→草津温泉→六合
+7/20：野反湖→水平歩道→切明温泉
+7/21：秋山郷→関田峠→直江津→糸魚川
+7/22：親不知→富山→高岡</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5225830172023907585"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/7Kurokawa"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5225830172023907585"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5225830172023907585</gphoto:id>
+    <gphoto:name>7Kurokawa</gphoto:name>
+    <gphoto:location>切明温泉</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1216278000000</gphoto:timestamp>
+    <gphoto:numphotos>168</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xfMPkULu94U/SIXg2pQA5QE/AAAAAAAADHM/YkV0M48pdNU/7Kurokawa.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">7/18：白馬→戸隠→長野
+7/19：小布施→上信スカイライン→草津温泉→六合
+7/20：野反湖→水平歩道→切明温泉
+7/21：秋山郷→関田峠→直江津→糸魚川
+7/22：親不知→富山→高岡</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xfMPkULu94U/SIXg2pQA5QE/AAAAAAAADHM/YkV0M48pdNU/s160-c/7Kurokawa.jpg" height="160" width="160"/>
+      <media:title type="plain">7月秋山郷(Kurokawa)</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>36.809402 138.620062</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5194688827184911681</id>
+    <published>2008-04-27T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:38.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">4月しらびそ峠（Kurokawa）</title>
+    <summary type="text">4/27：中津川→神坂峠→下条
+4/28：下条→平岡→遠山郷→下栗の里（チロル）→しらびそ峠
+4/29：しらびそ峠→地蔵峠→飯田→飯田・大平峠→中津川</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5194688827184911681"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/4Kurokawa"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5194688827184911681"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5194688827184911681</gphoto:id>
+    <gphoto:name>4Kurokawa</gphoto:name>
+    <gphoto:location>遠山郷</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1209279600000</gphoto:timestamp>
+    <gphoto:numphotos>171</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GzQtxNB5rew/SBc99zcMFUE/AAAAAAAAGbk/8nhwk_qM-Xk/4Kurokawa.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">4/27：中津川→神坂峠→下条
+4/28：下条→平岡→遠山郷→下栗の里（チロル）→しらびそ峠
+4/29：しらびそ峠→地蔵峠→飯田→飯田・大平峠→中津川</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GzQtxNB5rew/SBc99zcMFUE/AAAAAAAAGbk/8nhwk_qM-Xk/s160-c/4Kurokawa.jpg" height="160" width="160"/>
+      <media:title type="plain">4月しらびそ峠（Kurokawa）</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.3212709 137.930636</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5168385194964877185</id>
+    <published>2008-02-16T08:00:00.000Z</published>
+    <updated>2013-05-12T09:11:36.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2月白川郷</title>
+    <summary type="text">2月17、18日に、岐阜県にある合掌造りの里、白川郷に行ってきました。
+雪がとてもきれいでした。（が、走るのは大変でした）</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5168385194964877185"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/2"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5168385194964877185"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5168385194964877185</gphoto:id>
+    <gphoto:name>2</gphoto:name>
+    <gphoto:location>白川郷</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1203148800000</gphoto:timestamp>
+    <gphoto:numphotos>128</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VQrfsfeAsa8/R7nK85hE_4E/AAAAAAAACX8/KrVH9ZQ9L6o/2.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">2月17、18日に、岐阜県にある合掌造りの里、白川郷に行ってきました。
+雪がとてもきれいでした。（が、走るのは大変でした）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VQrfsfeAsa8/R7nK85hE_4E/AAAAAAAACX8/KrVH9ZQ9L6o/s160-c/2.jpg" height="160" width="160"/>
+      <media:title type="plain">2月白川郷</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>36.2789299 136.9011919</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945</id>
+    <published>2007-12-26T08:00:00.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">1月九州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5153092993555288945</gphoto:id>
+    <gphoto:name>1</gphoto:name>
+    <gphoto:location>雲仙</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1198656000000</gphoto:timestamp>
+    <gphoto:numphotos>20</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BhaTjfOnSrM/R4N2xn9q03E/AAAAAAAACYA/VaC5MsI1Fxg/1.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BhaTjfOnSrM/R4N2xn9q03E/AAAAAAAACYA/VaC5MsI1Fxg/s160-c/1.jpg" height="160" width="160"/>
+      <media:title type="plain">1月九州</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>32.6788313 130.1255547</gml:lowerCorner>
+        <gml:upperCorner>32.9178586 130.3198112</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>32.798345 130.222683</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5144244566356578209</id>
+    <published>2007-11-22T08:00:00.000Z</published>
+    <updated>2013-05-12T09:11:32.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11月京都</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5144244566356578209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/11"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5144244566356578209"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5144244566356578209</gphoto:id>
+    <gphoto:name>11</gphoto:name>
+    <gphoto:location>詩仙堂</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1195718400000</gphoto:timestamp>
+    <gphoto:numphotos>60</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-emXrGM3D5Y8/R2QHLX9qz6E/AAAAAAAAIUg/0UDhS2FMKLc/11.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-emXrGM3D5Y8/R2QHLX9qz6E/AAAAAAAAIUg/0UDhS2FMKLc/s160-c/11.jpg" height="160" width="160"/>
+      <media:title type="plain">11月京都</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.043753 135.796146</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133799459023147073</id>
+    <published>2007-11-16T08:00:00.000Z</published>
+    <updated>2013-05-12T09:11:26.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">大峰・山上ケ岳(Kurokawa)</title>
+    <summary type="text">2007/11/17 大峰に日帰りで行った時の写真です。
+みたらい渓谷の紅葉がきれいでした。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5133799459023147073"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/Kurokawa"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133799459023147073"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5133799459023147073</gphoto:id>
+    <gphoto:name>Kurokawa</gphoto:name>
+    <gphoto:location>天川</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1195200000000</gphoto:timestamp>
+    <gphoto:numphotos>120</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7V18jliMZn8/Rz7raG8q0EE/AAAAAAAAIUc/XiJkw9mAtVo/Kurokawa.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">2007/11/17 大峰に日帰りで行った時の写真です。
+みたらい渓谷の紅葉がきれいでした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7V18jliMZn8/Rz7raG8q0EE/AAAAAAAAIUc/XiJkw9mAtVo/s160-c/Kurokawa.jpg" height="160" width="160"/>
+      <media:title type="plain">大峰・山上ケ岳(Kurokawa)</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>34.1850022 135.7434656</gml:lowerCorner>
+        <gml:upperCorner>34.3075417 135.9736741</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>34.246272 135.8585699</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133100938427027105</id>
+    <published>2007-11-10T08:00:00.000Z</published>
+    <updated>2013-05-12T09:11:24.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">比叡山(Kurokawa)</title>
+    <summary type="text">比叡山に登ったときの写真です</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5133100938427027105"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/Kurokawa02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133100938427027105"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5133100938427027105</gphoto:id>
+    <gphoto:name>Kurokawa02</gphoto:name>
+    <gphoto:location>比叡山</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1194681600000</gphoto:timestamp>
+    <gphoto:numphotos>20</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Xtp5hRA9yAo/RzxwG28qzqE/AAAAAAAAIUc/L8SsjDIwIC4/Kurokawa02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">比叡山に登ったときの写真です</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Xtp5hRA9yAo/RzxwG28qzqE/AAAAAAAAIUc/L8SsjDIwIC4/s160-c/Kurokawa02.jpg" height="160" width="160"/>
+      <media:title type="plain">比叡山(Kurokawa)</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.070458 135.840924</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5129329134976083617</id>
+    <published>2007-11-03T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:20.578Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11月天竜ツアー(Kurokawa)</title>
+    <summary type="text">●天竜二俣→秋葉神社→天竜スーパー林道→水窪→青崩峠→遠山郷
+●遠山郷→極楽峠→神坂峠→中津川</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5129329134976083617"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/11Kurokawa"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5129329134976083617"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5129329134976083617</gphoto:id>
+    <gphoto:name>11Kurokawa</gphoto:name>
+    <gphoto:location>水窪</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1194073200000</gphoto:timestamp>
+    <gphoto:numphotos>212</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-idq531cp-b8/Ry8JrAJPpqE/AAAAAAAAAfw/ZHXrYvM9ZfE/11Kurokawa.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">●天竜二俣→秋葉神社→天竜スーパー林道→水窪→青崩峠→遠山郷
+●遠山郷→極楽峠→神坂峠→中津川</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-idq531cp-b8/Ry8JrAJPpqE/AAAAAAAAAfw/ZHXrYvM9ZfE/s160-c/11Kurokawa.jpg" height="160" width="160"/>
+      <media:title type="plain">11月天竜ツアー(Kurokawa)</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.163885 137.87044</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5141440910664786961</id>
+    <published>2007-11-02T21:21:16.000Z</published>
+    <updated>2013-05-12T09:11:30.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">天竜スーパー（Tsujii）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5141440910664786961"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/Tsujii"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5141440910664786961"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5141440910664786961</gphoto:id>
+    <gphoto:name>Tsujii</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1194038476000</gphoto:timestamp>
+    <gphoto:numphotos>115</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xtPtiCzp-5M/R1oRRInV5BE/AAAAAAAACBM/vwUR3HtvJoo/Tsujii.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xtPtiCzp-5M/R1oRRInV5BE/AAAAAAAACBM/vwUR3HtvJoo/s160-c/Tsujii.jpg" height="160" width="160"/>
+      <media:title type="plain">天竜スーパー（Tsujii）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133813795623983057</id>
+    <published>2007-11-02T20:14:02.000Z</published>
+    <updated>2013-05-12T09:11:28.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">天竜(Kamashita)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5133813795623983057"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/Kamashita"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5133813795623983057"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5133813795623983057</gphoto:id>
+    <gphoto:name>Kamashita</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1194034442000</gphoto:timestamp>
+    <gphoto:numphotos>124</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QADeaP16jWo/Rz74cm8q19E/AAAAAAAABm4/z3478rRKjw8/Kamashita.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QADeaP16jWo/Rz74cm8q19E/AAAAAAAABm4/z3478rRKjw8/s160-c/Kamashita.jpg" height="160" width="160"/>
+      <media:title type="plain">天竜(Kamashita)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5132289640443596593</id>
+    <published>2007-11-01T07:00:00.000Z</published>
+    <updated>2013-05-12T09:11:23.205Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">天竜ツアー（Makimura）</title>
+    <summary type="text">牧村がとりました。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5132289640443596593"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/Makimura"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5132289640443596593"/>
+    <author>
+      <name>Kuro.tour1</name>
+      <uri>https://picasaweb.google.com/kuro.tour1</uri>
+    </author>
+    <gphoto:id>5132289640443596593</gphoto:id>
+    <gphoto:name>Makimura</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1193900400000</gphoto:timestamp>
+    <gphoto:numphotos>87</gphoto:numphotos>
+    <gphoto:user>kuro.tour1</gphoto:user>
+    <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4LwVE9Qjz2Y/RzmOPGcOzzE/AAAAAAAAA9I/ndawJf_iAkQ/Makimura.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain">牧村がとりました。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4LwVE9Qjz2Y/RzmOPGcOzzE/AAAAAAAAA9I/ndawJf_iAkQ/s160-c/Makimura.jpg" height="160" width="160"/>
+      <media:title type="plain">天竜ツアー（Makimura）</media:title>
+    </media:group>
+  </entry>
+</feed>

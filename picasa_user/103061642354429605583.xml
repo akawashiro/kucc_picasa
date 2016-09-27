@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/103061642354429605583</id>
+  <updated>2015-10-09T23:15:06.919Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">103061642354429605583</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-xP6FJ1xqkyw/AAAAAAAAAAI/AAAAAAAAAAA/yHerT5qeRiQ/s64-c/103061642354429605583.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103061642354429605583"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103061642354429605583?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kai y</name>
+    <uri>https://picasaweb.google.com/103061642354429605583</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>4</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>103061642354429605583</gphoto:user>
+  <gphoto:nickname>kai y</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-xP6FJ1xqkyw/AAAAAAAAAAI/AAAAAAAAAAA/yHerT5qeRiQ/s64-c/103061642354429605583.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/6064374962685123905</id>
+    <published>2014-09-29T06:32:05.000Z</published>
+    <updated>2014-09-30T02:09:08.501Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014夏合宿高橋班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583/albumid/6064374962685123905"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103061642354429605583/201402"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/6064374962685123905"/>
+    <author>
+      <name>kai y</name>
+      <uri>https://picasaweb.google.com/103061642354429605583</uri>
+    </author>
+    <gphoto:id>6064374962685123905</gphoto:id>
+    <gphoto:name>201402</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1411972325000</gphoto:timestamp>
+    <gphoto:numphotos>339</gphoto:numphotos>
+    <gphoto:user>103061642354429605583</gphoto:user>
+    <gphoto:nickname>kai y</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CNvErtbAn14/VCj85euenUE/AAAAAAAAEUg/gYlnqEKH0pY/201402.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kai y</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CNvErtbAn14/VCj85euenUE/AAAAAAAAEUg/gYlnqEKH0pY/s160-c/201402.jpg" height="160" width="160"/>
+      <media:title type="plain">2014夏合宿高橋班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/6000082639896615073</id>
+    <published>2014-04-09T00:25:03.000Z</published>
+    <updated>2014-04-14T06:35:08.251Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014　春九州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583/albumid/6000082639896615073"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103061642354429605583/2014"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/6000082639896615073"/>
+    <author>
+      <name>kai y</name>
+      <uri>https://picasaweb.google.com/103061642354429605583</uri>
+    </author>
+    <gphoto:id>6000082639896615073</gphoto:id>
+    <gphoto:name>2014</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1397003103000</gphoto:timestamp>
+    <gphoto:numphotos>211</gphoto:numphotos>
+    <gphoto:user>103061642354429605583</gphoto:user>
+    <gphoto:nickname>kai y</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rMsfpgyr218/U0STXwYGmKE/AAAAAAAABhA/UZornrazvL0/2014.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kai y</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rMsfpgyr218/U0STXwYGmKE/AAAAAAAABhA/UZornrazvL0/s160-c/2014.jpg" height="160" width="160"/>
+      <media:title type="plain">2014　春九州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/5950124175496655697</id>
+    <published>2013-11-25T09:20:41.000Z</published>
+    <updated>2013-11-25T09:25:01.899Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Scrapbook Photos</title>
+    <summary type="text">Album for scrapbook photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583/albumid/5950124175496655697"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103061642354429605583/ScrapbookPhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/5950124175496655697"/>
+    <author>
+      <name>kai y</name>
+      <uri>https://picasaweb.google.com/103061642354429605583</uri>
+    </author>
+    <gphoto:id>5950124175496655697</gphoto:id>
+    <gphoto:name>ScrapbookPhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385371241000</gphoto:timestamp>
+    <gphoto:numphotos>1</gphoto:numphotos>
+    <gphoto:user>103061642354429605583</gphoto:user>
+    <gphoto:nickname>kai y</gphoto:nickname>
+    <gphoto:albumType>ScrapBook</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cTdovp2xLLI/UpMWaZnxM1E/AAAAAAAABhg/C8jNefDmi60/ScrapbookPhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kai y</media:credit>
+      <media:description type="plain">Scrapbook Photos</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cTdovp2xLLI/UpMWaZnxM1E/AAAAAAAABhg/C8jNefDmi60/s160-c/ScrapbookPhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Scrapbook Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/5917185860222245601</id>
+    <published>2013-08-13T00:39:34.000Z</published>
+    <updated>2014-04-14T06:28:05.470Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/8/14→8/25　夏合宿北海道班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103061642354429605583/albumid/5917185860222245601"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103061642354429605583/2013814825"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103061642354429605583/albumid/5917185860222245601"/>
+    <author>
+      <name>kai y</name>
+      <uri>https://picasaweb.google.com/103061642354429605583</uri>
+    </author>
+    <gphoto:id>5917185860222245601</gphoto:id>
+    <gphoto:name>2013814825</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1376354374000</gphoto:timestamp>
+    <gphoto:numphotos>94</gphoto:numphotos>
+    <gphoto:user>103061642354429605583</gphoto:user>
+    <gphoto:nickname>kai y</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qNEttpPm58g/Uh4RMHSC2uE/AAAAAAAABe4/2raSdOvZ2jI/2013814825.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kai y</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qNEttpPm58g/Uh4RMHSC2uE/AAAAAAAABe4/2raSdOvZ2jI/s160-c/2013814825.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/8/14→8/25　夏合宿北海道班</media:title>
+    </media:group>
+  </entry>
+</feed>

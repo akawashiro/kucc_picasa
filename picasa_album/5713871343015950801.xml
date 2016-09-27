@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801</id>
+  <updated>2015-02-13T14:32:41.738Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">夜大文字</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-dltrt4Yf3j8/T0u_toy_-dE/AAAAAAAAC6M/qOvFi5J_Mks/s160-c/HTZhqE.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Takahiro Fujimura</name>
+    <uri>https://picasaweb.google.com/108643533599877153930</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>20</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5713871343015950801</gphoto:id>
+  <gphoto:name>HTZhqE</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1302689894000</gphoto:timestamp>
+  <gphoto:numphotos>20</gphoto:numphotos>
+  <gphoto:user>108643533599877153930</gphoto:user>
+  <gphoto:nickname>Takahiro Fujimura</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871352578948834</id>
+    <published>2012-02-27T17:39:04.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130457.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MGdznoEirZM/T0u_uMa_vuI/AAAAAAAAApI/Xh1aJHmedfQ/P4130457.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871352578948834"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871352578948834"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2i2o2SzzfketIH-0ioSA29MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871352578948834"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871352578948834"/>
+    <gphoto:id>5713871352578948834</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>114795</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cc1c0076</gphoto:checksum>
+    <gphoto:timestamp>1302723072000</gphoto:timestamp>
+    <gphoto:imageVersion>658</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302723072000</exif:time>
+      <exif:imageUniqueID>9f5eb29c76e57c2a79117ad04c330ed8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MGdznoEirZM/T0u_uMa_vuI/AAAAAAAAApI/Xh1aJHmedfQ/P4130457.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MGdznoEirZM/T0u_uMa_vuI/AAAAAAAAApI/Xh1aJHmedfQ/s72/P4130457.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MGdznoEirZM/T0u_uMa_vuI/AAAAAAAAApI/Xh1aJHmedfQ/s144/P4130457.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MGdznoEirZM/T0u_uMa_vuI/AAAAAAAAApI/Xh1aJHmedfQ/s288/P4130457.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130457.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871383998457858</id>
+    <published>2012-02-27T17:39:12.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130456.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lGCNyBk0Ru0/T0u_wBd_aAI/AAAAAAAAApQ/22-Bo8Ytyy0/P4130456.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871383998457858"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871383998457858"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CqzeDqc8-SOjtwpK8FPVQNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871383998457858"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871383998457858"/>
+    <gphoto:id>5713871383998457858</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>139671</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cc118076</gphoto:checksum>
+    <gphoto:timestamp>1302723053000</gphoto:timestamp>
+    <gphoto:imageVersion>660</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302723053000</exif:time>
+      <exif:imageUniqueID>13938a1e4158d6fb45b304ac25c0a19c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lGCNyBk0Ru0/T0u_wBd_aAI/AAAAAAAAApQ/22-Bo8Ytyy0/P4130456.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lGCNyBk0Ru0/T0u_wBd_aAI/AAAAAAAAApQ/22-Bo8Ytyy0/s72/P4130456.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lGCNyBk0Ru0/T0u_wBd_aAI/AAAAAAAAApQ/22-Bo8Ytyy0/s144/P4130456.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lGCNyBk0Ru0/T0u_wBd_aAI/AAAAAAAAApQ/22-Bo8Ytyy0/s288/P4130456.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130456.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871420085816754</id>
+    <published>2012-02-27T17:39:20.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130455.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-rqi8cGl9ZQk/T0u_yH54zbI/AAAAAAAAApY/JDWnOSBGr7M/P4130455.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871420085816754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871420085816754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/yEzIwQ0T9-gsK1E3LonMStMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871420085816754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871420085816754"/>
+    <gphoto:id>5713871420085816754</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>118237</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cc044076</gphoto:checksum>
+    <gphoto:timestamp>1302722882000</gphoto:timestamp>
+    <gphoto:imageVersion>662</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722882000</exif:time>
+      <exif:imageUniqueID>748ecf6b14a30b7953ada1d08bdc83c2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rqi8cGl9ZQk/T0u_yH54zbI/AAAAAAAAApY/JDWnOSBGr7M/P4130455.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rqi8cGl9ZQk/T0u_yH54zbI/AAAAAAAAApY/JDWnOSBGr7M/s72/P4130455.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rqi8cGl9ZQk/T0u_yH54zbI/AAAAAAAAApY/JDWnOSBGr7M/s144/P4130455.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rqi8cGl9ZQk/T0u_yH54zbI/AAAAAAAAApY/JDWnOSBGr7M/s288/P4130455.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130455.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871451724611090</id>
+    <published>2012-02-27T17:39:27.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130454.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-K9DWuiPmNgs/T0u_z9xKfhI/AAAAAAAAApg/eTyxKnpMPXU/P4130454.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871451724611090"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871451724611090"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0m7HFhKe_SNnjiXlTfLS0tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871451724611090"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871451724611090"/>
+    <gphoto:id>5713871451724611090</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>140332</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbf84076</gphoto:checksum>
+    <gphoto:timestamp>1302722850000</gphoto:timestamp>
+    <gphoto:imageVersion>664</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722850000</exif:time>
+      <exif:imageUniqueID>c241b549bd025a166541165e67d57047</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K9DWuiPmNgs/T0u_z9xKfhI/AAAAAAAAApg/eTyxKnpMPXU/P4130454.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K9DWuiPmNgs/T0u_z9xKfhI/AAAAAAAAApg/eTyxKnpMPXU/s72/P4130454.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K9DWuiPmNgs/T0u_z9xKfhI/AAAAAAAAApg/eTyxKnpMPXU/s144/P4130454.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K9DWuiPmNgs/T0u_z9xKfhI/AAAAAAAAApg/eTyxKnpMPXU/s288/P4130454.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130454.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871479126659746</id>
+    <published>2012-02-27T17:39:34.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130453.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-atQgXQjpKlU/T0u_1j2UkqI/AAAAAAAAApo/TL1XZoUF4GA/P4130453.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871479126659746"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871479126659746"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kw14W4GrG4TxHqo219gEE9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871479126659746"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871479126659746"/>
+    <gphoto:id>5713871479126659746</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>123216</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbfdc076</gphoto:checksum>
+    <gphoto:timestamp>1302722831000</gphoto:timestamp>
+    <gphoto:imageVersion>666</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722831000</exif:time>
+      <exif:imageUniqueID>d05d8ff4a678ae08432f8624090db34a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-atQgXQjpKlU/T0u_1j2UkqI/AAAAAAAAApo/TL1XZoUF4GA/P4130453.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atQgXQjpKlU/T0u_1j2UkqI/AAAAAAAAApo/TL1XZoUF4GA/s72/P4130453.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atQgXQjpKlU/T0u_1j2UkqI/AAAAAAAAApo/TL1XZoUF4GA/s144/P4130453.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atQgXQjpKlU/T0u_1j2UkqI/AAAAAAAAApo/TL1XZoUF4GA/s288/P4130453.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130453.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871515107314162</id>
+    <published>2012-02-27T17:39:42.000Z</published>
+    <updated>2015-02-13T14:32:41.738Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130452.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-uS2swtJJHMk/T0u_3p4xyfI/AAAAAAAAApw/KxGKilb0174/P4130452.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871515107314162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871515107314162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/u0e3zn7LqyYj_kflcGnoCNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871515107314162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871515107314162"/>
+    <gphoto:id>5713871515107314162</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>101212</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbff8076</gphoto:checksum>
+    <gphoto:timestamp>1302722812000</gphoto:timestamp>
+    <gphoto:imageVersion>668</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722812000</exif:time>
+      <exif:imageUniqueID>24e3272dbdb9103a0cdd6cb292133dda</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-uS2swtJJHMk/T0u_3p4xyfI/AAAAAAAAApw/KxGKilb0174/P4130452.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uS2swtJJHMk/T0u_3p4xyfI/AAAAAAAAApw/KxGKilb0174/s72/P4130452.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uS2swtJJHMk/T0u_3p4xyfI/AAAAAAAAApw/KxGKilb0174/s144/P4130452.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uS2swtJJHMk/T0u_3p4xyfI/AAAAAAAAApw/KxGKilb0174/s288/P4130452.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130452.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871548556962050</id>
+    <published>2012-02-27T17:39:50.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130451.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vqmBv1-ukf0/T0u_5mfy6QI/AAAAAAAAAp4/WcGjg4Xs-z8/P4130451.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871548556962050"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871548556962050"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/C-VkaQCoqOIgDyuJHXyHbdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871548556962050"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871548556962050"/>
+    <gphoto:id>5713871548556962050</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>96673</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbf1c076</gphoto:checksum>
+    <gphoto:timestamp>1302722798000</gphoto:timestamp>
+    <gphoto:imageVersion>670</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.25</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1302722798000</exif:time>
+      <exif:imageUniqueID>e1040a21ccabd07fcb51f7327b4ad482</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vqmBv1-ukf0/T0u_5mfy6QI/AAAAAAAAAp4/WcGjg4Xs-z8/P4130451.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vqmBv1-ukf0/T0u_5mfy6QI/AAAAAAAAAp4/WcGjg4Xs-z8/s72/P4130451.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vqmBv1-ukf0/T0u_5mfy6QI/AAAAAAAAAp4/WcGjg4Xs-z8/s144/P4130451.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vqmBv1-ukf0/T0u_5mfy6QI/AAAAAAAAAp4/WcGjg4Xs-z8/s288/P4130451.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130451.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871580644117762</id>
+    <published>2012-02-27T17:39:57.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130450.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qydCWysNOmw/T0u_7eB-DQI/AAAAAAAAAqA/9ZD_cH8L4j8/P4130450.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871580644117762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871580644117762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DE6YSXjhna2Q8CvE4thA2NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871580644117762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871580644117762"/>
+    <gphoto:id>5713871580644117762</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>139219</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbf58076</gphoto:checksum>
+    <gphoto:timestamp>1302722764000</gphoto:timestamp>
+    <gphoto:imageVersion>672</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.5</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722764000</exif:time>
+      <exif:imageUniqueID>88dd9b54ac89bac79080a469ecd816f2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qydCWysNOmw/T0u_7eB-DQI/AAAAAAAAAqA/9ZD_cH8L4j8/P4130450.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qydCWysNOmw/T0u_7eB-DQI/AAAAAAAAAqA/9ZD_cH8L4j8/s72/P4130450.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qydCWysNOmw/T0u_7eB-DQI/AAAAAAAAAqA/9ZD_cH8L4j8/s144/P4130450.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qydCWysNOmw/T0u_7eB-DQI/AAAAAAAAAqA/9ZD_cH8L4j8/s288/P4130450.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130450.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871611503059666</id>
+    <published>2012-02-27T17:40:05.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130448.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4jOEMpDHIL4/T0u_9Q_UItI/AAAAAAAAAqI/Azh1CaxWbsk/P4130448.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871611503059666"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871611503059666"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/A6JRkYaHzRjXIV9iSfaYj9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871611503059666"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871611503059666"/>
+    <gphoto:id>5713871611503059666</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>126352</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbe98076</gphoto:checksum>
+    <gphoto:timestamp>1302722733000</gphoto:timestamp>
+    <gphoto:imageVersion>674</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.5</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722733000</exif:time>
+      <exif:imageUniqueID>910a879c472420bf0256d25f08fc9ec9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4jOEMpDHIL4/T0u_9Q_UItI/AAAAAAAAAqI/Azh1CaxWbsk/P4130448.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4jOEMpDHIL4/T0u_9Q_UItI/AAAAAAAAAqI/Azh1CaxWbsk/s72/P4130448.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4jOEMpDHIL4/T0u_9Q_UItI/AAAAAAAAAqI/Azh1CaxWbsk/s144/P4130448.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4jOEMpDHIL4/T0u_9Q_UItI/AAAAAAAAAqI/Azh1CaxWbsk/s288/P4130448.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130448.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871641847172338</id>
+    <published>2012-02-27T17:40:12.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130447.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2eFx7QSkZno/T0u__CB6jPI/AAAAAAAAAqQ/Z0VNwUCevUw/P4130447.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871641847172338"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871641847172338"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/OdHdF96-xdaPBcBJdkHIJdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871641847172338"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871641847172338"/>
+    <gphoto:id>5713871641847172338</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>129178</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbeac076</gphoto:checksum>
+    <gphoto:timestamp>1302722711000</gphoto:timestamp>
+    <gphoto:imageVersion>676</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.5</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722711000</exif:time>
+      <exif:imageUniqueID>d520b7ac9c37329b8ad684e5ec083cc8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2eFx7QSkZno/T0u__CB6jPI/AAAAAAAAAqQ/Z0VNwUCevUw/P4130447.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2eFx7QSkZno/T0u__CB6jPI/AAAAAAAAAqQ/Z0VNwUCevUw/s72/P4130447.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2eFx7QSkZno/T0u__CB6jPI/AAAAAAAAAqQ/Z0VNwUCevUw/s144/P4130447.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2eFx7QSkZno/T0u__CB6jPI/AAAAAAAAAqQ/Z0VNwUCevUw/s288/P4130447.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130447.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871681844256754</id>
+    <published>2012-02-27T17:40:21.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130443.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jb07hwdJdoo/T0vABXB9n_I/AAAAAAAAAqY/Z_vBPkUMvHM/P4130443.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871681844256754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871681844256754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9gfdzgRL2mFOvbJMQBl_F9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871681844256754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871681844256754"/>
+    <gphoto:id>5713871681844256754</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>127795</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbe28076</gphoto:checksum>
+    <gphoto:timestamp>1302722644000</gphoto:timestamp>
+    <gphoto:imageVersion>678</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722644000</exif:time>
+      <exif:imageUniqueID>18bcf94fe3b85977868e166f039916ec</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jb07hwdJdoo/T0vABXB9n_I/AAAAAAAAAqY/Z_vBPkUMvHM/P4130443.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jb07hwdJdoo/T0vABXB9n_I/AAAAAAAAAqY/Z_vBPkUMvHM/s72/P4130443.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jb07hwdJdoo/T0vABXB9n_I/AAAAAAAAAqY/Z_vBPkUMvHM/s144/P4130443.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jb07hwdJdoo/T0vABXB9n_I/AAAAAAAAAqY/Z_vBPkUMvHM/s288/P4130443.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130443.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871710028023954</id>
+    <published>2012-02-27T17:40:28.000Z</published>
+    <updated>2014-09-07T01:11:58.872Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130441.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-CmU83ObdPc0/T0vADABfyJI/AAAAAAAAC6M/V-IWdwJfHU0/P4130441.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871710028023954"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871710028023954"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/cgfW_9OxqvW2-S-7YZc1qNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871710028023954"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871710028023954"/>
+    <gphoto:id>5713871710028023954</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>201325</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbe64076</gphoto:checksum>
+    <gphoto:timestamp>1302722611000</gphoto:timestamp>
+    <gphoto:imageVersion>2979</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722611000</exif:time>
+      <exif:imageUniqueID>a180115cf00a97a8126eb963baf10c51</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CmU83ObdPc0/T0vADABfyJI/AAAAAAAAC6M/V-IWdwJfHU0/P4130441.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CmU83ObdPc0/T0vADABfyJI/AAAAAAAAC6M/V-IWdwJfHU0/s72/P4130441.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CmU83ObdPc0/T0vADABfyJI/AAAAAAAAC6M/V-IWdwJfHU0/s144/P4130441.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CmU83ObdPc0/T0vADABfyJI/AAAAAAAAC6M/V-IWdwJfHU0/s288/P4130441.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130441.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871741214309170</id>
+    <published>2012-02-27T17:40:35.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130440.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NoJiDaBeV9A/T0vAE0M4uzI/AAAAAAAAAqo/Ux_6n9BpXIc/P4130440.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871741214309170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871741214309170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/otdP164TdEBoXsleDL8zutMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871741214309170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871741214309170"/>
+    <gphoto:id>5713871741214309170</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>153845</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbdbc076</gphoto:checksum>
+    <gphoto:timestamp>1302722591000</gphoto:timestamp>
+    <gphoto:imageVersion>682</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722591000</exif:time>
+      <exif:imageUniqueID>fc3851b2524e9612e91ccf747fbae968</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NoJiDaBeV9A/T0vAE0M4uzI/AAAAAAAAAqo/Ux_6n9BpXIc/P4130440.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NoJiDaBeV9A/T0vAE0M4uzI/AAAAAAAAAqo/Ux_6n9BpXIc/s72/P4130440.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NoJiDaBeV9A/T0vAE0M4uzI/AAAAAAAAAqo/Ux_6n9BpXIc/s144/P4130440.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NoJiDaBeV9A/T0vAE0M4uzI/AAAAAAAAAqo/Ux_6n9BpXIc/s288/P4130440.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130440.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871774571772754</id>
+    <published>2012-02-27T17:40:43.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130439.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DYJhyk86bMQ/T0vAGwd7O1I/AAAAAAAAAqw/1fB0dAiW56k/P4130439.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871774571772754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871774571772754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ib7UJfhSHt4YMLsoGeLIE9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871774571772754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871774571772754"/>
+    <gphoto:id>5713871774571772754</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>104684</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbddc076</gphoto:checksum>
+    <gphoto:timestamp>1302722574000</gphoto:timestamp>
+    <gphoto:imageVersion>684</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.5</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722574000</exif:time>
+      <exif:imageUniqueID>f58e56afd2a76bae6a68bde864b6aa2c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DYJhyk86bMQ/T0vAGwd7O1I/AAAAAAAAAqw/1fB0dAiW56k/P4130439.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DYJhyk86bMQ/T0vAGwd7O1I/AAAAAAAAAqw/1fB0dAiW56k/s72/P4130439.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DYJhyk86bMQ/T0vAGwd7O1I/AAAAAAAAAqw/1fB0dAiW56k/s144/P4130439.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DYJhyk86bMQ/T0vAGwd7O1I/AAAAAAAAAqw/1fB0dAiW56k/s288/P4130439.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130439.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871819040434370</id>
+    <published>2012-02-27T17:40:53.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130438.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6svN8TtDIvA/T0vAJWIFKMI/AAAAAAAAAq4/EDecoxCyMdI/P4130438.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871819040434370"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871819040434370"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/3CMGPkJqfUoTaY0YSS3FPtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871819040434370"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871819040434370"/>
+    <gphoto:id>5713871819040434370</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>150903</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbdf0076</gphoto:checksum>
+    <gphoto:timestamp>1302722553000</gphoto:timestamp>
+    <gphoto:imageVersion>686</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722553000</exif:time>
+      <exif:imageUniqueID>c40bdfc5f92ba6af5a190962a39dfa4a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6svN8TtDIvA/T0vAJWIFKMI/AAAAAAAAAq4/EDecoxCyMdI/P4130438.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6svN8TtDIvA/T0vAJWIFKMI/AAAAAAAAAq4/EDecoxCyMdI/s72/P4130438.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6svN8TtDIvA/T0vAJWIFKMI/AAAAAAAAAq4/EDecoxCyMdI/s144/P4130438.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6svN8TtDIvA/T0vAJWIFKMI/AAAAAAAAAq4/EDecoxCyMdI/s288/P4130438.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130438.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871850534134274</id>
+    <published>2012-02-27T17:41:00.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130437.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-63CifjGHVuE/T0vALLcw4gI/AAAAAAAAArA/BY30vNXPyY4/P4130437.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871850534134274"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871850534134274"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bnnbMjt_UrrINPq0TPkwX9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871850534134274"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871850534134274"/>
+    <gphoto:id>5713871850534134274</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>201216</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbd64076</gphoto:checksum>
+    <gphoto:timestamp>1302722482000</gphoto:timestamp>
+    <gphoto:imageVersion>688</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722482000</exif:time>
+      <exif:imageUniqueID>2e9a4ae591b39d3009f6c781cffb9ca1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-63CifjGHVuE/T0vALLcw4gI/AAAAAAAAArA/BY30vNXPyY4/P4130437.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-63CifjGHVuE/T0vALLcw4gI/AAAAAAAAArA/BY30vNXPyY4/s72/P4130437.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-63CifjGHVuE/T0vALLcw4gI/AAAAAAAAArA/BY30vNXPyY4/s144/P4130437.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-63CifjGHVuE/T0vALLcw4gI/AAAAAAAAArA/BY30vNXPyY4/s288/P4130437.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130437.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871882929106498</id>
+    <published>2012-02-27T17:41:08.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130436.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-rmwfMxAMo80/T0vANEIU7kI/AAAAAAAAArI/s5CGH1ESDp0/P4130436.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871882929106498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871882929106498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AWXBZCVE1bEfhLcSh8UU_dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871882929106498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871882929106498"/>
+    <gphoto:id>5713871882929106498</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>198367</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbc0c076</gphoto:checksum>
+    <gphoto:timestamp>1302722407000</gphoto:timestamp>
+    <gphoto:imageVersion>690</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722407000</exif:time>
+      <exif:imageUniqueID>98ce290c0c3db05e51c8b9599b732eef</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rmwfMxAMo80/T0vANEIU7kI/AAAAAAAAArI/s5CGH1ESDp0/P4130436.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rmwfMxAMo80/T0vANEIU7kI/AAAAAAAAArI/s5CGH1ESDp0/s72/P4130436.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rmwfMxAMo80/T0vANEIU7kI/AAAAAAAAArI/s5CGH1ESDp0/s144/P4130436.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rmwfMxAMo80/T0vANEIU7kI/AAAAAAAAArI/s5CGH1ESDp0/s288/P4130436.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130436.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871917202800898</id>
+    <published>2012-02-27T17:41:16.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130435.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--OO1L4Y3wQ4/T0vAPDz0AQI/AAAAAAAAArQ/rKkUXThPy4s/P4130435.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871917202800898"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871917202800898"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/mCGC0EJyIeF-kNnsNZS999MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871917202800898"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871917202800898"/>
+    <gphoto:id>5713871917202800898</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>209303</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbc58076</gphoto:checksum>
+    <gphoto:timestamp>1302722381000</gphoto:timestamp>
+    <gphoto:imageVersion>692</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>4.0</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1302722381000</exif:time>
+      <exif:imageUniqueID>44d422d2431f9411001ffc6693426fb5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--OO1L4Y3wQ4/T0vAPDz0AQI/AAAAAAAAArQ/rKkUXThPy4s/P4130435.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--OO1L4Y3wQ4/T0vAPDz0AQI/AAAAAAAAArQ/rKkUXThPy4s/s72/P4130435.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--OO1L4Y3wQ4/T0vAPDz0AQI/AAAAAAAAArQ/rKkUXThPy4s/s144/P4130435.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--OO1L4Y3wQ4/T0vAPDz0AQI/AAAAAAAAArQ/rKkUXThPy4s/s288/P4130435.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130435.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871965299022434</id>
+    <published>2012-02-27T17:41:27.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130434.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-e5dLV8kNafY/T0vAR2-2GmI/AAAAAAAAArY/UiSexIto8c0/P4130434.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871965299022434"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713871965299022434"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/nVFAowg2s343X02JkBDUtdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713871965299022434"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713871965299022434"/>
+    <gphoto:id>5713871965299022434</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>112751</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbbc4076</gphoto:checksum>
+    <gphoto:timestamp>1302722307000</gphoto:timestamp>
+    <gphoto:imageVersion>694</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1302722307000</exif:time>
+      <exif:imageUniqueID>529a54a1ce16fae1d9f7235f496af87e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e5dLV8kNafY/T0vAR2-2GmI/AAAAAAAAArY/UiSexIto8c0/P4130434.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e5dLV8kNafY/T0vAR2-2GmI/AAAAAAAAArY/UiSexIto8c0/s72/P4130434.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e5dLV8kNafY/T0vAR2-2GmI/AAAAAAAAArY/UiSexIto8c0/s144/P4130434.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e5dLV8kNafY/T0vAR2-2GmI/AAAAAAAAArY/UiSexIto8c0/s288/P4130434.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130434.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713872002029617026</id>
+    <published>2012-02-27T17:41:35.000Z</published>
+    <updated>2013-05-11T18:39:27.008Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P4130433.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-GnhXUoIMu4k/T0vAT_0Gf4I/AAAAAAAAArg/go0UOX96l2k/P4130433.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713872002029617026"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108643533599877153930/HTZhqE#5713872002029617026"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8bIcG11XnsF2Gg1d-_U7ydMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108643533599877153930/albumid/5713871343015950801/photoid/5713872002029617026"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=108643533599877153930&amp;aid=5713871343015950801&amp;iid=5713872002029617026"/>
+    <gphoto:id>5713872002029617026</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5713871343015950801</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>198850</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>cbbec076</gphoto:checksum>
+    <gphoto:timestamp>1302722295000</gphoto:timestamp>
+    <gphoto:imageVersion>696</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uTough-6020     </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1302722295000</exif:time>
+      <exif:imageUniqueID>e9c89da1ad6ef96cbf7d3207d17167ca</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GnhXUoIMu4k/T0vAT_0Gf4I/AAAAAAAAArg/go0UOX96l2k/P4130433.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Takahiro Fujimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GnhXUoIMu4k/T0vAT_0Gf4I/AAAAAAAAArg/go0UOX96l2k/s72/P4130433.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GnhXUoIMu4k/T0vAT_0Gf4I/AAAAAAAAArg/go0UOX96l2k/s144/P4130433.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GnhXUoIMu4k/T0vAT_0Gf4I/AAAAAAAAArg/go0UOX96l2k/s288/P4130433.JPG" height="216" width="288"/>
+      <media:title type="plain">P4130433.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

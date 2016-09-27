@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/117098313366248095484</id>
+  <updated>2015-10-15T03:00:12.441Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">117098313366248095484</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-wBhhi_lzNlU/AAAAAAAAAAA/AAAAAAAAAAA/q3bo2v0_yKw/s64-c/117098313366248095484.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117098313366248095484"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117098313366248095484"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/117098313366248095484?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117098313366248095484?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>田中匠</name>
+    <uri>https://picasaweb.google.com/117098313366248095484</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>117098313366248095484</gphoto:user>
+  <gphoto:nickname>田中匠</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-wBhhi_lzNlU/AAAAAAAAAAA/AAAAAAAAAAA/q3bo2v0_yKw/s64-c/117098313366248095484.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117098313366248095484/albumid/5936361974381637377</id>
+    <published>2013-10-19T07:16:19.000Z</published>
+    <updated>2013-10-19T07:46:03.982Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿インドネシア班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117098313366248095484/albumid/5936361974381637377"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117098313366248095484/bERlYH"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117098313366248095484/albumid/5936361974381637377"/>
+    <author>
+      <name>田中匠</name>
+      <uri>https://picasaweb.google.com/117098313366248095484</uri>
+    </author>
+    <gphoto:id>5936361974381637377</gphoto:id>
+    <gphoto:name>bERlYH</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1382166979000</gphoto:timestamp>
+    <gphoto:numphotos>168</gphoto:numphotos>
+    <gphoto:user>117098313366248095484</gphoto:user>
+    <gphoto:nickname>田中匠</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-j5gOG8NLIj8/UmIxw3UnbwE/AAAAAAAAAWk/zF39AWKrRWA/bERlYH.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>田中匠</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j5gOG8NLIj8/UmIxw3UnbwE/AAAAAAAAAWk/zF39AWKrRWA/s160-c/bERlYH.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿インドネシア班</media:title>
+    </media:group>
+  </entry>
+</feed>

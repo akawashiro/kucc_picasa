@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065</id>
+  <updated>2013-05-08T18:06:07.839Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">20120917 けいはんなサイクルレース</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-CQU_JgO1-IE/UFdOSO_IGTE/AAAAAAAAGCA/f4y8T2D5Y1k/s160-c/20120917.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>flarekanon</name>
+    <uri>https://picasaweb.google.com/flarekanon</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>17</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5789181921175542065</gphoto:id>
+  <gphoto:name>20120917</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1347847051000</gphoto:timestamp>
+  <gphoto:numphotos>17</gphoto:numphotos>
+  <gphoto:user>flarekanon</gphoto:user>
+  <gphoto:nickname>flarekanon</gphoto:nickname>
+  <gphoto:allowPrints>false</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181939069636130</id>
+    <published>2012-09-17T16:22:37.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0913.JPG</title>
+    <summary type="text">けいはんな。AVELの逃げ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-rF5rya2z_Z4/UFdOTRpaTiI/AAAAAAAAF_Q/PmLfCYNtdLI/CIMG0913.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181939069636130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789181939069636130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Ql5IFc31tsV2jC3thVHwTdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181939069636130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789181939069636130"/>
+    <gphoto:id>5789181939069636130</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>600</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>144650</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc8820cc</gphoto:checksum>
+    <gphoto:timestamp>1347847051000</gphoto:timestamp>
+    <gphoto:imageVersion>6132</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.8</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1347879451000</exif:time>
+      <exif:imageUniqueID>6cba36e4926960d910ec92356006c9d0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rF5rya2z_Z4/UFdOTRpaTiI/AAAAAAAAF_Q/PmLfCYNtdLI/CIMG0913.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">けいはんな。AVELの逃げ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rF5rya2z_Z4/UFdOTRpaTiI/AAAAAAAAF_Q/PmLfCYNtdLI/s72/CIMG0913.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rF5rya2z_Z4/UFdOTRpaTiI/AAAAAAAAF_Q/PmLfCYNtdLI/s144/CIMG0913.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rF5rya2z_Z4/UFdOTRpaTiI/AAAAAAAAF_Q/PmLfCYNtdLI/s288/CIMG0913.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG0913.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181957458108402</id>
+    <published>2012-09-17T16:22:41.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0921.JPG</title>
+    <summary type="text">あさぎりちゃんも応援にきたよ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qEEZBNGwDaw/UFdOUWJkH_I/AAAAAAAAF_U/Ul6i8PD0eF4/CIMG0921.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181957458108402"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789181957458108402"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DS1L1KjtOMWWdyogICESX9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181957458108402"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789181957458108402"/>
+    <gphoto:id>5789181957458108402</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>166219</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc8920cc</gphoto:checksum>
+    <gphoto:timestamp>1347847095000</gphoto:timestamp>
+    <gphoto:imageVersion>6133</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.4</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.1</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347879495000</exif:time>
+      <exif:imageUniqueID>4b84276537ce957643e1787edd66bdd1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qEEZBNGwDaw/UFdOUWJkH_I/AAAAAAAAF_U/Ul6i8PD0eF4/CIMG0921.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">あさぎりちゃんも応援にきたよ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qEEZBNGwDaw/UFdOUWJkH_I/AAAAAAAAF_U/Ul6i8PD0eF4/s72/CIMG0921.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qEEZBNGwDaw/UFdOUWJkH_I/AAAAAAAAF_U/Ul6i8PD0eF4/s144/CIMG0921.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qEEZBNGwDaw/UFdOUWJkH_I/AAAAAAAAF_U/Ul6i8PD0eF4/s288/CIMG0921.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0921.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181975116755810</id>
+    <published>2012-09-17T16:22:45.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0925.JPG</title>
+    <summary type="text">るっきゅん</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-kZcyWasiaUw/UFdOVX7ts2I/AAAAAAAAF_Y/a0TRS4viE7U/CIMG0925.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181975116755810"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789181975116755810"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6OUe3VtntiN0CQr-YSlA1dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181975116755810"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789181975116755810"/>
+    <gphoto:id>5789181975116755810</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>164347</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc89c0cc</gphoto:checksum>
+    <gphoto:timestamp>1347847236000</gphoto:timestamp>
+    <gphoto:imageVersion>6134</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347879636000</exif:time>
+      <exif:imageUniqueID>b4e119f7c42f796508d95d89ffd7ad30</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kZcyWasiaUw/UFdOVX7ts2I/AAAAAAAAF_Y/a0TRS4viE7U/CIMG0925.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">るっきゅん</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZcyWasiaUw/UFdOVX7ts2I/AAAAAAAAF_Y/a0TRS4viE7U/s72/CIMG0925.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZcyWasiaUw/UFdOVX7ts2I/AAAAAAAAF_Y/a0TRS4viE7U/s144/CIMG0925.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZcyWasiaUw/UFdOVX7ts2I/AAAAAAAAF_Y/a0TRS4viE7U/s288/CIMG0925.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0925.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181981956769954</id>
+    <published>2012-09-17T16:22:47.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0938.JPG</title>
+    <summary type="text">今日も逃げますJestちゃん。逃げてばっかりだね！</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-120CmFnXTA0/UFdOVxagCKI/AAAAAAAAF_c/4nMBPu_OCYQ/CIMG0938.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181981956769954"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789181981956769954"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/L1aNPcX2H728U302br_ARtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789181981956769954"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789181981956769954"/>
+    <gphoto:id>5789181981956769954</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>117732</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc97c0cc</gphoto:checksum>
+    <gphoto:timestamp>1347847264000</gphoto:timestamp>
+    <gphoto:imageVersion>6135</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347879664000</exif:time>
+      <exif:imageUniqueID>28cc50910b7713442552d75388a1719b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-120CmFnXTA0/UFdOVxagCKI/AAAAAAAAF_c/4nMBPu_OCYQ/CIMG0938.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">今日も逃げますJestちゃん。逃げてばっかりだね！</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-120CmFnXTA0/UFdOVxagCKI/AAAAAAAAF_c/4nMBPu_OCYQ/s72/CIMG0938.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-120CmFnXTA0/UFdOVxagCKI/AAAAAAAAF_c/4nMBPu_OCYQ/s144/CIMG0938.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-120CmFnXTA0/UFdOVxagCKI/AAAAAAAAF_c/4nMBPu_OCYQ/s288/CIMG0938.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0938.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182001994187218</id>
+    <published>2012-09-17T16:22:51.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0964.JPG</title>
+    <summary type="text">辛そうなI色さん。連戦はやっぱりキツい。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-p_ad9nRftRI/UFdOW8DywdI/AAAAAAAAF_g/uMFcgCmtJEE/CIMG0964.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182001994187218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182001994187218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/v6J3iwJX_nhys1GDuIwo_tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182001994187218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182001994187218"/>
+    <gphoto:id>5789182001994187218</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>128169</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc95c0cc</gphoto:checksum>
+    <gphoto:timestamp>1347847929000</gphoto:timestamp>
+    <gphoto:imageVersion>6136</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>22.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1347880329000</exif:time>
+      <exif:imageUniqueID>acbec5a4f479c09f91158c8ad95eabcb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-p_ad9nRftRI/UFdOW8DywdI/AAAAAAAAF_g/uMFcgCmtJEE/CIMG0964.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">辛そうなI色さん。連戦はやっぱりキツい。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p_ad9nRftRI/UFdOW8DywdI/AAAAAAAAF_g/uMFcgCmtJEE/s72/CIMG0964.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p_ad9nRftRI/UFdOW8DywdI/AAAAAAAAF_g/uMFcgCmtJEE/s144/CIMG0964.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p_ad9nRftRI/UFdOW8DywdI/AAAAAAAAF_g/uMFcgCmtJEE/s288/CIMG0964.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0964.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182017559422722</id>
+    <published>2012-09-17T16:22:55.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0974.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-kk6pddRAwNg/UFdOX2C1ZwI/AAAAAAAAF14/385TCCxVFbc/CIMG0974.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182017559422722"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182017559422722"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JJFvBaISz_TZgV2uD77W6NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182017559422722"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182017559422722"/>
+    <gphoto:id>5789182017559422722</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>167345</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e31e40cc</gphoto:checksum>
+    <gphoto:timestamp>1347880528000</gphoto:timestamp>
+    <gphoto:imageVersion>5982</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.1</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347880528000</exif:time>
+      <exif:imageUniqueID>cf9e9a2ee1ca36af8b256761d3e9b0bd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kk6pddRAwNg/UFdOX2C1ZwI/AAAAAAAAF14/385TCCxVFbc/CIMG0974.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kk6pddRAwNg/UFdOX2C1ZwI/AAAAAAAAF14/385TCCxVFbc/s72/CIMG0974.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kk6pddRAwNg/UFdOX2C1ZwI/AAAAAAAAF14/385TCCxVFbc/s144/CIMG0974.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kk6pddRAwNg/UFdOX2C1ZwI/AAAAAAAAF14/385TCCxVFbc/s288/CIMG0974.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0974.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182024872561858</id>
+    <published>2012-09-17T16:22:57.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1016.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lbVyDe12bXc/UFdOYRSbDMI/AAAAAAAAF2A/VjQOWCmC5A0/CIMG1016.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182024872561858"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182024872561858"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ldndiBPzsqkv920OK0r8UdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182024872561858"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182024872561858"/>
+    <gphoto:id>5789182024872561858</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>600</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>110397</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e34040cc</gphoto:checksum>
+    <gphoto:timestamp>1347880896000</gphoto:timestamp>
+    <gphoto:imageVersion>5984</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>35.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347880896000</exif:time>
+      <exif:imageUniqueID>f167f8ac65359832eb25d3c863443717</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lbVyDe12bXc/UFdOYRSbDMI/AAAAAAAAF2A/VjQOWCmC5A0/CIMG1016.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbVyDe12bXc/UFdOYRSbDMI/AAAAAAAAF2A/VjQOWCmC5A0/s72/CIMG1016.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbVyDe12bXc/UFdOYRSbDMI/AAAAAAAAF2A/VjQOWCmC5A0/s144/CIMG1016.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbVyDe12bXc/UFdOYRSbDMI/AAAAAAAAF2A/VjQOWCmC5A0/s288/CIMG1016.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1016.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182037755588018</id>
+    <published>2012-09-17T16:23:00.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1030.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-POZQQ2akeMM/UFdOZBR-bbI/AAAAAAAAF2I/Z_BWWyLfiLg/CIMG1030.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182037755588018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182037755588018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DkciD3Rk0i_nToCYKBaLm9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182037755588018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182037755588018"/>
+    <gphoto:id>5789182037755588018</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>100702</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e34800cc</gphoto:checksum>
+    <gphoto:timestamp>1347880960000</gphoto:timestamp>
+    <gphoto:imageVersion>5986</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.3</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1347880960000</exif:time>
+      <exif:imageUniqueID>71179f618f5fec0515ba2f0ae4e6f993</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-POZQQ2akeMM/UFdOZBR-bbI/AAAAAAAAF2I/Z_BWWyLfiLg/CIMG1030.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-POZQQ2akeMM/UFdOZBR-bbI/AAAAAAAAF2I/Z_BWWyLfiLg/s72/CIMG1030.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-POZQQ2akeMM/UFdOZBR-bbI/AAAAAAAAF2I/Z_BWWyLfiLg/s144/CIMG1030.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-POZQQ2akeMM/UFdOZBR-bbI/AAAAAAAAF2I/Z_BWWyLfiLg/s288/CIMG1030.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1030.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182052815070610</id>
+    <published>2012-09-17T16:23:03.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1032.JPG</title>
+    <summary type="text">もうちょっと内側寄れるでｗ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jJ1jg-YMJpo/UFdOZ5Yb5ZI/AAAAAAAAF_k/D7vcxvp3ihg/CIMG1032.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182052815070610"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182052815070610"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GW_G38by9mpoU9Br7L9xjtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182052815070610"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182052815070610"/>
+    <gphoto:id>5789182052815070610</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>100247</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc9180cc</gphoto:checksum>
+    <gphoto:timestamp>1347848561000</gphoto:timestamp>
+    <gphoto:imageVersion>6137</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.3</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1347880961000</exif:time>
+      <exif:imageUniqueID>5c14acb1f43d8d145d7072aef8b98ee5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jJ1jg-YMJpo/UFdOZ5Yb5ZI/AAAAAAAAF_k/D7vcxvp3ihg/CIMG1032.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">もうちょっと内側寄れるでｗ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jJ1jg-YMJpo/UFdOZ5Yb5ZI/AAAAAAAAF_k/D7vcxvp3ihg/s72/CIMG1032.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jJ1jg-YMJpo/UFdOZ5Yb5ZI/AAAAAAAAF_k/D7vcxvp3ihg/s144/CIMG1032.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jJ1jg-YMJpo/UFdOZ5Yb5ZI/AAAAAAAAF_k/D7vcxvp3ihg/s288/CIMG1032.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1032.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182064387801890</id>
+    <published>2012-09-17T16:23:06.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1049.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-GKW32zfa23Y/UFdOakflwyI/AAAAAAAAF2Y/qr6TBHzmHEo/CIMG1049.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182064387801890"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182064387801890"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EsOucNml4SMPvkQys3UeMdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182064387801890"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182064387801890"/>
+    <gphoto:id>5789182064387801890</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>146138</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e36e00cc</gphoto:checksum>
+    <gphoto:timestamp>1347881163000</gphoto:timestamp>
+    <gphoto:imageVersion>5990</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.00125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.8</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1347881163000</exif:time>
+      <exif:imageUniqueID>0b2e475dd5037f6edf61cf01d65f1a5a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GKW32zfa23Y/UFdOakflwyI/AAAAAAAAF2Y/qr6TBHzmHEo/CIMG1049.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GKW32zfa23Y/UFdOakflwyI/AAAAAAAAF2Y/qr6TBHzmHEo/s72/CIMG1049.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GKW32zfa23Y/UFdOakflwyI/AAAAAAAAF2Y/qr6TBHzmHEo/s144/CIMG1049.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GKW32zfa23Y/UFdOakflwyI/AAAAAAAAF2Y/qr6TBHzmHEo/s288/CIMG1049.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1049.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182080290966418</id>
+    <published>2012-09-17T16:23:09.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1061.JPG</title>
+    <summary type="text">レースの後は清滝峠の麓でおそヴぁ＞_＜</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9LUDhRRvxyg/UFdObfvMy5I/AAAAAAAAF_o/9KZYpHi-Ih8/CIMG1061.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182080290966418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182080290966418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/lf9oed3UV9gWXY5VZXS0ydMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182080290966418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182080290966418"/>
+    <gphoto:id>5789182080290966418</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>600</gphoto:height>
+    <gphoto:size>96041</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc9cc0cc</gphoto:checksum>
+    <gphoto:timestamp>1347858584000</gphoto:timestamp>
+    <gphoto:imageVersion>6138</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-FH100   </exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.3</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1347890984000</exif:time>
+      <exif:imageUniqueID>d510c481749fbef0b21d27c9a2717171</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9LUDhRRvxyg/UFdObfvMy5I/AAAAAAAAF_o/9KZYpHi-Ih8/CIMG1061.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">レースの後は清滝峠の麓でおそヴぁ＞_＜</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9LUDhRRvxyg/UFdObfvMy5I/AAAAAAAAF_o/9KZYpHi-Ih8/s72/CIMG1061.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9LUDhRRvxyg/UFdObfvMy5I/AAAAAAAAF_o/9KZYpHi-Ih8/s144/CIMG1061.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9LUDhRRvxyg/UFdObfvMy5I/AAAAAAAAF_o/9KZYpHi-Ih8/s288/CIMG1061.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1061.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182091497930770</id>
+    <published>2012-09-17T16:23:12.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2224.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-C8OPKpGcelc/UFdOcJfJgBI/AAAAAAAAF2o/RdtfhCNGfqs/IMG_2224.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182091497930770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182091497930770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QgFQIIFqDlqRC3qWqQH5tdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182091497930770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182091497930770"/>
+    <gphoto:id>5789182091497930770</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>598</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>109028</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e1e7c0dc</gphoto:checksum>
+    <gphoto:timestamp>1347878034000</gphoto:timestamp>
+    <gphoto:imageVersion>5994</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>7.621951E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1347878034000</exif:time>
+      <exif:imageUniqueID>8f6fd3b4a0a7c3ce8876bea3b5cce329</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-C8OPKpGcelc/UFdOcJfJgBI/AAAAAAAAF2o/RdtfhCNGfqs/IMG_2224.JPG" height="512" width="383" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-C8OPKpGcelc/UFdOcJfJgBI/AAAAAAAAF2o/RdtfhCNGfqs/s72/IMG_2224.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-C8OPKpGcelc/UFdOcJfJgBI/AAAAAAAAF2o/RdtfhCNGfqs/s144/IMG_2224.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-C8OPKpGcelc/UFdOcJfJgBI/AAAAAAAAF2o/RdtfhCNGfqs/s288/IMG_2224.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_2224.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182106600545330</id>
+    <published>2012-09-17T16:23:16.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2225.JPG</title>
+    <summary type="text">C1スタート前のごったごった</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_Z5RmQByeOE/UFdOdBv5HDI/AAAAAAAAGBs/jIJ9IVdzjnE/IMG_2225.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182106600545330"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182106600545330"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QqGCnHJ_uAr236XJFUup2NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182106600545330"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182106600545330"/>
+    <gphoto:id>5789182106600545330</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>598</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>168147</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fcbf80dc</gphoto:checksum>
+    <gphoto:timestamp>1347846371000</gphoto:timestamp>
+    <gphoto:imageVersion>6171</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>0.0011933175</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1347878771000</exif:time>
+      <exif:imageUniqueID>5bd9ebc84e532cbd9b3af28196afdc4b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_Z5RmQByeOE/UFdOdBv5HDI/AAAAAAAAGBs/jIJ9IVdzjnE/IMG_2225.JPG" height="512" width="383" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">C1スタート前のごったごった</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Z5RmQByeOE/UFdOdBv5HDI/AAAAAAAAGBs/jIJ9IVdzjnE/s72/IMG_2225.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Z5RmQByeOE/UFdOdBv5HDI/AAAAAAAAGBs/jIJ9IVdzjnE/s144/IMG_2225.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Z5RmQByeOE/UFdOdBv5HDI/AAAAAAAAGBs/jIJ9IVdzjnE/s288/IMG_2225.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_2225.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182128277932898</id>
+    <published>2012-09-17T16:23:21.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2233.JPG</title>
+    <summary type="text">おそばやさん</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-SySx66nWOEU/UFdOeSgLy2I/AAAAAAAAGBw/vAu10wvb5FM/IMG_2233.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182128277932898"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182128277932898"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Hwl0S-hhDGg85CL9jHIAbtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182128277932898"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182128277932898"/>
+    <gphoto:id>5789182128277932898</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>800</gphoto:width>
+    <gphoto:height>598</gphoto:height>
+    <gphoto:size>122702</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fcbd00cc</gphoto:checksum>
+    <gphoto:timestamp>1347860087000</gphoto:timestamp>
+    <gphoto:imageVersion>6172</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>0.0021551724</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1347892487000</exif:time>
+      <exif:imageUniqueID>bbb15a3213209e4ff2c4dbdd1f20444e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SySx66nWOEU/UFdOeSgLy2I/AAAAAAAAGBw/vAu10wvb5FM/IMG_2233.JPG" height="383" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">おそばやさん</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SySx66nWOEU/UFdOeSgLy2I/AAAAAAAAGBw/vAu10wvb5FM/s72/IMG_2233.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SySx66nWOEU/UFdOeSgLy2I/AAAAAAAAGBw/vAu10wvb5FM/s144/IMG_2233.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SySx66nWOEU/UFdOeSgLy2I/AAAAAAAAGBw/vAu10wvb5FM/s288/IMG_2233.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_2233.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182136863669922</id>
+    <published>2012-09-17T16:23:23.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2234.JPG</title>
+    <summary type="text">よしむら。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MmWKMYYUPYI/UFdOeyfLvqI/AAAAAAAAGB0/PzCJfXWQPm4/IMG_2234.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182136863669922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182136863669922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2ersum5SSmM79dEwR_oiGNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182136863669922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182136863669922"/>
+    <gphoto:id>5789182136863669922</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>598</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>80971</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fcbb20dc</gphoto:checksum>
+    <gphoto:timestamp>1347860094000</gphoto:timestamp>
+    <gphoto:imageVersion>6173</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>4.6403712E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1347892494000</exif:time>
+      <exif:imageUniqueID>58e0fffe2eb10c593c58e792009ee2dc</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MmWKMYYUPYI/UFdOeyfLvqI/AAAAAAAAGB0/PzCJfXWQPm4/IMG_2234.JPG" height="512" width="383" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">よしむら。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MmWKMYYUPYI/UFdOeyfLvqI/AAAAAAAAGB0/PzCJfXWQPm4/s72/IMG_2234.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MmWKMYYUPYI/UFdOeyfLvqI/AAAAAAAAGB0/PzCJfXWQPm4/s144/IMG_2234.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MmWKMYYUPYI/UFdOeyfLvqI/AAAAAAAAGB0/PzCJfXWQPm4/s288/IMG_2234.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_2234.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182141156073234</id>
+    <published>2012-09-17T16:23:24.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2235.JPG</title>
+    <summary type="text">ニーソ焼けしました。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DvtalwIxrnY/UFdOfCeknxI/AAAAAAAAGB4/OKl9HkNiVSo/IMG_2235.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182141156073234"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182141156073234"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/oR7Z0_r7n8bcqSK6F18IcNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182141156073234"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182141156073234"/>
+    <gphoto:id>5789182141156073234</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>598</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>47555</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fcb8e0dc</gphoto:checksum>
+    <gphoto:timestamp>1347872680000</gphoto:timestamp>
+    <gphoto:imageVersion>6174</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1347905080000</exif:time>
+      <exif:imageUniqueID>ef5ce12439a606925b1f5b5dc3a8fd7a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DvtalwIxrnY/UFdOfCeknxI/AAAAAAAAGB4/OKl9HkNiVSo/IMG_2235.JPG" height="512" width="383" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">ニーソ焼けしました。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DvtalwIxrnY/UFdOfCeknxI/AAAAAAAAGB4/OKl9HkNiVSo/s72/IMG_2235.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DvtalwIxrnY/UFdOfCeknxI/AAAAAAAAGB4/OKl9HkNiVSo/s144/IMG_2235.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DvtalwIxrnY/UFdOfCeknxI/AAAAAAAAGB4/OKl9HkNiVSo/s288/IMG_2235.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_2235.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182150602965106</id>
+    <published>2012-09-17T16:23:26.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2237.JPG</title>
+    <summary type="text">ふぅ…</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9t7sBQYCHYc/UFdOflq4wHI/AAAAAAAAGB8/t5nuL_d6gd8/IMG_2237.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182150602965106"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917#5789182150602965106"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pRQIlAjbDUdEsZg9EKQUztMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065/photoid/5789182150602965106"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=flarekanon&amp;aid=5789181921175542065&amp;iid=5789182150602965106"/>
+    <gphoto:id>5789182150602965106</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5789181921175542065</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>598</gphoto:width>
+    <gphoto:height>800</gphoto:height>
+    <gphoto:size>54565</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fcb9c0dc</gphoto:checksum>
+    <gphoto:timestamp>1347891640000</gphoto:timestamp>
+    <gphoto:imageVersion>6175</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="3" name="Attribution-Noncommercial-No Derivative" url="http://creativecommons.org/licenses/by-nc-nd/3.0">ATTRIBUTION_NON_COMMERCIAL_NO_DERIVATIVES</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 4</exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>3.85</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1347924040000</exif:time>
+      <exif:imageUniqueID>3e96407f592ba33f3cc42a3cd78d2cf3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9t7sBQYCHYc/UFdOflq4wHI/AAAAAAAAGB8/t5nuL_d6gd8/IMG_2237.JPG" height="512" width="383" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">ふぅ…</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9t7sBQYCHYc/UFdOflq4wHI/AAAAAAAAGB8/t5nuL_d6gd8/s72/IMG_2237.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9t7sBQYCHYc/UFdOflq4wHI/AAAAAAAAGB8/t5nuL_d6gd8/s144/IMG_2237.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9t7sBQYCHYc/UFdOflq4wHI/AAAAAAAAGB8/t5nuL_d6gd8/s288/IMG_2237.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_2237.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

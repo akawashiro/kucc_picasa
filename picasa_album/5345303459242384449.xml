@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449</id>
+  <updated>2013-05-12T08:47:38.653Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">大文字 2008</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-VnAX-uOdaVA/Si5VLPDPHEE/AAAAAAAABAU/dtqYy8xlem0/s160-c/2008.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>jun nishimura</name>
+    <uri>https://picasaweb.google.com/112029969160970903653</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>18</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5345303459242384449</gphoto:id>
+  <gphoto:name>2008</gphoto:name>
+  <gphoto:location>daimonji</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1226476800000</gphoto:timestamp>
+  <gphoto:numphotos>18</gphoto:numphotos>
+  <gphoto:user>112029969160970903653</gphoto:user>
+  <gphoto:nickname>jun nishimura</gphoto:nickname>
+  <georss:where>
+    <gml:Envelope>
+      <gml:lowerCorner>34.9989528 135.7785581</gml:lowerCorner>
+      <gml:upperCorner>35.0343811 135.8547758</gml:upperCorner>
+    </gml:Envelope>
+    <gml:Point>
+      <gml:pos>35.016667 135.816667</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304181885898626</id>
+    <published>2009-06-09T12:30:13.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1266.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-a6UUE0f5qlo/Si5V1TG4D4I/AAAAAAAAA_s/4NAORYyG8Uk/DSCN1266.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304181885898626"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304181885898626"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gb1nvK2aRFjmXJ_SvX_mQtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304181885898626"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304181885898626"/>
+    <gphoto:id>5345304181885898626</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-16.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>442845</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e128029</gphoto:checksum>
+    <gphoto:timestamp>1226585217000</gphoto:timestamp>
+    <gphoto:imageVersion>1019</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.006535948</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226585217000</exif:time>
+      <exif:imageUniqueID>337a604fead678011bc18969b498736d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-a6UUE0f5qlo/Si5V1TG4D4I/AAAAAAAAA_s/4NAORYyG8Uk/DSCN1266.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-a6UUE0f5qlo/Si5V1TG4D4I/AAAAAAAAA_s/4NAORYyG8Uk/s72/DSCN1266.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-a6UUE0f5qlo/Si5V1TG4D4I/AAAAAAAAA_s/4NAORYyG8Uk/s144/DSCN1266.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-a6UUE0f5qlo/Si5V1TG4D4I/AAAAAAAAA_s/4NAORYyG8Uk/s288/DSCN1266.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1266.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304228282756306</id>
+    <published>2009-06-09T12:30:23.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1268.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6hjqyJWanz8/Si5V3_8v7NI/AAAAAAAAA_w/5Aoqho9KK9g/DSCN1268.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304228282756306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304228282756306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8NNBsn-4z_6BOoU5jWYiHtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304228282756306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304228282756306"/>
+    <gphoto:id>5345304228282756306</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-15.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>471579</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e12a029</gphoto:checksum>
+    <gphoto:timestamp>1226585300000</gphoto:timestamp>
+    <gphoto:imageVersion>1020</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.007440476</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226585300000</exif:time>
+      <exif:imageUniqueID>daa2ae83fbfa2048e75f20d58f2524d6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6hjqyJWanz8/Si5V3_8v7NI/AAAAAAAAA_w/5Aoqho9KK9g/DSCN1268.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6hjqyJWanz8/Si5V3_8v7NI/AAAAAAAAA_w/5Aoqho9KK9g/s72/DSCN1268.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6hjqyJWanz8/Si5V3_8v7NI/AAAAAAAAA_w/5Aoqho9KK9g/s144/DSCN1268.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6hjqyJWanz8/Si5V3_8v7NI/AAAAAAAAA_w/5Aoqho9KK9g/s288/DSCN1268.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1268.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304238755042434</id>
+    <published>2009-06-09T12:30:26.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1272.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2d9BpE3kx-0/Si5V4m9iVII/AAAAAAAAA_0/6TzvWN8ZQxQ/DSCN1272.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304238755042434"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304238755042434"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CIniWDqAwon-SmveMpsO19MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304238755042434"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304238755042434"/>
+    <gphoto:id>5345304238755042434</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-14.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>278783</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e12c029</gphoto:checksum>
+    <gphoto:timestamp>1226585454000</gphoto:timestamp>
+    <gphoto:imageVersion>1021</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.004314064</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226585454000</exif:time>
+      <exif:imageUniqueID>1f88b6b213d9d3b5376d038e4f6cef79</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2d9BpE3kx-0/Si5V4m9iVII/AAAAAAAAA_0/6TzvWN8ZQxQ/DSCN1272.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2d9BpE3kx-0/Si5V4m9iVII/AAAAAAAAA_0/6TzvWN8ZQxQ/s72/DSCN1272.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2d9BpE3kx-0/Si5V4m9iVII/AAAAAAAAA_0/6TzvWN8ZQxQ/s144/DSCN1272.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2d9BpE3kx-0/Si5V4m9iVII/AAAAAAAAA_0/6TzvWN8ZQxQ/s288/DSCN1272.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1272.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304323783688098</id>
+    <published>2009-06-09T12:30:46.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1273.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5Z94iR8BWGM/Si5V9jt8f6I/AAAAAAAAA_4/DCmo7CQ99j8/DSCN1273.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304323783688098"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304323783688098"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IZOV4gpMSmFu0F1xAxSY09MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304323783688098"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304323783688098"/>
+    <gphoto:id>5345304323783688098</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-13.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>205561</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e12e029</gphoto:checksum>
+    <gphoto:timestamp>1226585628000</gphoto:timestamp>
+    <gphoto:imageVersion>1022</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.0033333334</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.6</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226585628000</exif:time>
+      <exif:imageUniqueID>6c46be94390c886ab6e918c780e73884</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5Z94iR8BWGM/Si5V9jt8f6I/AAAAAAAAA_4/DCmo7CQ99j8/DSCN1273.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5Z94iR8BWGM/Si5V9jt8f6I/AAAAAAAAA_4/DCmo7CQ99j8/s72/DSCN1273.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5Z94iR8BWGM/Si5V9jt8f6I/AAAAAAAAA_4/DCmo7CQ99j8/s144/DSCN1273.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5Z94iR8BWGM/Si5V9jt8f6I/AAAAAAAAA_4/DCmo7CQ99j8/s288/DSCN1273.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1273.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304377563885346</id>
+    <published>2009-06-09T12:30:58.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1275.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-P6Su-A3gx4Y/Si5WAsEJLyI/AAAAAAAAA_8/O0Gk3lmXUps/DSCN1275.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304377563885346"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304377563885346"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/b42D6c9AGFCHl62n1jh6aNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304377563885346"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304377563885346"/>
+    <gphoto:id>5345304377563885346</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-12.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>227026</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e130029</gphoto:checksum>
+    <gphoto:timestamp>1226585854000</gphoto:timestamp>
+    <gphoto:imageVersion>1023</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.011025358</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>26.3</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226585854000</exif:time>
+      <exif:imageUniqueID>c0e7901db185e8ca745e2ab4aacb88e8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P6Su-A3gx4Y/Si5WAsEJLyI/AAAAAAAAA_8/O0Gk3lmXUps/DSCN1275.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P6Su-A3gx4Y/Si5WAsEJLyI/AAAAAAAAA_8/O0Gk3lmXUps/s72/DSCN1275.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P6Su-A3gx4Y/Si5WAsEJLyI/AAAAAAAAA_8/O0Gk3lmXUps/s144/DSCN1275.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P6Su-A3gx4Y/Si5WAsEJLyI/AAAAAAAAA_8/O0Gk3lmXUps/s288/DSCN1275.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1275.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303476796499186</id>
+    <published>2009-06-09T12:27:29.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1278.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-h6Mu7zbzH14/Si5VMQcdpPI/AAAAAAAAA_A/Xsy4tXhFndw/DSCN1278.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303476796499186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303476796499186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/iapKo2578XKER-a7vlbR79MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303476796499186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303476796499186"/>
+    <gphoto:id>5345303476796499186</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-11.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>695310</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5f492029</gphoto:checksum>
+    <gphoto:timestamp>1226590043000</gphoto:timestamp>
+    <gphoto:imageVersion>1008</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.06451613</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.9</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1226590043000</exif:time>
+      <exif:imageUniqueID>4822da2a82cb770e2419e361997ec60b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-h6Mu7zbzH14/Si5VMQcdpPI/AAAAAAAAA_A/Xsy4tXhFndw/DSCN1278.JPG" height="512" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h6Mu7zbzH14/Si5VMQcdpPI/AAAAAAAAA_A/Xsy4tXhFndw/s72/DSCN1278.JPG" height="72" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h6Mu7zbzH14/Si5VMQcdpPI/AAAAAAAAA_A/Xsy4tXhFndw/s144/DSCN1278.JPG" height="144" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h6Mu7zbzH14/Si5VMQcdpPI/AAAAAAAAA_A/Xsy4tXhFndw/s288/DSCN1278.JPG" height="288" width="288"/>
+      <media:title type="plain">DSCN1278.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303491222891714</id>
+    <published>2009-06-09T12:27:32.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1283.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-R4v2F6A5u-c/Si5VNGL-7MI/AAAAAAAAA_E/Qjjr8-cHYtc/DSCN1283.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303491222891714"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303491222891714"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/alK5Nuf6UGnvrkYqZqS-uNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303491222891714"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303491222891714"/>
+    <gphoto:id>5345303491222891714</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-10.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>502382</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6d1d8029</gphoto:checksum>
+    <gphoto:timestamp>1226590324000</gphoto:timestamp>
+    <gphoto:imageVersion>1009</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.7</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.011025358</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>21.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226590324000</exif:time>
+      <exif:imageUniqueID>38df6a8a05b466a2f41622110f919f76</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-R4v2F6A5u-c/Si5VNGL-7MI/AAAAAAAAA_E/Qjjr8-cHYtc/DSCN1283.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R4v2F6A5u-c/Si5VNGL-7MI/AAAAAAAAA_E/Qjjr8-cHYtc/s72/DSCN1283.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R4v2F6A5u-c/Si5VNGL-7MI/AAAAAAAAA_E/Qjjr8-cHYtc/s144/DSCN1283.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R4v2F6A5u-c/Si5VNGL-7MI/AAAAAAAAA_E/Qjjr8-cHYtc/s288/DSCN1283.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1283.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303528310038530</id>
+    <published>2009-06-09T12:27:41.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1284.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--1_p8vlE2Qc/Si5VPQWP4AI/AAAAAAAAA_I/tyG331bqw5s/DSCN1284.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303528310038530"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303528310038530"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Z9_1aSf7arXE2BjmnK5bjdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303528310038530"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303528310038530"/>
+    <gphoto:id>5345303528310038530</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-9.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>477670</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226590330000</gphoto:timestamp>
+    <gphoto:imageVersion>1010</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.005497526</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>21.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226590330000</exif:time>
+      <exif:imageUniqueID>a2bbd16f564c1274e2999bf9799e92ce</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--1_p8vlE2Qc/Si5VPQWP4AI/AAAAAAAAA_I/tyG331bqw5s/DSCN1284.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1_p8vlE2Qc/Si5VPQWP4AI/AAAAAAAAA_I/tyG331bqw5s/s72/DSCN1284.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1_p8vlE2Qc/Si5VPQWP4AI/AAAAAAAAA_I/tyG331bqw5s/s144/DSCN1284.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1_p8vlE2Qc/Si5VPQWP4AI/AAAAAAAAA_I/tyG331bqw5s/s288/DSCN1284.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1284.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303633982697490</id>
+    <published>2009-06-09T12:28:05.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1287.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4Z9MIztSmq8/Si5VVaAksBI/AAAAAAAAA_M/tzKh6WcnKq4/DSCN1287.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303633982697490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303633982697490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AQu54s9ai6RCl1iH3DdL1NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303633982697490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303633982697490"/>
+    <gphoto:id>5345303633982697490</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-8.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>716227</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226590386000</gphoto:timestamp>
+    <gphoto:imageVersion>1011</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.006849315</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226590386000</exif:time>
+      <exif:imageUniqueID>2e2f1a16d2a88b026a8dafb863511b40</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4Z9MIztSmq8/Si5VVaAksBI/AAAAAAAAA_M/tzKh6WcnKq4/DSCN1287.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4Z9MIztSmq8/Si5VVaAksBI/AAAAAAAAA_M/tzKh6WcnKq4/s72/DSCN1287.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4Z9MIztSmq8/Si5VVaAksBI/AAAAAAAAA_M/tzKh6WcnKq4/s144/DSCN1287.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4Z9MIztSmq8/Si5VVaAksBI/AAAAAAAAA_M/tzKh6WcnKq4/s288/DSCN1287.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1287.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304507843471266</id>
+    <published>2009-06-09T12:31:29.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1288.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-SWn-wmeIJj0/Si5WIRZN56I/AAAAAAAABAA/7J6ZJq-UGT0/DSCN1288.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304507843471266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304507843471266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HQThKPVjQvyJU7E-ep6RFtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304507843471266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304507843471266"/>
+    <gphoto:id>5345304507843471266</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-7.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>533336</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e16e029</gphoto:checksum>
+    <gphoto:timestamp>1226590470000</gphoto:timestamp>
+    <gphoto:imageVersion>1024</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.0050403224</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226590470000</exif:time>
+      <exif:imageUniqueID>cdf8d5da724748e472fb9c33d7f11f18</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SWn-wmeIJj0/Si5WIRZN56I/AAAAAAAABAA/7J6ZJq-UGT0/DSCN1288.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SWn-wmeIJj0/Si5WIRZN56I/AAAAAAAABAA/7J6ZJq-UGT0/s72/DSCN1288.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SWn-wmeIJj0/Si5WIRZN56I/AAAAAAAABAA/7J6ZJq-UGT0/s144/DSCN1288.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SWn-wmeIJj0/Si5WIRZN56I/AAAAAAAABAA/7J6ZJq-UGT0/s288/DSCN1288.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1288.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303836904932082</id>
+    <published>2009-06-09T12:28:52.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1290.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yYuG8L343N0/Si5VhN9AQvI/AAAAAAAAA_U/i9Ygq1my3L0/DSCN1290.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303836904932082"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303836904932082"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ELu4DhZrcpKnkFqiILxtZtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303836904932082"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303836904932082"/>
+    <gphoto:id>5345303836904932082</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-6.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>563350</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226590506000</gphoto:timestamp>
+    <gphoto:imageVersion>1013</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.008598452</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.6</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226590506000</exif:time>
+      <exif:imageUniqueID>ad97c194a15377dff162c33922c304ec</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yYuG8L343N0/Si5VhN9AQvI/AAAAAAAAA_U/i9Ygq1my3L0/DSCN1290.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yYuG8L343N0/Si5VhN9AQvI/AAAAAAAAA_U/i9Ygq1my3L0/s72/DSCN1290.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yYuG8L343N0/Si5VhN9AQvI/AAAAAAAAA_U/i9Ygq1my3L0/s144/DSCN1290.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yYuG8L343N0/Si5VhN9AQvI/AAAAAAAAA_U/i9Ygq1my3L0/s288/DSCN1290.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1290.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304536117462946</id>
+    <published>2009-06-09T12:31:35.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1293.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IVkC5mMGVzE/Si5WJ6uQx6I/AAAAAAAABAE/C5Mqp4bacck/DSCN1293.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304536117462946"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304536117462946"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jkFwMm0oJsB5Epz3l4QCi9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304536117462946"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304536117462946"/>
+    <gphoto:id>5345304536117462946</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-5.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>344760</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e188029</gphoto:checksum>
+    <gphoto:timestamp>1226592453000</gphoto:timestamp>
+    <gphoto:imageVersion>1025</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.016129032</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>26.3</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226592453000</exif:time>
+      <exif:imageUniqueID>1d1b7721fcfcbd2a9e3681b5be73b3c4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IVkC5mMGVzE/Si5WJ6uQx6I/AAAAAAAABAE/C5Mqp4bacck/DSCN1293.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IVkC5mMGVzE/Si5WJ6uQx6I/AAAAAAAABAE/C5Mqp4bacck/s72/DSCN1293.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IVkC5mMGVzE/Si5WJ6uQx6I/AAAAAAAABAE/C5Mqp4bacck/s144/DSCN1293.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IVkC5mMGVzE/Si5WJ6uQx6I/AAAAAAAABAE/C5Mqp4bacck/s288/DSCN1293.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1293.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303884127284818</id>
+    <published>2009-06-09T12:29:03.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1295.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-edfmsUO6V98/Si5Vj93sLlI/AAAAAAAAA_Y/ccXFocdl75c/DSCN1295.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303884127284818"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303884127284818"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tmFxqZ-mFMmfhKUz7s5JKdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303884127284818"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303884127284818"/>
+    <gphoto:id>5345303884127284818</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-4.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>284677</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226592892000</gphoto:timestamp>
+    <gphoto:imageVersion>1014</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.0056465273</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.6</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226592892000</exif:time>
+      <exif:imageUniqueID>e878133e3d6e8dd7a6c7db7772090df7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-edfmsUO6V98/Si5Vj93sLlI/AAAAAAAAA_Y/ccXFocdl75c/DSCN1295.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edfmsUO6V98/Si5Vj93sLlI/AAAAAAAAA_Y/ccXFocdl75c/s72/DSCN1295.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edfmsUO6V98/Si5Vj93sLlI/AAAAAAAAA_Y/ccXFocdl75c/s144/DSCN1295.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edfmsUO6V98/Si5Vj93sLlI/AAAAAAAAA_Y/ccXFocdl75c/s288/DSCN1295.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1295.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303990465011954</id>
+    <published>2009-06-09T12:29:28.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1298.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-c0kA6xsCkSA/Si5VqKAlIPI/AAAAAAAAA_c/lGaybr6iAwg/DSCN1298.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303990465011954"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345303990465011954"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/l2YvSo_AcFmYhf1KcuU7-tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345303990465011954"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345303990465011954"/>
+    <gphoto:id>5345303990465011954</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-3.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>470518</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5f494029</gphoto:checksum>
+    <gphoto:timestamp>1226593426000</gphoto:timestamp>
+    <gphoto:imageVersion>1015</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.011560693</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>18.6</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226593426000</exif:time>
+      <exif:imageUniqueID>e99046019de9aa74b85f0a42aa0eefad</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-c0kA6xsCkSA/Si5VqKAlIPI/AAAAAAAAA_c/lGaybr6iAwg/DSCN1298.JPG" height="512" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c0kA6xsCkSA/Si5VqKAlIPI/AAAAAAAAA_c/lGaybr6iAwg/s72/DSCN1298.JPG" height="72" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c0kA6xsCkSA/Si5VqKAlIPI/AAAAAAAAA_c/lGaybr6iAwg/s144/DSCN1298.JPG" height="144" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c0kA6xsCkSA/Si5VqKAlIPI/AAAAAAAAA_c/lGaybr6iAwg/s288/DSCN1298.JPG" height="288" width="288"/>
+      <media:title type="plain">DSCN1298.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304057346022050</id>
+    <published>2009-06-09T12:29:44.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1299.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jLdBeZIfgtI/Si5VuDKQWqI/AAAAAAAAA_g/h6sYTehLkgQ/DSCN1299.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304057346022050"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304057346022050"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DQQH7kBlHDJ2pv98xnLTsdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304057346022050"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304057346022050"/>
+    <gphoto:id>5345304057346022050</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-2.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>227738</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6d1bc029</gphoto:checksum>
+    <gphoto:timestamp>1226593438000</gphoto:timestamp>
+    <gphoto:imageVersion>1016</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.010070493</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.5</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226593438000</exif:time>
+      <exif:imageUniqueID>8cd0f04d0bfa682b4fcad1a9bad42f10</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jLdBeZIfgtI/Si5VuDKQWqI/AAAAAAAAA_g/h6sYTehLkgQ/DSCN1299.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jLdBeZIfgtI/Si5VuDKQWqI/AAAAAAAAA_g/h6sYTehLkgQ/s72/DSCN1299.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jLdBeZIfgtI/Si5VuDKQWqI/AAAAAAAAA_g/h6sYTehLkgQ/s144/DSCN1299.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jLdBeZIfgtI/Si5VuDKQWqI/AAAAAAAAA_g/h6sYTehLkgQ/s288/DSCN1299.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1299.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304103934410226</id>
+    <published>2009-06-09T12:29:55.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1300.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZdoPnxsZJgw/Si5VwwtyvfI/AAAAAAAAA_k/OEajfLfJCCM/DSCN1300.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304103934410226"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304103934410226"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HWxfJVa5eDW0hnbA8YzIBtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304103934410226"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304103934410226"/>
+    <gphoto:id>5345304103934410226</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>-1.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>190988</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226594538000</gphoto:timestamp>
+    <gphoto:imageVersion>1017</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.016722407</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.9</exif:focallength>
+      <exif:iso>141</exif:iso>
+      <exif:time>1226594538000</exif:time>
+      <exif:imageUniqueID>78da5052abefb9204569db167f45c973</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZdoPnxsZJgw/Si5VwwtyvfI/AAAAAAAAA_k/OEajfLfJCCM/DSCN1300.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZdoPnxsZJgw/Si5VwwtyvfI/AAAAAAAAA_k/OEajfLfJCCM/s72/DSCN1300.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZdoPnxsZJgw/Si5VwwtyvfI/AAAAAAAAA_k/OEajfLfJCCM/s144/DSCN1300.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZdoPnxsZJgw/Si5VwwtyvfI/AAAAAAAAA_k/OEajfLfJCCM/s288/DSCN1300.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1300.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304110809263794</id>
+    <published>2009-06-09T12:29:56.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1302.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1SvNcCGcj6g/Si5VxKU4rrI/AAAAAAAAA_o/9FYg-GlDTSY/DSCN1302.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304110809263794"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304110809263794"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KYe-zZ7J9EBLTezbQTPBdNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304110809263794"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304110809263794"/>
+    <gphoto:id>5345304110809263794</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>0.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>40063</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6b0fc029</gphoto:checksum>
+    <gphoto:timestamp>1226594596000</gphoto:timestamp>
+    <gphoto:imageVersion>1018</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.004761905</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>26.3</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226594596000</exif:time>
+      <exif:imageUniqueID>2e4c79b99dcf3fa903ac6b265b0b5997</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1SvNcCGcj6g/Si5VxKU4rrI/AAAAAAAAA_o/9FYg-GlDTSY/DSCN1302.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1SvNcCGcj6g/Si5VxKU4rrI/AAAAAAAAA_o/9FYg-GlDTSY/s72/DSCN1302.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1SvNcCGcj6g/Si5VxKU4rrI/AAAAAAAAA_o/9FYg-GlDTSY/s144/DSCN1302.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1SvNcCGcj6g/Si5VxKU4rrI/AAAAAAAAA_o/9FYg-GlDTSY/s288/DSCN1302.JPG" height="288" width="193"/>
+      <media:title type="plain">DSCN1302.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304541313861762</id>
+    <published>2009-06-09T12:31:36.000Z</published>
+    <updated>2013-05-12T08:47:38.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1307.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jp5YW4QSYYY/Si5WKOFLiII/AAAAAAAABAI/hE6pNORlKRc/DSCN1307.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304541313861762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/112029969160970903653/2008#5345304541313861762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_YevwTYj_urNO5Ek7SQA69MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/112029969160970903653/albumid/5345303459242384449/photoid/5345304541313861762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=112029969160970903653&amp;aid=5345303459242384449&amp;iid=5345304541313861762"/>
+    <gphoto:id>5345304541313861762</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5345303459242384449</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>53387</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5e1a6029</gphoto:checksum>
+    <gphoto:timestamp>1226594739000</gphoto:timestamp>
+    <gphoto:imageVersion>1026</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.8</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX P5100</exif:model>
+      <exif:exposure>0.0028264555</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>26.3</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1226594739000</exif:time>
+      <exif:imageUniqueID>02f9fad1b529fb08a07ba31a1d8db0fb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jp5YW4QSYYY/Si5WKOFLiII/AAAAAAAABAI/hE6pNORlKRc/DSCN1307.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>jun nishimura</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jp5YW4QSYYY/Si5WKOFLiII/AAAAAAAABAI/hE6pNORlKRc/s72/DSCN1307.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jp5YW4QSYYY/Si5WKOFLiII/AAAAAAAABAI/hE6pNORlKRc/s144/DSCN1307.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jp5YW4QSYYY/Si5WKOFLiII/AAAAAAAABAI/hE6pNORlKRc/s288/DSCN1307.JPG" height="193" width="288"/>
+      <media:title type="plain">DSCN1307.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/Ryoden.Yuta</id>
+  <updated>2015-10-05T01:25:31.348Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">104603724248679343308</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-MmkLnp5X3m8/AAAAAAAAAAI/AAAAAAAAAAA/r2ZgTdQjfOg/s64-c/104603724248679343308.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/104603724248679343308?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>領田優太</name>
+    <uri>https://picasaweb.google.com/104603724248679343308</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>5</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>104603724248679343308</gphoto:user>
+  <gphoto:nickname>領田優太</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-MmkLnp5X3m8/AAAAAAAAAAI/AAAAAAAAAAA/r2ZgTdQjfOg/s64-c/104603724248679343308.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5450119018821810721</id>
+    <published>2010-02-16T01:19:22.000Z</published>
+    <updated>2013-05-11T05:56:42.721Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">南米 2010</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308/albumid/5450119018821810721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308/2010"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5450119018821810721"/>
+    <author>
+      <name>領田優太</name>
+      <uri>https://picasaweb.google.com/104603724248679343308</uri>
+    </author>
+    <gphoto:id>5450119018821810721</gphoto:id>
+    <gphoto:name>2010</gphoto:name>
+    <gphoto:location>ペルー</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1266283162000</gphoto:timestamp>
+    <gphoto:numphotos>379</gphoto:numphotos>
+    <gphoto:user>104603724248679343308</gphoto:user>
+    <gphoto:nickname>領田優太</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GkE1KW4yIsw/S6K2XyR5eiE/AAAAAAAAB18/MEXCP-r52Eg/2010.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>領田優太</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GkE1KW4yIsw/S6K2XyR5eiE/AAAAAAAAB18/MEXCP-r52Eg/s160-c/2010.jpg" height="160" width="160"/>
+      <media:title type="plain">南米 2010</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>-18.3947604 -81.3714629</gml:lowerCorner>
+        <gml:upperCorner>0.0148264 -68.658841</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>-9.189967 -75.015152</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5326720064104718465</id>
+    <published>2009-04-20T07:00:00.000Z</published>
+    <updated>2013-05-12T08:27:24.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2009春　インド</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308/albumid/5326720064104718465"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308/2009"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5326720064104718465"/>
+    <author>
+      <name>領田優太</name>
+      <uri>https://picasaweb.google.com/104603724248679343308</uri>
+    </author>
+    <gphoto:id>5326720064104718465</gphoto:id>
+    <gphoto:name>2009</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1240210800000</gphoto:timestamp>
+    <gphoto:numphotos>38</gphoto:numphotos>
+    <gphoto:user>104603724248679343308</gphoto:user>
+    <gphoto:nickname>領田優太</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-h9ugEx4VdJo/SexPrRboYIE/AAAAAAAABAU/oANjhtDlw54/2009.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>領田優太</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h9ugEx4VdJo/SexPrRboYIE/AAAAAAAABAU/oANjhtDlw54/s160-c/2009.jpg" height="160" width="160"/>
+      <media:title type="plain">2009春　インド</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5193134596456918065</id>
+    <published>2002-12-31T15:00:00.000Z</published>
+    <updated>2013-05-12T08:27:19.250Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2008春　オーストラリア</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308/albumid/5193134596456918065"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308/2008"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5193134596456918065"/>
+    <author>
+      <name>領田優太</name>
+      <uri>https://picasaweb.google.com/104603724248679343308</uri>
+    </author>
+    <gphoto:id>5193134596456918065</gphoto:id>
+    <gphoto:name>2008</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1041346800000</gphoto:timestamp>
+    <gphoto:numphotos>61</gphoto:numphotos>
+    <gphoto:user>104603724248679343308</gphoto:user>
+    <gphoto:nickname>領田優太</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jQ23MWL78ck/SBG4ZqybLDE/AAAAAAAAB9g/J2KbFt9XbU0/2008.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>領田優太</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jQ23MWL78ck/SBG4ZqybLDE/AAAAAAAAB9g/J2KbFt9XbU0/s160-c/2008.jpg" height="160" width="160"/>
+      <media:title type="plain">2008春　オーストラリア</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5251449665810431537</id>
+    <published>2002-12-31T15:00:00.000Z</published>
+    <updated>2013-05-12T08:27:22.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2008夏合宿 領田班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308/albumid/5251449665810431537"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308/200802"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5251449665810431537"/>
+    <author>
+      <name>領田優太</name>
+      <uri>https://picasaweb.google.com/104603724248679343308</uri>
+    </author>
+    <gphoto:id>5251449665810431537</gphoto:id>
+    <gphoto:name>200802</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1041346800000</gphoto:timestamp>
+    <gphoto:numphotos>121</gphoto:numphotos>
+    <gphoto:user>104603724248679343308</gphoto:user>
+    <gphoto:nickname>領田優太</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GvsyATWhCWY/SODlpc55fjE/AAAAAAAAB94/0B-RD9XPj3w/200802.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>領田優太</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GvsyATWhCWY/SODlpc55fjE/AAAAAAAAB94/0B-RD9XPj3w/s160-c/200802.jpg" height="160" width="160"/>
+      <media:title type="plain">2008夏合宿 領田班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5198368099612763441</id>
+    <published>2002-12-31T08:00:00.000Z</published>
+    <updated>2013-05-12T08:27:20.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2008GW東北</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104603724248679343308/albumid/5198368099612763441"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104603724248679343308/2008GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104603724248679343308/albumid/5198368099612763441"/>
+    <author>
+      <name>領田優太</name>
+      <uri>https://picasaweb.google.com/104603724248679343308</uri>
+    </author>
+    <gphoto:id>5198368099612763441</gphoto:id>
+    <gphoto:name>2008GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1041321600000</gphoto:timestamp>
+    <gphoto:numphotos>39</gphoto:numphotos>
+    <gphoto:user>104603724248679343308</gphoto:user>
+    <gphoto:nickname>領田優太</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qPwDiHBDluo/SCRQPpUkJTE/AAAAAAAAB9k/9k1P3iaZmjI/2008GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>領田優太</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qPwDiHBDluo/SCRQPpUkJTE/AAAAAAAAB9k/9k1P3iaZmjI/s160-c/2008GW.jpg" height="160" width="160"/>
+      <media:title type="plain">2008GW東北</media:title>
+    </media:group>
+  </entry>
+</feed>

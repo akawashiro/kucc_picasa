@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/102064307558220693421</id>
+  <updated>2015-09-05T07:25:36.868Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">102064307558220693421</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-l_6XWmCVhO0/AAAAAAAAAAI/AAAAAAAAAAA/ra3fLgINW9I/s64-c/102064307558220693421.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/102064307558220693421?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>riki sono</name>
+    <uri>https://picasaweb.google.com/102064307558220693421</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>13</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>102064307558220693421</gphoto:user>
+  <gphoto:nickname>riki sono</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-l_6XWmCVhO0/AAAAAAAAAAI/AAAAAAAAAAA/ra3fLgINW9I/s64-c/102064307558220693421.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/6012182632822765585</id>
+    <published>2014-05-11T14:59:12.000Z</published>
+    <updated>2014-05-13T16:52:27.252Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014/05/023-04 GW信州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/6012182632822765585"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/20140502304GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/6012182632822765585"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>6012182632822765585</gphoto:id>
+    <gphoto:name>20140502304GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1399820352000</gphoto:timestamp>
+    <gphoto:numphotos>97</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-D7GiRWNpna8/U2-QQCoseBE/AAAAAAAAHQs/12H4ug1WY1o/20140502304GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-D7GiRWNpna8/U2-QQCoseBE/AAAAAAAAHQs/12H4ug1WY1o/s160-c/20140502304GW.jpg" height="160" width="160"/>
+      <media:title type="plain">2014/05/023-04 GW信州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5994946706208061281</id>
+    <published>2014-03-26T04:15:00.000Z</published>
+    <updated>2014-03-26T04:15:00.295Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5994946706208061281"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5994946706208061281"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5994946706208061281</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395807300000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DSW9wmbtN-Y/UzJUREbt92E/AAAAAAAAG0M/dLGSe5pgTe8/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DSW9wmbtN-Y/UzJUREbt92E/AAAAAAAAG0M/dLGSe5pgTe8/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5951323895565657793</id>
+    <published>2013-11-28T14:56:13.000Z</published>
+    <updated>2013-11-28T16:06:28.954Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/11/20-22 NF北関東</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5951323895565657793"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2013112022NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5951323895565657793"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5951323895565657793</gphoto:id>
+    <gphoto:name>2013112022NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385650573000</gphoto:timestamp>
+    <gphoto:numphotos>71</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-frV-6PuZK7w/UpdZjTJ8JsE/AAAAAAAAGyo/ejSKZzVxmF0/2013112022NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-frV-6PuZK7w/UpdZjTJ8JsE/AAAAAAAAGyo/ejSKZzVxmF0/s160-c/2013112022NF.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/11/20-22 NF北関東</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5875575377549562545</id>
+    <published>2013-05-08T11:53:16.000Z</published>
+    <updated>2013-05-13T17:50:23.586Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/05/02-05 GW剣さん</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5875575377549562545"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2013050205GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5875575377549562545"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5875575377549562545</gphoto:id>
+    <gphoto:name>2013050205GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1368013996000</gphoto:timestamp>
+    <gphoto:numphotos>138</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wD4G6pKwkQI/UYo8rP3fkrE/AAAAAAAAGj4/InP2YkMDfwE/2013050205GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wD4G6pKwkQI/UYo8rP3fkrE/AAAAAAAAGj4/InP2YkMDfwE/s160-c/2013050205GW.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/05/02-05 GW剣さん</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5863210618059490145</id>
+    <published>2013-04-05T04:11:42.000Z</published>
+    <updated>2013-05-13T17:50:22.585Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/03/28-31 春合宿</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5863210618059490145"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2013032831"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5863210618059490145"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5863210618059490145</gphoto:id>
+    <gphoto:name>2013032831</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1365135102000</gphoto:timestamp>
+    <gphoto:numphotos>73</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cgIAYxovo68/UV5O_hS8A2E/AAAAAAAAHWA/OCiM45OCIQY/2013032831.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cgIAYxovo68/UV5O_hS8A2E/AAAAAAAAHWA/OCiM45OCIQY/s160-c/2013032831.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/03/28-31 春合宿</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5857030713670019153</id>
+    <published>2013-03-19T12:30:30.000Z</published>
+    <updated>2014-05-13T17:32:33.285Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/2/13-3/15 Australia</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5857030713670019153"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2013213315Australia"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5857030713670019153"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5857030713670019153</gphoto:id>
+    <gphoto:name>2013213315Australia</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1363696230000</gphoto:timestamp>
+    <gphoto:numphotos>380</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gpdUyQ_gEZw/UUhaZvbaqFE/AAAAAAAAHWE/KcARr_50Oz8/2013213315Australia.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gpdUyQ_gEZw/UUhaZvbaqFE/AAAAAAAAHWE/KcARr_50Oz8/s160-c/2013213315Australia.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/2/13-3/15 Australia</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5830626614683837425</id>
+    <published>2013-01-07T08:49:07.000Z</published>
+    <updated>2013-05-13T17:50:17.335Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013/01/04-06　富士山まで</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5830626614683837425"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2013010406"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5830626614683837425"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5830626614683837425</gphoto:id>
+    <gphoto:name>2013010406</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1357548547000</gphoto:timestamp>
+    <gphoto:numphotos>93</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ne3yQPeqyx8/UOqMA5orI_E/AAAAAAAAEAo/XKJHsBKFUNY/2013010406.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ne3yQPeqyx8/UOqMA5orI_E/AAAAAAAAEAo/XKJHsBKFUNY/s160-c/2013010406.jpg" height="160" width="160"/>
+      <media:title type="plain">2013/01/04-06　富士山まで</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5817737628319168689</id>
+    <published>2012-12-03T15:13:15.000Z</published>
+    <updated>2013-05-10T22:44:28.271Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012/12/1 追いコンT.T.</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5817737628319168689"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2012121TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5817737628319168689"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5817737628319168689</gphoto:id>
+    <gphoto:name>2012121TT</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1354547595000</gphoto:timestamp>
+    <gphoto:numphotos>112</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0HBxwcem09g/ULzBjJxjOLE/AAAAAAAAHaQ/T5xzOq0zorc/2012121TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0HBxwcem09g/ULzBjJxjOLE/AAAAAAAAHaQ/T5xzOq0zorc/s160-c/2012121TT.jpg" height="160" width="160"/>
+      <media:title type="plain">2012/12/1 追いコンT.T.</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5815439810345413009</id>
+    <published>2012-11-27T10:36:34.000Z</published>
+    <updated>2013-05-10T22:44:26.264Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012/11/17-27 NF韓国</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5815439810345413009"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2012111727NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5815439810345413009"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5815439810345413009</gphoto:id>
+    <gphoto:name>2012111727NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1354012594000</gphoto:timestamp>
+    <gphoto:numphotos>250</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BTUu240izBc/ULSXsixNqZE/AAAAAAAAF5c/LZhmNAkX5gM/2012111727NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BTUu240izBc/ULSXsixNqZE/AAAAAAAAF5c/LZhmNAkX5gM/s160-c/2012111727NF.jpg" height="160" width="160"/>
+      <media:title type="plain">2012/11/17-27 NF韓国</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5807353215408663505</id>
+    <published>2012-11-05T15:36:27.000Z</published>
+    <updated>2013-05-10T22:44:24.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">201/11/04 １１月クラブランコース説明＋α</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5807353215408663505"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/2011104"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5807353215408663505"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5807353215408663505</gphoto:id>
+    <gphoto:name>2011104</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1352129787000</gphoto:timestamp>
+    <gphoto:numphotos>82</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fIaNgM-fCBA/UJfc-xGn69E/AAAAAAAAHXE/6bvRt3cCwy4/2011104.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fIaNgM-fCBA/UJfc-xGn69E/AAAAAAAAHXE/6bvRt3cCwy4/s160-c/2011104.jpg" height="160" width="160"/>
+      <media:title type="plain">201/11/04 １１月クラブランコース説明＋α</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5805072297371007505</id>
+    <published>2012-10-30T12:05:19.000Z</published>
+    <updated>2013-05-10T22:44:22.264Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012/10/20 クラブラン＆サンマ会</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5805072297371007505"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/20121020"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5805072297371007505"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5805072297371007505</gphoto:id>
+    <gphoto:name>20121020</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1351598719000</gphoto:timestamp>
+    <gphoto:numphotos>74</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZrOeqai-G2E/UI_Cf3RCehE/AAAAAAAAHaA/xOtGasS_Teg/20121020.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZrOeqai-G2E/UI_Cf3RCehE/AAAAAAAAHaA/xOtGasS_Teg/s160-c/20121020.jpg" height="160" width="160"/>
+      <media:title type="plain">2012/10/20 クラブラン＆サンマ会</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5788417927804539713</id>
+    <published>2012-09-15T14:57:51.000Z</published>
+    <updated>2013-05-10T22:44:20.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012/08/15-09/11 Indiful Days</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5788417927804539713"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/201208150911IndifulDays"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5788417927804539713"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5788417927804539713</gphoto:id>
+    <gphoto:name>201208150911IndifulDays</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1347721071000</gphoto:timestamp>
+    <gphoto:numphotos>228</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PSM-A-nK7bg/UFSXb95K00E/AAAAAAAAHgQ/8pAt5x0wsIE/201208150911IndifulDays.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PSM-A-nK7bg/UFSXb95K00E/AAAAAAAAHgQ/8pAt5x0wsIE/s160-c/201208150911IndifulDays.jpg" height="160" width="160"/>
+      <media:title type="plain">2012/08/15-09/11 Indiful Days</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5766148519296122913</id>
+    <published>2012-07-17T14:41:10.000Z</published>
+    <updated>2013-05-10T22:44:18.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012/7/14-16御嶽山ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102064307558220693421/albumid/5766148519296122913"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102064307558220693421/201271416"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102064307558220693421/albumid/5766148519296122913"/>
+    <author>
+      <name>riki sono</name>
+      <uri>https://picasaweb.google.com/102064307558220693421</uri>
+    </author>
+    <gphoto:id>5766148519296122913</gphoto:id>
+    <gphoto:name>201271416</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1342536070000</gphoto:timestamp>
+    <gphoto:numphotos>73</gphoto:numphotos>
+    <gphoto:user>102064307558220693421</gphoto:user>
+    <gphoto:nickname>riki sono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-843MfG64wuI/UAV5hybKQCE/AAAAAAAAHZ8/bqkzXLph5Dg/201271416.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>riki sono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-843MfG64wuI/UAV5hybKQCE/AAAAAAAAHZ8/bqkzXLph5Dg/s160-c/201271416.jpg" height="160" width="160"/>
+      <media:title type="plain">2012/7/14-16御嶽山ツアー</media:title>
+    </media:group>
+  </entry>
+</feed>

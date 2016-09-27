@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/113281974474253504817</id>
+  <updated>2015-10-14T07:29:25.729Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">113281974474253504817</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-veO9WHAY1Ss/AAAAAAAAAAI/AAAAAAAAAAA/2x9NrdzJT1Y/s64-c/113281974474253504817.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/113281974474253504817?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>中川寛司</name>
+    <uri>https://picasaweb.google.com/113281974474253504817</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>113281974474253504817</gphoto:user>
+  <gphoto:nickname>中川寛司</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-veO9WHAY1Ss/AAAAAAAAAAI/AAAAAAAAAAA/2x9NrdzJT1Y/s64-c/113281974474253504817.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6162308466162164481</id>
+    <published>2015-06-20T04:24:06.000Z</published>
+    <updated>2015-06-20T05:06:16.272Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2015回生ツアー和歌山友ヶ島</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6162308466162164481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2015"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6162308466162164481"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6162308466162164481</gphoto:id>
+    <gphoto:name>2015</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1434774246000</gphoto:timestamp>
+    <gphoto:numphotos>102</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-T8TiZZTafbk/VYTq5pH6YwE/AAAAAAAAJ9Q/3XtXxScWoxw/2015.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-T8TiZZTafbk/VYTq5pH6YwE/AAAAAAAAJ9Q/3XtXxScWoxw/s160-c/2015.jpg" height="160" width="160"/>
+      <media:title type="plain">2015回生ツアー和歌山友ヶ島</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6136308628839730481</id>
+    <published>2015-04-11T02:51:27.000Z</published>
+    <updated>2015-04-11T04:54:37.554Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2015南米camera2（チリ・ボリビア・ペルー）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6136308628839730481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2015Camera2"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6136308628839730481"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6136308628839730481</gphoto:id>
+    <gphoto:name>2015Camera2</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1428720687000</gphoto:timestamp>
+    <gphoto:numphotos>504</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qpOo8JQrj-Y/VSiML7YoDTE/AAAAAAAAJaE/q9a4wZSBVjo/2015Camera2.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qpOo8JQrj-Y/VSiML7YoDTE/AAAAAAAAJaE/q9a4wZSBVjo/s160-c/2015Camera2.jpg" height="160" width="160"/>
+      <media:title type="plain">2015南米camera2（チリ・ボリビア・ペルー）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6134202819194514017</id>
+    <published>2015-04-05T10:39:50.000Z</published>
+    <updated>2015-04-05T12:12:33.914Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2015南米camera1（チリ・ボリビア・ペルー）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6134202819194514017"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2015Camera1"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6134202819194514017"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6134202819194514017</gphoto:id>
+    <gphoto:name>2015Camera1</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1428230390000</gphoto:timestamp>
+    <gphoto:numphotos>418</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SfHUtX3Llt4/VSEQ9rJJ6mE/AAAAAAAAJjs/MplZXMojfTg/2015Camera1.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SfHUtX3Llt4/VSEQ9rJJ6mE/AAAAAAAAJjs/MplZXMojfTg/s160-c/2015Camera1.jpg" height="160" width="160"/>
+      <media:title type="plain">2015南米camera1（チリ・ボリビア・ペルー）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6105315117458415073</id>
+    <published>2015-01-17T14:20:48.000Z</published>
+    <updated>2015-01-19T15:10:21.747Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014カンボジアラオス（チャリなし）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6105315117458415073"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/201402"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6105315117458415073"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6105315117458415073</gphoto:id>
+    <gphoto:name>201402</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1421504448000</gphoto:timestamp>
+    <gphoto:numphotos>322</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-M84IHpUOTyM/VLpvwIHuXeE/AAAAAAAAGNc/SvbkA4KMW54/201402.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-M84IHpUOTyM/VLpvwIHuXeE/AAAAAAAAGNc/SvbkA4KMW54/s160-c/201402.jpg" height="160" width="160"/>
+      <media:title type="plain">2014カンボジアラオス（チャリなし）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6091066769160984449</id>
+    <published>2014-12-10T04:49:56.000Z</published>
+    <updated>2014-12-10T06:59:47.642Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014NF北関東</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6091066769160984449"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2014NF02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6091066769160984449"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6091066769160984449</gphoto:id>
+    <gphoto:name>2014NF02</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1418186996000</gphoto:timestamp>
+    <gphoto:numphotos>226</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-uZb9-VCFb9o/VIfQ9GcG14E/AAAAAAAAFVY/9Ifr-WeQjlE/2014NF02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uZb9-VCFb9o/VIfQ9GcG14E/AAAAAAAAFVY/9Ifr-WeQjlE/s160-c/2014NF02.jpg" height="160" width="160"/>
+      <media:title type="plain">2014NF北関東</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6080988577478648465</id>
+    <published>2014-11-13T01:01:24.000Z</published>
+    <updated>2014-11-15T06:00:27.227Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014夏合宿九州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/6080988577478648465"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2014"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/6080988577478648465"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>6080988577478648465</gphoto:id>
+    <gphoto:name>2014</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1415840484000</gphoto:timestamp>
+    <gphoto:numphotos>493</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SnudCcnt2m8/VGQC5IvSopE/AAAAAAAAD9k/QV3sQSc4p6c/2014.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SnudCcnt2m8/VGQC5IvSopE/AAAAAAAAD9k/QV3sQSc4p6c/s160-c/2014.jpg" height="160" width="160"/>
+      <media:title type="plain">2014夏合宿九州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5995122611625303345</id>
+    <published>2014-03-26T15:37:35.000Z</published>
+    <updated>2014-03-26T15:37:35.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/5995122611625303345"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5995122611625303345"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>5995122611625303345</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395848255000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1acGefiqFwA/UzL0QHLWnTE/AAAAAAAAAp8/8ziuxyd6eKY/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1acGefiqFwA/UzL0QHLWnTE/AAAAAAAAAp8/8ziuxyd6eKY/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5986356408783516897</id>
+    <published>2014-03-03T00:40:15.000Z</published>
+    <updated>2014-03-04T06:41:54.277Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013夏合宿東北（一部）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/5986356408783516897"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2013"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5986356408783516897"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>5986356408783516897</gphoto:id>
+    <gphoto:name>2013</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1393807215000</gphoto:timestamp>
+    <gphoto:numphotos>68</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_BEhILwsYVE/UxPPb8xstOE/AAAAAAAAGN4/RpxFK9PKd2M/2013.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_BEhILwsYVE/UxPPb8xstOE/AAAAAAAAGN4/RpxFK9PKd2M/s160-c/2013.jpg" height="160" width="160"/>
+      <media:title type="plain">2013夏合宿東北（一部）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5951850712931258065</id>
+    <published>2013-11-30T01:00:32.000Z</published>
+    <updated>2013-12-14T14:22:29.609Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013NF伊豆+後日談</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/113281974474253504817/albumid/5951850712931258065"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/113281974474253504817/2013NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/113281974474253504817/albumid/5951850712931258065"/>
+    <author>
+      <name>中川寛司</name>
+      <uri>https://picasaweb.google.com/113281974474253504817</uri>
+    </author>
+    <gphoto:id>5951850712931258065</gphoto:id>
+    <gphoto:name>2013NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385773232000</gphoto:timestamp>
+    <gphoto:numphotos>83</gphoto:numphotos>
+    <gphoto:user>113281974474253504817</gphoto:user>
+    <gphoto:nickname>中川寛司</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0EB19jNce08/Upk4sGxsTtE/AAAAAAAAAVw/EAfvEbjmnS8/2013NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>中川寛司</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0EB19jNce08/Upk4sGxsTtE/AAAAAAAAAVw/EAfvEbjmnS8/s160-c/2013NF.jpg" height="160" width="160"/>
+      <media:title type="plain">2013NF伊豆+後日談</media:title>
+    </media:group>
+  </entry>
+</feed>

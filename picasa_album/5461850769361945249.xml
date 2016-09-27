@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249</id>
+  <updated>2014-11-04T12:33:27.987Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">0417 新歓サイクリング(伏見)</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-Mupch4PGSXo/S8xkViwDQqE/AAAAAAAAA-M/N4H5Hjxh77c/s160-c/0417.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>tatsuya dotare</name>
+    <uri>https://picasaweb.google.com/101519083610808502700</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>17</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5461850769361945249</gphoto:id>
+  <gphoto:name>0417</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1271470185000</gphoto:timestamp>
+  <gphoto:numphotos>17</gphoto:numphotos>
+  <gphoto:user>101519083610808502700</gphoto:user>
+  <gphoto:nickname>tatsuya dotare</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850782048072418</id>
+    <published>2010-04-19T14:10:33.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030394.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vGVmyLsmuRo/S8xkWSAqMuI/AAAAAAAAA9I/dZi4KbrmS-8/P1030394.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850782048072418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850782048072418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/xLxfLLvTIx1V54FlsyIZddMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850782048072418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850782048072418"/>
+    <gphoto:id>5461850782048072418</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>397403</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3529403b</gphoto:checksum>
+    <gphoto:timestamp>1271502602000</gphoto:timestamp>
+    <gphoto:imageVersion>978</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.001</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271502602000</exif:time>
+      <exif:imageUniqueID>83fd2b22f6293457f00dac7da9fba2df</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vGVmyLsmuRo/S8xkWSAqMuI/AAAAAAAAA9I/dZi4KbrmS-8/P1030394.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vGVmyLsmuRo/S8xkWSAqMuI/AAAAAAAAA9I/dZi4KbrmS-8/s72/P1030394.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vGVmyLsmuRo/S8xkWSAqMuI/AAAAAAAAA9I/dZi4KbrmS-8/s144/P1030394.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vGVmyLsmuRo/S8xkWSAqMuI/AAAAAAAAA9I/dZi4KbrmS-8/s288/P1030394.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030394.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850793989925762</id>
+    <published>2010-04-19T14:10:35.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030395.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BmMxpaZRUxU/S8xkW-f0a4I/AAAAAAAAA9Q/6tut_TiPVgU/P1030395.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850793989925762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850793989925762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uDRZGH4kQcVgfpNVPwS21tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850793989925762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850793989925762"/>
+    <gphoto:id>5461850793989925762</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>217608</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3600802b</gphoto:checksum>
+    <gphoto:timestamp>1271504325000</gphoto:timestamp>
+    <gphoto:imageVersion>980</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271504325000</exif:time>
+      <exif:imageUniqueID>d4fa1ee473c1067663f39ed4c9e6e914</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BmMxpaZRUxU/S8xkW-f0a4I/AAAAAAAAA9Q/6tut_TiPVgU/P1030395.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BmMxpaZRUxU/S8xkW-f0a4I/AAAAAAAAA9Q/6tut_TiPVgU/s72/P1030395.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BmMxpaZRUxU/S8xkW-f0a4I/AAAAAAAAA9Q/6tut_TiPVgU/s144/P1030395.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BmMxpaZRUxU/S8xkW-f0a4I/AAAAAAAAA9Q/6tut_TiPVgU/s288/P1030395.JPG" height="288" width="193"/>
+      <media:title type="plain">P1030395.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850801912315058</id>
+    <published>2010-04-19T14:10:37.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030397.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mtKiyfPYZfY/S8xkXcAqfLI/AAAAAAAAA9U/uYufrk-n4Oc/P1030397.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850801912315058"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850801912315058"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/W9OQzA-f68Sh5IpjWFJEbdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850801912315058"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850801912315058"/>
+    <gphoto:id>5461850801912315058</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>328134</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>370a003b</gphoto:checksum>
+    <gphoto:timestamp>1271506416000</gphoto:timestamp>
+    <gphoto:imageVersion>981</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271506416000</exif:time>
+      <exif:imageUniqueID>4aa4b7e3c75090cac0b053c69f1c2a91</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mtKiyfPYZfY/S8xkXcAqfLI/AAAAAAAAA9U/uYufrk-n4Oc/P1030397.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mtKiyfPYZfY/S8xkXcAqfLI/AAAAAAAAA9U/uYufrk-n4Oc/s72/P1030397.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mtKiyfPYZfY/S8xkXcAqfLI/AAAAAAAAA9U/uYufrk-n4Oc/s144/P1030397.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mtKiyfPYZfY/S8xkXcAqfLI/AAAAAAAAA9U/uYufrk-n4Oc/s288/P1030397.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030397.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850808774930498</id>
+    <published>2010-04-19T14:10:39.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030398.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-udF09yeDVW4/S8xkX1k1sEI/AAAAAAAAA9Y/4T0zQeOQRiM/P1030398.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850808774930498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850808774930498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bP7H4KeNwZ28KPCIaZdkltMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850808774930498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850808774930498"/>
+    <gphoto:id>5461850808774930498</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>126993</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>37a2402b</gphoto:checksum>
+    <gphoto:timestamp>1271507635000</gphoto:timestamp>
+    <gphoto:imageVersion>982</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271507635000</exif:time>
+      <exif:imageUniqueID>87b1d53799e7a294b8949e12d618431e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-udF09yeDVW4/S8xkX1k1sEI/AAAAAAAAA9Y/4T0zQeOQRiM/P1030398.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-udF09yeDVW4/S8xkX1k1sEI/AAAAAAAAA9Y/4T0zQeOQRiM/s72/P1030398.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-udF09yeDVW4/S8xkX1k1sEI/AAAAAAAAA9Y/4T0zQeOQRiM/s144/P1030398.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-udF09yeDVW4/S8xkX1k1sEI/AAAAAAAAA9Y/4T0zQeOQRiM/s288/P1030398.JPG" height="288" width="193"/>
+      <media:title type="plain">P1030398.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850818911200210</id>
+    <published>2010-04-19T14:10:41.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030400.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qou_TPYwoNc/S8xkYbVg49I/AAAAAAAAA9c/wJb98uOlESo/P1030400.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850818911200210"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850818911200210"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/lWO8hwL6R6DLCHz2kfLd2tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850818911200210"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850818911200210"/>
+    <gphoto:id>5461850818911200210</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>393848</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>37ee803b</gphoto:checksum>
+    <gphoto:timestamp>1271508181000</gphoto:timestamp>
+    <gphoto:imageVersion>983</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271508181000</exif:time>
+      <exif:imageUniqueID>47bd3384ba23789537b86f4475d8d373</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qou_TPYwoNc/S8xkYbVg49I/AAAAAAAAA9c/wJb98uOlESo/P1030400.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qou_TPYwoNc/S8xkYbVg49I/AAAAAAAAA9c/wJb98uOlESo/s72/P1030400.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qou_TPYwoNc/S8xkYbVg49I/AAAAAAAAA9c/wJb98uOlESo/s144/P1030400.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qou_TPYwoNc/S8xkYbVg49I/AAAAAAAAA9c/wJb98uOlESo/s288/P1030400.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030400.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850834415255090</id>
+    <published>2010-04-19T14:10:45.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030401.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hk5YtTwBdMc/S8xkZVF9_jI/AAAAAAAAA9g/OFqPIImKC10/P1030401.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850834415255090"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850834415255090"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Dr3vxIaeiQLIBMqNGqQg19MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850834415255090"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850834415255090"/>
+    <gphoto:id>5461850834415255090</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>500730</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>385b403b</gphoto:checksum>
+    <gphoto:timestamp>1271509115000</gphoto:timestamp>
+    <gphoto:imageVersion>984</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271509115000</exif:time>
+      <exif:imageUniqueID>768ab38053a0aac267f9485fc1d01291</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hk5YtTwBdMc/S8xkZVF9_jI/AAAAAAAAA9g/OFqPIImKC10/P1030401.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hk5YtTwBdMc/S8xkZVF9_jI/AAAAAAAAA9g/OFqPIImKC10/s72/P1030401.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hk5YtTwBdMc/S8xkZVF9_jI/AAAAAAAAA9g/OFqPIImKC10/s144/P1030401.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hk5YtTwBdMc/S8xkZVF9_jI/AAAAAAAAA9g/OFqPIImKC10/s288/P1030401.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030401.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850843578958994</id>
+    <published>2010-04-19T14:10:47.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030402.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zKhQUXpSzJg/S8xkZ3OxBJI/AAAAAAAAA9k/kKBjMR83iQc/P1030402.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850843578958994"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850843578958994"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/TkjPosIV1KzVYGVdKHiRh9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850843578958994"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850843578958994"/>
+    <gphoto:id>5461850843578958994</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>253978</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>38af403b</gphoto:checksum>
+    <gphoto:timestamp>1271509723000</gphoto:timestamp>
+    <gphoto:imageVersion>985</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271509723000</exif:time>
+      <exif:imageUniqueID>0c2be08a1d5c81dba6d829c4ab6bdbbb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zKhQUXpSzJg/S8xkZ3OxBJI/AAAAAAAAA9k/kKBjMR83iQc/P1030402.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zKhQUXpSzJg/S8xkZ3OxBJI/AAAAAAAAA9k/kKBjMR83iQc/s72/P1030402.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zKhQUXpSzJg/S8xkZ3OxBJI/AAAAAAAAA9k/kKBjMR83iQc/s144/P1030402.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zKhQUXpSzJg/S8xkZ3OxBJI/AAAAAAAAA9k/kKBjMR83iQc/s288/P1030402.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030402.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850848450118210</id>
+    <published>2010-04-19T14:10:48.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030404.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PJ75RcmwPV0/S8xkaJYJAkI/AAAAAAAAA9o/ab7o6aHuvRY/P1030404.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850848450118210"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850848450118210"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/d0PEKEPMk6VaQgMP2RY16tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850848450118210"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850848450118210"/>
+    <gphoto:id>5461850848450118210</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>343928</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3bcf803b</gphoto:checksum>
+    <gphoto:timestamp>1271516124000</gphoto:timestamp>
+    <gphoto:imageVersion>986</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.001</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271516124000</exif:time>
+      <exif:imageUniqueID>4fdfef1bc61ea4010aebb656eda251c4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PJ75RcmwPV0/S8xkaJYJAkI/AAAAAAAAA9o/ab7o6aHuvRY/P1030404.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PJ75RcmwPV0/S8xkaJYJAkI/AAAAAAAAA9o/ab7o6aHuvRY/s72/P1030404.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PJ75RcmwPV0/S8xkaJYJAkI/AAAAAAAAA9o/ab7o6aHuvRY/s144/P1030404.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PJ75RcmwPV0/S8xkaJYJAkI/AAAAAAAAA9o/ab7o6aHuvRY/s288/P1030404.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030404.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850853852982018</id>
+    <published>2010-04-19T14:10:49.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030405.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-CQtOgSwiJYs/S8xkadgSKwI/AAAAAAAAA9s/dHsZSLf0qwY/P1030405.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850853852982018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850853852982018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/azU8-kVYsrZT290rfd2gZNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850853852982018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850853852982018"/>
+    <gphoto:id>5461850853852982018</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1067</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>203085</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3c0ac02b</gphoto:checksum>
+    <gphoto:timestamp>1271516663000</gphoto:timestamp>
+    <gphoto:imageVersion>987</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271516663000</exif:time>
+      <exif:imageUniqueID>338abd11caab4ad8d139e1c1fb157324</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CQtOgSwiJYs/S8xkadgSKwI/AAAAAAAAA9s/dHsZSLf0qwY/P1030405.JPG" height="512" width="342" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQtOgSwiJYs/S8xkadgSKwI/AAAAAAAAA9s/dHsZSLf0qwY/s72/P1030405.JPG" height="72" width="49"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQtOgSwiJYs/S8xkadgSKwI/AAAAAAAAA9s/dHsZSLf0qwY/s144/P1030405.JPG" height="144" width="97"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQtOgSwiJYs/S8xkadgSKwI/AAAAAAAAA9s/dHsZSLf0qwY/s288/P1030405.JPG" height="288" width="193"/>
+      <media:title type="plain">P1030405.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850869542680706</id>
+    <published>2010-04-19T14:10:53.000Z</published>
+    <updated>2014-11-04T12:33:27.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030406.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xPF--ryfqL8/S8xkbX8_-II/AAAAAAAAA9w/XHSZwp00XLo/P1030406.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850869542680706"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850869542680706"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/O5xugxZyhpDkSyn8FRRtCdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850869542680706"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850869542680706"/>
+    <gphoto:id>5461850869542680706</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>330267</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3c09803b</gphoto:checksum>
+    <gphoto:timestamp>1271516684000</gphoto:timestamp>
+    <gphoto:imageVersion>988</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271516684000</exif:time>
+      <exif:imageUniqueID>4391c4498b3344d3ef955f0cdcfe2720</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xPF--ryfqL8/S8xkbX8_-II/AAAAAAAAA9w/XHSZwp00XLo/P1030406.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPF--ryfqL8/S8xkbX8_-II/AAAAAAAAA9w/XHSZwp00XLo/s72/P1030406.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPF--ryfqL8/S8xkbX8_-II/AAAAAAAAA9w/XHSZwp00XLo/s144/P1030406.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPF--ryfqL8/S8xkbX8_-II/AAAAAAAAA9w/XHSZwp00XLo/s288/P1030406.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030406.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850871728502962</id>
+    <published>2010-04-19T14:10:54.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030408.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7N_dGHojAv8/S8xkbgGI-LI/AAAAAAAAA90/OWr-cDEqjpw/P1030408.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850871728502962"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850871728502962"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JpWN_KpyzSeduAFuicWPntMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850871728502962"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850871728502962"/>
+    <gphoto:id>5461850871728502962</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>282294</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3d47403b</gphoto:checksum>
+    <gphoto:timestamp>1271519130000</gphoto:timestamp>
+    <gphoto:imageVersion>989</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>39.2</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271519130000</exif:time>
+      <exif:imageUniqueID>7d643ee1d21dcfe084f8271abc8f5d0a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7N_dGHojAv8/S8xkbgGI-LI/AAAAAAAAA90/OWr-cDEqjpw/P1030408.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7N_dGHojAv8/S8xkbgGI-LI/AAAAAAAAA90/OWr-cDEqjpw/s72/P1030408.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7N_dGHojAv8/S8xkbgGI-LI/AAAAAAAAA90/OWr-cDEqjpw/s144/P1030408.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7N_dGHojAv8/S8xkbgGI-LI/AAAAAAAAA90/OWr-cDEqjpw/s288/P1030408.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030408.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850879065260930</id>
+    <published>2010-04-19T14:10:55.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030409.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-fjlEP-BXuGQ/S8xkb7bXA4I/AAAAAAAAA94/cYb0x3Fbawo/P1030409.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850879065260930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850879065260930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Wc7K9zHp0qI9oZs1bvwCwdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850879065260930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850879065260930"/>
+    <gphoto:id>5461850879065260930</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>256412</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3d57003b</gphoto:checksum>
+    <gphoto:timestamp>1271519256000</gphoto:timestamp>
+    <gphoto:imageVersion>990</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271519256000</exif:time>
+      <exif:imageUniqueID>60a7706bda9d8e61c65cfffccebe13af</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fjlEP-BXuGQ/S8xkb7bXA4I/AAAAAAAAA94/cYb0x3Fbawo/P1030409.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fjlEP-BXuGQ/S8xkb7bXA4I/AAAAAAAAA94/cYb0x3Fbawo/s72/P1030409.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fjlEP-BXuGQ/S8xkb7bXA4I/AAAAAAAAA94/cYb0x3Fbawo/s144/P1030409.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fjlEP-BXuGQ/S8xkb7bXA4I/AAAAAAAAA94/cYb0x3Fbawo/s288/P1030409.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030409.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850881896759010</id>
+    <published>2010-04-19T14:10:56.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030412.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6bFex0HoJEY/S8xkcF-cPuI/AAAAAAAAA98/Xbe0WVAbtQw/P1030412.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850881896759010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850881896759010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QCPjW-LeChtpQCsdVmC3y9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850881896759010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850881896759010"/>
+    <gphoto:id>5461850881896759010</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>199663</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>48eb2f86</gphoto:checksum>
+    <gphoto:timestamp>1271519854000</gphoto:timestamp>
+    <gphoto:imageVersion>991</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.1</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1271519854000</exif:time>
+      <exif:imageUniqueID>59a3f29d2f9a40b92cdda3aab14c2bbe</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6bFex0HoJEY/S8xkcF-cPuI/AAAAAAAAA98/Xbe0WVAbtQw/P1030412.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6bFex0HoJEY/S8xkcF-cPuI/AAAAAAAAA98/Xbe0WVAbtQw/s72/P1030412.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6bFex0HoJEY/S8xkcF-cPuI/AAAAAAAAA98/Xbe0WVAbtQw/s144/P1030412.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6bFex0HoJEY/S8xkcF-cPuI/AAAAAAAAA98/Xbe0WVAbtQw/s288/P1030412.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030412.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850892522213698</id>
+    <published>2010-04-19T14:10:58.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030413.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gKVrIEPtz1s/S8xkctjv0UI/AAAAAAAAA-A/ZKheEFVbxaY/P1030413.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850892522213698"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850892522213698"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sBvvzuaZSPS6wqzPaWPLY9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850892522213698"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850892522213698"/>
+    <gphoto:id>5461850892522213698</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>250802</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>4b7def86</gphoto:checksum>
+    <gphoto:timestamp>1271520761000</gphoto:timestamp>
+    <gphoto:imageVersion>992</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271520761000</exif:time>
+      <exif:imageUniqueID>379a31a6d020e6c9449d4944bdeafbd4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gKVrIEPtz1s/S8xkctjv0UI/AAAAAAAAA-A/ZKheEFVbxaY/P1030413.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKVrIEPtz1s/S8xkctjv0UI/AAAAAAAAA-A/ZKheEFVbxaY/s72/P1030413.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKVrIEPtz1s/S8xkctjv0UI/AAAAAAAAA-A/ZKheEFVbxaY/s144/P1030413.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKVrIEPtz1s/S8xkctjv0UI/AAAAAAAAA-A/ZKheEFVbxaY/s288/P1030413.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030413.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850901981149042</id>
+    <published>2010-04-19T14:11:01.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030414.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yknjQ1CCc0M/S8xkdQy7t3I/AAAAAAAAA-E/fjyI-0R7vDU/P1030414.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850901981149042"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850901981149042"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Rp5aLZ91UkilDSqkUfN89dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850901981149042"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850901981149042"/>
+    <gphoto:id>5461850901981149042</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>158741</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7b8ac2ca</gphoto:checksum>
+    <gphoto:timestamp>1271520788000</gphoto:timestamp>
+    <gphoto:imageVersion>993</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271520788000</exif:time>
+      <exif:imageUniqueID>137b33a269ccdde63614adfb9a5525bd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yknjQ1CCc0M/S8xkdQy7t3I/AAAAAAAAA-E/fjyI-0R7vDU/P1030414.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yknjQ1CCc0M/S8xkdQy7t3I/AAAAAAAAA-E/fjyI-0R7vDU/s72/P1030414.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yknjQ1CCc0M/S8xkdQy7t3I/AAAAAAAAA-E/fjyI-0R7vDU/s144/P1030414.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yknjQ1CCc0M/S8xkdQy7t3I/AAAAAAAAA-E/fjyI-0R7vDU/s288/P1030414.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030414.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850906293737234</id>
+    <published>2010-04-19T14:11:02.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030415.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-juNRQ4seoNg/S8xkdg3IlxI/AAAAAAAAA-I/LCAmmx8LRic/P1030415.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850906293737234"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850906293737234"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QbBTevP-iLULypHAagnB49MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850906293737234"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850906293737234"/>
+    <gphoto:id>5461850906293737234</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>421155</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>aa52a7b1</gphoto:checksum>
+    <gphoto:timestamp>1271521132000</gphoto:timestamp>
+    <gphoto:imageVersion>994</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>10.0</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.5</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271521132000</exif:time>
+      <exif:imageUniqueID>29becd6d566bdfc5a912a9b053333161</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-juNRQ4seoNg/S8xkdg3IlxI/AAAAAAAAA-I/LCAmmx8LRic/P1030415.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-juNRQ4seoNg/S8xkdg3IlxI/AAAAAAAAA-I/LCAmmx8LRic/s72/P1030415.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-juNRQ4seoNg/S8xkdg3IlxI/AAAAAAAAA-I/LCAmmx8LRic/s144/P1030415.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-juNRQ4seoNg/S8xkdg3IlxI/AAAAAAAAA-I/LCAmmx8LRic/s288/P1030415.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030415.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850910579239154</id>
+    <published>2010-04-19T14:11:03.000Z</published>
+    <updated>2013-05-11T00:49:33.310Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1030416.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-dp72-E_wkVw/S8xkdw04KPI/AAAAAAAAA-M/Gh3lOcJfm0g/P1030416.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850910579239154"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101519083610808502700/0417#5461850910579239154"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EzajTG2ZBwGBvPY6FLnEXdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101519083610808502700/albumid/5461850769361945249/photoid/5461850910579239154"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101519083610808502700&amp;aid=5461850769361945249&amp;iid=5461850910579239154"/>
+    <gphoto:id>5461850910579239154</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5461850769361945249</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1067</gphoto:height>
+    <gphoto:size>370713</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>3506af86</gphoto:checksum>
+    <gphoto:timestamp>1271525698000</gphoto:timestamp>
+    <gphoto:imageVersion>995</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-TZ5</exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>47.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1271525698000</exif:time>
+      <exif:imageUniqueID>270939f2bc49df99f91004b2f055a501</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dp72-E_wkVw/S8xkdw04KPI/AAAAAAAAA-M/Gh3lOcJfm0g/P1030416.JPG" height="342" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>tatsuya dotare</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dp72-E_wkVw/S8xkdw04KPI/AAAAAAAAA-M/Gh3lOcJfm0g/s72/P1030416.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dp72-E_wkVw/S8xkdw04KPI/AAAAAAAAA-M/Gh3lOcJfm0g/s144/P1030416.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dp72-E_wkVw/S8xkdw04KPI/AAAAAAAAA-M/Gh3lOcJfm0g/s288/P1030416.JPG" height="193" width="288"/>
+      <media:title type="plain">P1030416.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

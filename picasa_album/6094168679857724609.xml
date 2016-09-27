@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609</id>
+  <updated>2015-07-13T15:03:22.640Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">12月クラブラン</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-lzuskhEvw1c/VJLWIEQ7HME/AAAAAAAAQaU/46dfaSivNvs/s160-c/12.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>新保友啓</name>
+    <uri>https://picasaweb.google.com/101161434094110516230</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>36</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6094168679857724609</gphoto:id>
+  <gphoto:name>12</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1418909216000</gphoto:timestamp>
+  <gphoto:numphotos>36</gphoto:numphotos>
+  <gphoto:user>101161434094110516230</gphoto:user>
+  <gphoto:nickname>新保友啓</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168685733314946</id>
+    <published>2014-12-18T13:26:57.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1751.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-43i3T24nCXo/VJLWIaJxgYI/AAAAAAAAQaU/VkJTW03QfsM/IMG_1751.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168685733314946"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168685733314946"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qdKHQaT1rpO0SSZdiafUnNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168685733314946"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168685733314946"/>
+    <gphoto:id>6094168685733314946</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>696718</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418434208000</gphoto:timestamp>
+    <gphoto:imageVersion>16805</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168685733314946</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418466608000</exif:time>
+      <exif:imageUniqueID>c3f91ff17db7a78e0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-43i3T24nCXo/VJLWIaJxgYI/AAAAAAAAQaU/VkJTW03QfsM/IMG_1751.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-43i3T24nCXo/VJLWIaJxgYI/AAAAAAAAQaU/VkJTW03QfsM/s72/IMG_1751.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-43i3T24nCXo/VJLWIaJxgYI/AAAAAAAAQaU/VkJTW03QfsM/s144/IMG_1751.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-43i3T24nCXo/VJLWIaJxgYI/AAAAAAAAQaU/VkJTW03QfsM/s288/IMG_1751.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1751.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683923064306</id>
+    <published>2014-12-18T13:26:57.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1752.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-W-R1nMui3cQ/VJLWITaLRfI/AAAAAAAALvg/I2o2cXQXdcM/IMG_1752.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683923064306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168683923064306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sf2W2QP6aaHMYoWODnwigdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683923064306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168683923064306"/>
+    <gphoto:id>6094168683923064306</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>37.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>730798</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418434217000</gphoto:timestamp>
+    <gphoto:imageVersion>12024</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168683923064306</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418466617000</exif:time>
+      <exif:imageUniqueID>f8a32ddf549e417a0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-W-R1nMui3cQ/VJLWITaLRfI/AAAAAAAALvg/I2o2cXQXdcM/IMG_1752.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W-R1nMui3cQ/VJLWITaLRfI/AAAAAAAALvg/I2o2cXQXdcM/s72/IMG_1752.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W-R1nMui3cQ/VJLWITaLRfI/AAAAAAAALvg/I2o2cXQXdcM/s144/IMG_1752.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W-R1nMui3cQ/VJLWITaLRfI/AAAAAAAALvg/I2o2cXQXdcM/s288/IMG_1752.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1752.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683763960882</id>
+    <published>2014-12-18T13:26:57.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1753.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-F7szrDyizWI/VJLWIS0PjDI/AAAAAAAALvc/x7gqeQK0bgQ/IMG_1753.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683763960882"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168683763960882"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rPrHucEAQfGfN-3T--ooutMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168683763960882"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168683763960882"/>
+    <gphoto:id>6094168683763960882</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>38.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>454554</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418434247000</gphoto:timestamp>
+    <gphoto:imageVersion>12023</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168683763960882</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>27.165</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418466647000</exif:time>
+      <exif:imageUniqueID>899e799a767cc3e90000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-F7szrDyizWI/VJLWIS0PjDI/AAAAAAAALvc/x7gqeQK0bgQ/IMG_1753.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-F7szrDyizWI/VJLWIS0PjDI/AAAAAAAALvc/x7gqeQK0bgQ/s72/IMG_1753.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-F7szrDyizWI/VJLWIS0PjDI/AAAAAAAALvc/x7gqeQK0bgQ/s144/IMG_1753.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-F7szrDyizWI/VJLWIS0PjDI/AAAAAAAALvc/x7gqeQK0bgQ/s288/IMG_1753.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1753.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168711391636002</id>
+    <published>2014-12-18T13:27:03.000Z</published>
+    <updated>2015-04-18T10:36:21.729Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1754.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hVIJ4SoyDYo/VJLWJ5vMaiI/AAAAAAAALv0/RaxqIOiL81U/IMG_1754.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168711391636002"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168711391636002"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/zcdTADoTf6q3LmAO54yXPNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168711391636002"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168711391636002"/>
+    <gphoto:id>6094168711391636002</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>39.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>772318</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418434262000</gphoto:timestamp>
+    <gphoto:imageVersion>12029</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168711391636002</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418466662000</exif:time>
+      <exif:imageUniqueID>85f5efc9b922f0090000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hVIJ4SoyDYo/VJLWJ5vMaiI/AAAAAAAALv0/RaxqIOiL81U/IMG_1754.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hVIJ4SoyDYo/VJLWJ5vMaiI/AAAAAAAALv0/RaxqIOiL81U/s72/IMG_1754.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hVIJ4SoyDYo/VJLWJ5vMaiI/AAAAAAAALv0/RaxqIOiL81U/s144/IMG_1754.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hVIJ4SoyDYo/VJLWJ5vMaiI/AAAAAAAALv0/RaxqIOiL81U/s288/IMG_1754.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1754.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168714611221554</id>
+    <published>2014-12-18T13:27:04.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1755.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FlEQqUvp230/VJLWKFuzZDI/AAAAAAAALv4/hTAJQxHC9Ao/IMG_1755.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168714611221554"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168714611221554"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_cFHCII4TvxvzJ4Dv7gaytMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168714611221554"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168714611221554"/>
+    <gphoto:id>6094168714611221554</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>40.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>951668</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418434277000</gphoto:timestamp>
+    <gphoto:imageVersion>12030</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168714611221554</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418466677000</exif:time>
+      <exif:imageUniqueID>328e89152ba40ced0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FlEQqUvp230/VJLWKFuzZDI/AAAAAAAALv4/hTAJQxHC9Ao/IMG_1755.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlEQqUvp230/VJLWKFuzZDI/AAAAAAAALv4/hTAJQxHC9Ao/s72/IMG_1755.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlEQqUvp230/VJLWKFuzZDI/AAAAAAAALv4/hTAJQxHC9Ao/s144/IMG_1755.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlEQqUvp230/VJLWKFuzZDI/AAAAAAAALv4/hTAJQxHC9Ao/s288/IMG_1755.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1755.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168724346457762</id>
+    <published>2014-12-18T13:27:06.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1756.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-wPfMA3LMOcQ/VJLWKp_3TqI/AAAAAAAALwA/UyQIIkTjK20/IMG_1756.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168724346457762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168724346457762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/XFWPSIadSa7PHH6pXOZAUdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168724346457762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168724346457762"/>
+    <gphoto:id>6094168724346457762</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>41.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>742380</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418435839000</gphoto:timestamp>
+    <gphoto:imageVersion>12032</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168724346457762</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418468239000</exif:time>
+      <exif:imageUniqueID>3351cdb87f0d58a90000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wPfMA3LMOcQ/VJLWKp_3TqI/AAAAAAAALwA/UyQIIkTjK20/IMG_1756.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wPfMA3LMOcQ/VJLWKp_3TqI/AAAAAAAALwA/UyQIIkTjK20/s72/IMG_1756.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wPfMA3LMOcQ/VJLWKp_3TqI/AAAAAAAALwA/UyQIIkTjK20/s144/IMG_1756.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wPfMA3LMOcQ/VJLWKp_3TqI/AAAAAAAALwA/UyQIIkTjK20/s288/IMG_1756.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1756.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168738366428802</id>
+    <published>2014-12-18T13:27:09.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1757.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZzbAMPRL0Og/VJLWLeOfFoI/AAAAAAAALwI/rCF0MLkDgso/IMG_1757.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168738366428802"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168738366428802"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/H_4neSsifs5lsWrdGv6B9tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168738366428802"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168738366428802"/>
+    <gphoto:id>6094168738366428802</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>42.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>864198</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418435847000</gphoto:timestamp>
+    <gphoto:imageVersion>12034</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168738366428802</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418468247000</exif:time>
+      <exif:imageUniqueID>08deaef8c542e5100000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZzbAMPRL0Og/VJLWLeOfFoI/AAAAAAAALwI/rCF0MLkDgso/IMG_1757.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZzbAMPRL0Og/VJLWLeOfFoI/AAAAAAAALwI/rCF0MLkDgso/s72/IMG_1757.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZzbAMPRL0Og/VJLWLeOfFoI/AAAAAAAALwI/rCF0MLkDgso/s144/IMG_1757.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZzbAMPRL0Og/VJLWLeOfFoI/AAAAAAAALwI/rCF0MLkDgso/s288/IMG_1757.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1757.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168746487527650</id>
+    <published>2014-12-18T13:27:11.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1758.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XenPx-u9vpY/VJLWL8etOOI/AAAAAAAALwQ/EAMRcLsupGQ/IMG_1758.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168746487527650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168746487527650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CbMFLERRjdQsmwvaeXqqtdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168746487527650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168746487527650"/>
+    <gphoto:id>6094168746487527650</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>43.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>639529</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418435948000</gphoto:timestamp>
+    <gphoto:imageVersion>12036</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168746487527650</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418468348000</exif:time>
+      <exif:imageUniqueID>bda6e10cade033ec0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XenPx-u9vpY/VJLWL8etOOI/AAAAAAAALwQ/EAMRcLsupGQ/IMG_1758.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XenPx-u9vpY/VJLWL8etOOI/AAAAAAAALwQ/EAMRcLsupGQ/s72/IMG_1758.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XenPx-u9vpY/VJLWL8etOOI/AAAAAAAALwQ/EAMRcLsupGQ/s144/IMG_1758.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XenPx-u9vpY/VJLWL8etOOI/AAAAAAAALwQ/EAMRcLsupGQ/s288/IMG_1758.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1758.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168749384014498</id>
+    <published>2014-12-18T13:27:12.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1759.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AEgdMC09Grc/VJLWMHRSGqI/AAAAAAAALwY/XoWS4pWLQh8/IMG_1759.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168749384014498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168749384014498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jDyR-8k9hmkUTFQd6HKV1NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168749384014498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168749384014498"/>
+    <gphoto:id>6094168749384014498</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>44.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>791246</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418435974000</gphoto:timestamp>
+    <gphoto:imageVersion>12038</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168749384014498</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.23</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418468374000</exif:time>
+      <exif:imageUniqueID>754f21106031ad9a0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AEgdMC09Grc/VJLWMHRSGqI/AAAAAAAALwY/XoWS4pWLQh8/IMG_1759.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AEgdMC09Grc/VJLWMHRSGqI/AAAAAAAALwY/XoWS4pWLQh8/s72/IMG_1759.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AEgdMC09Grc/VJLWMHRSGqI/AAAAAAAALwY/XoWS4pWLQh8/s144/IMG_1759.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AEgdMC09Grc/VJLWMHRSGqI/AAAAAAAALwY/XoWS4pWLQh8/s288/IMG_1759.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1759.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168761117179922</id>
+    <published>2014-12-18T13:27:15.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1760.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pEuQUhH-rWw/VJLWMy-sABI/AAAAAAAALwg/RrLW6nAYR7I/IMG_1760.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168761117179922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168761117179922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/lv5rE4qBXIDvaLlWmuyB89MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168761117179922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168761117179922"/>
+    <gphoto:id>6094168761117179922</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>45.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>802169</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418435987000</gphoto:timestamp>
+    <gphoto:imageVersion>12040</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168761117179922</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.001</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.23</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418468387000</exif:time>
+      <exif:imageUniqueID>f2ef5ff2ba7ea6bc0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pEuQUhH-rWw/VJLWMy-sABI/AAAAAAAALwg/RrLW6nAYR7I/IMG_1760.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pEuQUhH-rWw/VJLWMy-sABI/AAAAAAAALwg/RrLW6nAYR7I/s72/IMG_1760.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pEuQUhH-rWw/VJLWMy-sABI/AAAAAAAALwg/RrLW6nAYR7I/s144/IMG_1760.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pEuQUhH-rWw/VJLWMy-sABI/AAAAAAAALwg/RrLW6nAYR7I/s288/IMG_1760.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1760.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168771099578850</id>
+    <published>2014-12-18T13:27:17.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1761.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gsuZDqegFQw/VJLWNYKrUeI/AAAAAAAALwo/i7BeQwcWzCk/IMG_1761.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168771099578850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168771099578850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QO_OTcTDN4yRHyCRsrAUf9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168771099578850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168771099578850"/>
+    <gphoto:id>6094168771099578850</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>46.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>951365</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418437349000</gphoto:timestamp>
+    <gphoto:imageVersion>12042</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168771099578850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>500</exif:iso>
+      <exif:time>1418469749000</exif:time>
+      <exif:imageUniqueID>8be5c85d451c040c0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gsuZDqegFQw/VJLWNYKrUeI/AAAAAAAALwo/i7BeQwcWzCk/IMG_1761.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gsuZDqegFQw/VJLWNYKrUeI/AAAAAAAALwo/i7BeQwcWzCk/s72/IMG_1761.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gsuZDqegFQw/VJLWNYKrUeI/AAAAAAAALwo/i7BeQwcWzCk/s144/IMG_1761.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gsuZDqegFQw/VJLWNYKrUeI/AAAAAAAALwo/i7BeQwcWzCk/s288/IMG_1761.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1761.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168773833662690</id>
+    <published>2014-12-18T13:27:18.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1762.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WAD3GEJSGHc/VJLWNiWiIOI/AAAAAAAALww/79rwQW6RKi4/IMG_1762.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168773833662690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168773833662690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/g_42xi5MF_Bj7sem8QMmCdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168773833662690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168773833662690"/>
+    <gphoto:id>6094168773833662690</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>47.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>885176</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418437369000</gphoto:timestamp>
+    <gphoto:imageVersion>12044</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168773833662690</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1418469769000</exif:time>
+      <exif:imageUniqueID>4f6f5cbc436498410000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WAD3GEJSGHc/VJLWNiWiIOI/AAAAAAAALww/79rwQW6RKi4/IMG_1762.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WAD3GEJSGHc/VJLWNiWiIOI/AAAAAAAALww/79rwQW6RKi4/s72/IMG_1762.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WAD3GEJSGHc/VJLWNiWiIOI/AAAAAAAALww/79rwQW6RKi4/s144/IMG_1762.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WAD3GEJSGHc/VJLWNiWiIOI/AAAAAAAALww/79rwQW6RKi4/s288/IMG_1762.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1762.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168789331638626</id>
+    <published>2014-12-18T13:27:21.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1763.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nmgSXIqamno/VJLWOcFieWI/AAAAAAAALw4/TNIordbAhxg/IMG_1763.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168789331638626"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168789331638626"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/d2rfSYdwHWCLi1QiO_AUeNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168789331638626"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168789331638626"/>
+    <gphoto:id>6094168789331638626</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>48.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>739809</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418438584000</gphoto:timestamp>
+    <gphoto:imageVersion>12046</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168789331638626</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418470984000</exif:time>
+      <exif:imageUniqueID>bbcc96ade5cf08800000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nmgSXIqamno/VJLWOcFieWI/AAAAAAAALw4/TNIordbAhxg/IMG_1763.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nmgSXIqamno/VJLWOcFieWI/AAAAAAAALw4/TNIordbAhxg/s72/IMG_1763.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nmgSXIqamno/VJLWOcFieWI/AAAAAAAALw4/TNIordbAhxg/s144/IMG_1763.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nmgSXIqamno/VJLWOcFieWI/AAAAAAAALw4/TNIordbAhxg/s288/IMG_1763.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1763.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168798545272978</id>
+    <published>2014-12-18T13:27:23.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1764.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PQHrDjKXAmI/VJLWO-aPYJI/AAAAAAAALxA/02gZ7CI5L8E/IMG_1764.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168798545272978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168798545272978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/k6wmR32x-fM_6wM7dh3ci9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168798545272978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168798545272978"/>
+    <gphoto:id>6094168798545272978</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>49.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>574111</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418440338000</gphoto:timestamp>
+    <gphoto:imageVersion>12048</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168798545272978</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.766</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418472738000</exif:time>
+      <exif:imageUniqueID>d7c0fccab800f1860000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PQHrDjKXAmI/VJLWO-aPYJI/AAAAAAAALxA/02gZ7CI5L8E/IMG_1764.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQHrDjKXAmI/VJLWO-aPYJI/AAAAAAAALxA/02gZ7CI5L8E/s72/IMG_1764.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQHrDjKXAmI/VJLWO-aPYJI/AAAAAAAALxA/02gZ7CI5L8E/s144/IMG_1764.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQHrDjKXAmI/VJLWO-aPYJI/AAAAAAAALxA/02gZ7CI5L8E/s288/IMG_1764.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1764.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168805611146098</id>
+    <published>2014-12-18T13:27:25.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1765.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FiXm32163-Q/VJLWPYu4C3I/AAAAAAAALxI/d3BTW8-Hy7Y/IMG_1765.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168805611146098"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168805611146098"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QO6lkfRThjc617LMnqt8jNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168805611146098"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168805611146098"/>
+    <gphoto:id>6094168805611146098</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>50.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>882414</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418440348000</gphoto:timestamp>
+    <gphoto:imageVersion>12050</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168805611146098</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.766</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418472748000</exif:time>
+      <exif:imageUniqueID>648b8de71aa202360000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FiXm32163-Q/VJLWPYu4C3I/AAAAAAAALxI/d3BTW8-Hy7Y/IMG_1765.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FiXm32163-Q/VJLWPYu4C3I/AAAAAAAALxI/d3BTW8-Hy7Y/s72/IMG_1765.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FiXm32163-Q/VJLWPYu4C3I/AAAAAAAALxI/d3BTW8-Hy7Y/s144/IMG_1765.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FiXm32163-Q/VJLWPYu4C3I/AAAAAAAALxI/d3BTW8-Hy7Y/s288/IMG_1765.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1765.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168807731973682</id>
+    <published>2014-12-18T13:27:26.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1766.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-VjdV1qZ19N8/VJLWPgohTjI/AAAAAAAALxQ/CHBptbZLups/IMG_1766.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168807731973682"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168807731973682"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/86ScP00r8LV_M8VK2xjR2tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168807731973682"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168807731973682"/>
+    <gphoto:id>6094168807731973682</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>51.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>693731</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418440798000</gphoto:timestamp>
+    <gphoto:imageVersion>12052</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168807731973682</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.626</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1418473198000</exif:time>
+      <exif:imageUniqueID>754bb6e6360824b80000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VjdV1qZ19N8/VJLWPgohTjI/AAAAAAAALxQ/CHBptbZLups/IMG_1766.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VjdV1qZ19N8/VJLWPgohTjI/AAAAAAAALxQ/CHBptbZLups/s72/IMG_1766.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VjdV1qZ19N8/VJLWPgohTjI/AAAAAAAALxQ/CHBptbZLups/s144/IMG_1766.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VjdV1qZ19N8/VJLWPgohTjI/AAAAAAAALxQ/CHBptbZLups/s288/IMG_1766.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1766.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168824319388562</id>
+    <published>2014-12-18T13:27:29.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1767.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DCTyMHXq5vE/VJLWQebRK5I/AAAAAAAALxU/3BAASnURnC8/IMG_1767.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168824319388562"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168824319388562"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/el4_86Bfx8RnjkF7E882QNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168824319388562"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168824319388562"/>
+    <gphoto:id>6094168824319388562</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>52.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>957052</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418441092000</gphoto:timestamp>
+    <gphoto:imageVersion>12053</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168824319388562</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.216</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418473492000</exif:time>
+      <exif:imageUniqueID>5adf76f155ce6af80000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DCTyMHXq5vE/VJLWQebRK5I/AAAAAAAALxU/3BAASnURnC8/IMG_1767.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DCTyMHXq5vE/VJLWQebRK5I/AAAAAAAALxU/3BAASnURnC8/s72/IMG_1767.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DCTyMHXq5vE/VJLWQebRK5I/AAAAAAAALxU/3BAASnURnC8/s144/IMG_1767.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DCTyMHXq5vE/VJLWQebRK5I/AAAAAAAALxU/3BAASnURnC8/s288/IMG_1767.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1767.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168830890643842</id>
+    <published>2014-12-18T13:27:35.000Z</published>
+    <updated>2015-03-07T03:56:19.328Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1768.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-EgI25BBgzkg/VJLWQ25-kYI/AAAAAAAALx0/XPnOpLRUoQ8/IMG_1768.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168830890643842"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168830890643842"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/NjW0_P-raDd88Vh8fsmdG9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168830890643842"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168830890643842"/>
+    <gphoto:id>6094168830890643842</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>53.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>843367</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418441172000</gphoto:timestamp>
+    <gphoto:imageVersion>12061</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168830890643842</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1418473572000</exif:time>
+      <exif:imageUniqueID>8bbcc188d1da73370000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-EgI25BBgzkg/VJLWQ25-kYI/AAAAAAAALx0/XPnOpLRUoQ8/IMG_1768.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EgI25BBgzkg/VJLWQ25-kYI/AAAAAAAALx0/XPnOpLRUoQ8/s72/IMG_1768.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EgI25BBgzkg/VJLWQ25-kYI/AAAAAAAALx0/XPnOpLRUoQ8/s144/IMG_1768.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EgI25BBgzkg/VJLWQ25-kYI/AAAAAAAALx0/XPnOpLRUoQ8/s288/IMG_1768.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1768.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168842541145650</id>
+    <published>2014-12-18T13:27:34.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1769.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1pFLpC35Kt4/VJLWRiTrHjI/AAAAAAAALxk/bjc93yrOjII/IMG_1769.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168842541145650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168842541145650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QqnpsgupF_bPeSVSJce6itMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168842541145650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168842541145650"/>
+    <gphoto:id>6094168842541145650</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>54.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>964323</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418441538000</gphoto:timestamp>
+    <gphoto:imageVersion>12057</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168842541145650</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.001</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418473938000</exif:time>
+      <exif:imageUniqueID>b99353d8f4d621310000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1pFLpC35Kt4/VJLWRiTrHjI/AAAAAAAALxk/bjc93yrOjII/IMG_1769.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1pFLpC35Kt4/VJLWRiTrHjI/AAAAAAAALxk/bjc93yrOjII/s72/IMG_1769.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1pFLpC35Kt4/VJLWRiTrHjI/AAAAAAAALxk/bjc93yrOjII/s144/IMG_1769.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1pFLpC35Kt4/VJLWRiTrHjI/AAAAAAAALxk/bjc93yrOjII/s288/IMG_1769.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1769.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168847047567922</id>
+    <published>2014-12-18T13:27:35.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1770.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-cYB9NZw0QQ8/VJLWRzGFqjI/AAAAAAAALyM/bp93B2_wMeo/IMG_1770.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168847047567922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168847047567922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ru32OTkbCRysRh3RD4HEStMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168847047567922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168847047567922"/>
+    <gphoto:id>6094168847047567922</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>55.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>775419</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418441626000</gphoto:timestamp>
+    <gphoto:imageVersion>12067</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168847047567922</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418474026000</exif:time>
+      <exif:imageUniqueID>75477b85db31ba020000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cYB9NZw0QQ8/VJLWRzGFqjI/AAAAAAAALyM/bp93B2_wMeo/IMG_1770.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cYB9NZw0QQ8/VJLWRzGFqjI/AAAAAAAALyM/bp93B2_wMeo/s72/IMG_1770.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cYB9NZw0QQ8/VJLWRzGFqjI/AAAAAAAALyM/bp93B2_wMeo/s144/IMG_1770.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cYB9NZw0QQ8/VJLWRzGFqjI/AAAAAAAALyM/bp93B2_wMeo/s288/IMG_1770.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1770.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168864124830290</id>
+    <published>2014-12-18T13:27:39.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1771.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-p4Kb1jq087U/VJLWSytoAlI/AAAAAAAALx4/yghWGKnAtkA/IMG_1771.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168864124830290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168864124830290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/y9UNrym2BABjWPdgCseQD9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168864124830290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168864124830290"/>
+    <gphoto:id>6094168864124830290</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>56.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>398318</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443031000</gphoto:timestamp>
+    <gphoto:imageVersion>12062</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168864124830290</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418475431000</exif:time>
+      <exif:imageUniqueID>cdf6dc0ff225fad10000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-p4Kb1jq087U/VJLWSytoAlI/AAAAAAAALx4/yghWGKnAtkA/IMG_1771.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p4Kb1jq087U/VJLWSytoAlI/AAAAAAAALx4/yghWGKnAtkA/s72/IMG_1771.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p4Kb1jq087U/VJLWSytoAlI/AAAAAAAALx4/yghWGKnAtkA/s144/IMG_1771.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p4Kb1jq087U/VJLWSytoAlI/AAAAAAAALx4/yghWGKnAtkA/s288/IMG_1771.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1771.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168871169172578</id>
+    <published>2014-12-18T13:27:41.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1772.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YALo04FenJY/VJLWTM9IJGI/AAAAAAAALyE/rX5EA5LZ2cw/IMG_1772.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168871169172578"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168871169172578"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MgI6wk92qcTSDJHQvEJ_6NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168871169172578"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168871169172578"/>
+    <gphoto:id>6094168871169172578</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>57.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>458717</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443163000</gphoto:timestamp>
+    <gphoto:imageVersion>12065</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168871169172578</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418475563000</exif:time>
+      <exif:imageUniqueID>9fb242175cd644ec0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YALo04FenJY/VJLWTM9IJGI/AAAAAAAALyE/rX5EA5LZ2cw/IMG_1772.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YALo04FenJY/VJLWTM9IJGI/AAAAAAAALyE/rX5EA5LZ2cw/s72/IMG_1772.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YALo04FenJY/VJLWTM9IJGI/AAAAAAAALyE/rX5EA5LZ2cw/s144/IMG_1772.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YALo04FenJY/VJLWTM9IJGI/AAAAAAAALyE/rX5EA5LZ2cw/s288/IMG_1772.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1772.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168872547145442</id>
+    <published>2014-12-18T13:27:41.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1773.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FmOHk7wqDPQ/VJLWTSFqVuI/AAAAAAAALx8/ow6YRX1hA18/IMG_1773.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168872547145442"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168872547145442"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/15L1U3a2ce7AG-nMUtaIg9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168872547145442"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168872547145442"/>
+    <gphoto:id>6094168872547145442</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>58.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>449081</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443351000</gphoto:timestamp>
+    <gphoto:imageVersion>12063</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168872547145442</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>23.972</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1418475751000</exif:time>
+      <exif:imageUniqueID>5f973120937c1c600000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FmOHk7wqDPQ/VJLWTSFqVuI/AAAAAAAALx8/ow6YRX1hA18/IMG_1773.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FmOHk7wqDPQ/VJLWTSFqVuI/AAAAAAAALx8/ow6YRX1hA18/s72/IMG_1773.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FmOHk7wqDPQ/VJLWTSFqVuI/AAAAAAAALx8/ow6YRX1hA18/s144/IMG_1773.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FmOHk7wqDPQ/VJLWTSFqVuI/AAAAAAAALx8/ow6YRX1hA18/s288/IMG_1773.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1773.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168890510401762</id>
+    <published>2014-12-18T13:27:45.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1774.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gy3uBgsx9oY/VJLWUVAb4OI/AAAAAAAALyo/dDhANeGGfUM/IMG_1774.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168890510401762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168890510401762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ie4azVc7_PjOjScJGpDA6dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168890510401762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168890510401762"/>
+    <gphoto:id>6094168890510401762</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>59.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>543561</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443526000</gphoto:timestamp>
+    <gphoto:imageVersion>12074</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168890510401762</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1418475926000</exif:time>
+      <exif:imageUniqueID>abd0be7ed2e8660b0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gy3uBgsx9oY/VJLWUVAb4OI/AAAAAAAALyo/dDhANeGGfUM/IMG_1774.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gy3uBgsx9oY/VJLWUVAb4OI/AAAAAAAALyo/dDhANeGGfUM/s72/IMG_1774.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gy3uBgsx9oY/VJLWUVAb4OI/AAAAAAAALyo/dDhANeGGfUM/s144/IMG_1774.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gy3uBgsx9oY/VJLWUVAb4OI/AAAAAAAALyo/dDhANeGGfUM/s288/IMG_1774.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1774.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168900677271842</id>
+    <published>2014-12-18T13:27:47.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1775.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--abUeLYvyZ0/VJLWU64aASI/AAAAAAAALyU/FcjBki6C_bE/IMG_1775.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168900677271842"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168900677271842"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qYBqud9wbnmMOq-vxBZpMNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168900677271842"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168900677271842"/>
+    <gphoto:id>6094168900677271842</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>60.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>415156</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443534000</gphoto:timestamp>
+    <gphoto:imageVersion>12069</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168900677271842</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418475934000</exif:time>
+      <exif:imageUniqueID>1cc6627bdc85b3c40000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--abUeLYvyZ0/VJLWU64aASI/AAAAAAAALyU/FcjBki6C_bE/IMG_1775.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--abUeLYvyZ0/VJLWU64aASI/AAAAAAAALyU/FcjBki6C_bE/s72/IMG_1775.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--abUeLYvyZ0/VJLWU64aASI/AAAAAAAALyU/FcjBki6C_bE/s144/IMG_1775.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--abUeLYvyZ0/VJLWU64aASI/AAAAAAAALyU/FcjBki6C_bE/s288/IMG_1775.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1775.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168902306946754</id>
+    <published>2014-12-18T13:27:48.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1776.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-dzuI1VKocKM/VJLWVA883sI/AAAAAAAALyg/VhXkjzjPN8o/IMG_1776.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168902306946754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168902306946754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/OZuv-yxBLOY4I0NW-IO6E9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168902306946754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168902306946754"/>
+    <gphoto:id>6094168902306946754</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>61.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>966301</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443544000</gphoto:timestamp>
+    <gphoto:imageVersion>12072</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168902306946754</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1418475944000</exif:time>
+      <exif:imageUniqueID>71a055666eea57ba0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dzuI1VKocKM/VJLWVA883sI/AAAAAAAALyg/VhXkjzjPN8o/IMG_1776.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dzuI1VKocKM/VJLWVA883sI/AAAAAAAALyg/VhXkjzjPN8o/s72/IMG_1776.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dzuI1VKocKM/VJLWVA883sI/AAAAAAAALyg/VhXkjzjPN8o/s144/IMG_1776.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dzuI1VKocKM/VJLWVA883sI/AAAAAAAALyg/VhXkjzjPN8o/s288/IMG_1776.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1776.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168917319708674</id>
+    <published>2014-12-18T13:27:51.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1777.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-OBv4B_hLZVA/VJLWV44RcAI/AAAAAAAALyk/UBCnIZTj_3k/IMG_1777.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168917319708674"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168917319708674"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LyrABRYfn4j5A7WopmMw6NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168917319708674"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168917319708674"/>
+    <gphoto:id>6094168917319708674</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>62.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>934456</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418443716000</gphoto:timestamp>
+    <gphoto:imageVersion>12073</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168917319708674</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.55</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418476116000</exif:time>
+      <exif:imageUniqueID>e793acddba91a9ac0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OBv4B_hLZVA/VJLWV44RcAI/AAAAAAAALyk/UBCnIZTj_3k/IMG_1777.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OBv4B_hLZVA/VJLWV44RcAI/AAAAAAAALyk/UBCnIZTj_3k/s72/IMG_1777.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OBv4B_hLZVA/VJLWV44RcAI/AAAAAAAALyk/UBCnIZTj_3k/s144/IMG_1777.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OBv4B_hLZVA/VJLWV44RcAI/AAAAAAAALyk/UBCnIZTj_3k/s288/IMG_1777.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1777.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168921519147730</id>
+    <published>2014-12-18T13:27:52.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1778.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7RSa85ehj6I/VJLWWIhfytI/AAAAAAAALyw/My3aXqu74iY/IMG_1778.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168921519147730"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168921519147730"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/BLCftR6yqaQy590VMJVNgdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168921519147730"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168921519147730"/>
+    <gphoto:id>6094168921519147730</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>63.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>607248</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418444119000</gphoto:timestamp>
+    <gphoto:imageVersion>12076</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168921519147730</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1418476519000</exif:time>
+      <exif:imageUniqueID>230d8361d8d678e00000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7RSa85ehj6I/VJLWWIhfytI/AAAAAAAALyw/My3aXqu74iY/IMG_1778.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7RSa85ehj6I/VJLWWIhfytI/AAAAAAAALyw/My3aXqu74iY/s72/IMG_1778.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7RSa85ehj6I/VJLWWIhfytI/AAAAAAAALyw/My3aXqu74iY/s144/IMG_1778.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7RSa85ehj6I/VJLWWIhfytI/AAAAAAAALyw/My3aXqu74iY/s288/IMG_1778.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1778.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168938893659202</id>
+    <published>2014-12-18T13:27:56.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1779.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-GRuyjqZdoso/VJLWXJP5zEI/AAAAAAAALy4/vKVLuy6wAMk/IMG_1779.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168938893659202"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168938893659202"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/E0XOEtvdVpKFICicVQydKtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168938893659202"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168938893659202"/>
+    <gphoto:id>6094168938893659202</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>64.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>886171</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418444129000</gphoto:timestamp>
+    <gphoto:imageVersion>12078</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168938893659202</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1418476529000</exif:time>
+      <exif:imageUniqueID>8f7c505cace8db660000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GRuyjqZdoso/VJLWXJP5zEI/AAAAAAAALy4/vKVLuy6wAMk/IMG_1779.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GRuyjqZdoso/VJLWXJP5zEI/AAAAAAAALy4/vKVLuy6wAMk/s72/IMG_1779.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GRuyjqZdoso/VJLWXJP5zEI/AAAAAAAALy4/vKVLuy6wAMk/s144/IMG_1779.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GRuyjqZdoso/VJLWXJP5zEI/AAAAAAAALy4/vKVLuy6wAMk/s288/IMG_1779.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1779.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168941269812242</id>
+    <published>2014-12-18T13:27:57.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1780.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-KTqCshCymxk/VJLWXSGbBBI/AAAAAAAALzA/T7T97pzAq4U/IMG_1780.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168941269812242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168941269812242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ZtVuXySxs_MbJarYpUkLsdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168941269812242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168941269812242"/>
+    <gphoto:id>6094168941269812242</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>65.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>353164</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418444709000</gphoto:timestamp>
+    <gphoto:imageVersion>12080</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168941269812242</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.456</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418477109000</exif:time>
+      <exif:imageUniqueID>85f8284c5a6077670000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KTqCshCymxk/VJLWXSGbBBI/AAAAAAAALzA/T7T97pzAq4U/IMG_1780.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KTqCshCymxk/VJLWXSGbBBI/AAAAAAAALzA/T7T97pzAq4U/s72/IMG_1780.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KTqCshCymxk/VJLWXSGbBBI/AAAAAAAALzA/T7T97pzAq4U/s144/IMG_1780.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KTqCshCymxk/VJLWXSGbBBI/AAAAAAAALzA/T7T97pzAq4U/s288/IMG_1780.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1780.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168952737652850</id>
+    <published>2014-12-18T13:27:59.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1781.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-A-JDhuQG7gU/VJLWX80kYHI/AAAAAAAALzQ/qSwoxT3Sp2c/IMG_1781.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168952737652850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168952737652850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JoMXS5QIZaHc7JmHKKIqENMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168952737652850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168952737652850"/>
+    <gphoto:id>6094168952737652850</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>66.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>695120</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418444993000</gphoto:timestamp>
+    <gphoto:imageVersion>12084</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168952737652850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1418477393000</exif:time>
+      <exif:imageUniqueID>05c746620aab6b080000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-A-JDhuQG7gU/VJLWX80kYHI/AAAAAAAALzQ/qSwoxT3Sp2c/IMG_1781.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A-JDhuQG7gU/VJLWX80kYHI/AAAAAAAALzQ/qSwoxT3Sp2c/s72/IMG_1781.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A-JDhuQG7gU/VJLWX80kYHI/AAAAAAAALzQ/qSwoxT3Sp2c/s144/IMG_1781.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A-JDhuQG7gU/VJLWX80kYHI/AAAAAAAALzQ/qSwoxT3Sp2c/s288/IMG_1781.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1781.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168958683270594</id>
+    <published>2014-12-18T13:28:01.000Z</published>
+    <updated>2015-01-06T23:13:42.211Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1782.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lfyaeQhd0J4/VJLWYS-HTcI/AAAAAAAALzM/L6NZB3GEW7s/IMG_1782.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168958683270594"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168958683270594"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/nXMxuUBYAXO2edarxo4istMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168958683270594"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168958683270594"/>
+    <gphoto:id>6094168958683270594</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>67.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>757528</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418445001000</gphoto:timestamp>
+    <gphoto:imageVersion>12083</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168958683270594</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1418477401000</exif:time>
+      <exif:imageUniqueID>0dde41d2b64d51d50000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lfyaeQhd0J4/VJLWYS-HTcI/AAAAAAAALzM/L6NZB3GEW7s/IMG_1782.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lfyaeQhd0J4/VJLWYS-HTcI/AAAAAAAALzM/L6NZB3GEW7s/s72/IMG_1782.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lfyaeQhd0J4/VJLWYS-HTcI/AAAAAAAALzM/L6NZB3GEW7s/s144/IMG_1782.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lfyaeQhd0J4/VJLWYS-HTcI/AAAAAAAALzM/L6NZB3GEW7s/s288/IMG_1782.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1782.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168968101362354</id>
+    <published>2014-12-18T13:28:03.000Z</published>
+    <updated>2014-12-18T13:28:59.089Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1783.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PGQNej09hYA/VJLWY2Dj-rI/AAAAAAAALzY/nKT40mi1TwA/IMG_1783.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168968101362354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168968101362354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/UWjHNoiRL2sAe93pWPvvWtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168968101362354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168968101362354"/>
+    <gphoto:id>6094168968101362354</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>68.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>857067</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418445041000</gphoto:timestamp>
+    <gphoto:imageVersion>12086</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168968101362354</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>24.933</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418477441000</exif:time>
+      <exif:imageUniqueID>53040609b7d9e6630000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PGQNej09hYA/VJLWY2Dj-rI/AAAAAAAALzY/nKT40mi1TwA/IMG_1783.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PGQNej09hYA/VJLWY2Dj-rI/AAAAAAAALzY/nKT40mi1TwA/s72/IMG_1783.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PGQNej09hYA/VJLWY2Dj-rI/AAAAAAAALzY/nKT40mi1TwA/s144/IMG_1783.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PGQNej09hYA/VJLWY2Dj-rI/AAAAAAAALzY/nKT40mi1TwA/s288/IMG_1783.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1783.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168982370365266</id>
+    <published>2014-12-18T13:28:06.000Z</published>
+    <updated>2014-12-18T13:32:59.492Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1784.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-e4yQvk-zrsw/VJLWZrNjr1I/AAAAAAAALzg/4S2quo8U3DE/IMG_1784.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168982370365266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168982370365266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7_vrlzKdjTvUuBL0xHs06NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168982370365266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168982370365266"/>
+    <gphoto:id>6094168982370365266</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>69.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>528908</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418448602000</gphoto:timestamp>
+    <gphoto:imageVersion>12088</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168982370365266</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.486</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418481002000</exif:time>
+      <exif:imageUniqueID>1a116755eccb333b0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e4yQvk-zrsw/VJLWZrNjr1I/AAAAAAAALzg/4S2quo8U3DE/IMG_1784.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e4yQvk-zrsw/VJLWZrNjr1I/AAAAAAAALzg/4S2quo8U3DE/s72/IMG_1784.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e4yQvk-zrsw/VJLWZrNjr1I/AAAAAAAALzg/4S2quo8U3DE/s144/IMG_1784.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e4yQvk-zrsw/VJLWZrNjr1I/AAAAAAAALzg/4S2quo8U3DE/s288/IMG_1784.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1784.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168988554941266</id>
+    <published>2014-12-18T13:28:10.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1785.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MaiQvEZVDbk/VJLWaCQE01I/AAAAAAAALzs/g_W-5kSEKRI/IMG_1785.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168988554941266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168988554941266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IzuU84g62L-soFvFvvuc2dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168988554941266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168988554941266"/>
+    <gphoto:id>6094168988554941266</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>70.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>996090</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418448614000</gphoto:timestamp>
+    <gphoto:imageVersion>12091</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168988554941266</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.026</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1418481014000</exif:time>
+      <exif:imageUniqueID>8c4b97b3b18bdcc70000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MaiQvEZVDbk/VJLWaCQE01I/AAAAAAAALzs/g_W-5kSEKRI/IMG_1785.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MaiQvEZVDbk/VJLWaCQE01I/AAAAAAAALzs/g_W-5kSEKRI/s72/IMG_1785.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MaiQvEZVDbk/VJLWaCQE01I/AAAAAAAALzs/g_W-5kSEKRI/s144/IMG_1785.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MaiQvEZVDbk/VJLWaCQE01I/AAAAAAAALzs/g_W-5kSEKRI/s288/IMG_1785.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_1785.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168999404307714</id>
+    <published>2014-12-18T13:28:10.000Z</published>
+    <updated>2015-07-13T15:03:22.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1786.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-U-aOny20gxw/VJLWaqqxBQI/AAAAAAAALzo/27v5SapJx7I/IMG_1786.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168999404307714"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101161434094110516230/12#6094168999404307714"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0h3mWD8RmP5R-ydy6ngGz9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101161434094110516230/albumid/6094168679857724609/photoid/6094168999404307714"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101161434094110516230&amp;aid=6094168679857724609&amp;iid=6094168999404307714"/>
+    <gphoto:id>6094168999404307714</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>71.0</gphoto:position>
+    <gphoto:albumid>6094168679857724609</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>429637</gphoto:size>
+    <gphoto:client>es-upload-yourphotos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1418448636000</gphoto:timestamp>
+    <gphoto:imageVersion>12090</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6094168999404307714</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>48.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1418481036000</exif:time>
+      <exif:imageUniqueID>0ec28a0b69ca7f640000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-U-aOny20gxw/VJLWaqqxBQI/AAAAAAAALzo/27v5SapJx7I/IMG_1786.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>新保友啓</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U-aOny20gxw/VJLWaqqxBQI/AAAAAAAALzo/27v5SapJx7I/s72/IMG_1786.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U-aOny20gxw/VJLWaqqxBQI/AAAAAAAALzo/27v5SapJx7I/s144/IMG_1786.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U-aOny20gxw/VJLWaqqxBQI/AAAAAAAALzo/27v5SapJx7I/s288/IMG_1786.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1786.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

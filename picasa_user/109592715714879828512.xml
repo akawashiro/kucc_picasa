@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/109592715714879828512</id>
+  <updated>2015-09-29T03:01:51.486Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">109592715714879828512</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-1C6ZbO0bNPs/AAAAAAAAAAI/AAAAAAAAAAA/MKpjyPOckos/s64-c/109592715714879828512.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109592715714879828512"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/109592715714879828512?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>高橋裕輝</name>
+    <uri>https://picasaweb.google.com/109592715714879828512</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>4</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>109592715714879828512</gphoto:user>
+  <gphoto:nickname>高橋裕輝</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-1C6ZbO0bNPs/AAAAAAAAAAI/AAAAAAAAAAA/MKpjyPOckos/s64-c/109592715714879828512.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6085833896568454273</id>
+    <published>2014-11-26T02:23:43.000Z</published>
+    <updated>2014-11-26T19:13:30.654Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014NF北関東</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512/albumid/6085833896568454273"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109592715714879828512/2014NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6085833896568454273"/>
+    <author>
+      <name>高橋裕輝</name>
+      <uri>https://picasaweb.google.com/109592715714879828512</uri>
+    </author>
+    <gphoto:id>6085833896568454273</gphoto:id>
+    <gphoto:name>2014NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1416968623000</gphoto:timestamp>
+    <gphoto:numphotos>138</gphoto:numphotos>
+    <gphoto:user>109592715714879828512</gphoto:user>
+    <gphoto:nickname>高橋裕輝</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vPWm7hBrjn0/VHU5r07-fIE/AAAAAAAALOs/-_kCpNSWJrU/2014NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>高橋裕輝</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vPWm7hBrjn0/VHU5r07-fIE/AAAAAAAALOs/-_kCpNSWJrU/s160-c/2014NF.jpg" height="160" width="160"/>
+      <media:title type="plain">2014NF北関東</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6056980667809687169</id>
+    <published>2014-09-09T08:18:27.000Z</published>
+    <updated>2014-09-10T14:02:39.561Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿ドイツスイス班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512/albumid/6056980667809687169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109592715714879828512/zoqlNF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6056980667809687169"/>
+    <author>
+      <name>高橋裕輝</name>
+      <uri>https://picasaweb.google.com/109592715714879828512</uri>
+    </author>
+    <gphoto:id>6056980667809687169</gphoto:id>
+    <gphoto:name>zoqlNF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1410250707000</gphoto:timestamp>
+    <gphoto:numphotos>543</gphoto:numphotos>
+    <gphoto:user>109592715714879828512</gphoto:user>
+    <gphoto:nickname>高橋裕輝</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7WnZUlI-DXs/VA6303w0ZoE/AAAAAAAAKak/DNGy36TMW1o/zoqlNF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>高橋裕輝</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7WnZUlI-DXs/VA6303w0ZoE/AAAAAAAAKak/DNGy36TMW1o/s160-c/zoqlNF.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿ドイツスイス班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6016169499326447297</id>
+    <published>2014-05-22T08:50:14.000Z</published>
+    <updated>2014-05-22T14:49:49.692Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春ヨーロッパpart2</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512/albumid/6016169499326447297"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109592715714879828512/Part2"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6016169499326447297"/>
+    <author>
+      <name>高橋裕輝</name>
+      <uri>https://picasaweb.google.com/109592715714879828512</uri>
+    </author>
+    <gphoto:id>6016169499326447297</gphoto:id>
+    <gphoto:name>Part2</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1400748614000</gphoto:timestamp>
+    <gphoto:numphotos>382</gphoto:numphotos>
+    <gphoto:user>109592715714879828512</gphoto:user>
+    <gphoto:nickname>高橋裕輝</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fSmCUuxXAVg/U326SNvkfsE/AAAAAAAAMCM/haeL3wxbVw4/Part2.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>高橋裕輝</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fSmCUuxXAVg/U326SNvkfsE/AAAAAAAAMCM/haeL3wxbVw4/s160-c/Part2.jpg" height="160" width="160"/>
+      <media:title type="plain">春ヨーロッパpart2</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6014344564456556465</id>
+    <published>2014-05-17T10:48:36.000Z</published>
+    <updated>2014-05-22T14:49:27.653Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春ヨーロッパpart1</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109592715714879828512/albumid/6014344564456556465"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109592715714879828512/Part1"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109592715714879828512/albumid/6014344564456556465"/>
+    <author>
+      <name>高橋裕輝</name>
+      <uri>https://picasaweb.google.com/109592715714879828512</uri>
+    </author>
+    <gphoto:id>6014344564456556465</gphoto:id>
+    <gphoto:name>Part1</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1400323716000</gphoto:timestamp>
+    <gphoto:numphotos>497</gphoto:numphotos>
+    <gphoto:user>109592715714879828512</gphoto:user>
+    <gphoto:nickname>高橋裕輝</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9ygBtCkexcQ/U3c-hBk8B7E/AAAAAAAAMCE/Cm5JfFtGjDc/Part1.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>高橋裕輝</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9ygBtCkexcQ/U3c-hBk8B7E/AAAAAAAAMCE/Cm5JfFtGjDc/s160-c/Part1.jpg" height="160" width="160"/>
+      <media:title type="plain">春ヨーロッパpart1</media:title>
+    </media:group>
+  </entry>
+</feed>

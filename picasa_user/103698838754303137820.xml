@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/103698838754303137820</id>
+  <updated>2015-09-05T02:06:16.831Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">103698838754303137820</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-rBSWPHsRqSo/AAAAAAAAAAA/AAAAAAAAAAA/vymNJyBblHE/s64-c/103698838754303137820.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103698838754303137820?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>r.kishimoto</name>
+    <uri>https://picasaweb.google.com/103698838754303137820</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>103698838754303137820</gphoto:user>
+  <gphoto:nickname>r.kishimoto</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-rBSWPHsRqSo/AAAAAAAAAAA/AAAAAAAAAAA/vymNJyBblHE/s64-c/103698838754303137820.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5705578663498808401</id>
+    <published>2012-02-05T08:00:00.000Z</published>
+    <updated>2013-05-09T19:24:06.854Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2012.2.5関西シクロクロス　桂川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5705578663498808401"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/201225"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5705578663498808401"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5705578663498808401</gphoto:id>
+    <gphoto:name>201225</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1328428800000</gphoto:timestamp>
+    <gphoto:numphotos>49</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-03_THgJOkPQ/Ty5JkKPk_FE/AAAAAAAABzU/zp8-S8nt1Lk/201225.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-03_THgJOkPQ/Ty5JkKPk_FE/AAAAAAAABzU/zp8-S8nt1Lk/s160-c/201225.jpg" height="160" width="160"/>
+      <media:title type="plain">2012.2.5関西シクロクロス　桂川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5570535669107636209</id>
+    <published>2011-02-05T08:00:00.000Z</published>
+    <updated>2013-05-11T04:50:53.954Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2011.2.6　関西シクロクロス桂川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5570535669107636209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/201126"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5570535669107636209"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5570535669107636209</gphoto:id>
+    <gphoto:name>201126</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1296892800000</gphoto:timestamp>
+    <gphoto:numphotos>59</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CxDwoWhtOPM/TU6ErVXNt_E/AAAAAAAABzI/_Buak3t_FlU/201126.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CxDwoWhtOPM/TU6ErVXNt_E/AAAAAAAABzI/_Buak3t_FlU/s160-c/201126.jpg" height="160" width="160"/>
+      <media:title type="plain">2011.2.6　関西シクロクロス桂川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5550204236635485521</id>
+    <published>2010-12-11T02:47:27.000Z</published>
+    <updated>2013-05-11T04:50:51.954Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">追いコンT.T</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5550204236635485521"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5550204236635485521"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5550204236635485521</gphoto:id>
+    <gphoto:name>TT</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1292035647000</gphoto:timestamp>
+    <gphoto:numphotos>196</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7x0ENR1zNsE/TQZJWNOGtVE/AAAAAAAAB1M/xolsDvyimWw/TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7x0ENR1zNsE/TQZJWNOGtVE/AAAAAAAAB1M/xolsDvyimWw/s160-c/TT.jpg" height="160" width="160"/>
+      <media:title type="plain">追いコンT.T</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5544216490325217969</id>
+    <published>2010-11-23T05:57:24.000Z</published>
+    <updated>2013-05-11T04:50:47.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">廃線ハイキング　大岩岳</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5544216490325217969"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/BPgRPI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5544216490325217969"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5544216490325217969</gphoto:id>
+    <gphoto:name>BPgRPI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1290491844000</gphoto:timestamp>
+    <gphoto:numphotos>35</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-m4PO4Zt4IOA/TPEDhf-ykrE/AAAAAAAAByk/0Hjso9_ROTw/BPgRPI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m4PO4Zt4IOA/TPEDhf-ykrE/AAAAAAAAByk/0Hjso9_ROTw/s160-c/BPgRPI.jpg" height="160" width="160"/>
+      <media:title type="plain">廃線ハイキング　大岩岳</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5527073212001843985</id>
+    <published>2010-10-10T08:51:10.000Z</published>
+    <updated>2013-05-11T04:50:45.972Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">瀬戸内芸術祭</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5527073212001843985"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/dwwsfI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5527073212001843985"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5527073212001843985</gphoto:id>
+    <gphoto:name>dwwsfI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1286700670000</gphoto:timestamp>
+    <gphoto:numphotos>72</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-m0Hl3FUFZsE/TLQbzXjyexE/AAAAAAAAByk/MWQ46iObH8U/dwwsfI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m0Hl3FUFZsE/TLQbzXjyexE/AAAAAAAAByk/MWQ46iObH8U/s160-c/dwwsfI.jpg" height="160" width="160"/>
+      <media:title type="plain">瀬戸内芸術祭</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5526761585655292993</id>
+    <published>2010-10-02T07:00:00.000Z</published>
+    <updated>2013-05-11T04:50:43.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">４回生企画　自宅生料理対決</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5526761585655292993"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/CtAVp"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5526761585655292993"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5526761585655292993</gphoto:id>
+    <gphoto:name>CtAVp</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1286002800000</gphoto:timestamp>
+    <gphoto:numphotos>28</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Idhi5PsNvCA/TLMAYU9CJEE/AAAAAAAAByg/oxbuS1enPTk/CtAVp.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Idhi5PsNvCA/TLMAYU9CJEE/AAAAAAAAByg/oxbuS1enPTk/s160-c/CtAVp.jpg" height="160" width="160"/>
+      <media:title type="plain">４回生企画　自宅生料理対決</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169</id>
+    <published>2010-09-25T03:00:00.000Z</published>
+    <updated>2014-10-21T09:13:31.946Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2010TQR</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5521583717387791169</gphoto:id>
+    <gphoto:name>2010TQR</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1285383600000</gphoto:timestamp>
+    <gphoto:numphotos>18</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7XTfSNE3XwE/TKCbIuh660E/AAAAAAAAB1U/e6Zyc49Ce64/2010TQR.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7XTfSNE3XwE/TKCbIuh660E/AAAAAAAAB1U/e6Zyc49Ce64/s160-c/2010TQR.jpg" height="160" width="160"/>
+      <media:title type="plain">2010TQR</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5506936108047431377</id>
+    <published>2010-08-17T20:46:28.000Z</published>
+    <updated>2013-05-11T04:50:39.954Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2010夏合宿　川内谷班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5506936108047431377"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5506936108047431377"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5506936108047431377</gphoto:id>
+    <gphoto:name>2010</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1282077988000</gphoto:timestamp>
+    <gphoto:numphotos>37</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xKPirSj9xv0/TGyRNpjwdtE/AAAAAAAAByY/cLt3f171z-k/2010.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xKPirSj9xv0/TGyRNpjwdtE/AAAAAAAAByY/cLt3f171z-k/s160-c/2010.jpg" height="160" width="160"/>
+      <media:title type="plain">2010夏合宿　川内谷班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5479871756455053585</id>
+    <published>2010-06-05T07:00:00.000Z</published>
+    <updated>2013-05-11T04:50:37.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">TQF2010</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5479871756455053585"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/TQF2010"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5479871756455053585"/>
+    <author>
+      <name>r.kishimoto</name>
+      <uri>https://picasaweb.google.com/103698838754303137820</uri>
+    </author>
+    <gphoto:id>5479871756455053585</gphoto:id>
+    <gphoto:name>TQF2010</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1275721200000</gphoto:timestamp>
+    <gphoto:numphotos>101</gphoto:numphotos>
+    <gphoto:user>103698838754303137820</gphoto:user>
+    <gphoto:nickname>r.kishimoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IyOIY2RRnd8/TAxqVDIzCRE/AAAAAAAAByU/3w9zbgE2Rs0/TQF2010.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IyOIY2RRnd8/TAxqVDIzCRE/AAAAAAAAByU/3w9zbgE2Rs0/s160-c/TQF2010.jpg" height="160" width="160"/>
+      <media:title type="plain">TQF2010</media:title>
+    </media:group>
+  </entry>
+</feed>

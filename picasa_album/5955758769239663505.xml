@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505</id>
+  <updated>2015-10-04T04:03:27.625Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">追いコンTT</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/--Eo5PoJMYfk/UqcbC7Byo5E/AAAAAAAAEPw/cDApEL5bS8U/s160-c/TT02.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>West Nishida</name>
+    <uri>https://picasaweb.google.com/117567500719559926863</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>42</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5955758769239663505</gphoto:id>
+  <gphoto:name>TT02</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1386681501000</gphoto:timestamp>
+  <gphoto:numphotos>42</gphoto:numphotos>
+  <gphoto:user>117567500719559926863</gphoto:user>
+  <gphoto:nickname>West Nishida</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758785172907282</id>
+    <published>2013-12-10T13:45:51.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077322.JPG</title>
+    <summary type="text">信州班の星</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--z4Hdt-twC4/UqcbD2YkpRI/AAAAAAAAEKg/JMyeu-gydfc/PC077322.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758785172907282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758785172907282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/nNhI5I-l6D7cV-Ac08HP69MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758785172907282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758785172907282"/>
+    <gphoto:id>5955758785172907282</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>575711</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f57f0116</gphoto:checksum>
+    <gphoto:timestamp>1386381804000</gphoto:timestamp>
+    <gphoto:imageVersion>4264</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758785172907282</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386414204000</exif:time>
+      <exif:imageUniqueID>5cad45bd593b1b2fde1a98191faff857</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--z4Hdt-twC4/UqcbD2YkpRI/AAAAAAAAEKg/JMyeu-gydfc/PC077322.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">信州班の星</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--z4Hdt-twC4/UqcbD2YkpRI/AAAAAAAAEKg/JMyeu-gydfc/s72/PC077322.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--z4Hdt-twC4/UqcbD2YkpRI/AAAAAAAAEKg/JMyeu-gydfc/s144/PC077322.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--z4Hdt-twC4/UqcbD2YkpRI/AAAAAAAAEKg/JMyeu-gydfc/s288/PC077322.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077322.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758800018830498</id>
+    <published>2013-12-10T13:45:54.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077323.JPG</title>
+    <summary type="text">速そう</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FJWluEwEw6U/UqcbEtsHdKI/AAAAAAAAEKk/LgJwrXmw60w/PC077323.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758800018830498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758800018830498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/E1iFKykVaoKFKqL8f4EYDtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758800018830498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758800018830498"/>
+    <gphoto:id>5955758800018830498</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>404866</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4bd0106</gphoto:checksum>
+    <gphoto:timestamp>1386381819000</gphoto:timestamp>
+    <gphoto:imageVersion>4265</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758800018830498</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1386414219000</exif:time>
+      <exif:imageUniqueID>7a8931c2809d63819870626828e0a996</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FJWluEwEw6U/UqcbEtsHdKI/AAAAAAAAEKk/LgJwrXmw60w/PC077323.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">速そう</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FJWluEwEw6U/UqcbEtsHdKI/AAAAAAAAEKk/LgJwrXmw60w/s72/PC077323.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FJWluEwEw6U/UqcbEtsHdKI/AAAAAAAAEKk/LgJwrXmw60w/s144/PC077323.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FJWluEwEw6U/UqcbEtsHdKI/AAAAAAAAEKk/LgJwrXmw60w/s288/PC077323.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077323.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758816277260306</id>
+    <published>2013-12-10T13:45:58.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077326.JPG</title>
+    <summary type="text">たーくぼ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZyTZ9N-EwDY/UqcbFqQbaBI/AAAAAAAAEKw/YL3szloriU0/PC077326.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758816277260306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758816277260306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/v6YD-RUtwjxiRVLso48ns9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758816277260306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758816277260306"/>
+    <gphoto:id>5955758816277260306</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>730420</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f57ce106</gphoto:checksum>
+    <gphoto:timestamp>1386382354000</gphoto:timestamp>
+    <gphoto:imageVersion>4268</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758816277260306</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386414754000</exif:time>
+      <exif:imageUniqueID>e301dfc7680f9fafa344d8056b917e78</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZyTZ9N-EwDY/UqcbFqQbaBI/AAAAAAAAEKw/YL3szloriU0/PC077326.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">たーくぼ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZyTZ9N-EwDY/UqcbFqQbaBI/AAAAAAAAEKw/YL3szloriU0/s72/PC077326.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZyTZ9N-EwDY/UqcbFqQbaBI/AAAAAAAAEKw/YL3szloriU0/s144/PC077326.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZyTZ9N-EwDY/UqcbFqQbaBI/AAAAAAAAEKw/YL3szloriU0/s288/PC077326.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077326.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758831429381010</id>
+    <published>2013-12-10T13:46:02.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077332.JPG</title>
+    <summary type="text">貫禄ある</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-CQOT6fkv08Y/UqcbGis-a5I/AAAAAAAAEK4/yKNpDqAZb48/PC077332.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758831429381010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758831429381010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2lr56IXNChqLPg9jeeIxeNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758831429381010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758831429381010"/>
+    <gphoto:id>5955758831429381010</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>718256</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4ce6116</gphoto:checksum>
+    <gphoto:timestamp>1386382561000</gphoto:timestamp>
+    <gphoto:imageVersion>4270</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758831429381010</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386414961000</exif:time>
+      <exif:imageUniqueID>5195c8dac7c856d2a367b08283062201</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CQOT6fkv08Y/UqcbGis-a5I/AAAAAAAAEK4/yKNpDqAZb48/PC077332.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">貫禄ある</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQOT6fkv08Y/UqcbGis-a5I/AAAAAAAAEK4/yKNpDqAZb48/s72/PC077332.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQOT6fkv08Y/UqcbGis-a5I/AAAAAAAAEK4/yKNpDqAZb48/s144/PC077332.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQOT6fkv08Y/UqcbGis-a5I/AAAAAAAAEK4/yKNpDqAZb48/s288/PC077332.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077332.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758860076322914</id>
+    <published>2013-12-10T13:46:08.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077338.JPG</title>
+    <summary type="text">インパクト</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-X5s_LimjuJ0/UqcbINa8EGI/AAAAAAAAELA/AK2UV1qPlZo/PC077338.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758860076322914"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758860076322914"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gvSkVrsYOF9VyelygCSJd9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758860076322914"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758860076322914"/>
+    <gphoto:id>5955758860076322914</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>880644</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4cc4106</gphoto:checksum>
+    <gphoto:timestamp>1386382649000</gphoto:timestamp>
+    <gphoto:imageVersion>4272</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758860076322914</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415049000</exif:time>
+      <exif:imageUniqueID>3bcd2485391e80f56ff7d3f52eba5d1b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-X5s_LimjuJ0/UqcbINa8EGI/AAAAAAAAELA/AK2UV1qPlZo/PC077338.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">インパクト</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-X5s_LimjuJ0/UqcbINa8EGI/AAAAAAAAELA/AK2UV1qPlZo/s72/PC077338.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-X5s_LimjuJ0/UqcbINa8EGI/AAAAAAAAELA/AK2UV1qPlZo/s144/PC077338.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-X5s_LimjuJ0/UqcbINa8EGI/AAAAAAAAELA/AK2UV1qPlZo/s288/PC077338.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077338.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758875892104690</id>
+    <published>2013-12-10T13:46:12.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077340.JPG</title>
+    <summary type="text">ぶれる</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4YTOAH1wr6A/UqcbJIVtvfI/AAAAAAAAELI/j_p1Mmpix24/PC077340.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758875892104690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758875892104690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-2jlzporKxflW5CJxcx8-dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758875892104690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758875892104690"/>
+    <gphoto:id>5955758875892104690</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>868374</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4cb8116</gphoto:checksum>
+    <gphoto:timestamp>1386382674000</gphoto:timestamp>
+    <gphoto:imageVersion>4274</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758875892104690</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415074000</exif:time>
+      <exif:imageUniqueID>c7d575b9a36fe1eac8c0b0d56a3ad965</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4YTOAH1wr6A/UqcbJIVtvfI/AAAAAAAAELI/j_p1Mmpix24/PC077340.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">ぶれる</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4YTOAH1wr6A/UqcbJIVtvfI/AAAAAAAAELI/j_p1Mmpix24/s72/PC077340.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4YTOAH1wr6A/UqcbJIVtvfI/AAAAAAAAELI/j_p1Mmpix24/s144/PC077340.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4YTOAH1wr6A/UqcbJIVtvfI/AAAAAAAAELI/j_p1Mmpix24/s288/PC077340.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077340.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758892782199522</id>
+    <published>2013-12-10T13:46:16.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077341.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YQqCMfaZM4I/UqcbKHQoIuI/AAAAAAAAELY/9trnc1RkShY/PC077341.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758892782199522"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758892782199522"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/FV3pdCdaAQh7rIjC_lyK09MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758892782199522"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758892782199522"/>
+    <gphoto:id>5955758892782199522</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>853932</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62cb4116</gphoto:checksum>
+    <gphoto:timestamp>1386382698000</gphoto:timestamp>
+    <gphoto:imageVersion>4278</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758892782199522</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415098000</exif:time>
+      <exif:imageUniqueID>7d429c65e018af5e4382fd5f06e5c899</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YQqCMfaZM4I/UqcbKHQoIuI/AAAAAAAAELY/9trnc1RkShY/PC077341.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YQqCMfaZM4I/UqcbKHQoIuI/AAAAAAAAELY/9trnc1RkShY/s72/PC077341.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YQqCMfaZM4I/UqcbKHQoIuI/AAAAAAAAELY/9trnc1RkShY/s144/PC077341.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YQqCMfaZM4I/UqcbKHQoIuI/AAAAAAAAELY/9trnc1RkShY/s288/PC077341.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077341.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758904077488162</id>
+    <published>2013-12-10T13:46:19.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077342.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4G8yLDuVvyI/UqcbKxVokCI/AAAAAAAAELU/rMpadEKG8j0/PC077342.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758904077488162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758904077488162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/s9QFtE3sdeSVSc9rWO-cU9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758904077488162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758904077488162"/>
+    <gphoto:id>5955758904077488162</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>456605</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62c84116</gphoto:checksum>
+    <gphoto:timestamp>1386382706000</gphoto:timestamp>
+    <gphoto:imageVersion>4277</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758904077488162</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415106000</exif:time>
+      <exif:imageUniqueID>c2a4e20cbc0e2cae9368d356048b67aa</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4G8yLDuVvyI/UqcbKxVokCI/AAAAAAAAELU/rMpadEKG8j0/PC077342.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4G8yLDuVvyI/UqcbKxVokCI/AAAAAAAAELU/rMpadEKG8j0/s72/PC077342.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4G8yLDuVvyI/UqcbKxVokCI/AAAAAAAAELU/rMpadEKG8j0/s144/PC077342.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4G8yLDuVvyI/UqcbKxVokCI/AAAAAAAAELU/rMpadEKG8j0/s288/PC077342.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077342.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758924179338642</id>
+    <published>2013-12-10T13:46:23.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077343.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ksz1bnKcc7w/UqcbL8OSdZI/AAAAAAAAELg/lWbjFBIxTfk/PC077343.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758924179338642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758924179338642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/M3qlmbiyQaNqdLbXteddENMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758924179338642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758924179338642"/>
+    <gphoto:id>5955758924179338642</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>700159</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62d08116</gphoto:checksum>
+    <gphoto:timestamp>1386382773000</gphoto:timestamp>
+    <gphoto:imageVersion>4280</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758924179338642</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415173000</exif:time>
+      <exif:imageUniqueID>b5097cceaa846f11f49a35ff763acb57</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ksz1bnKcc7w/UqcbL8OSdZI/AAAAAAAAELg/lWbjFBIxTfk/PC077343.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ksz1bnKcc7w/UqcbL8OSdZI/AAAAAAAAELg/lWbjFBIxTfk/s72/PC077343.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ksz1bnKcc7w/UqcbL8OSdZI/AAAAAAAAELg/lWbjFBIxTfk/s144/PC077343.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ksz1bnKcc7w/UqcbL8OSdZI/AAAAAAAAELg/lWbjFBIxTfk/s288/PC077343.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077343.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758941510758434</id>
+    <published>2013-12-10T13:46:27.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077344.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6SYW9GwUu08/UqcbM8ya8CI/AAAAAAAAELk/IeFiE0pNJAI/PC077344.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758941510758434"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758941510758434"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/cqBZp3r9WQ0Q6RZZWICYfNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758941510758434"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758941510758434"/>
+    <gphoto:id>5955758941510758434</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>963396</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62dcc116</gphoto:checksum>
+    <gphoto:timestamp>1386382806000</gphoto:timestamp>
+    <gphoto:imageVersion>4281</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758941510758434</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1386415206000</exif:time>
+      <exif:imageUniqueID>f9c9145627527fc4b3f5e05d29451745</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6SYW9GwUu08/UqcbM8ya8CI/AAAAAAAAELk/IeFiE0pNJAI/PC077344.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6SYW9GwUu08/UqcbM8ya8CI/AAAAAAAAELk/IeFiE0pNJAI/s72/PC077344.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6SYW9GwUu08/UqcbM8ya8CI/AAAAAAAAELk/IeFiE0pNJAI/s144/PC077344.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6SYW9GwUu08/UqcbM8ya8CI/AAAAAAAAELk/IeFiE0pNJAI/s288/PC077344.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077344.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758956947693170</id>
+    <published>2013-12-10T13:46:31.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077345.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jBsuwAUlxKU/UqcbN2S33nI/AAAAAAAAELw/vMbxcQv07js/PC077345.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758956947693170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758956947693170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sB7zBELKKWHhrP3hGrhkQtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758956947693170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758956947693170"/>
+    <gphoto:id>5955758956947693170</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1023956</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62e50116</gphoto:checksum>
+    <gphoto:timestamp>1386382873000</gphoto:timestamp>
+    <gphoto:imageVersion>4284</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758956947693170</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415273000</exif:time>
+      <exif:imageUniqueID>61a23a85a9ceca160885b5d4bd78024f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jBsuwAUlxKU/UqcbN2S33nI/AAAAAAAAELw/vMbxcQv07js/PC077345.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jBsuwAUlxKU/UqcbN2S33nI/AAAAAAAAELw/vMbxcQv07js/s72/PC077345.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jBsuwAUlxKU/UqcbN2S33nI/AAAAAAAAELw/vMbxcQv07js/s144/PC077345.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jBsuwAUlxKU/UqcbN2S33nI/AAAAAAAAELw/vMbxcQv07js/s288/PC077345.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077345.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758974161331618</id>
+    <published>2013-12-10T13:46:35.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077346.JPG</title>
+    <summary type="text">めがねは曇るもの</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-LvSTUvz0UPo/UqcbO2a7JaI/AAAAAAAAEL4/oK9-wi3EGmk/PC077346.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758974161331618"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758974161331618"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2w57_EACwnytOyu3HG5QedMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758974161331618"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758974161331618"/>
+    <gphoto:id>5955758974161331618</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>719677</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4d60106</gphoto:checksum>
+    <gphoto:timestamp>1386382941000</gphoto:timestamp>
+    <gphoto:imageVersion>4286</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758974161331618</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1386415341000</exif:time>
+      <exif:imageUniqueID>086ede4415bc5c7256d30141aceb461a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LvSTUvz0UPo/UqcbO2a7JaI/AAAAAAAAEL4/oK9-wi3EGmk/PC077346.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">めがねは曇るもの</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LvSTUvz0UPo/UqcbO2a7JaI/AAAAAAAAEL4/oK9-wi3EGmk/s72/PC077346.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LvSTUvz0UPo/UqcbO2a7JaI/AAAAAAAAEL4/oK9-wi3EGmk/s144/PC077346.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LvSTUvz0UPo/UqcbO2a7JaI/AAAAAAAAEL4/oK9-wi3EGmk/s288/PC077346.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077346.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758992961577442</id>
+    <published>2013-12-10T13:46:39.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077347.JPG</title>
+    <summary type="text">疲れ切ったテッシー</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gJbOSSBfdzI/UqcbP8dQIeI/AAAAAAAAEMA/0owKFala5IY/PC077347.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758992961577442"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955758992961577442"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/F29LIchJBWTN7dmsfYQ2KtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955758992961577442"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955758992961577442"/>
+    <gphoto:id>5955758992961577442</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>688548</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4d7c106</gphoto:checksum>
+    <gphoto:timestamp>1386382955000</gphoto:timestamp>
+    <gphoto:imageVersion>4288</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955758992961577442</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415355000</exif:time>
+      <exif:imageUniqueID>b153d153f1f37dfc27a5f70199cbfa63</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gJbOSSBfdzI/UqcbP8dQIeI/AAAAAAAAEMA/0owKFala5IY/PC077347.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">疲れ切ったテッシー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gJbOSSBfdzI/UqcbP8dQIeI/AAAAAAAAEMA/0owKFala5IY/s72/PC077347.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gJbOSSBfdzI/UqcbP8dQIeI/AAAAAAAAEMA/0owKFala5IY/s144/PC077347.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gJbOSSBfdzI/UqcbP8dQIeI/AAAAAAAAEMA/0owKFala5IY/s288/PC077347.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077347.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759010898921698</id>
+    <published>2013-12-10T13:46:43.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077349.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-l2nhi6dsTl0/UqcbQ_R2SOI/AAAAAAAAEMI/u3SfU7I_TzM/PC077349.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759010898921698"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759010898921698"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QgFbW5vvTo9d4PSyFcYTp9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759010898921698"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759010898921698"/>
+    <gphoto:id>5955759010898921698</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>717064</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>63110106</gphoto:checksum>
+    <gphoto:timestamp>1386383288000</gphoto:timestamp>
+    <gphoto:imageVersion>4290</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759010898921698</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386415688000</exif:time>
+      <exif:imageUniqueID>cbce98bdf093534746def77b4f02530b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-l2nhi6dsTl0/UqcbQ_R2SOI/AAAAAAAAEMI/u3SfU7I_TzM/PC077349.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2nhi6dsTl0/UqcbQ_R2SOI/AAAAAAAAEMI/u3SfU7I_TzM/s72/PC077349.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2nhi6dsTl0/UqcbQ_R2SOI/AAAAAAAAEMI/u3SfU7I_TzM/s144/PC077349.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2nhi6dsTl0/UqcbQ_R2SOI/AAAAAAAAEMI/u3SfU7I_TzM/s288/PC077349.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077349.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759021034161954</id>
+    <published>2013-12-10T13:46:46.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077350.JPG</title>
+    <summary type="text">主将ォ…</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IEZAMBuuNDQ/UqcbRlCRxyI/AAAAAAAAEMQ/9hL3F6G4MUg/PC077350.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759021034161954"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759021034161954"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Gff77ebXS8REeKjU6nm4A9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759021034161954"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759021034161954"/>
+    <gphoto:id>5955759021034161954</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>651448</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4de2106</gphoto:checksum>
+    <gphoto:timestamp>1386383431000</gphoto:timestamp>
+    <gphoto:imageVersion>4292</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759021034161954</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415831000</exif:time>
+      <exif:imageUniqueID>ee5bf575c8999aae89fb4900eb724670</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IEZAMBuuNDQ/UqcbRlCRxyI/AAAAAAAAEMQ/9hL3F6G4MUg/PC077350.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">主将ォ…</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEZAMBuuNDQ/UqcbRlCRxyI/AAAAAAAAEMQ/9hL3F6G4MUg/s72/PC077350.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEZAMBuuNDQ/UqcbRlCRxyI/AAAAAAAAEMQ/9hL3F6G4MUg/s144/PC077350.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEZAMBuuNDQ/UqcbRlCRxyI/AAAAAAAAEMQ/9hL3F6G4MUg/s288/PC077350.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077350.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759037753349346</id>
+    <published>2013-12-10T13:46:50.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077351.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IT1Ar4vLo4I/UqcbSjUcVOI/AAAAAAAAEMY/nOGRfues4cM/PC077351.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759037753349346"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759037753349346"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GcSY1dZjq9mPkJhnOcaz99MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759037753349346"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759037753349346"/>
+    <gphoto:id>5955759037753349346</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>867444</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>632f4106</gphoto:checksum>
+    <gphoto:timestamp>1386383435000</gphoto:timestamp>
+    <gphoto:imageVersion>4294</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759037753349346</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386415835000</exif:time>
+      <exif:imageUniqueID>c8aa8811d4b82b8fc534ea640eaa7c64</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IT1Ar4vLo4I/UqcbSjUcVOI/AAAAAAAAEMY/nOGRfues4cM/PC077351.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IT1Ar4vLo4I/UqcbSjUcVOI/AAAAAAAAEMY/nOGRfues4cM/s72/PC077351.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IT1Ar4vLo4I/UqcbSjUcVOI/AAAAAAAAEMY/nOGRfues4cM/s144/PC077351.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IT1Ar4vLo4I/UqcbSjUcVOI/AAAAAAAAEMY/nOGRfues4cM/s288/PC077351.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077351.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759056677133138</id>
+    <published>2013-12-10T13:46:54.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077359.JPG</title>
+    <summary type="text">KUMAMON</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-idvgGlJ90OM/UqcbTp0OW1I/AAAAAAAAEMg/uiCLpB8h5PM/PC077359.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759056677133138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759056677133138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1twM6LYITBCWkntwm1D7E9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759056677133138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759056677133138"/>
+    <gphoto:id>5955759056677133138</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>602628</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4dbc106</gphoto:checksum>
+    <gphoto:timestamp>1386383564000</gphoto:timestamp>
+    <gphoto:imageVersion>4296</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759056677133138</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386415964000</exif:time>
+      <exif:imageUniqueID>042256120209c1bdcaedbfc9fbf77ce4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-idvgGlJ90OM/UqcbTp0OW1I/AAAAAAAAEMg/uiCLpB8h5PM/PC077359.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">KUMAMON</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-idvgGlJ90OM/UqcbTp0OW1I/AAAAAAAAEMg/uiCLpB8h5PM/s72/PC077359.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-idvgGlJ90OM/UqcbTp0OW1I/AAAAAAAAEMg/uiCLpB8h5PM/s144/PC077359.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-idvgGlJ90OM/UqcbTp0OW1I/AAAAAAAAEMg/uiCLpB8h5PM/s288/PC077359.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077359.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759071954626578</id>
+    <published>2013-12-10T13:46:57.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077362.JPG</title>
+    <summary type="text">イエ―イ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YmN8hsN8rUA/UqcbUiuqaBI/AAAAAAAAEMo/s1Oxzbio8U8/PC077362.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759071954626578"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759071954626578"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/D_bqKlJGAoI1elEUfCELWNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759071954626578"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759071954626578"/>
+    <gphoto:id>5955759071954626578</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>696434</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4d90126</gphoto:checksum>
+    <gphoto:timestamp>1386383629000</gphoto:timestamp>
+    <gphoto:imageVersion>4298</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759071954626578</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386416029000</exif:time>
+      <exif:imageUniqueID>af065fb8f885a53a1b0e056f1c876a88</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YmN8hsN8rUA/UqcbUiuqaBI/AAAAAAAAEMo/s1Oxzbio8U8/PC077362.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">イエ―イ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YmN8hsN8rUA/UqcbUiuqaBI/AAAAAAAAEMo/s1Oxzbio8U8/s72/PC077362.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YmN8hsN8rUA/UqcbUiuqaBI/AAAAAAAAEMo/s1Oxzbio8U8/s144/PC077362.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YmN8hsN8rUA/UqcbUiuqaBI/AAAAAAAAEMo/s1Oxzbio8U8/s288/PC077362.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077362.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759087160519890</id>
+    <published>2013-12-10T13:47:01.000Z</published>
+    <updated>2015-09-14T16:09:28.435Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077366.JPG</title>
+    <summary type="text">担ぎスト</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-fuFBw7MU0Uw/UqcbVbYB7NI/AAAAAAAAEMw/cQFGOV2d670/PC077366.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759087160519890"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759087160519890"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/WzdGw6QQ4Hl-uOSnLNDUmNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759087160519890"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759087160519890"/>
+    <gphoto:id>5955759087160519890</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>881781</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4d9e106</gphoto:checksum>
+    <gphoto:timestamp>1386383826000</gphoto:timestamp>
+    <gphoto:imageVersion>4300</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759087160519890</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.04</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386416226000</exif:time>
+      <exif:imageUniqueID>cee11a226088caa1401f94e6161e1729</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fuFBw7MU0Uw/UqcbVbYB7NI/AAAAAAAAEMw/cQFGOV2d670/PC077366.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">担ぎスト</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fuFBw7MU0Uw/UqcbVbYB7NI/AAAAAAAAEMw/cQFGOV2d670/s72/PC077366.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fuFBw7MU0Uw/UqcbVbYB7NI/AAAAAAAAEMw/cQFGOV2d670/s144/PC077366.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fuFBw7MU0Uw/UqcbVbYB7NI/AAAAAAAAEMw/cQFGOV2d670/s288/PC077366.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077366.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759102579971522</id>
+    <published>2013-12-10T13:47:05.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077368.JPG</title>
+    <summary type="text">ダブルピーース</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4_fZwXxZByI/UqcbWU0UFcI/AAAAAAAAEM4/3v9oN0-io_c/PC077368.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759102579971522"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759102579971522"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/90vcpxhDb-z9i2nyxwdO2dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759102579971522"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759102579971522"/>
+    <gphoto:id>5955759102579971522</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>648045</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4e40106</gphoto:checksum>
+    <gphoto:timestamp>1386383989000</gphoto:timestamp>
+    <gphoto:imageVersion>4302</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759102579971522</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1386416389000</exif:time>
+      <exif:imageUniqueID>03e1b08a81e44cf5c6f06c45de1be8c0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4_fZwXxZByI/UqcbWU0UFcI/AAAAAAAAEM4/3v9oN0-io_c/PC077368.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">ダブルピーース</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4_fZwXxZByI/UqcbWU0UFcI/AAAAAAAAEM4/3v9oN0-io_c/s72/PC077368.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4_fZwXxZByI/UqcbWU0UFcI/AAAAAAAAEM4/3v9oN0-io_c/s144/PC077368.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4_fZwXxZByI/UqcbWU0UFcI/AAAAAAAAEM4/3v9oN0-io_c/s288/PC077368.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077368.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759120205804754</id>
+    <published>2013-12-10T13:47:09.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077369.JPG</title>
+    <summary type="text">SPDサンダル寒そう</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FzGoPsBs1OQ/UqcbXWeo9NI/AAAAAAAAENA/UQOTLJ_cKiw/PC077369.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759120205804754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759120205804754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/snanfgTFleQ4FpQu28evC9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759120205804754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759120205804754"/>
+    <gphoto:id>5955759120205804754</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>679687</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4e36106</gphoto:checksum>
+    <gphoto:timestamp>1386383992000</gphoto:timestamp>
+    <gphoto:imageVersion>4304</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759120205804754</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386416392000</exif:time>
+      <exif:imageUniqueID>4e2d9986c13f58f3d1030116e1f2821e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FzGoPsBs1OQ/UqcbXWeo9NI/AAAAAAAAENA/UQOTLJ_cKiw/PC077369.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">SPDサンダル寒そう</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FzGoPsBs1OQ/UqcbXWeo9NI/AAAAAAAAENA/UQOTLJ_cKiw/s72/PC077369.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FzGoPsBs1OQ/UqcbXWeo9NI/AAAAAAAAENA/UQOTLJ_cKiw/s144/PC077369.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FzGoPsBs1OQ/UqcbXWeo9NI/AAAAAAAAENA/UQOTLJ_cKiw/s288/PC077369.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077369.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759136470082770</id>
+    <published>2013-12-10T13:47:13.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077370.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8HEWo4n4-9k/UqcbYTEWJNI/AAAAAAAAENM/en68Vloxp0s/PC077370.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759136470082770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759136470082770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/OVUQynAzOTGhC9xBx2uL-NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759136470082770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759136470082770"/>
+    <gphoto:id>5955759136470082770</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>785596</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>63774106</gphoto:checksum>
+    <gphoto:timestamp>1386384011000</gphoto:timestamp>
+    <gphoto:imageVersion>4307</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759136470082770</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1386416411000</exif:time>
+      <exif:imageUniqueID>668c6d716f1e3991099dd532bcbdd83a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8HEWo4n4-9k/UqcbYTEWJNI/AAAAAAAAENM/en68Vloxp0s/PC077370.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8HEWo4n4-9k/UqcbYTEWJNI/AAAAAAAAENM/en68Vloxp0s/s72/PC077370.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8HEWo4n4-9k/UqcbYTEWJNI/AAAAAAAAENM/en68Vloxp0s/s144/PC077370.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8HEWo4n4-9k/UqcbYTEWJNI/AAAAAAAAENM/en68Vloxp0s/s288/PC077370.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077370.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759151656086146</id>
+    <published>2013-12-10T13:47:16.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077373.JPG</title>
+    <summary type="text">撮ってもらった</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_Y4DRhgA3x4/UqcbZLo-KoI/AAAAAAAAENQ/Ey6DsWhEvn0/PC077373.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759151656086146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759151656086146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CUZVVCocJ4eZc_HDVxQIvdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759151656086146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759151656086146"/>
+    <gphoto:id>5955759151656086146</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>669286</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f4e1a116</gphoto:checksum>
+    <gphoto:timestamp>1386384229000</gphoto:timestamp>
+    <gphoto:imageVersion>4308</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759151656086146</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386416629000</exif:time>
+      <exif:imageUniqueID>c06e1a0e1d35b701fd4b803282bae2f1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_Y4DRhgA3x4/UqcbZLo-KoI/AAAAAAAAENQ/Ey6DsWhEvn0/PC077373.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">撮ってもらった</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Y4DRhgA3x4/UqcbZLo-KoI/AAAAAAAAENQ/Ey6DsWhEvn0/s72/PC077373.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Y4DRhgA3x4/UqcbZLo-KoI/AAAAAAAAENQ/Ey6DsWhEvn0/s144/PC077373.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_Y4DRhgA3x4/UqcbZLo-KoI/AAAAAAAAENQ/Ey6DsWhEvn0/s288/PC077373.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077373.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759169684847154</id>
+    <published>2013-12-10T13:47:20.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077375.JPG</title>
+    <summary type="text">シュバルツゼクス・プロトタイプMk-Ⅱも見たかった</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-sV_Suu4xwxI/UqcbaOzXOjI/AAAAAAAAENY/dE3eexfv-t0/PC077375.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759169684847154"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759169684847154"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/x7voG0VfB-cWouEf0zWJD9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759169684847154"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759169684847154"/>
+    <gphoto:id>5955759169684847154</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>804788</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f54cc116</gphoto:checksum>
+    <gphoto:timestamp>1386384606000</gphoto:timestamp>
+    <gphoto:imageVersion>4310</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759169684847154</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417006000</exif:time>
+      <exif:imageUniqueID>0e3846b5b7f95b2c77e92987b22c696d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sV_Suu4xwxI/UqcbaOzXOjI/AAAAAAAAENY/dE3eexfv-t0/PC077375.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">シュバルツゼクス・プロトタイプMk-Ⅱも見たかった</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sV_Suu4xwxI/UqcbaOzXOjI/AAAAAAAAENY/dE3eexfv-t0/s72/PC077375.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sV_Suu4xwxI/UqcbaOzXOjI/AAAAAAAAENY/dE3eexfv-t0/s144/PC077375.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sV_Suu4xwxI/UqcbaOzXOjI/AAAAAAAAENY/dE3eexfv-t0/s288/PC077375.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077375.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759186028404850</id>
+    <published>2013-12-10T13:47:24.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077374.JPG</title>
+    <summary type="text">『爆ぜろリアル！ 弾けろシナプス！ Vanishment This World！』</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Q9esSZdw-AU/UqcbbLr-IHI/AAAAAAAAENg/UjvkcLjIZfQ/PC077374.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759186028404850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759186028404850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/FPKbB2kTASk2_jqrjyIZA9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759186028404850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759186028404850"/>
+    <gphoto:id>5955759186028404850</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>25.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>709390</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5010116</gphoto:checksum>
+    <gphoto:timestamp>1386384596000</gphoto:timestamp>
+    <gphoto:imageVersion>4312</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759186028404850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386416996000</exif:time>
+      <exif:imageUniqueID>f6209942569dbc003672ecd0d9a0f693</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Q9esSZdw-AU/UqcbbLr-IHI/AAAAAAAAENg/UjvkcLjIZfQ/PC077374.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">『爆ぜろリアル！ 弾けろシナプス！ Vanishment This World！』</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Q9esSZdw-AU/UqcbbLr-IHI/AAAAAAAAENg/UjvkcLjIZfQ/s72/PC077374.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Q9esSZdw-AU/UqcbbLr-IHI/AAAAAAAAENg/UjvkcLjIZfQ/s144/PC077374.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Q9esSZdw-AU/UqcbbLr-IHI/AAAAAAAAENg/UjvkcLjIZfQ/s288/PC077374.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077374.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759199318144258</id>
+    <published>2013-12-10T13:47:27.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077384.JPG</title>
+    <summary type="text">♪夢ならたくさん見た♪</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-paeUk4ehYFI/Uqcbb9MfdQI/AAAAAAAAENo/efwJN_r7mQI/PC077384.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759199318144258"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759199318144258"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/zHcoKqQcYL_1mwGaYVDOoNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759199318144258"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759199318144258"/>
+    <gphoto:id>5955759199318144258</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>26.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>343134</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f532e116</gphoto:checksum>
+    <gphoto:timestamp>1386384685000</gphoto:timestamp>
+    <gphoto:imageVersion>4314</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759199318144258</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417085000</exif:time>
+      <exif:imageUniqueID>1f983aaedbf0f13c51da9d907e2c43d7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-paeUk4ehYFI/Uqcbb9MfdQI/AAAAAAAAENo/efwJN_r7mQI/PC077384.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">♪夢ならたくさん見た♪</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-paeUk4ehYFI/Uqcbb9MfdQI/AAAAAAAAENo/efwJN_r7mQI/s72/PC077384.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-paeUk4ehYFI/Uqcbb9MfdQI/AAAAAAAAENo/efwJN_r7mQI/s144/PC077384.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-paeUk4ehYFI/Uqcbb9MfdQI/AAAAAAAAENo/efwJN_r7mQI/s288/PC077384.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077384.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759222933030386</id>
+    <published>2013-12-10T13:47:33.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077386.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NWg-jIsG3os/UqcbdVKuBfI/AAAAAAAAENw/fmstvUE3HPk/PC077386.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759222933030386"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759222933030386"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dbtWcW_epeeppCUA-OjuGtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759222933030386"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759222933030386"/>
+    <gphoto:id>5955759222933030386</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>27.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>790116</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>63d28106</gphoto:checksum>
+    <gphoto:timestamp>1386384804000</gphoto:timestamp>
+    <gphoto:imageVersion>4316</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759222933030386</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417204000</exif:time>
+      <exif:imageUniqueID>01e7e009dbc9596ff2aa74f0c29520d8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NWg-jIsG3os/UqcbdVKuBfI/AAAAAAAAENw/fmstvUE3HPk/PC077386.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NWg-jIsG3os/UqcbdVKuBfI/AAAAAAAAENw/fmstvUE3HPk/s72/PC077386.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NWg-jIsG3os/UqcbdVKuBfI/AAAAAAAAENw/fmstvUE3HPk/s144/PC077386.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NWg-jIsG3os/UqcbdVKuBfI/AAAAAAAAENw/fmstvUE3HPk/s288/PC077386.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077386.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759241087589058</id>
+    <published>2013-12-10T13:47:37.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077387.JPG</title>
+    <summary type="text">仲いいな</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-sU9_WW2YsB8/UqcbeYzGmsI/AAAAAAAAEN0/qu-rulOhHB8/PC077387.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759241087589058"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759241087589058"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_IZjjKcnT7opSK-IEf-9FdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759241087589058"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759241087589058"/>
+    <gphoto:id>5955759241087589058</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>28.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>854887</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f555c106</gphoto:checksum>
+    <gphoto:timestamp>1386384812000</gphoto:timestamp>
+    <gphoto:imageVersion>4317</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759241087589058</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417212000</exif:time>
+      <exif:imageUniqueID>b9cec03adab4c74672f3f230ef5e28e9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sU9_WW2YsB8/UqcbeYzGmsI/AAAAAAAAEN0/qu-rulOhHB8/PC077387.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">仲いいな</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sU9_WW2YsB8/UqcbeYzGmsI/AAAAAAAAEN0/qu-rulOhHB8/s72/PC077387.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sU9_WW2YsB8/UqcbeYzGmsI/AAAAAAAAEN0/qu-rulOhHB8/s144/PC077387.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sU9_WW2YsB8/UqcbeYzGmsI/AAAAAAAAEN0/qu-rulOhHB8/s288/PC077387.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077387.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759258955071874</id>
+    <published>2013-12-10T13:47:41.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077392.JPG</title>
+    <summary type="text">一回生</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-murAxmi4aZI/UqcbfbXCwYI/AAAAAAAAEN8/D6Qt_pdk0HY/PC077392.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759258955071874"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759258955071874"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YcN-UjEilxDZ8TIeL2J5H9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759258955071874"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759258955071874"/>
+    <gphoto:id>5955759258955071874</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>29.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>944890</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5662116</gphoto:checksum>
+    <gphoto:timestamp>1386385483000</gphoto:timestamp>
+    <gphoto:imageVersion>4319</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759258955071874</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.7</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.09</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417883000</exif:time>
+      <exif:imageUniqueID>159799d26da0fecd6d3e4d3c2b950b3e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-murAxmi4aZI/UqcbfbXCwYI/AAAAAAAAEN8/D6Qt_pdk0HY/PC077392.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">一回生</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-murAxmi4aZI/UqcbfbXCwYI/AAAAAAAAEN8/D6Qt_pdk0HY/s72/PC077392.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-murAxmi4aZI/UqcbfbXCwYI/AAAAAAAAEN8/D6Qt_pdk0HY/s144/PC077392.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-murAxmi4aZI/UqcbfbXCwYI/AAAAAAAAEN8/D6Qt_pdk0HY/s288/PC077392.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077392.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759288127202546</id>
+    <published>2013-12-10T13:47:48.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077393.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Xvon44_7jao/UqcbhICOJPI/AAAAAAAAEOE/EShnWI0ZpT4/PC077393.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759288127202546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759288127202546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sdBDtgTAOjHIUJ2X-DlizdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759288127202546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759288127202546"/>
+    <gphoto:id>5955759288127202546</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>30.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>992985</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>642fc116</gphoto:checksum>
+    <gphoto:timestamp>1386385487000</gphoto:timestamp>
+    <gphoto:imageVersion>4321</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759288127202546</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.7</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.09</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386417887000</exif:time>
+      <exif:imageUniqueID>ce0fe883eda08c15124907a388a0d2fc</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Xvon44_7jao/UqcbhICOJPI/AAAAAAAAEOE/EShnWI0ZpT4/PC077393.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Xvon44_7jao/UqcbhICOJPI/AAAAAAAAEOE/EShnWI0ZpT4/s72/PC077393.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Xvon44_7jao/UqcbhICOJPI/AAAAAAAAEOE/EShnWI0ZpT4/s144/PC077393.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Xvon44_7jao/UqcbhICOJPI/AAAAAAAAEOE/EShnWI0ZpT4/s288/PC077393.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077393.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759306217654466</id>
+    <published>2013-12-10T13:47:52.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077394.JPG</title>
+    <summary type="text">サーティーンwww</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4UmVsc8vFcI/UqcbiLbUiMI/AAAAAAAAEOQ/mT3H-PsZoFc/PC077394.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759306217654466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759306217654466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kspedp_E4OdfH3nY2YhctdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759306217654466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759306217654466"/>
+    <gphoto:id>5955759306217654466</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>31.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>775391</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f551c116</gphoto:checksum>
+    <gphoto:timestamp>1386385565000</gphoto:timestamp>
+    <gphoto:imageVersion>4324</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759306217654466</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>14.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.73</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1386417965000</exif:time>
+      <exif:imageUniqueID>1b09ed31499445364a649e629a1ced77</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4UmVsc8vFcI/UqcbiLbUiMI/AAAAAAAAEOQ/mT3H-PsZoFc/PC077394.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">サーティーンwww</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4UmVsc8vFcI/UqcbiLbUiMI/AAAAAAAAEOQ/mT3H-PsZoFc/s72/PC077394.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4UmVsc8vFcI/UqcbiLbUiMI/AAAAAAAAEOQ/mT3H-PsZoFc/s144/PC077394.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4UmVsc8vFcI/UqcbiLbUiMI/AAAAAAAAEOQ/mT3H-PsZoFc/s288/PC077394.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077394.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759328074109586</id>
+    <published>2013-12-10T13:47:57.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077395.JPG</title>
+    <summary type="text">遅刻のもちだ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XtTeT4HCLCg/Uqcbjc2TkpI/AAAAAAAAEOY/iZyjmWzEqFw/PC077395.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759328074109586"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759328074109586"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uy5e__MQbjW9uek60I4xVtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759328074109586"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759328074109586"/>
+    <gphoto:id>5955759328074109586</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>32.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>977196</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f558a116</gphoto:checksum>
+    <gphoto:timestamp>1386385608000</gphoto:timestamp>
+    <gphoto:imageVersion>4326</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759328074109586</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.73</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418008000</exif:time>
+      <exif:imageUniqueID>c156068e1ab09c3f1214016d7525aa71</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XtTeT4HCLCg/Uqcbjc2TkpI/AAAAAAAAEOY/iZyjmWzEqFw/PC077395.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">遅刻のもちだ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XtTeT4HCLCg/Uqcbjc2TkpI/AAAAAAAAEOY/iZyjmWzEqFw/s72/PC077395.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XtTeT4HCLCg/Uqcbjc2TkpI/AAAAAAAAEOY/iZyjmWzEqFw/s144/PC077395.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XtTeT4HCLCg/Uqcbjc2TkpI/AAAAAAAAEOY/iZyjmWzEqFw/s288/PC077395.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077395.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759347465526290</id>
+    <published>2013-12-10T13:48:02.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077402.JPG</title>
+    <summary type="text">二回生</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yOYI4C3DmmQ/UqcbklFlHBI/AAAAAAAAEOg/04IxZ2upMe4/PC077402.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759347465526290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759347465526290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Kj7CZd-pEtFrDL2vk2MrAdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759347465526290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759347465526290"/>
+    <gphoto:id>5955759347465526290</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>33.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>976769</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f566c116</gphoto:checksum>
+    <gphoto:timestamp>1386385679000</gphoto:timestamp>
+    <gphoto:imageVersion>4328</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759347465526290</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386418079000</exif:time>
+      <exif:imageUniqueID>6777cf03e37ec40fb79d6b69082b14b5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yOYI4C3DmmQ/UqcbklFlHBI/AAAAAAAAEOg/04IxZ2upMe4/PC077402.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">二回生</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yOYI4C3DmmQ/UqcbklFlHBI/AAAAAAAAEOg/04IxZ2upMe4/s72/PC077402.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yOYI4C3DmmQ/UqcbklFlHBI/AAAAAAAAEOg/04IxZ2upMe4/s144/PC077402.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yOYI4C3DmmQ/UqcbklFlHBI/AAAAAAAAEOg/04IxZ2upMe4/s288/PC077402.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077402.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759368918066994</id>
+    <published>2013-12-10T13:48:07.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077408.JPG</title>
+    <summary type="text">三回生</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nm5dODoDl_s/Uqcbl1AQ5zI/AAAAAAAAEOk/EKEmjDT4er8/PC077408.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759368918066994"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759368918066994"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CQ0k9kqRBibOEJ-PsJViudMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759368918066994"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759368918066994"/>
+    <gphoto:id>5955759368918066994</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>34.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>994642</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5678116</gphoto:checksum>
+    <gphoto:timestamp>1386385818000</gphoto:timestamp>
+    <gphoto:imageVersion>4329</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759368918066994</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.0</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1386418218000</exif:time>
+      <exif:imageUniqueID>9140b5e06627443311a94292e5ae337d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nm5dODoDl_s/Uqcbl1AQ5zI/AAAAAAAAEOk/EKEmjDT4er8/PC077408.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">三回生</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nm5dODoDl_s/Uqcbl1AQ5zI/AAAAAAAAEOk/EKEmjDT4er8/s72/PC077408.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nm5dODoDl_s/Uqcbl1AQ5zI/AAAAAAAAEOk/EKEmjDT4er8/s144/PC077408.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nm5dODoDl_s/Uqcbl1AQ5zI/AAAAAAAAEOk/EKEmjDT4er8/s288/PC077408.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077408.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759391079456850</id>
+    <published>2013-12-10T13:48:12.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077411.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ooxIVCR35C8/UqcbnHj84FI/AAAAAAAAEOw/WLLEAGuAxIs/PC077411.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759391079456850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759391079456850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SfsWj9PESwNvWx8tR-Q1GNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759391079456850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759391079456850"/>
+    <gphoto:id>5955759391079456850</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>35.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>862142</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>64508116</gphoto:checksum>
+    <gphoto:timestamp>1386385845000</gphoto:timestamp>
+    <gphoto:imageVersion>4332</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759391079456850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.6</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.1</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418245000</exif:time>
+      <exif:imageUniqueID>1c29a7d1f5275384fd01e23012ce28ae</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ooxIVCR35C8/UqcbnHj84FI/AAAAAAAAEOw/WLLEAGuAxIs/PC077411.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ooxIVCR35C8/UqcbnHj84FI/AAAAAAAAEOw/WLLEAGuAxIs/s72/PC077411.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ooxIVCR35C8/UqcbnHj84FI/AAAAAAAAEOw/WLLEAGuAxIs/s144/PC077411.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ooxIVCR35C8/UqcbnHj84FI/AAAAAAAAEOw/WLLEAGuAxIs/s288/PC077411.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077411.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759408011267282</id>
+    <published>2013-12-10T13:48:16.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077420.JPG</title>
+    <summary type="text">四回生</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-aITGSf--mVg/UqcboGozzNI/AAAAAAAAEO0/-9ygOANTJUw/PC077420.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759408011267282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759408011267282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QUZ48pIYq684raMktxSnh9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759408011267282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759408011267282"/>
+    <gphoto:id>5955759408011267282</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>826515</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5646116</gphoto:checksum>
+    <gphoto:timestamp>1386385970000</gphoto:timestamp>
+    <gphoto:imageVersion>4333</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759408011267282</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>16.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>11.43</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386418370000</exif:time>
+      <exif:imageUniqueID>31f9f3b2f14f2e528b154e89cff15294</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-aITGSf--mVg/UqcboGozzNI/AAAAAAAAEO0/-9ygOANTJUw/PC077420.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">四回生</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aITGSf--mVg/UqcboGozzNI/AAAAAAAAEO0/-9ygOANTJUw/s72/PC077420.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aITGSf--mVg/UqcboGozzNI/AAAAAAAAEO0/-9ygOANTJUw/s144/PC077420.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aITGSf--mVg/UqcboGozzNI/AAAAAAAAEO0/-9ygOANTJUw/s288/PC077420.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077420.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759426776265298</id>
+    <published>2013-12-10T13:48:20.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077424.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PH-7g07lzSA/UqcbpMiu8lI/AAAAAAAAEO8/WN2lt3nyRRE/PC077424.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759426776265298"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759426776265298"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MzBiCV9RlKuse2YEAjpBmNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759426776265298"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759426776265298"/>
+    <gphoto:id>5955759426776265298</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>37.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>869346</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>646fc116</gphoto:checksum>
+    <gphoto:timestamp>1386385999000</gphoto:timestamp>
+    <gphoto:imageVersion>4335</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759426776265298</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.7</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.09</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418399000</exif:time>
+      <exif:imageUniqueID>b551f042355cff1b1a0c9b2736714d04</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PH-7g07lzSA/UqcbpMiu8lI/AAAAAAAAEO8/WN2lt3nyRRE/PC077424.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PH-7g07lzSA/UqcbpMiu8lI/AAAAAAAAEO8/WN2lt3nyRRE/s72/PC077424.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PH-7g07lzSA/UqcbpMiu8lI/AAAAAAAAEO8/WN2lt3nyRRE/s144/PC077424.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PH-7g07lzSA/UqcbpMiu8lI/AAAAAAAAEO8/WN2lt3nyRRE/s288/PC077424.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077424.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759448479885234</id>
+    <published>2013-12-10T13:48:25.000Z</published>
+    <updated>2013-12-10T13:51:41.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077428.JPG</title>
+    <summary type="text">М１以上</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-edAR5lEt9xw/UqcbqdZR57I/AAAAAAAAEPE/mbj-wWJfiLA/PC077428.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759448479885234"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759448479885234"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1UoES-S_wFiML1ujt3bwH9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759448479885234"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759448479885234"/>
+    <gphoto:id>5955759448479885234</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>38.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>883759</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5624116</gphoto:checksum>
+    <gphoto:timestamp>1386386133000</gphoto:timestamp>
+    <gphoto:imageVersion>4337</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759448479885234</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>13.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>15.06</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1386418533000</exif:time>
+      <exif:imageUniqueID>9626c0e72aacd711eddf3b4180d3e6a7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-edAR5lEt9xw/UqcbqdZR57I/AAAAAAAAEPE/mbj-wWJfiLA/PC077428.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">М１以上</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edAR5lEt9xw/UqcbqdZR57I/AAAAAAAAEPE/mbj-wWJfiLA/s72/PC077428.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edAR5lEt9xw/UqcbqdZR57I/AAAAAAAAEPE/mbj-wWJfiLA/s144/PC077428.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-edAR5lEt9xw/UqcbqdZR57I/AAAAAAAAEPE/mbj-wWJfiLA/s288/PC077428.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077428.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759466600179090</id>
+    <published>2013-12-10T13:48:30.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077431.JPG</title>
+    <summary type="text">集合写真</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qWJeXsaHREs/Uqcbrg5fpZI/AAAAAAAAEPM/bTUMn0qZS80/PC077431.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759466600179090"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759466600179090"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/FSte-dOyQL1pbsXwhwQIyNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759466600179090"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759466600179090"/>
+    <gphoto:id>5955759466600179090</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>39.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1001825</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5634116</gphoto:checksum>
+    <gphoto:timestamp>1386386343000</gphoto:timestamp>
+    <gphoto:imageVersion>4339</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759466600179090</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418743000</exif:time>
+      <exif:imageUniqueID>1cc72dfa2d0739bed87c77506fd721c8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qWJeXsaHREs/Uqcbrg5fpZI/AAAAAAAAEPM/bTUMn0qZS80/PC077431.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">集合写真</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qWJeXsaHREs/Uqcbrg5fpZI/AAAAAAAAEPM/bTUMn0qZS80/s72/PC077431.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qWJeXsaHREs/Uqcbrg5fpZI/AAAAAAAAEPM/bTUMn0qZS80/s144/PC077431.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qWJeXsaHREs/Uqcbrg5fpZI/AAAAAAAAEPM/bTUMn0qZS80/s288/PC077431.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077431.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759488939233490</id>
+    <published>2013-12-10T13:48:35.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077432.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1cXj-YX-zdM/Uqcbs0HikNI/AAAAAAAAEPY/hhAY8HTN6L0/PC077432.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759488939233490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759488939233490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JsiLIjAYVaogxfa-FBU8mNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759488939233490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759488939233490"/>
+    <gphoto:id>5955759488939233490</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>40.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1062159</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>64904116</gphoto:checksum>
+    <gphoto:timestamp>1386386354000</gphoto:timestamp>
+    <gphoto:imageVersion>4342</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759488939233490</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418754000</exif:time>
+      <exif:imageUniqueID>2ee9e7d6183d970845df27da19a7a0eb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1cXj-YX-zdM/Uqcbs0HikNI/AAAAAAAAEPY/hhAY8HTN6L0/PC077432.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1cXj-YX-zdM/Uqcbs0HikNI/AAAAAAAAEPY/hhAY8HTN6L0/s72/PC077432.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1cXj-YX-zdM/Uqcbs0HikNI/AAAAAAAAEPY/hhAY8HTN6L0/s144/PC077432.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1cXj-YX-zdM/Uqcbs0HikNI/AAAAAAAAEPY/hhAY8HTN6L0/s288/PC077432.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077432.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759513905363490</id>
+    <published>2013-12-10T13:48:41.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077433.JPG</title>
+    <summary type="text">見比べると面白いかも</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6J-L0B_U0LA/UqcbuRH7eiI/AAAAAAAAEPc/qpPlWxQhVZE/PC077433.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759513905363490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759513905363490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/3IABAdGGO7znvF5YNEgIy9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759513905363490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759513905363490"/>
+    <gphoto:id>5955759513905363490</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>41.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1067606</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5744116</gphoto:checksum>
+    <gphoto:timestamp>1386386356000</gphoto:timestamp>
+    <gphoto:imageVersion>4343</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759513905363490</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.25</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418756000</exif:time>
+      <exif:imageUniqueID>c0d296c7f88f313063c803cbd154bf01</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6J-L0B_U0LA/UqcbuRH7eiI/AAAAAAAAEPc/qpPlWxQhVZE/PC077433.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">見比べると面白いかも</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6J-L0B_U0LA/UqcbuRH7eiI/AAAAAAAAEPc/qpPlWxQhVZE/s72/PC077433.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6J-L0B_U0LA/UqcbuRH7eiI/AAAAAAAAEPc/qpPlWxQhVZE/s144/PC077433.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6J-L0B_U0LA/UqcbuRH7eiI/AAAAAAAAEPc/qpPlWxQhVZE/s288/PC077433.JPG" height="216" width="288"/>
+      <media:title type="plain">PC077433.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759534646262418</id>
+    <published>2013-12-10T13:48:45.000Z</published>
+    <updated>2015-10-04T04:03:27.625Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC077434.JPG</title>
+    <summary type="text">最後のエールをかけるFujimuraさん</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-OZBwJ9Rc8_M/UqcbveY8epI/AAAAAAAAEPo/Pg7kG2gOnNg/PC077434.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759534646262418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117567500719559926863/TT02#5955759534646262418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Gw64G-tAqKN2xjJM_hiRSNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117567500719559926863/albumid/5955758769239663505/photoid/5955759534646262418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117567500719559926863&amp;aid=5955758769239663505&amp;iid=5955759534646262418"/>
+    <gphoto:id>5955759534646262418</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>42.0</gphoto:position>
+    <gphoto:albumid>5955758769239663505</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>745784</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f5684126</gphoto:checksum>
+    <gphoto:timestamp>1386386583000</gphoto:timestamp>
+    <gphoto:imageVersion>4346</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_5955759534646262418</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1386418983000</exif:time>
+      <exif:imageUniqueID>55d71d2b862e9c201e73d21fcfa01cad</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OZBwJ9Rc8_M/UqcbveY8epI/AAAAAAAAEPo/Pg7kG2gOnNg/PC077434.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>West Nishida</media:credit>
+      <media:description type="plain">最後のエールをかけるFujimuraさん</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OZBwJ9Rc8_M/UqcbveY8epI/AAAAAAAAEPo/Pg7kG2gOnNg/s72/PC077434.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OZBwJ9Rc8_M/UqcbveY8epI/AAAAAAAAEPo/Pg7kG2gOnNg/s144/PC077434.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OZBwJ9Rc8_M/UqcbveY8epI/AAAAAAAAEPo/Pg7kG2gOnNg/s288/PC077434.JPG" height="288" width="216"/>
+      <media:title type="plain">PC077434.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

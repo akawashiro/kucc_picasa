@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681</id>
+  <updated>2013-05-12T00:41:43.714Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">お気に入り</title>
+  <subtitle type="text">お気に入りの写真たち
+こうしてみると雪上多いですね。</subtitle>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-EZaqDxA5b6U/THukU8ws2FE/AAAAAAAAB44/O5pJawdXd-o/s160-c/VPEzsF.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Hidehiko Ohyama</name>
+    <uri>https://picasaweb.google.com/111326936830874166237</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>13</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5511179248832665681</gphoto:id>
+  <gphoto:name>VPEzsF</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1283151600000</gphoto:timestamp>
+  <gphoto:numphotos>13</gphoto:numphotos>
+  <gphoto:user>111326936830874166237</gphoto:user>
+  <gphoto:nickname>Hidehiko Ohyama</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179803042173426</id>
+    <published>2010-08-30T12:32:20.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">oze1.jpg</title>
+    <summary type="text">１０GW尾瀬この後滑落.</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-tVwS5FjLwLQ/THuk1NWi0fI/AAAAAAAABx4/lkAux5nDExo/oze1.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179803042173426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511179803042173426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QK_ArFHB11qvzpfPyfzD0tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179803042173426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511179803042173426"/>
+    <gphoto:id>5511179803042173426</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>634</gphoto:width>
+    <gphoto:height>845</gphoto:height>
+    <gphoto:size>63125</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1272898317000</gphoto:timestamp>
+    <gphoto:imageVersion>1822</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1272898317000</exif:time>
+      <exif:imageUniqueID>219def10d4d72e52f3e554830b53f31b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tVwS5FjLwLQ/THuk1NWi0fI/AAAAAAAABx4/lkAux5nDExo/oze1.jpg" height="512" width="385" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">１０GW尾瀬この後滑落.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tVwS5FjLwLQ/THuk1NWi0fI/AAAAAAAABx4/lkAux5nDExo/s72/oze1.jpg" height="72" width="55"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tVwS5FjLwLQ/THuk1NWi0fI/AAAAAAAABx4/lkAux5nDExo/s144/oze1.jpg" height="144" width="109"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tVwS5FjLwLQ/THuk1NWi0fI/AAAAAAAABx4/lkAux5nDExo/s288/oze1.jpg" height="288" width="217"/>
+      <media:title type="plain">oze1.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179824700874562</id>
+    <published>2010-08-30T12:32:25.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">朝焼け.JPG</title>
+    <summary type="text">０８ニュージーランドtaranaki山にて朝焼け</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Edn76ig_g04/THuk2eCYX0I/AAAAAAAABx8/Vm9S6mxcu5k/%2525E6%25259C%25259D%2525E7%252584%2525BC%2525E3%252581%252591.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179824700874562"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511179824700874562"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GmXOTE8Mihocvx5CZjU6wtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511179824700874562"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511179824700874562"/>
+    <gphoto:id>5511179824700874562</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>95129</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1232087142000</gphoto:timestamp>
+    <gphoto:imageVersion>1823</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1232087142000</exif:time>
+      <exif:imageUniqueID>cfe0f17229541e218a4ec3a15ff70758</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Edn76ig_g04/THuk2eCYX0I/AAAAAAAABx8/Vm9S6mxcu5k/%2525E6%25259C%25259D%2525E7%252584%2525BC%2525E3%252581%252591.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">０８ニュージーランドtaranaki山にて朝焼け</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Edn76ig_g04/THuk2eCYX0I/AAAAAAAABx8/Vm9S6mxcu5k/s72/%2525E6%25259C%25259D%2525E7%252584%2525BC%2525E3%252581%252591.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Edn76ig_g04/THuk2eCYX0I/AAAAAAAABx8/Vm9S6mxcu5k/s144/%2525E6%25259C%25259D%2525E7%252584%2525BC%2525E3%252581%252591.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Edn76ig_g04/THuk2eCYX0I/AAAAAAAABx8/Vm9S6mxcu5k/s288/%2525E6%25259C%25259D%2525E7%252584%2525BC%2525E3%252581%252591.JPG" height="216" width="288"/>
+      <media:title type="plain">朝焼け.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578778121664498</id>
+    <published>2010-08-31T14:20:34.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">100-0057_IMG.JPG</title>
+    <summary type="text">1回生夏合宿乗鞍、あのころは熊はいなかった。。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-OeY24vNd9g8/TH0PsnWF9_I/AAAAAAAAByw/AsyTk70NJYk/100-0057_IMG.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578778121664498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578778121664498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1uT3cfnSqijv2q0o6G_IeNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578778121664498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578778121664498"/>
+    <gphoto:id>5511578778121664498</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>77754</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1093167772000</gphoto:timestamp>
+    <gphoto:imageVersion>1836</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot S40</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.09375</exif:focallength>
+      <exif:time>1093167772000</exif:time>
+      <exif:imageUniqueID>1cfb535a037eeae95dd847529e3bf538</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OeY24vNd9g8/TH0PsnWF9_I/AAAAAAAAByw/AsyTk70NJYk/100-0057_IMG.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">1回生夏合宿乗鞍、あのころは熊はいなかった。。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OeY24vNd9g8/TH0PsnWF9_I/AAAAAAAAByw/AsyTk70NJYk/s72/100-0057_IMG.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OeY24vNd9g8/TH0PsnWF9_I/AAAAAAAAByw/AsyTk70NJYk/s144/100-0057_IMG.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OeY24vNd9g8/TH0PsnWF9_I/AAAAAAAAByw/AsyTk70NJYk/s288/100-0057_IMG.JPG" height="288" width="216"/>
+      <media:title type="plain">100-0057_IMG.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578796707715778</id>
+    <published>2010-08-31T14:20:38.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">100-0043_IMG.JPG</title>
+    <summary type="text">1回生NF、屋久島。タオルがみっともないなぁ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bSMtq39uBN0/TH0PtslWmsI/AAAAAAAABy0/vZ_V-FEokRo/100-0043_IMG.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578796707715778"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578796707715778"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/i25fk6e5F0JCam0b-4qQbdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578796707715778"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578796707715778"/>
+    <gphoto:id>5511578796707715778</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>430025</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1101024236000</gphoto:timestamp>
+    <gphoto:imageVersion>1837</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot S40</exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.625</exif:focallength>
+      <exif:time>1101024236000</exif:time>
+      <exif:imageUniqueID>a15649511c4fac3b5942c001956d7012</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bSMtq39uBN0/TH0PtslWmsI/AAAAAAAABy0/vZ_V-FEokRo/100-0043_IMG.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">1回生NF、屋久島。タオルがみっともないなぁ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bSMtq39uBN0/TH0PtslWmsI/AAAAAAAABy0/vZ_V-FEokRo/s72/100-0043_IMG.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bSMtq39uBN0/TH0PtslWmsI/AAAAAAAABy0/vZ_V-FEokRo/s144/100-0043_IMG.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bSMtq39uBN0/TH0PtslWmsI/AAAAAAAABy0/vZ_V-FEokRo/s288/100-0043_IMG.JPG" height="216" width="288"/>
+      <media:title type="plain">100-0043_IMG.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578815512220658</id>
+    <published>2010-08-31T14:20:43.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8150009.JPG</title>
+    <summary type="text">3回生中村班、今とあんま変わってない。。。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6aEQ1Ao3Esg/TH0Puyosk_I/AAAAAAAABy4/aoxe9d11ErU/P8150009.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578815512220658"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578815512220658"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Apv3CmguuYPTzsc6Qwlz39MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578815512220658"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578815512220658"/>
+    <gphoto:id>5511578815512220658</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>200079</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1124116508000</gphoto:timestamp>
+    <gphoto:imageVersion>1838</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:iso>64</exif:iso>
+      <exif:time>1124116508000</exif:time>
+      <exif:imageUniqueID>d50886fe08b992a44054ffa652e84e5b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6aEQ1Ao3Esg/TH0Puyosk_I/AAAAAAAABy4/aoxe9d11ErU/P8150009.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">3回生中村班、今とあんま変わってない。。。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6aEQ1Ao3Esg/TH0Puyosk_I/AAAAAAAABy4/aoxe9d11ErU/s72/P8150009.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6aEQ1Ao3Esg/TH0Puyosk_I/AAAAAAAABy4/aoxe9d11ErU/s144/P8150009.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6aEQ1Ao3Esg/TH0Puyosk_I/AAAAAAAABy4/aoxe9d11ErU/s288/P8150009.JPG" height="288" width="216"/>
+      <media:title type="plain">P8150009.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578836484323170</id>
+    <published>2010-08-31T14:20:48.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PA090018.JPG</title>
+    <summary type="text">3回生10月2週目3連休北アルプスに初積雪。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pTYQK1fddjQ/TH0PwAw1d2I/AAAAAAAABy8/34gM9VqHFDQ/PA090018.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578836484323170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578836484323170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dlWtD1njEScy9a95ZIP4wdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578836484323170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578836484323170"/>
+    <gphoto:id>5511578836484323170</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>303676</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1128839515000</gphoto:timestamp>
+    <gphoto:imageVersion>1839</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1128839515000</exif:time>
+      <exif:imageUniqueID>90b6571d7aff7e773b227336b560c74f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pTYQK1fddjQ/TH0PwAw1d2I/AAAAAAAABy8/34gM9VqHFDQ/PA090018.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">3回生10月2週目3連休北アルプスに初積雪。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pTYQK1fddjQ/TH0PwAw1d2I/AAAAAAAABy8/34gM9VqHFDQ/s72/PA090018.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pTYQK1fddjQ/TH0PwAw1d2I/AAAAAAAABy8/34gM9VqHFDQ/s144/PA090018.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pTYQK1fddjQ/TH0PwAw1d2I/AAAAAAAABy8/34gM9VqHFDQ/s288/PA090018.JPG" height="288" width="216"/>
+      <media:title type="plain">PA090018.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578866356560930</id>
+    <published>2010-08-31T14:20:55.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PA090028.JPG</title>
+    <summary type="text">蝶ヶ岳を自転車かついで越えてみた。担ぎはもうしない・・</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8oRt5LcMGJo/TH0PxwC7pCI/AAAAAAAABzA/cS8Rv_mvzeE/PA090028.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578866356560930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578866356560930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2_YjqoVp7UbbdawzdyAqcNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578866356560930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578866356560930"/>
+    <gphoto:id>5511578866356560930</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>555502</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1128855880000</gphoto:timestamp>
+    <gphoto:imageVersion>1840</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.1</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1128855880000</exif:time>
+      <exif:imageUniqueID>2e855f3c8070e23a70155a38f63c6438</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8oRt5LcMGJo/TH0PxwC7pCI/AAAAAAAABzA/cS8Rv_mvzeE/PA090028.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">蝶ヶ岳を自転車かついで越えてみた。担ぎはもうしない・・</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8oRt5LcMGJo/TH0PxwC7pCI/AAAAAAAABzA/cS8Rv_mvzeE/s72/PA090028.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8oRt5LcMGJo/TH0PxwC7pCI/AAAAAAAABzA/cS8Rv_mvzeE/s144/PA090028.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8oRt5LcMGJo/TH0PxwC7pCI/AAAAAAAABzA/cS8Rv_mvzeE/s288/PA090028.JPG" height="216" width="288"/>
+      <media:title type="plain">PA090028.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578891355499906</id>
+    <published>2010-08-31T14:21:00.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1000531.JPG</title>
+    <summary type="text">2回生年越し八ヶ岳。晴れだけどすごい風だった。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3WUKeAFXjww/TH0PzNLJLYI/AAAAAAAABzE/uh2jXXA2o18/P1000531.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578891355499906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578891355499906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jy392VB28XttytcpOp1fyNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578891355499906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578891355499906"/>
+    <gphoto:id>5511578891355499906</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>325583</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1136022849000</gphoto:timestamp>
+    <gphoto:imageVersion>1841</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-FX8</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1136022849000</exif:time>
+      <exif:imageUniqueID>5dea6411c2d1351a7c36f8a72b06aa1a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3WUKeAFXjww/TH0PzNLJLYI/AAAAAAAABzE/uh2jXXA2o18/P1000531.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">2回生年越し八ヶ岳。晴れだけどすごい風だった。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3WUKeAFXjww/TH0PzNLJLYI/AAAAAAAABzE/uh2jXXA2o18/s72/P1000531.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3WUKeAFXjww/TH0PzNLJLYI/AAAAAAAABzE/uh2jXXA2o18/s144/P1000531.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3WUKeAFXjww/TH0PzNLJLYI/AAAAAAAABzE/uh2jXXA2o18/s288/P1000531.JPG" height="216" width="288"/>
+      <media:title type="plain">P1000531.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578908587192898</id>
+    <published>2010-08-31T14:21:04.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P2210041.JPG</title>
+    <summary type="text">3回生冬北、紋別の町。僕にとって冬北の景色はこれ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mAdhNNIs5cs/TH0P0NXf8kI/AAAAAAAABzI/-ttHREzuOS4/P2210041.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578908587192898"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578908587192898"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ustSuDsOdE3XynV-x5-6VNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578908587192898"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578908587192898"/>
+    <gphoto:id>5511578908587192898</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>205121</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1140505341000</gphoto:timestamp>
+    <gphoto:imageVersion>1842</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.1</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1140505341000</exif:time>
+      <exif:imageUniqueID>b0bc4feb5a480ae063d4b008d1b4ddcb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mAdhNNIs5cs/TH0P0NXf8kI/AAAAAAAABzI/-ttHREzuOS4/P2210041.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">3回生冬北、紋別の町。僕にとって冬北の景色はこれ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mAdhNNIs5cs/TH0P0NXf8kI/AAAAAAAABzI/-ttHREzuOS4/s72/P2210041.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mAdhNNIs5cs/TH0P0NXf8kI/AAAAAAAABzI/-ttHREzuOS4/s144/P2210041.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mAdhNNIs5cs/TH0P0NXf8kI/AAAAAAAABzI/-ttHREzuOS4/s288/P2210041.JPG" height="216" width="288"/>
+      <media:title type="plain">P2210041.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578927772086450</id>
+    <published>2010-08-31T14:21:09.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P7200030.JPG</title>
+    <summary type="text">09年海の日3連休、南アルプス聖岳。テントで丸一日停滞の後の登頂。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jFfnJqnENeo/TH0P1U1iMLI/AAAAAAAABzM/hOnCTKOnWnE/P7200030.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578927772086450"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578927772086450"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/y0zB8EglZNGgr6fTmkNqodMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578927772086450"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578927772086450"/>
+    <gphoto:id>5511578927772086450</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>143663</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1248087800000</gphoto:timestamp>
+    <gphoto:imageVersion>1843</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1248087800000</exif:time>
+      <exif:imageUniqueID>d5fc47580cbb16b458fd20ce0c2dda1b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jFfnJqnENeo/TH0P1U1iMLI/AAAAAAAABzM/hOnCTKOnWnE/P7200030.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">09年海の日3連休、南アルプス聖岳。テントで丸一日停滞の後の登頂。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jFfnJqnENeo/TH0P1U1iMLI/AAAAAAAABzM/hOnCTKOnWnE/s72/P7200030.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jFfnJqnENeo/TH0P1U1iMLI/AAAAAAAABzM/hOnCTKOnWnE/s144/P7200030.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jFfnJqnENeo/TH0P1U1iMLI/AAAAAAAABzM/hOnCTKOnWnE/s288/P7200030.JPG" height="216" width="288"/>
+      <media:title type="plain">P7200030.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578949830522642</id>
+    <published>2010-08-31T14:21:14.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9200010.JPG</title>
+    <summary type="text">09年シルバーウィーク雲の平へ。山といえばビールですｗｗ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZhS_dAwKaHU/TH0P2nArNxI/AAAAAAAABzQ/7tSLGlKMXJM/P9200010.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578949830522642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578949830522642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/r98lzqnfeoiPYo5r8j15h9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578949830522642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578949830522642"/>
+    <gphoto:id>5511578949830522642</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>200171</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1253460101000</gphoto:timestamp>
+    <gphoto:imageVersion>1844</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1253460101000</exif:time>
+      <exif:imageUniqueID>8201bcdaff3e87aa1c461f97c70c8666</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZhS_dAwKaHU/TH0P2nArNxI/AAAAAAAABzQ/7tSLGlKMXJM/P9200010.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">09年シルバーウィーク雲の平へ。山といえばビールですｗｗ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZhS_dAwKaHU/TH0P2nArNxI/AAAAAAAABzQ/7tSLGlKMXJM/s72/P9200010.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZhS_dAwKaHU/TH0P2nArNxI/AAAAAAAABzQ/7tSLGlKMXJM/s144/P9200010.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZhS_dAwKaHU/TH0P2nArNxI/AAAAAAAABzQ/7tSLGlKMXJM/s288/P9200010.JPG" height="216" width="288"/>
+      <media:title type="plain">P9200010.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578974956342194</id>
+    <published>2010-08-31T14:21:20.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PA110113.JPG</title>
+    <summary type="text">09年10月3連休白馬岳、やはり初冠雪。白馬が真っ白だ。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0t7ky-TowYs/TH0P4EnIy7I/AAAAAAAABzU/HbCdNSH90V4/PA110113.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578974956342194"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511578974956342194"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/TFW9OmbdAqy-bYLFK_Xa0dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511578974956342194"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511578974956342194"/>
+    <gphoto:id>5511578974956342194</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>182492</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1255281836000</gphoto:timestamp>
+    <gphoto:imageVersion>1845</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1255281836000</exif:time>
+      <exif:imageUniqueID>3ff36e3d789cdefc1ccf4a97fe8a3a20</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0t7ky-TowYs/TH0P4EnIy7I/AAAAAAAABzU/HbCdNSH90V4/PA110113.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">09年10月3連休白馬岳、やはり初冠雪。白馬が真っ白だ。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0t7ky-TowYs/TH0P4EnIy7I/AAAAAAAABzU/HbCdNSH90V4/s72/PA110113.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0t7ky-TowYs/TH0P4EnIy7I/AAAAAAAABzU/HbCdNSH90V4/s144/PA110113.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0t7ky-TowYs/TH0P4EnIy7I/AAAAAAAABzU/HbCdNSH90V4/s288/PA110113.JPG" height="216" width="288"/>
+      <media:title type="plain">PA110113.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511579003223894258</id>
+    <published>2010-08-31T14:21:26.000Z</published>
+    <updated>2013-05-12T00:41:43.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">PC300010.JPG</title>
+    <summary type="text">09年～10年年越し美ヶ原ツーリング。冬季閉鎖中の麦草</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-U_X-E3fWCJc/TH0P5t6paPI/AAAAAAAABzY/J2mtRAagJw0/PC300010.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511579003223894258"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111326936830874166237/VPEzsF#5511579003223894258"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/UKPkyIkpWhNWC8Gxxf_JhNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111326936830874166237/albumid/5511179248832665681/photoid/5511579003223894258"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111326936830874166237&amp;aid=5511179248832665681&amp;iid=5511579003223894258"/>
+    <gphoto:id>5511579003223894258</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5511179248832665681</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>234564</gphoto:size>
+    <gphoto:client>lhx</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1262197368000</gphoto:timestamp>
+    <gphoto:imageVersion>1846</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD600,S600      </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1262197368000</exif:time>
+      <exif:imageUniqueID>452ab12270e86c46b15ddeaf01c851d3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-U_X-E3fWCJc/TH0P5t6paPI/AAAAAAAABzY/J2mtRAagJw0/PC300010.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Hidehiko Ohyama</media:credit>
+      <media:description type="plain">09年～10年年越し美ヶ原ツーリング。冬季閉鎖中の麦草</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U_X-E3fWCJc/TH0P5t6paPI/AAAAAAAABzY/J2mtRAagJw0/s72/PC300010.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U_X-E3fWCJc/TH0P5t6paPI/AAAAAAAABzY/J2mtRAagJw0/s144/PC300010.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-U_X-E3fWCJc/TH0P5t6paPI/AAAAAAAABzY/J2mtRAagJw0/s288/PC300010.JPG" height="216" width="288"/>
+      <media:title type="plain">PC300010.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

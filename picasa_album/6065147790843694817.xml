@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817</id>
+  <updated>2014-12-14T15:31:12.129Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">フォトコン2014　道部門</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-rO4-_uug05k/VCu7x_97zuE/AAAAAAAAA5E/a8OQyC65pgo/s160-c/201404.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Photo Kucc</name>
+    <uri>https://picasaweb.google.com/107884689343530610586</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>19</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6065147790843694817</gphoto:id>
+  <gphoto:name>201404</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1412146800000</gphoto:timestamp>
+  <gphoto:numphotos>19</gphoto:numphotos>
+  <gphoto:user>107884689343530610586</gphoto:user>
+  <gphoto:nickname>Photo Kucc</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065147790079341778</id>
+    <published>2014-10-01T08:31:03.000Z</published>
+    <updated>2014-10-07T07:02:11.427Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0790.JPG</title>
+    <summary type="text">ラピュタの道(柴田)</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MBGFuNe9rls/VCu7x9HstNI/AAAAAAAAAgo/4jueMLLrrAw/IMG_0790.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065147790079341778"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6065147790079341778"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Vfmk0mvKmOp6uVSxE_gM9dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065147790079341778"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6065147790079341778"/>
+    <gphoto:id>6065147790079341778</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>0.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4000</gphoto:width>
+    <gphoto:height>3000</gphoto:height>
+    <gphoto:size>2794664</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1409182811000</gphoto:timestamp>
+    <gphoto:imageVersion>522</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6065147790079341778</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot S110</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.2</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1409215211000</exif:time>
+      <exif:imageUniqueID>d21c23895c00b0cd0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MBGFuNe9rls/VCu7x9HstNI/AAAAAAAAAgo/4jueMLLrrAw/IMG_0790.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">ラピュタの道(柴田)</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MBGFuNe9rls/VCu7x9HstNI/AAAAAAAAAgo/4jueMLLrrAw/s72/IMG_0790.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MBGFuNe9rls/VCu7x9HstNI/AAAAAAAAAgo/4jueMLLrrAw/s144/IMG_0790.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MBGFuNe9rls/VCu7x9HstNI/AAAAAAAAAgo/4jueMLLrrAw/s288/IMG_0790.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_0790.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065150146269903042</id>
+    <published>2014-10-01T08:40:12.000Z</published>
+    <updated>2014-12-14T15:30:53.155Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0744.JPG</title>
+    <summary type="text">ワインディング(柴田)</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lumA6WW84KM/VCu97GnTeMI/AAAAAAAAA48/_NVn9-yPkwI/IMG_0744.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065150146269903042"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6065150146269903042"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gVOqnqFJpuIMFC4xSzf-m9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065150146269903042"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6065150146269903042"/>
+    <gphoto:id>6065150146269903042</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4000</gphoto:width>
+    <gphoto:height>3000</gphoto:height>
+    <gphoto:size>3076548</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1409122252000</gphoto:timestamp>
+    <gphoto:imageVersion>911</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6065150146269903042</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot S110</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.2</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1409154652000</exif:time>
+      <exif:imageUniqueID>aee23a8aed5933920000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lumA6WW84KM/VCu97GnTeMI/AAAAAAAAA48/_NVn9-yPkwI/IMG_0744.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">ワインディング(柴田)</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lumA6WW84KM/VCu97GnTeMI/AAAAAAAAA48/_NVn9-yPkwI/s72/IMG_0744.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lumA6WW84KM/VCu97GnTeMI/AAAAAAAAA48/_NVn9-yPkwI/s144/IMG_0744.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lumA6WW84KM/VCu97GnTeMI/AAAAAAAAA48/_NVn9-yPkwI/s288/IMG_0744.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_0744.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065954988682885058</id>
+    <published>2014-10-03T12:43:24.000Z</published>
+    <updated>2014-10-06T02:32:20.373Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1060631.JPG</title>
+    <summary type="text">この道ゆけば（荒川）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hCGoH0ziKAM/VC6Z7GPzt8I/AAAAAAAAAVQ/ldbZf3KqfKw/P1060631.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065954988682885058"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6065954988682885058"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bW-PSk8pg1nLhdslUITDj9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065954988682885058"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6065954988682885058"/>
+    <gphoto:id>6065954988682885058</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2432</gphoto:width>
+    <gphoto:height>4320</gphoto:height>
+    <gphoto:size>3751305</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1410838859000</gphoto:timestamp>
+    <gphoto:imageVersion>340</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6065954988682885058</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>9.0</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-SZ7</exif:model>
+      <exif:exposure>7.6923077E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.5</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1410871259000</exif:time>
+      <exif:imageUniqueID>55749f58e8a3f2670000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hCGoH0ziKAM/VC6Z7GPzt8I/AAAAAAAAAVQ/ldbZf3KqfKw/P1060631.JPG" height="512" width="289" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">この道ゆけば（荒川）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCGoH0ziKAM/VC6Z7GPzt8I/AAAAAAAAAVQ/ldbZf3KqfKw/s72/P1060631.JPG" height="72" width="41"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCGoH0ziKAM/VC6Z7GPzt8I/AAAAAAAAAVQ/ldbZf3KqfKw/s144/P1060631.JPG" height="144" width="82"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCGoH0ziKAM/VC6Z7GPzt8I/AAAAAAAAAVQ/ldbZf3KqfKw/s288/P1060631.JPG" height="288" width="163"/>
+      <media:title type="plain">P1060631.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959396664263890</id>
+    <published>2014-10-03T13:00:30.000Z</published>
+    <updated>2014-10-06T02:32:42.885Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1040649.JPG</title>
+    <summary type="text">木漏れ日（荒川）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-SO5wIMJ4PVc/VC6d7rQdxNI/AAAAAAAAAVg/aGeBvykPtL4/P1040649.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959396664263890"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6065959396664263890"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/RqCJMJNfvimuOtY4JSQ5hNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959396664263890"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6065959396664263890"/>
+    <gphoto:id>6065959396664263890</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2432</gphoto:width>
+    <gphoto:height>4320</gphoto:height>
+    <gphoto:size>3676279</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1384579011000</gphoto:timestamp>
+    <gphoto:imageVersion>344</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6065959396664263890</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-SZ7</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1384611411000</exif:time>
+      <exif:imageUniqueID>538323636e30c3bc0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SO5wIMJ4PVc/VC6d7rQdxNI/AAAAAAAAAVg/aGeBvykPtL4/P1040649.JPG" height="512" width="289" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">木漏れ日（荒川）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SO5wIMJ4PVc/VC6d7rQdxNI/AAAAAAAAAVg/aGeBvykPtL4/s72/P1040649.JPG" height="72" width="41"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SO5wIMJ4PVc/VC6d7rQdxNI/AAAAAAAAAVg/aGeBvykPtL4/s144/P1040649.JPG" height="144" width="82"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SO5wIMJ4PVc/VC6d7rQdxNI/AAAAAAAAAVg/aGeBvykPtL4/s288/P1040649.JPG" height="288" width="163"/>
+      <media:title type="plain">P1040649.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959657912188306</id>
+    <published>2014-10-03T13:01:31.000Z</published>
+    <updated>2014-10-06T02:32:52.582Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1050347.JPG</title>
+    <summary type="text">Echoes of Yakushima（荒川）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-K67YkY6Phmo/VC6eK4e0vZI/AAAAAAAAAVw/QCpVn75yjGc/P1050347.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959657912188306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6065959657912188306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7LiaXCusIQqF_3YEICU7wtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6065959657912188306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6065959657912188306"/>
+    <gphoto:id>6065959657912188306</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2432</gphoto:width>
+    <gphoto:height>4320</gphoto:height>
+    <gphoto:size>3820004</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1394416917000</gphoto:timestamp>
+    <gphoto:imageVersion>348</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6065959657912188306</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.1</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-SZ7</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.5</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1394449317000</exif:time>
+      <exif:imageUniqueID>84c14d259bb0c3ac0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K67YkY6Phmo/VC6eK4e0vZI/AAAAAAAAAVw/QCpVn75yjGc/P1050347.JPG" height="512" width="289" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">Echoes of Yakushima（荒川）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K67YkY6Phmo/VC6eK4e0vZI/AAAAAAAAAVw/QCpVn75yjGc/s72/P1050347.JPG" height="72" width="41"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K67YkY6Phmo/VC6eK4e0vZI/AAAAAAAAAVw/QCpVn75yjGc/s144/P1050347.JPG" height="144" width="82"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K67YkY6Phmo/VC6eK4e0vZI/AAAAAAAAAVw/QCpVn75yjGc/s288/P1050347.JPG" height="288" width="163"/>
+      <media:title type="plain">P1050347.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066299651567614690</id>
+    <published>2014-10-04T11:00:52.000Z</published>
+    <updated>2014-10-06T11:33:55.876Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF2029.JPG</title>
+    <summary type="text">冬の秋吉台カルストロード（大嶋）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4W2FiKo_RhU/VC_TZHjDeuI/AAAAAAAAAYs/NQ44WXsyWc0/DSCF2029.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066299651567614690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6066299651567614690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/aPca30FxmIMuUbAazxrrcNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066299651567614690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6066299651567614690"/>
+    <gphoto:id>6066299651567614690</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4320</gphoto:width>
+    <gphoto:height>3240</gphoto:height>
+    <gphoto:size>3192173</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1395715968000</gphoto:timestamp>
+    <gphoto:imageVersion>395</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6066299651567614690</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix XP150</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1395748368000</exif:time>
+      <exif:imageUniqueID>319950b2380e9bcb23f148f5ca9ab434</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4W2FiKo_RhU/VC_TZHjDeuI/AAAAAAAAAYs/NQ44WXsyWc0/DSCF2029.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">冬の秋吉台カルストロード（大嶋）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4W2FiKo_RhU/VC_TZHjDeuI/AAAAAAAAAYs/NQ44WXsyWc0/s72/DSCF2029.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4W2FiKo_RhU/VC_TZHjDeuI/AAAAAAAAAYs/NQ44WXsyWc0/s144/DSCF2029.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4W2FiKo_RhU/VC_TZHjDeuI/AAAAAAAAAYs/NQ44WXsyWc0/s288/DSCF2029.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF2029.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066779335717885122</id>
+    <published>2014-10-05T18:02:17.000Z</published>
+    <updated>2014-10-06T12:05:39.816Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8241052.JPG</title>
+    <summary type="text">地平線まで届け (西田)</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FWef2Hx1kbQ/VDGHqaQlFMI/AAAAAAAAAY0/IQPX1hbW2wI/P8241052.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066779335717885122"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6066779335717885122"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_beJR5AsEy28FJa5UekVO9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6066779335717885122"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6066779335717885122"/>
+    <gphoto:id>6066779335717885122</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>578186</gphoto:size>
+    <gphoto:client>es-pc-add-photos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408842196000</gphoto:timestamp>
+    <gphoto:imageVersion>397</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6066779335717885122</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>11.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1408874596000</exif:time>
+      <exif:imageUniqueID>43043408944289250000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FWef2Hx1kbQ/VDGHqaQlFMI/AAAAAAAAAY0/IQPX1hbW2wI/P8241052.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">地平線まで届け (西田)</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FWef2Hx1kbQ/VDGHqaQlFMI/AAAAAAAAAY0/IQPX1hbW2wI/s72/P8241052.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FWef2Hx1kbQ/VDGHqaQlFMI/AAAAAAAAAY0/IQPX1hbW2wI/s144/P8241052.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FWef2Hx1kbQ/VDGHqaQlFMI/AAAAAAAAAY0/IQPX1hbW2wI/s288/P8241052.JPG" height="216" width="288"/>
+      <media:title type="plain">P8241052.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067147557491022642</id>
+    <published>2014-10-06T17:51:10.000Z</published>
+    <updated>2014-12-14T15:31:12.129Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P3178891.JPG</title>
+    <summary type="text">茶色の世界 (西田)</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9nGtlcCo9co/VDLWjvQhmzI/AAAAAAAAA5E/7NhQhLw6_88/P3178891.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067147557491022642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067147557491022642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fn10fOa1Mejb-3WEBxJ6U9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067147557491022642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067147557491022642"/>
+    <gphoto:id>6067147557491022642</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>6.1666665</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>3264</gphoto:width>
+    <gphoto:height>2448</gphoto:height>
+    <gphoto:size>4105525</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1395041420000</gphoto:timestamp>
+    <gphoto:imageVersion>913</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067147557491022642</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>11.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>TG-620          </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1395073820000</exif:time>
+      <exif:imageUniqueID>49b760f201e0b455298daac2aa4bbe30</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9nGtlcCo9co/VDLWjvQhmzI/AAAAAAAAA5E/7NhQhLw6_88/P3178891.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">茶色の世界 (西田)</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9nGtlcCo9co/VDLWjvQhmzI/AAAAAAAAA5E/7NhQhLw6_88/s72/P3178891.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9nGtlcCo9co/VDLWjvQhmzI/AAAAAAAAA5E/7NhQhLw6_88/s144/P3178891.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9nGtlcCo9co/VDLWjvQhmzI/AAAAAAAAA5E/7NhQhLw6_88/s288/P3178891.JPG" height="216" width="288"/>
+      <media:title type="plain">P3178891.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067056939461703570</id>
+    <published>2014-10-06T11:59:32.000Z</published>
+    <updated>2014-10-20T10:34:03.665Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2851.JPG</title>
+    <summary type="text">雪の回廊（山本）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-TkJZsS-3wLk/VDKEJEyu95I/AAAAAAAAA3w/89pY_iEtkwI/IMG_2851.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067056939461703570"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067056939461703570"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KGzsntfDGedeE6EqMSf3YdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067056939461703570"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067056939461703570"/>
+    <gphoto:id>6067056939461703570</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>6.3333335</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4416</gphoto:width>
+    <gphoto:height>3312</gphoto:height>
+    <gphoto:size>3837712</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1399163514000</gphoto:timestamp>
+    <gphoto:imageVersion>892</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067056939461703570</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot G10</exif:model>
+      <exif:exposure>5.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.1</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1399195914000</exif:time>
+      <exif:imageUniqueID>74a864b4d5010c6d0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TkJZsS-3wLk/VDKEJEyu95I/AAAAAAAAA3w/89pY_iEtkwI/IMG_2851.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">雪の回廊（山本）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkJZsS-3wLk/VDKEJEyu95I/AAAAAAAAA3w/89pY_iEtkwI/s72/IMG_2851.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkJZsS-3wLk/VDKEJEyu95I/AAAAAAAAA3w/89pY_iEtkwI/s144/IMG_2851.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkJZsS-3wLk/VDKEJEyu95I/AAAAAAAAA3w/89pY_iEtkwI/s288/IMG_2851.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_2851.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057174953471074</id>
+    <published>2014-10-06T12:00:27.000Z</published>
+    <updated>2014-10-07T02:54:48.454Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_2887.JPG</title>
+    <summary type="text">除雪ってすごい（山本）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FXUABg-Ss9g/VDKEWyEWLGI/AAAAAAAAAfE/yd3-MuQxbcM/IMG_2887.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057174953471074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067057174953471074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qFEvKunE46PjQIcEgY8ce9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057174953471074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067057174953471074"/>
+    <gphoto:id>6067057174953471074</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>6.5</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4416</gphoto:width>
+    <gphoto:height>3312</gphoto:height>
+    <gphoto:size>5847885</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1399175237000</gphoto:timestamp>
+    <gphoto:imageVersion>497</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067057174953471074</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot G10</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.1</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1399207637000</exif:time>
+      <exif:imageUniqueID>c368152dd47da1c50000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FXUABg-Ss9g/VDKEWyEWLGI/AAAAAAAAAfE/yd3-MuQxbcM/IMG_2887.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">除雪ってすごい（山本）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FXUABg-Ss9g/VDKEWyEWLGI/AAAAAAAAAfE/yd3-MuQxbcM/s72/IMG_2887.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FXUABg-Ss9g/VDKEWyEWLGI/AAAAAAAAAfE/yd3-MuQxbcM/s144/IMG_2887.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FXUABg-Ss9g/VDKEWyEWLGI/AAAAAAAAAfE/yd3-MuQxbcM/s288/IMG_2887.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_2887.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057245861434002</id>
+    <published>2014-10-06T12:00:43.000Z</published>
+    <updated>2014-10-20T10:34:03.910Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_3185.JPG</title>
+    <summary type="text">廃道を行く（山本）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-sEjJuWUmD-g/VDKEa6OH0pI/AAAAAAAAA30/itwnk7om0eI/IMG_3185.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057245861434002"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067057245861434002"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6Bld6XjebcU6D_af0JBJ_tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057245861434002"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067057245861434002"/>
+    <gphoto:id>6067057245861434002</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>6.6666665</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4416</gphoto:width>
+    <gphoto:height>3312</gphoto:height>
+    <gphoto:size>6582164</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1402106731000</gphoto:timestamp>
+    <gphoto:imageVersion>893</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067057245861434002</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot G10</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.1</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1402139131000</exif:time>
+      <exif:imageUniqueID>663634ca3dafd18c0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sEjJuWUmD-g/VDKEa6OH0pI/AAAAAAAAA30/itwnk7om0eI/IMG_3185.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">廃道を行く（山本）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sEjJuWUmD-g/VDKEa6OH0pI/AAAAAAAAA30/itwnk7om0eI/s72/IMG_3185.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sEjJuWUmD-g/VDKEa6OH0pI/AAAAAAAAA30/itwnk7om0eI/s144/IMG_3185.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sEjJuWUmD-g/VDKEa6OH0pI/AAAAAAAAA30/itwnk7om0eI/s288/IMG_3185.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_3185.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057334488491826</id>
+    <published>2014-10-06T12:01:04.000Z</published>
+    <updated>2014-10-07T02:55:02.846Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P1000438.JPG</title>
+    <summary type="text">名もなき\\斜面//（山本）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5h9kuJHbIaE/VDKEgEYdZzI/AAAAAAAAAfY/FL8jIpPv5zU/P1000438.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057334488491826"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067057334488491826"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GONusxhJ9sMarOFa8vbvc9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067057334488491826"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067057334488491826"/>
+    <gphoto:id>6067057334488491826</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>6.8333335</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>4608</gphoto:width>
+    <gphoto:height>3456</gphoto:height>
+    <gphoto:size>3614674</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1412389056000</gphoto:timestamp>
+    <gphoto:imageVersion>502</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067057334488491826</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.1</exif:fstop>
+      <exif:make>Panasonic</exif:make>
+      <exif:model>DMC-SZ8 </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.3</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1412421456000</exif:time>
+      <exif:imageUniqueID>b01963440679a3df0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5h9kuJHbIaE/VDKEgEYdZzI/AAAAAAAAAfY/FL8jIpPv5zU/P1000438.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">名もなき\\斜面//（山本）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5h9kuJHbIaE/VDKEgEYdZzI/AAAAAAAAAfY/FL8jIpPv5zU/s72/P1000438.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5h9kuJHbIaE/VDKEgEYdZzI/AAAAAAAAAfY/FL8jIpPv5zU/s144/P1000438.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5h9kuJHbIaE/VDKEgEYdZzI/AAAAAAAAAfY/FL8jIpPv5zU/s288/P1000438.JPG" height="216" width="288"/>
+      <media:title type="plain">P1000438.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067734555385809282</id>
+    <published>2014-10-08T07:49:02.000Z</published>
+    <updated>2014-10-19T00:42:22.438Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0738.JPG</title>
+    <summary type="text">これから、別世界へ。（梅木）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-QHq4e5bszWY/VDTsbg0iSYI/AAAAAAAAAiM/4zGzBpjrOvY/IMG_0738.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067734555385809282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067734555385809282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/G5QJqfi6yXVhcZ-a06xr9dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067734555385809282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067734555385809282"/>
+    <gphoto:id>6067734555385809282</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>7.8333335</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>496078</gphoto:size>
+    <gphoto:client>es-pc-add-photos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408659635000</gphoto:timestamp>
+    <gphoto:imageVersion>547</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067734555385809282</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>7.3099416E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>32</exif:iso>
+      <exif:time>1408692035000</exif:time>
+      <exif:imageUniqueID>ed56855cfe2918740000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QHq4e5bszWY/VDTsbg0iSYI/AAAAAAAAAiM/4zGzBpjrOvY/IMG_0738.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">これから、別世界へ。（梅木）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QHq4e5bszWY/VDTsbg0iSYI/AAAAAAAAAiM/4zGzBpjrOvY/s72/IMG_0738.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QHq4e5bszWY/VDTsbg0iSYI/AAAAAAAAAiM/4zGzBpjrOvY/s144/IMG_0738.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QHq4e5bszWY/VDTsbg0iSYI/AAAAAAAAAiM/4zGzBpjrOvY/s288/IMG_0738.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_0738.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067735068064486066</id>
+    <published>2014-10-08T07:51:01.000Z</published>
+    <updated>2014-10-19T00:42:48.512Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0850.JPG</title>
+    <summary type="text">もっと奥へ、もっと深く。(梅木）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-m6zmoLZbY38/VDTs5WsqErI/AAAAAAAAAio/zrYoO27bvNc/IMG_0850.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067735068064486066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6067735068064486066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Xgi_9Rb0D_cuCYL5m8PuU9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6067735068064486066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6067735068064486066"/>
+    <gphoto:id>6067735068064486066</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>8.833334</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>988934</gphoto:size>
+    <gphoto:client>es-pc-add-photos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1409106483000</gphoto:timestamp>
+    <gphoto:imageVersion>554</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067735068064486066</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1409138883000</exif:time>
+      <exif:imageUniqueID>7a0fec667c1007b80000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-m6zmoLZbY38/VDTs5WsqErI/AAAAAAAAAio/zrYoO27bvNc/IMG_0850.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">もっと奥へ、もっと深く。(梅木）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m6zmoLZbY38/VDTs5WsqErI/AAAAAAAAAio/zrYoO27bvNc/s72/IMG_0850.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m6zmoLZbY38/VDTs5WsqErI/AAAAAAAAAio/zrYoO27bvNc/s144/IMG_0850.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m6zmoLZbY38/VDTs5WsqErI/AAAAAAAAAio/zrYoO27bvNc/s288/IMG_0850.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_0850.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070002198613305154</id>
+    <published>2014-10-14T10:28:38.000Z</published>
+    <updated>2014-10-14T10:29:45.812Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1192.JPG</title>
+    <summary type="text">スカイラインの名の如く（梅木）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-QSAKq8kxkv8/VDz61uIvp0I/AAAAAAAAAsA/zkfVzGKjqiY/IMG_1192.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070002198613305154"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6070002198613305154"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EQ_40mfjlrHHnTGQG2gLt9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070002198613305154"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6070002198613305154"/>
+    <gphoto:id>6070002198613305154</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>9.833334</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>845765</gphoto:size>
+    <gphoto:client>es-pc-add-photos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1412999947000</gphoto:timestamp>
+    <gphoto:imageVersion>704</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6070002198613305154</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>5.1203277E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>40</exif:iso>
+      <exif:time>1413032347000</exif:time>
+      <exif:imageUniqueID>feb932a339b1f2ea0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QSAKq8kxkv8/VDz61uIvp0I/AAAAAAAAAsA/zkfVzGKjqiY/IMG_1192.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">スカイラインの名の如く（梅木）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QSAKq8kxkv8/VDz61uIvp0I/AAAAAAAAAsA/zkfVzGKjqiY/s72/IMG_1192.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QSAKq8kxkv8/VDz61uIvp0I/AAAAAAAAAsA/zkfVzGKjqiY/s144/IMG_1192.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QSAKq8kxkv8/VDz61uIvp0I/AAAAAAAAAsA/zkfVzGKjqiY/s288/IMG_1192.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1192.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070625241916841602</id>
+    <published>2014-10-16T02:46:22.000Z</published>
+    <updated>2014-10-20T10:33:56.314Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0922.JPG</title>
+    <summary type="text">地平線まで一直線（新保）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zr-b_IukphU/VD8xfnT5HoI/AAAAAAAAA3o/DS5GTJ64OnQ/IMG_0922.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070625241916841602"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6070625241916841602"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8MA6zKn0LvrT8MaAAeL3RtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070625241916841602"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6070625241916841602"/>
+    <gphoto:id>6070625241916841602</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>3648</gphoto:width>
+    <gphoto:height>2736</gphoto:height>
+    <gphoto:size>2029458</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1409617945000</gphoto:timestamp>
+    <gphoto:imageVersion>890</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6070625241916841602</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>5.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1409650345000</exif:time>
+      <exif:imageUniqueID>e68def51fd6c29d20000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zr-b_IukphU/VD8xfnT5HoI/AAAAAAAAA3o/DS5GTJ64OnQ/IMG_0922.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">地平線まで一直線（新保）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zr-b_IukphU/VD8xfnT5HoI/AAAAAAAAA3o/DS5GTJ64OnQ/s72/IMG_0922.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zr-b_IukphU/VD8xfnT5HoI/AAAAAAAAA3o/DS5GTJ64OnQ/s144/IMG_0922.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zr-b_IukphU/VD8xfnT5HoI/AAAAAAAAA3o/DS5GTJ64OnQ/s288/IMG_0922.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_0922.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070627691161540450</id>
+    <published>2014-10-16T02:55:52.000Z</published>
+    <updated>2014-10-20T10:33:54.969Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0087.JPG</title>
+    <summary type="text">角島大橋（新保）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xI0GH5CrY48/VD8zuLdVV2I/AAAAAAAAA3k/Q1Gzk3Eyhm0/IMG_0087.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070627691161540450"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6070627691161540450"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2JPlLHn9f3BnAyLH57Vr5dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070627691161540450"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6070627691161540450"/>
+    <gphoto:id>6070627691161540450</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>3648</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>1662611</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1407465559000</gphoto:timestamp>
+    <gphoto:imageVersion>889</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6070627691161540450</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.622</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1407497959000</exif:time>
+      <exif:imageUniqueID>f95c7c03bb110b6f0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xI0GH5CrY48/VD8zuLdVV2I/AAAAAAAAA3k/Q1Gzk3Eyhm0/IMG_0087.JPG" height="288" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">角島大橋（新保）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xI0GH5CrY48/VD8zuLdVV2I/AAAAAAAAA3k/Q1Gzk3Eyhm0/s72/IMG_0087.JPG" height="41" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xI0GH5CrY48/VD8zuLdVV2I/AAAAAAAAA3k/Q1Gzk3Eyhm0/s144/IMG_0087.JPG" height="81" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xI0GH5CrY48/VD8zuLdVV2I/AAAAAAAAA3k/Q1Gzk3Eyhm0/s288/IMG_0087.JPG" height="162" width="288"/>
+      <media:title type="plain">IMG_0087.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070628214278737650</id>
+    <published>2014-10-16T02:57:54.000Z</published>
+    <updated>2014-10-16T03:07:11.998Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1248.JPG</title>
+    <summary type="text">まさにスカイライン（新保）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zuLoYGIlqG0/VD80MoOMTvI/AAAAAAAAAwg/NqteAjFVj6Y/IMG_1248.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070628214278737650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6070628214278737650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/oCSahdTemzBiG_MM8eSI0NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070628214278737650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6070628214278737650"/>
+    <gphoto:id>6070628214278737650</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2736</gphoto:width>
+    <gphoto:height>3648</gphoto:height>
+    <gphoto:size>2128897</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1412998071000</gphoto:timestamp>
+    <gphoto:imageVersion>776</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6070628214278737650</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>5.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1413030471000</exif:time>
+      <exif:imageUniqueID>fd029275969fa7670000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zuLoYGIlqG0/VD80MoOMTvI/AAAAAAAAAwg/NqteAjFVj6Y/IMG_1248.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">まさにスカイライン（新保）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zuLoYGIlqG0/VD80MoOMTvI/AAAAAAAAAwg/NqteAjFVj6Y/s72/IMG_1248.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zuLoYGIlqG0/VD80MoOMTvI/AAAAAAAAAwg/NqteAjFVj6Y/s144/IMG_1248.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zuLoYGIlqG0/VD80MoOMTvI/AAAAAAAAAwg/NqteAjFVj6Y/s288/IMG_1248.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1248.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070629036007399554</id>
+    <published>2014-10-16T03:01:05.000Z</published>
+    <updated>2014-10-17T08:47:31.081Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0948.JPG</title>
+    <summary type="text">宗谷岬へ続く道（新保）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IzVYD0Dt-l0/VD808dZkoII/AAAAAAAAA08/-rmNDO7SNG0/IMG_0948.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070629036007399554"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/201404#6070629036007399554"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/oGjsGorDaqMTKi8gCchGd9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6065147790843694817/photoid/6070629036007399554"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6065147790843694817&amp;iid=6070629036007399554"/>
+    <gphoto:id>6070629036007399554</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>6065147790843694817</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>3648</gphoto:width>
+    <gphoto:height>2736</gphoto:height>
+    <gphoto:size>1798603</gphoto:size>
+    <gphoto:client>pwa</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1409640820000</gphoto:timestamp>
+    <gphoto:imageVersion>847</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6070629036007399554</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY 3</exif:model>
+      <exif:exposure>4.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1409673220000</exif:time>
+      <exif:imageUniqueID>82b49161e4ead4fc0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IzVYD0Dt-l0/VD808dZkoII/AAAAAAAAA08/-rmNDO7SNG0/IMG_0948.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">宗谷岬へ続く道（新保）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IzVYD0Dt-l0/VD808dZkoII/AAAAAAAAA08/-rmNDO7SNG0/s72/IMG_0948.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IzVYD0Dt-l0/VD808dZkoII/AAAAAAAAA08/-rmNDO7SNG0/s144/IMG_0948.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IzVYD0Dt-l0/VD808dZkoII/AAAAAAAAA08/-rmNDO7SNG0/s288/IMG_0948.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_0948.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

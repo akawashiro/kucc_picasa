@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/105184860361655133876</id>
+  <updated>2015-10-09T05:02:10.419Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">105184860361655133876</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-sJ-SZM-ZYhQ/AAAAAAAAAAI/AAAAAAAAAAA/tc7m__ztCSc/s64-c/105184860361655133876.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/105184860361655133876"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/105184860361655133876"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/105184860361655133876?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/105184860361655133876?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>miyazaki daishi</name>
+    <uri>https://picasaweb.google.com/105184860361655133876</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>105184860361655133876</gphoto:user>
+  <gphoto:nickname>miyazaki daishi</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-sJ-SZM-ZYhQ/AAAAAAAAAAI/AAAAAAAAAAA/tc7m__ztCSc/s64-c/105184860361655133876.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/105184860361655133876/albumid/5613607271772027089</id>
+    <published>2011-06-02T10:18:10.000Z</published>
+    <updated>2013-05-11T02:04:02.205Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">110602_TQA</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/105184860361655133876/albumid/5613607271772027089"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/105184860361655133876/110602_TQA"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/105184860361655133876/albumid/5613607271772027089"/>
+    <author>
+      <name>miyazaki daishi</name>
+      <uri>https://picasaweb.google.com/105184860361655133876</uri>
+    </author>
+    <gphoto:id>5613607271772027089</gphoto:id>
+    <gphoto:name>110602_TQA</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1307009890000</gphoto:timestamp>
+    <gphoto:numphotos>38</gphoto:numphotos>
+    <gphoto:user>105184860361655133876</gphoto:user>
+    <gphoto:nickname>miyazaki daishi</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jKLFQiiYFGY/TeeKEk6FeNE/AAAAAAAABDs/Xg9eyUAc9KE/110602_TQA.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>miyazaki daishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jKLFQiiYFGY/TeeKEk6FeNE/AAAAAAAABDs/Xg9eyUAc9KE/s160-c/110602_TQA.jpg" height="160" width="160"/>
+      <media:title type="plain">110602_TQA</media:title>
+    </media:group>
+  </entry>
+</feed>

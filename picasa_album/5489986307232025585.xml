@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585</id>
+  <updated>2013-05-12T01:02:00.469Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2010.07.03 夕コンT.T</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-9hzt45hfhcQ/TDBZdZBSy_E/AAAAAAAAB8Y/9IOsKNkJmeA/s160-c/20100703TT02.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kuccphoto2010</name>
+    <uri>https://picasaweb.google.com/kuccphoto2010</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>46</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5489986307232025585</gphoto:id>
+  <gphoto:name>20100703TT02</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1278119320000</gphoto:timestamp>
+  <gphoto:numphotos>46</gphoto:numphotos>
+  <gphoto:user>kuccphoto2010</gphoto:user>
+  <gphoto:nickname>kuccphoto2010</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986318698004850</id>
+    <published>2010-07-04T09:50:48.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1123.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2JtEx1GcHVA/TDBZeDu_wXI/AAAAAAAAB5g/XA1prc7m0zk/RIMG1123.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986318698004850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986318698004850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/envSIOogiVjfMSvGmddoAtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986318698004850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986318698004850"/>
+    <gphoto:id>5489986318698004850</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>192503</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3d50047</gphoto:checksum>
+    <gphoto:timestamp>1278151720000</gphoto:timestamp>
+    <gphoto:imageVersion>1944</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278151720000</exif:time>
+      <exif:imageUniqueID>4bb51e8856916c6f8245d12d676bdf1a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2JtEx1GcHVA/TDBZeDu_wXI/AAAAAAAAB5g/XA1prc7m0zk/RIMG1123.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2JtEx1GcHVA/TDBZeDu_wXI/AAAAAAAAB5g/XA1prc7m0zk/s72/RIMG1123.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2JtEx1GcHVA/TDBZeDu_wXI/AAAAAAAAB5g/XA1prc7m0zk/s144/RIMG1123.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2JtEx1GcHVA/TDBZeDu_wXI/AAAAAAAAB5g/XA1prc7m0zk/s288/RIMG1123.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1123.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986326001756402</id>
+    <published>2010-07-04T09:50:49.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1124.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3yqGWk8vm4Q/TDBZee8WKPI/AAAAAAAAB5k/Qz4PPa3butU/RIMG1124.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986326001756402"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986326001756402"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6cdcwBCHdaLFYMQw_zOEhdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986326001756402"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986326001756402"/>
+    <gphoto:id>5489986326001756402</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>211465</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3ec0047</gphoto:checksum>
+    <gphoto:timestamp>1278151903000</gphoto:timestamp>
+    <gphoto:imageVersion>1945</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.025641026</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>22.5</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278151903000</exif:time>
+      <exif:imageUniqueID>e22d6cdbdccc705c64415edb0e750626</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3yqGWk8vm4Q/TDBZee8WKPI/AAAAAAAAB5k/Qz4PPa3butU/RIMG1124.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3yqGWk8vm4Q/TDBZee8WKPI/AAAAAAAAB5k/Qz4PPa3butU/s72/RIMG1124.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3yqGWk8vm4Q/TDBZee8WKPI/AAAAAAAAB5k/Qz4PPa3butU/s144/RIMG1124.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3yqGWk8vm4Q/TDBZee8WKPI/AAAAAAAAB5k/Qz4PPa3butU/s288/RIMG1124.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1124.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986332779460946</id>
+    <published>2010-07-04T09:50:51.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1125.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-m2jO3tOMMp4/TDBZe4MRuVI/AAAAAAAAB5o/FevL9Cw_ttE/RIMG1125.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986332779460946"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986332779460946"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/U4PIcV20H1p3vBaCtLDwEdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986332779460946"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986332779460946"/>
+    <gphoto:id>5489986332779460946</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>212886</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3e80047</gphoto:checksum>
+    <gphoto:timestamp>1278151935000</gphoto:timestamp>
+    <gphoto:imageVersion>1946</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.029411765</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.7</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278151935000</exif:time>
+      <exif:imageUniqueID>e932044a45d09491f232a8dce503a3ff</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-m2jO3tOMMp4/TDBZe4MRuVI/AAAAAAAAB5o/FevL9Cw_ttE/RIMG1125.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m2jO3tOMMp4/TDBZe4MRuVI/AAAAAAAAB5o/FevL9Cw_ttE/s72/RIMG1125.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m2jO3tOMMp4/TDBZe4MRuVI/AAAAAAAAB5o/FevL9Cw_ttE/s144/RIMG1125.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m2jO3tOMMp4/TDBZe4MRuVI/AAAAAAAAB5o/FevL9Cw_ttE/s288/RIMG1125.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1125.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986338427301298</id>
+    <published>2010-07-04T09:50:52.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1126.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-m4myNrbfrz4/TDBZfNO07bI/AAAAAAAAB5s/8nZM1scXH0Q/RIMG1126.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986338427301298"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986338427301298"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/iMthJTSGF-VVgZ2T4iyamNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986338427301298"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986338427301298"/>
+    <gphoto:id>5489986338427301298</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>189445</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3f7c047</gphoto:checksum>
+    <gphoto:timestamp>1278151966000</gphoto:timestamp>
+    <gphoto:imageVersion>1947</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>168</exif:iso>
+      <exif:time>1278151966000</exif:time>
+      <exif:imageUniqueID>f20742c76eca4602d9f877d903a367aa</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-m4myNrbfrz4/TDBZfNO07bI/AAAAAAAAB5s/8nZM1scXH0Q/RIMG1126.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m4myNrbfrz4/TDBZfNO07bI/AAAAAAAAB5s/8nZM1scXH0Q/s72/RIMG1126.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m4myNrbfrz4/TDBZfNO07bI/AAAAAAAAB5s/8nZM1scXH0Q/s144/RIMG1126.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-m4myNrbfrz4/TDBZfNO07bI/AAAAAAAAB5s/8nZM1scXH0Q/s288/RIMG1126.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1126.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986347337489282</id>
+    <published>2010-07-04T09:50:54.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1127.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1F08qIYFMVY/TDBZfubLm4I/AAAAAAAAB5w/pr3i2zV3TvA/RIMG1127.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986347337489282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986347337489282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/wCFzwGD7j6Uv5k8fGZt3vdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986347337489282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986347337489282"/>
+    <gphoto:id>5489986347337489282</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>284336</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3f54047</gphoto:checksum>
+    <gphoto:timestamp>1278151978000</gphoto:timestamp>
+    <gphoto:imageVersion>1948</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>176</exif:iso>
+      <exif:time>1278151978000</exif:time>
+      <exif:imageUniqueID>2623f3cce58fa463399e64e01de7e8dc</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1F08qIYFMVY/TDBZfubLm4I/AAAAAAAAB5w/pr3i2zV3TvA/RIMG1127.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1F08qIYFMVY/TDBZfubLm4I/AAAAAAAAB5w/pr3i2zV3TvA/s72/RIMG1127.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1F08qIYFMVY/TDBZfubLm4I/AAAAAAAAB5w/pr3i2zV3TvA/s144/RIMG1127.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1F08qIYFMVY/TDBZfubLm4I/AAAAAAAAB5w/pr3i2zV3TvA/s288/RIMG1127.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1127.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986354253568658</id>
+    <published>2010-07-04T09:50:56.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1128.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-W0y0MZK60mg/TDBZgIMGmpI/AAAAAAAAB50/uK5TTWUI3-A/RIMG1128.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986354253568658"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986354253568658"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MKozJK7UboeTN3Lht7N5l9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986354253568658"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986354253568658"/>
+    <gphoto:id>5489986354253568658</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>339801</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3f58047</gphoto:checksum>
+    <gphoto:timestamp>1278151980000</gphoto:timestamp>
+    <gphoto:imageVersion>1949</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>183</exif:iso>
+      <exif:time>1278151980000</exif:time>
+      <exif:imageUniqueID>3bc847977b4ba6e455b096bfeb8e5f58</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-W0y0MZK60mg/TDBZgIMGmpI/AAAAAAAAB50/uK5TTWUI3-A/RIMG1128.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W0y0MZK60mg/TDBZgIMGmpI/AAAAAAAAB50/uK5TTWUI3-A/s72/RIMG1128.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W0y0MZK60mg/TDBZgIMGmpI/AAAAAAAAB50/uK5TTWUI3-A/s144/RIMG1128.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W0y0MZK60mg/TDBZgIMGmpI/AAAAAAAAB50/uK5TTWUI3-A/s288/RIMG1128.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1128.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986358428979906</id>
+    <published>2010-07-04T09:50:57.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1130.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-dI6Tdd6920s/TDBZgXvmUsI/AAAAAAAAB54/7N70fW39Byg/RIMG1130.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986358428979906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986358428979906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/y1bOeIaAbobQ7fyk7fnGxtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986358428979906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986358428979906"/>
+    <gphoto:id>5489986358428979906</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>222976</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3ff4047</gphoto:checksum>
+    <gphoto:timestamp>1278152026000</gphoto:timestamp>
+    <gphoto:imageVersion>1950</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.03125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>141</exif:iso>
+      <exif:time>1278152026000</exif:time>
+      <exif:imageUniqueID>81bdeed3d441c016503f2b7d5da0801d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dI6Tdd6920s/TDBZgXvmUsI/AAAAAAAAB54/7N70fW39Byg/RIMG1130.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dI6Tdd6920s/TDBZgXvmUsI/AAAAAAAAB54/7N70fW39Byg/s72/RIMG1130.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dI6Tdd6920s/TDBZgXvmUsI/AAAAAAAAB54/7N70fW39Byg/s144/RIMG1130.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dI6Tdd6920s/TDBZgXvmUsI/AAAAAAAAB54/7N70fW39Byg/s288/RIMG1130.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1130.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986361822923842</id>
+    <published>2010-07-04T09:50:58.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1131.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0PBsEMsqs0c/TDBZgkYxzEI/AAAAAAAAB58/gxdNV8yMUgI/RIMG1131.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986361822923842"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986361822923842"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/801qM3BRLTPPhCF16NpuYtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986361822923842"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986361822923842"/>
+    <gphoto:id>5489986361822923842</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>196132</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3fd8047</gphoto:checksum>
+    <gphoto:timestamp>1278152045000</gphoto:timestamp>
+    <gphoto:imageVersion>1951</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.03125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.8</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152045000</exif:time>
+      <exif:imageUniqueID>a755452995581cd2cc9b49437da19cc0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0PBsEMsqs0c/TDBZgkYxzEI/AAAAAAAAB58/gxdNV8yMUgI/RIMG1131.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0PBsEMsqs0c/TDBZgkYxzEI/AAAAAAAAB58/gxdNV8yMUgI/s72/RIMG1131.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0PBsEMsqs0c/TDBZgkYxzEI/AAAAAAAAB58/gxdNV8yMUgI/s144/RIMG1131.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0PBsEMsqs0c/TDBZgkYxzEI/AAAAAAAAB58/gxdNV8yMUgI/s288/RIMG1131.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1131.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986365160132354</id>
+    <published>2010-07-04T09:50:59.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1133.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mXoNNhKLItI/TDBZgw0bjwI/AAAAAAAAB6A/sZwwi6zrYLs/RIMG1133.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986365160132354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986365160132354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/wcy1NJWd2FaWGNc9nroSMdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986365160132354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986365160132354"/>
+    <gphoto:id>5489986365160132354</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>175540</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4028047</gphoto:checksum>
+    <gphoto:timestamp>1278152115000</gphoto:timestamp>
+    <gphoto:imageVersion>1952</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.023809524</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152115000</exif:time>
+      <exif:imageUniqueID>466afe9b4d32e6d31076a8bc41765422</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mXoNNhKLItI/TDBZgw0bjwI/AAAAAAAAB6A/sZwwi6zrYLs/RIMG1133.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXoNNhKLItI/TDBZgw0bjwI/AAAAAAAAB6A/sZwwi6zrYLs/s72/RIMG1133.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXoNNhKLItI/TDBZgw0bjwI/AAAAAAAAB6A/sZwwi6zrYLs/s144/RIMG1133.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXoNNhKLItI/TDBZgw0bjwI/AAAAAAAAB6A/sZwwi6zrYLs/s288/RIMG1133.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1133.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986369993132754</id>
+    <published>2010-07-04T09:51:00.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1134.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1JXM6HNaNvU/TDBZhC0tStI/AAAAAAAAB6E/fc_I_M1nhuE/RIMG1134.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986369993132754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986369993132754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/CQyWXCOVEzM7KqdSzs7V_tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986369993132754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986369993132754"/>
+    <gphoto:id>5489986369993132754</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>259901</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e40e0047</gphoto:checksum>
+    <gphoto:timestamp>1278152143000</gphoto:timestamp>
+    <gphoto:imageVersion>1953</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152143000</exif:time>
+      <exif:imageUniqueID>a99d42a75037e66003638aeb5fccee80</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1JXM6HNaNvU/TDBZhC0tStI/AAAAAAAAB6E/fc_I_M1nhuE/RIMG1134.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1JXM6HNaNvU/TDBZhC0tStI/AAAAAAAAB6E/fc_I_M1nhuE/s72/RIMG1134.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1JXM6HNaNvU/TDBZhC0tStI/AAAAAAAAB6E/fc_I_M1nhuE/s144/RIMG1134.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1JXM6HNaNvU/TDBZhC0tStI/AAAAAAAAB6E/fc_I_M1nhuE/s288/RIMG1134.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1134.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986372633547074</id>
+    <published>2010-07-04T09:51:00.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1135.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-29UlAWT44BM/TDBZhMqO0UI/AAAAAAAAB6I/tVSJh40rxsw/RIMG1135.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986372633547074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986372633547074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/VAQzbqaHq2R0m5IDQRV9zNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986372633547074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986372633547074"/>
+    <gphoto:id>5489986372633547074</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>138725</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e40dc047</gphoto:checksum>
+    <gphoto:timestamp>1278152175000</gphoto:timestamp>
+    <gphoto:imageVersion>1954</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.03125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>114</exif:iso>
+      <exif:time>1278152175000</exif:time>
+      <exif:imageUniqueID>c172f6aaeeb2f7d0a36c418903d60dec</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-29UlAWT44BM/TDBZhMqO0UI/AAAAAAAAB6I/tVSJh40rxsw/RIMG1135.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-29UlAWT44BM/TDBZhMqO0UI/AAAAAAAAB6I/tVSJh40rxsw/s72/RIMG1135.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-29UlAWT44BM/TDBZhMqO0UI/AAAAAAAAB6I/tVSJh40rxsw/s144/RIMG1135.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-29UlAWT44BM/TDBZhMqO0UI/AAAAAAAAB6I/tVSJh40rxsw/s288/RIMG1135.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1135.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986377529552162</id>
+    <published>2010-07-04T09:51:01.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1136.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-J6z1ddhPHD0/TDBZhe5h7SI/AAAAAAAAB6M/HbeaJIoURwE/RIMG1136.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986377529552162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986377529552162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JNZvNef-Dm4NioFfBkDH1dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986377529552162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986377529552162"/>
+    <gphoto:id>5489986377529552162</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>141149</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4150047</gphoto:checksum>
+    <gphoto:timestamp>1278152232000</gphoto:timestamp>
+    <gphoto:imageVersion>1955</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.023809524</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>161</exif:iso>
+      <exif:time>1278152232000</exif:time>
+      <exif:imageUniqueID>5ea52ed0755e6909ccb8ae837fe1b20f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-J6z1ddhPHD0/TDBZhe5h7SI/AAAAAAAAB6M/HbeaJIoURwE/RIMG1136.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-J6z1ddhPHD0/TDBZhe5h7SI/AAAAAAAAB6M/HbeaJIoURwE/s72/RIMG1136.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-J6z1ddhPHD0/TDBZhe5h7SI/AAAAAAAAB6M/HbeaJIoURwE/s144/RIMG1136.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-J6z1ddhPHD0/TDBZhe5h7SI/AAAAAAAAB6M/HbeaJIoURwE/s288/RIMG1136.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1136.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986385653133010</id>
+    <published>2010-07-04T09:51:03.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1137.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DybX6MZ86y0/TDBZh9KV7tI/AAAAAAAAB6Q/g64QGFYMpRU/RIMG1137.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986385653133010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986385653133010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/f0L4I33yH1tq-kayQGnDldMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986385653133010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986385653133010"/>
+    <gphoto:id>5489986385653133010</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>240028</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4138047</gphoto:checksum>
+    <gphoto:timestamp>1278152251000</gphoto:timestamp>
+    <gphoto:imageVersion>1956</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.025641026</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.0</exif:focallength>
+      <exif:iso>104</exif:iso>
+      <exif:time>1278152251000</exif:time>
+      <exif:imageUniqueID>facdc4d855617a4329113d2181dc86a2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DybX6MZ86y0/TDBZh9KV7tI/AAAAAAAAB6Q/g64QGFYMpRU/RIMG1137.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DybX6MZ86y0/TDBZh9KV7tI/AAAAAAAAB6Q/g64QGFYMpRU/s72/RIMG1137.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DybX6MZ86y0/TDBZh9KV7tI/AAAAAAAAB6Q/g64QGFYMpRU/s144/RIMG1137.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DybX6MZ86y0/TDBZh9KV7tI/AAAAAAAAB6Q/g64QGFYMpRU/s288/RIMG1137.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1137.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986386876076210</id>
+    <published>2010-07-04T09:51:04.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1138.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FxePthork5o/TDBZiBt6kLI/AAAAAAAAB6U/Yuo5y5HFNxw/RIMG1138.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986386876076210"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986386876076210"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/FlB_FGqIWv3tbNWEDwyqetMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986386876076210"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986386876076210"/>
+    <gphoto:id>5489986386876076210</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>133756</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4114047</gphoto:checksum>
+    <gphoto:timestamp>1278152266000</gphoto:timestamp>
+    <gphoto:imageVersion>1957</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>161</exif:iso>
+      <exif:time>1278152266000</exif:time>
+      <exif:imageUniqueID>5f6a356a6146ea085ca9f5cb55e4fdf0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FxePthork5o/TDBZiBt6kLI/AAAAAAAAB6U/Yuo5y5HFNxw/RIMG1138.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FxePthork5o/TDBZiBt6kLI/AAAAAAAAB6U/Yuo5y5HFNxw/s72/RIMG1138.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FxePthork5o/TDBZiBt6kLI/AAAAAAAAB6U/Yuo5y5HFNxw/s144/RIMG1138.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FxePthork5o/TDBZiBt6kLI/AAAAAAAAB6U/Yuo5y5HFNxw/s288/RIMG1138.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1138.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986397859709490</id>
+    <published>2010-07-04T09:51:06.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1139.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Eb6FAX3iSp4/TDBZiqongjI/AAAAAAAAB6Y/DZD7GZNQuPo/RIMG1139.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986397859709490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986397859709490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/zDb6pfS-IpQyHjHXO4Mf6NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986397859709490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986397859709490"/>
+    <gphoto:id>5489986397859709490</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>212104</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e41f0047</gphoto:checksum>
+    <gphoto:timestamp>1278152280000</gphoto:timestamp>
+    <gphoto:imageVersion>1958</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.014705882</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152280000</exif:time>
+      <exif:imageUniqueID>01cf22032c10c0f57f3f49a8fe089c90</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Eb6FAX3iSp4/TDBZiqongjI/AAAAAAAAB6Y/DZD7GZNQuPo/RIMG1139.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Eb6FAX3iSp4/TDBZiqongjI/AAAAAAAAB6Y/DZD7GZNQuPo/s72/RIMG1139.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Eb6FAX3iSp4/TDBZiqongjI/AAAAAAAAB6Y/DZD7GZNQuPo/s144/RIMG1139.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Eb6FAX3iSp4/TDBZiqongjI/AAAAAAAAB6Y/DZD7GZNQuPo/s288/RIMG1139.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1139.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986398884221394</id>
+    <published>2010-07-04T09:51:06.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1140.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DPHFHHNWpDw/TDBZiuc4UdI/AAAAAAAAB6c/TN6_3y2ONjU/RIMG1140.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986398884221394"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986398884221394"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/PKKSHFrnzZkUVi5_17j-ydMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986398884221394"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986398884221394"/>
+    <gphoto:id>5489986398884221394</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>137630</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e41d0047</gphoto:checksum>
+    <gphoto:timestamp>1278152296000</gphoto:timestamp>
+    <gphoto:imageVersion>1959</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1278152296000</exif:time>
+      <exif:imageUniqueID>d821daeafbee0ca7204ef8ba9032f511</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DPHFHHNWpDw/TDBZiuc4UdI/AAAAAAAAB6c/TN6_3y2ONjU/RIMG1140.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHFHHNWpDw/TDBZiuc4UdI/AAAAAAAAB6c/TN6_3y2ONjU/s72/RIMG1140.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHFHHNWpDw/TDBZiuc4UdI/AAAAAAAAB6c/TN6_3y2ONjU/s144/RIMG1140.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHFHHNWpDw/TDBZiuc4UdI/AAAAAAAAB6c/TN6_3y2ONjU/s288/RIMG1140.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1140.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986404529069618</id>
+    <published>2010-07-04T09:51:08.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1141.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-A8eo0KINh5A/TDBZjDet3jI/AAAAAAAAB6g/vYjhMTUzLOY/RIMG1141.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986404529069618"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986404529069618"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Cv4DJW3Alo3khsn44wjWMdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986404529069618"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986404529069618"/>
+    <gphoto:id>5489986404529069618</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>255219</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e41ac047</gphoto:checksum>
+    <gphoto:timestamp>1278152311000</gphoto:timestamp>
+    <gphoto:imageVersion>1960</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152311000</exif:time>
+      <exif:imageUniqueID>c42cde565b02bc8afc4ac8c8ed23fa71</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-A8eo0KINh5A/TDBZjDet3jI/AAAAAAAAB6g/vYjhMTUzLOY/RIMG1141.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A8eo0KINh5A/TDBZjDet3jI/AAAAAAAAB6g/vYjhMTUzLOY/s72/RIMG1141.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A8eo0KINh5A/TDBZjDet3jI/AAAAAAAAB6g/vYjhMTUzLOY/s144/RIMG1141.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A8eo0KINh5A/TDBZjDet3jI/AAAAAAAAB6g/vYjhMTUzLOY/s288/RIMG1141.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1141.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986410801408434</id>
+    <published>2010-07-04T09:51:09.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1143.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-LmRE34IoNgo/TDBZja2KKbI/AAAAAAAAB6k/ZmOoiLGnbPc/RIMG1143.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986410801408434"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986410801408434"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AwFeFVP7jE964ByTMS4_2dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986410801408434"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986410801408434"/>
+    <gphoto:id>5489986410801408434</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>267890</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4244047</gphoto:checksum>
+    <gphoto:timestamp>1278152354000</gphoto:timestamp>
+    <gphoto:imageVersion>1961</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.022222223</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.8</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152354000</exif:time>
+      <exif:imageUniqueID>70fe0c1098ecc553f621ec23800a2874</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LmRE34IoNgo/TDBZja2KKbI/AAAAAAAAB6k/ZmOoiLGnbPc/RIMG1143.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LmRE34IoNgo/TDBZja2KKbI/AAAAAAAAB6k/ZmOoiLGnbPc/s72/RIMG1143.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LmRE34IoNgo/TDBZja2KKbI/AAAAAAAAB6k/ZmOoiLGnbPc/s144/RIMG1143.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LmRE34IoNgo/TDBZja2KKbI/AAAAAAAAB6k/ZmOoiLGnbPc/s288/RIMG1143.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1143.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986412455727682</id>
+    <published>2010-07-04T09:51:10.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1144.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZP9UHbPK4Ck/TDBZjhAlEkI/AAAAAAAAB6o/CeBWUOcddFw/RIMG1144.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986412455727682"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986412455727682"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EJY3SP031TA1ZNlzTcjYJtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986412455727682"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986412455727682"/>
+    <gphoto:id>5489986412455727682</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>248814</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4200047</gphoto:checksum>
+    <gphoto:timestamp>1278152383000</gphoto:timestamp>
+    <gphoto:imageVersion>1962</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.6</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.027777778</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152383000</exif:time>
+      <exif:imageUniqueID>8ef25ed9e1e5bdf79dcffb7dd826ff8e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZP9UHbPK4Ck/TDBZjhAlEkI/AAAAAAAAB6o/CeBWUOcddFw/RIMG1144.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZP9UHbPK4Ck/TDBZjhAlEkI/AAAAAAAAB6o/CeBWUOcddFw/s72/RIMG1144.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZP9UHbPK4Ck/TDBZjhAlEkI/AAAAAAAAB6o/CeBWUOcddFw/s144/RIMG1144.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZP9UHbPK4Ck/TDBZjhAlEkI/AAAAAAAAB6o/CeBWUOcddFw/s288/RIMG1144.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1144.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986420679638578</id>
+    <published>2010-07-04T09:51:11.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1145.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1jnOGKrZ3sE/TDBZj_pT_jI/AAAAAAAAB6s/zJeZtYz9qLw/RIMG1145.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986420679638578"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986420679638578"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tIQOOJZKfryDMnyeiwMd1NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986420679638578"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986420679638578"/>
+    <gphoto:id>5489986420679638578</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>204056</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e42fc047</gphoto:checksum>
+    <gphoto:timestamp>1278152415000</gphoto:timestamp>
+    <gphoto:imageVersion>1963</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.03846154</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152415000</exif:time>
+      <exif:imageUniqueID>8a7d64aa9f3c8c2bfe2d35dbc9bd6521</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1jnOGKrZ3sE/TDBZj_pT_jI/AAAAAAAAB6s/zJeZtYz9qLw/RIMG1145.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1jnOGKrZ3sE/TDBZj_pT_jI/AAAAAAAAB6s/zJeZtYz9qLw/s72/RIMG1145.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1jnOGKrZ3sE/TDBZj_pT_jI/AAAAAAAAB6s/zJeZtYz9qLw/s144/RIMG1145.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1jnOGKrZ3sE/TDBZj_pT_jI/AAAAAAAAB6s/zJeZtYz9qLw/s288/RIMG1145.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1145.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986422185028146</id>
+    <published>2010-07-04T09:51:12.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1146.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MLGhExA7QQk/TDBZkFQOajI/AAAAAAAAB60/KJccJXBJwpU/RIMG1146.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986422185028146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986422185028146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IiPl0YPEmrcN9pR0LVBa79MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986422185028146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986422185028146"/>
+    <gphoto:id>5489986422185028146</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>180319</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4354047</gphoto:checksum>
+    <gphoto:timestamp>1278152490000</gphoto:timestamp>
+    <gphoto:imageVersion>1965</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.018181818</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152490000</exif:time>
+      <exif:imageUniqueID>22ad91984e5e7b3a62b580764de38799</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MLGhExA7QQk/TDBZkFQOajI/AAAAAAAAB60/KJccJXBJwpU/RIMG1146.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MLGhExA7QQk/TDBZkFQOajI/AAAAAAAAB60/KJccJXBJwpU/s72/RIMG1146.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MLGhExA7QQk/TDBZkFQOajI/AAAAAAAAB60/KJccJXBJwpU/s144/RIMG1146.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MLGhExA7QQk/TDBZkFQOajI/AAAAAAAAB60/KJccJXBJwpU/s288/RIMG1146.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1146.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986425348136306</id>
+    <published>2010-07-04T09:51:13.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1147.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-L6XsvopEhl8/TDBZkRCXnXI/AAAAAAAAB64/g5z-P3_06ns/RIMG1147.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986425348136306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986425348136306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/BGWszhUd3NEiS1OMx3a4YdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986425348136306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986425348136306"/>
+    <gphoto:id>5489986425348136306</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>235300</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e43ec047</gphoto:checksum>
+    <gphoto:timestamp>1278152534000</gphoto:timestamp>
+    <gphoto:imageVersion>1966</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.01369863</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152534000</exif:time>
+      <exif:imageUniqueID>81ba1f6805afe80e5624117214acd028</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-L6XsvopEhl8/TDBZkRCXnXI/AAAAAAAAB64/g5z-P3_06ns/RIMG1147.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L6XsvopEhl8/TDBZkRCXnXI/AAAAAAAAB64/g5z-P3_06ns/s72/RIMG1147.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L6XsvopEhl8/TDBZkRCXnXI/AAAAAAAAB64/g5z-P3_06ns/s144/RIMG1147.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L6XsvopEhl8/TDBZkRCXnXI/AAAAAAAAB64/g5z-P3_06ns/s288/RIMG1147.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1147.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986426666361074</id>
+    <published>2010-07-04T09:51:13.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1148.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YOgzYSMUpS0/TDBZkV8qIPI/AAAAAAAAB68/kqYxq_g0Yfc/RIMG1148.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986426666361074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986426666361074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/o0069g-MT-Fn0kXVUcwNH9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986426666361074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986426666361074"/>
+    <gphoto:id>5489986426666361074</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>156802</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4390047</gphoto:checksum>
+    <gphoto:timestamp>1278152584000</gphoto:timestamp>
+    <gphoto:imageVersion>1967</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.020833334</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152584000</exif:time>
+      <exif:imageUniqueID>09948f0ba72801f2735620a46b65ecee</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YOgzYSMUpS0/TDBZkV8qIPI/AAAAAAAAB68/kqYxq_g0Yfc/RIMG1148.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YOgzYSMUpS0/TDBZkV8qIPI/AAAAAAAAB68/kqYxq_g0Yfc/s72/RIMG1148.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YOgzYSMUpS0/TDBZkV8qIPI/AAAAAAAAB68/kqYxq_g0Yfc/s144/RIMG1148.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YOgzYSMUpS0/TDBZkV8qIPI/AAAAAAAAB68/kqYxq_g0Yfc/s288/RIMG1148.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1148.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986431664729618</id>
+    <published>2010-07-04T09:51:14.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1149.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xbzjMrdK_ps/TDBZkokXLhI/AAAAAAAAB7A/3foFifTZ21Q/RIMG1149.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986431664729618"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986431664729618"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rxsvdLWpItpLCsS9VNgVkNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986431664729618"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986431664729618"/>
+    <gphoto:id>5489986431664729618</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>244089</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4440047</gphoto:checksum>
+    <gphoto:timestamp>1278152608000</gphoto:timestamp>
+    <gphoto:imageVersion>1968</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.3</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.020833334</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1278152608000</exif:time>
+      <exif:imageUniqueID>1d109eab9b7a94aba69de76b52196c30</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xbzjMrdK_ps/TDBZkokXLhI/AAAAAAAAB7A/3foFifTZ21Q/RIMG1149.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xbzjMrdK_ps/TDBZkokXLhI/AAAAAAAAB7A/3foFifTZ21Q/s72/RIMG1149.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xbzjMrdK_ps/TDBZkokXLhI/AAAAAAAAB7A/3foFifTZ21Q/s144/RIMG1149.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xbzjMrdK_ps/TDBZkokXLhI/AAAAAAAAB7A/3foFifTZ21Q/s288/RIMG1149.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1149.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986436100374706</id>
+    <published>2010-07-04T09:51:15.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1150.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-E4CIg00yHQQ/TDBZk5F5wLI/AAAAAAAAB7E/uF8RYvgFXWQ/RIMG1150.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986436100374706"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986436100374706"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Z3XMPw7ogQdtAtRfa-w9BNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986436100374706"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986436100374706"/>
+    <gphoto:id>5489986436100374706</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>25.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>325919</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e453c047</gphoto:checksum>
+    <gphoto:timestamp>1278152765000</gphoto:timestamp>
+    <gphoto:imageVersion>1969</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152765000</exif:time>
+      <exif:imageUniqueID>c132407d83c235fdecfa25cc637922ab</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-E4CIg00yHQQ/TDBZk5F5wLI/AAAAAAAAB7E/uF8RYvgFXWQ/RIMG1150.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E4CIg00yHQQ/TDBZk5F5wLI/AAAAAAAAB7E/uF8RYvgFXWQ/s72/RIMG1150.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E4CIg00yHQQ/TDBZk5F5wLI/AAAAAAAAB7E/uF8RYvgFXWQ/s144/RIMG1150.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E4CIg00yHQQ/TDBZk5F5wLI/AAAAAAAAB7E/uF8RYvgFXWQ/s288/RIMG1150.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1150.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986441239637378</id>
+    <published>2010-07-04T09:51:16.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1151.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IXN4juLxcxc/TDBZlMPMrYI/AAAAAAAAB7I/39-6IXRyEG0/RIMG1151.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986441239637378"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986441239637378"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/O9zvxVWssec_GRQKaqljF9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986441239637378"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986441239637378"/>
+    <gphoto:id>5489986441239637378</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>26.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>248279</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4518047</gphoto:checksum>
+    <gphoto:timestamp>1278152780000</gphoto:timestamp>
+    <gphoto:imageVersion>1970</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.04347826</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152780000</exif:time>
+      <exif:imageUniqueID>9656eb6d250a83b6863df3aa147fad1d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IXN4juLxcxc/TDBZlMPMrYI/AAAAAAAAB7I/39-6IXRyEG0/RIMG1151.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IXN4juLxcxc/TDBZlMPMrYI/AAAAAAAAB7I/39-6IXRyEG0/s72/RIMG1151.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IXN4juLxcxc/TDBZlMPMrYI/AAAAAAAAB7I/39-6IXRyEG0/s144/RIMG1151.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IXN4juLxcxc/TDBZlMPMrYI/AAAAAAAAB7I/39-6IXRyEG0/s288/RIMG1151.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1151.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986442517645538</id>
+    <published>2010-07-04T09:51:17.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1152.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-f6ztvkXLiYY/TDBZlQ_5iOI/AAAAAAAAB7M/pRKRDGObvAo/RIMG1152.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986442517645538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986442517645538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/lBtxUzu211bc-YsctKZY2NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986442517645538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986442517645538"/>
+    <gphoto:id>5489986442517645538</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>27.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>250628</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e4634047</gphoto:checksum>
+    <gphoto:timestamp>1278152890000</gphoto:timestamp>
+    <gphoto:imageVersion>1971</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.04761905</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152890000</exif:time>
+      <exif:imageUniqueID>d2fbba837954c1ce0f832df090cf4a5b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-f6ztvkXLiYY/TDBZlQ_5iOI/AAAAAAAAB7M/pRKRDGObvAo/RIMG1152.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-f6ztvkXLiYY/TDBZlQ_5iOI/AAAAAAAAB7M/pRKRDGObvAo/s72/RIMG1152.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-f6ztvkXLiYY/TDBZlQ_5iOI/AAAAAAAAB7M/pRKRDGObvAo/s144/RIMG1152.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-f6ztvkXLiYY/TDBZlQ_5iOI/AAAAAAAAB7M/pRKRDGObvAo/s288/RIMG1152.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1152.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986447801882466</id>
+    <published>2010-07-04T09:51:18.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1153.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-tSL0pYKIyhQ/TDBZlkrwl2I/AAAAAAAAB7Q/1qRcGUS5x2I/RIMG1153.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986447801882466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986447801882466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0BKQax-AD7O3NpFVnj0b0dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986447801882466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986447801882466"/>
+    <gphoto:id>5489986447801882466</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>28.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>175604</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e463c047</gphoto:checksum>
+    <gphoto:timestamp>1278152894000</gphoto:timestamp>
+    <gphoto:imageVersion>1972</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.03846154</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278152894000</exif:time>
+      <exif:imageUniqueID>a8e3b0dea52917105a95cc52dcbcc8d1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tSL0pYKIyhQ/TDBZlkrwl2I/AAAAAAAAB7Q/1qRcGUS5x2I/RIMG1153.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tSL0pYKIyhQ/TDBZlkrwl2I/AAAAAAAAB7Q/1qRcGUS5x2I/s72/RIMG1153.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tSL0pYKIyhQ/TDBZlkrwl2I/AAAAAAAAB7Q/1qRcGUS5x2I/s144/RIMG1153.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tSL0pYKIyhQ/TDBZlkrwl2I/AAAAAAAAB7Q/1qRcGUS5x2I/s288/RIMG1153.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1153.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986452434690322</id>
+    <published>2010-07-04T09:51:19.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1157.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-26ds_48iNpU/TDBZl18ToRI/AAAAAAAAB7U/KOOhddb5WXU/RIMG1157.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986452434690322"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986452434690322"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0y0uHtG6gcZmyH7-Wnz_jtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986452434690322"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986452434690322"/>
+    <gphoto:id>5489986452434690322</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>29.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>108203</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3434047</gphoto:checksum>
+    <gphoto:timestamp>1278183354000</gphoto:timestamp>
+    <gphoto:imageVersion>1973</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>11.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278183354000</exif:time>
+      <exif:imageUniqueID>7223e09630301988df12372c2cad316c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-26ds_48iNpU/TDBZl18ToRI/AAAAAAAAB7U/KOOhddb5WXU/RIMG1157.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26ds_48iNpU/TDBZl18ToRI/AAAAAAAAB7U/KOOhddb5WXU/s72/RIMG1157.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26ds_48iNpU/TDBZl18ToRI/AAAAAAAAB7U/KOOhddb5WXU/s144/RIMG1157.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26ds_48iNpU/TDBZl18ToRI/AAAAAAAAB7U/KOOhddb5WXU/s288/RIMG1157.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1157.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986462489775218</id>
+    <published>2010-07-04T09:51:21.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1158.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bCjlCRItCd4/TDBZmbZoDHI/AAAAAAAAB7Y/1cgSq4LUShA/RIMG1158.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986462489775218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986462489775218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-T8enAbcU5IAmcw_8qM23dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986462489775218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986462489775218"/>
+    <gphoto:id>5489986462489775218</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>30.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>242994</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3404047</gphoto:checksum>
+    <gphoto:timestamp>1278183362000</gphoto:timestamp>
+    <gphoto:imageVersion>1974</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.014705882</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>11.0</exif:focallength>
+      <exif:iso>383</exif:iso>
+      <exif:time>1278183362000</exif:time>
+      <exif:imageUniqueID>f99c180293f7ba7fe9325fea88c03500</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bCjlCRItCd4/TDBZmbZoDHI/AAAAAAAAB7Y/1cgSq4LUShA/RIMG1158.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bCjlCRItCd4/TDBZmbZoDHI/AAAAAAAAB7Y/1cgSq4LUShA/s72/RIMG1158.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bCjlCRItCd4/TDBZmbZoDHI/AAAAAAAAB7Y/1cgSq4LUShA/s144/RIMG1158.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bCjlCRItCd4/TDBZmbZoDHI/AAAAAAAAB7Y/1cgSq4LUShA/s288/RIMG1158.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1158.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986466911586146</id>
+    <published>2010-07-04T09:51:22.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1159.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2kvjAW5a-JQ/TDBZmr33h2I/AAAAAAAAB7c/MI0Hchyt5DM/RIMG1159.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986466911586146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986466911586146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AWYhtTkICyKE77FxeFkdn9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986466911586146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986466911586146"/>
+    <gphoto:id>5489986466911586146</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>31.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>211621</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f34b0047</gphoto:checksum>
+    <gphoto:timestamp>1278183415000</gphoto:timestamp>
+    <gphoto:imageVersion>1975</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.9</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.01369863</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>12.4</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1278183415000</exif:time>
+      <exif:imageUniqueID>20c82bfe863cd0e9bb8e972277e65391</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2kvjAW5a-JQ/TDBZmr33h2I/AAAAAAAAB7c/MI0Hchyt5DM/RIMG1159.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2kvjAW5a-JQ/TDBZmr33h2I/AAAAAAAAB7c/MI0Hchyt5DM/s72/RIMG1159.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2kvjAW5a-JQ/TDBZmr33h2I/AAAAAAAAB7c/MI0Hchyt5DM/s144/RIMG1159.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2kvjAW5a-JQ/TDBZmr33h2I/AAAAAAAAB7c/MI0Hchyt5DM/s288/RIMG1159.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1159.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986472338249074</id>
+    <published>2010-07-04T09:51:24.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1160.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9uJTyskFjkE/TDBZnAFr1XI/AAAAAAAAB7g/nzz9fZHbjSM/RIMG1160.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986472338249074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986472338249074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JIdeKF_4RLmigVMx_GGQbdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986472338249074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986472338249074"/>
+    <gphoto:id>5489986472338249074</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>32.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>114043</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f358c047</gphoto:checksum>
+    <gphoto:timestamp>1278183558000</gphoto:timestamp>
+    <gphoto:imageVersion>1976</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278183558000</exif:time>
+      <exif:imageUniqueID>5fa0d0268185fea7084ad7f27820667f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9uJTyskFjkE/TDBZnAFr1XI/AAAAAAAAB7g/nzz9fZHbjSM/RIMG1160.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9uJTyskFjkE/TDBZnAFr1XI/AAAAAAAAB7g/nzz9fZHbjSM/s72/RIMG1160.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9uJTyskFjkE/TDBZnAFr1XI/AAAAAAAAB7g/nzz9fZHbjSM/s144/RIMG1160.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9uJTyskFjkE/TDBZnAFr1XI/AAAAAAAAB7g/nzz9fZHbjSM/s288/RIMG1160.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1160.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986477281145154</id>
+    <published>2010-07-04T09:51:25.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1161.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zhLR3b1QTag/TDBZnSgKcUI/AAAAAAAAB7k/SQnxMgBMeX0/RIMG1161.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986477281145154"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986477281145154"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2Qc3hk-gMXxRLWnte53SOtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986477281145154"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986477281145154"/>
+    <gphoto:id>5489986477281145154</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>33.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>247211</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3614047</gphoto:checksum>
+    <gphoto:timestamp>1278183625000</gphoto:timestamp>
+    <gphoto:imageVersion>1977</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.020833334</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>7.7</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1278183625000</exif:time>
+      <exif:imageUniqueID>118eb326b43cfbc8430303df955d5d3a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zhLR3b1QTag/TDBZnSgKcUI/AAAAAAAAB7k/SQnxMgBMeX0/RIMG1161.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zhLR3b1QTag/TDBZnSgKcUI/AAAAAAAAB7k/SQnxMgBMeX0/s72/RIMG1161.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zhLR3b1QTag/TDBZnSgKcUI/AAAAAAAAB7k/SQnxMgBMeX0/s144/RIMG1161.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zhLR3b1QTag/TDBZnSgKcUI/AAAAAAAAB7k/SQnxMgBMeX0/s288/RIMG1161.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1161.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986482696080242</id>
+    <published>2010-07-04T09:51:26.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1162.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-feBBnrJ07Lo/TDBZnmrLy3I/AAAAAAAAB7o/3W4909jetBc/RIMG1162.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986482696080242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986482696080242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/hNh8ElXqKoHRGfLwHQ63wtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986482696080242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986482696080242"/>
+    <gphoto:id>5489986482696080242</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>34.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>237891</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f36e4047</gphoto:checksum>
+    <gphoto:timestamp>1278183634000</gphoto:timestamp>
+    <gphoto:imageVersion>1978</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.014705882</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>11.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1278183634000</exif:time>
+      <exif:imageUniqueID>38951030f796ec77c112a20044869455</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-feBBnrJ07Lo/TDBZnmrLy3I/AAAAAAAAB7o/3W4909jetBc/RIMG1162.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-feBBnrJ07Lo/TDBZnmrLy3I/AAAAAAAAB7o/3W4909jetBc/s72/RIMG1162.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-feBBnrJ07Lo/TDBZnmrLy3I/AAAAAAAAB7o/3W4909jetBc/s144/RIMG1162.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-feBBnrJ07Lo/TDBZnmrLy3I/AAAAAAAAB7o/3W4909jetBc/s288/RIMG1162.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1162.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986489119186322</id>
+    <published>2010-07-04T09:51:27.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1163.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mlUq_7cGjBk/TDBZn-mknZI/AAAAAAAAB7s/N-zMfspsBI0/RIMG1163.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986489119186322"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986489119186322"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2JPzBDyIXfT_F8x_A_gwe9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986489119186322"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986489119186322"/>
+    <gphoto:id>5489986489119186322</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>35.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>204664</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3744047</gphoto:checksum>
+    <gphoto:timestamp>1278183713000</gphoto:timestamp>
+    <gphoto:imageVersion>1979</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.1</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.011904762</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>14.5</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1278183713000</exif:time>
+      <exif:imageUniqueID>14cdf8ef2f88f21d0a273bad873c313a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mlUq_7cGjBk/TDBZn-mknZI/AAAAAAAAB7s/N-zMfspsBI0/RIMG1163.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mlUq_7cGjBk/TDBZn-mknZI/AAAAAAAAB7s/N-zMfspsBI0/s72/RIMG1163.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mlUq_7cGjBk/TDBZn-mknZI/AAAAAAAAB7s/N-zMfspsBI0/s144/RIMG1163.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mlUq_7cGjBk/TDBZn-mknZI/AAAAAAAAB7s/N-zMfspsBI0/s288/RIMG1163.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1163.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986490845876130</id>
+    <published>2010-07-04T09:51:28.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1168.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-s4NcHICTYFI/TDBZoFCPz6I/AAAAAAAAB7w/DZRcbWX3nVo/RIMG1168.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986490845876130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986490845876130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EcQlYZBQuWi1XEyXqsWSCNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986490845876130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986490845876130"/>
+    <gphoto:id>5489986490845876130</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>154755</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f38e8047</gphoto:checksum>
+    <gphoto:timestamp>1278183892000</gphoto:timestamp>
+    <gphoto:imageVersion>1980</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.7</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.5</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278183892000</exif:time>
+      <exif:imageUniqueID>fa01232873a0a2ee1603621b588bcec3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-s4NcHICTYFI/TDBZoFCPz6I/AAAAAAAAB7w/DZRcbWX3nVo/RIMG1168.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4NcHICTYFI/TDBZoFCPz6I/AAAAAAAAB7w/DZRcbWX3nVo/s72/RIMG1168.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4NcHICTYFI/TDBZoFCPz6I/AAAAAAAAB7w/DZRcbWX3nVo/s144/RIMG1168.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4NcHICTYFI/TDBZoFCPz6I/AAAAAAAAB7w/DZRcbWX3nVo/s288/RIMG1168.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1168.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986497339245746</id>
+    <published>2010-07-04T09:51:29.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1169.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-kJVllxfSTLg/TDBZodOYxLI/AAAAAAAAB70/SpS1_vUIILA/RIMG1169.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986497339245746"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986497339245746"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MqD_FwOwheoJ3U7KrxPLpNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986497339245746"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986497339245746"/>
+    <gphoto:id>5489986497339245746</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>37.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>92777</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f393c047</gphoto:checksum>
+    <gphoto:timestamp>1278183997000</gphoto:timestamp>
+    <gphoto:imageVersion>1981</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>33.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278183997000</exif:time>
+      <exif:imageUniqueID>bc5cc81e3f3bbc9408825ff2eade7676</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kJVllxfSTLg/TDBZodOYxLI/AAAAAAAAB70/SpS1_vUIILA/RIMG1169.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kJVllxfSTLg/TDBZodOYxLI/AAAAAAAAB70/SpS1_vUIILA/s72/RIMG1169.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kJVllxfSTLg/TDBZodOYxLI/AAAAAAAAB70/SpS1_vUIILA/s144/RIMG1169.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kJVllxfSTLg/TDBZodOYxLI/AAAAAAAAB70/SpS1_vUIILA/s288/RIMG1169.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1169.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986498834627922</id>
+    <published>2010-07-04T09:51:30.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1170.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vjjhN3jPV7c/TDBZoiy6fVI/AAAAAAAAB74/wVGdPXZMNFc/RIMG1170.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986498834627922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986498834627922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7sXYLJLKm3DLv1ujsdhdTdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986498834627922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986498834627922"/>
+    <gphoto:id>5489986498834627922</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>38.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>89628</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f39f8047</gphoto:checksum>
+    <gphoto:timestamp>1278184028000</gphoto:timestamp>
+    <gphoto:imageVersion>1982</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.8</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1278184028000</exif:time>
+      <exif:imageUniqueID>6f3b4acaa197301e9e0c729ec7726c0e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vjjhN3jPV7c/TDBZoiy6fVI/AAAAAAAAB74/wVGdPXZMNFc/RIMG1170.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vjjhN3jPV7c/TDBZoiy6fVI/AAAAAAAAB74/wVGdPXZMNFc/s72/RIMG1170.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vjjhN3jPV7c/TDBZoiy6fVI/AAAAAAAAB74/wVGdPXZMNFc/s144/RIMG1170.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vjjhN3jPV7c/TDBZoiy6fVI/AAAAAAAAB74/wVGdPXZMNFc/s288/RIMG1170.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1170.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986504124709026</id>
+    <published>2010-07-04T09:51:31.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1174.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ytvqk1IThvU/TDBZo2gKuKI/AAAAAAAAB78/gtkn5jPCTuA/RIMG1174.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986504124709026"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986504124709026"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/I7JdFclZTZBukCooYYnLqdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986504124709026"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986504124709026"/>
+    <gphoto:id>5489986504124709026</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>39.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>190514</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3a60047</gphoto:checksum>
+    <gphoto:timestamp>1278184079000</gphoto:timestamp>
+    <gphoto:imageVersion>1983</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.8</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1278184079000</exif:time>
+      <exif:imageUniqueID>8fa4c4e903ca810a4a82cd6e5a8c1753</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ytvqk1IThvU/TDBZo2gKuKI/AAAAAAAAB78/gtkn5jPCTuA/RIMG1174.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ytvqk1IThvU/TDBZo2gKuKI/AAAAAAAAB78/gtkn5jPCTuA/s72/RIMG1174.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ytvqk1IThvU/TDBZo2gKuKI/AAAAAAAAB78/gtkn5jPCTuA/s144/RIMG1174.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ytvqk1IThvU/TDBZo2gKuKI/AAAAAAAAB78/gtkn5jPCTuA/s288/RIMG1174.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1174.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986507259151938</id>
+    <published>2010-07-04T09:51:32.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1175.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Ed6Ogzl6k6M/TDBZpCLehkI/AAAAAAAAB8A/0p30VdrxhQ0/RIMG1175.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986507259151938"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986507259151938"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-nVH8nMIYu1aSr5UP0xfrNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986507259151938"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986507259151938"/>
+    <gphoto:id>5489986507259151938</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>40.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>184684</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3a30047</gphoto:checksum>
+    <gphoto:timestamp>1278184119000</gphoto:timestamp>
+    <gphoto:imageVersion>1984</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1278184119000</exif:time>
+      <exif:imageUniqueID>735388415c30c7262c65b39cdf0c5b03</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Ed6Ogzl6k6M/TDBZpCLehkI/AAAAAAAAB8A/0p30VdrxhQ0/RIMG1175.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ed6Ogzl6k6M/TDBZpCLehkI/AAAAAAAAB8A/0p30VdrxhQ0/s72/RIMG1175.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ed6Ogzl6k6M/TDBZpCLehkI/AAAAAAAAB8A/0p30VdrxhQ0/s144/RIMG1175.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ed6Ogzl6k6M/TDBZpCLehkI/AAAAAAAAB8A/0p30VdrxhQ0/s288/RIMG1175.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1175.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986514869427554</id>
+    <published>2010-07-04T09:51:33.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1176.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-G5kRB9kjIdE/TDBZpeh6HWI/AAAAAAAAB8E/AJSE1HvATLg/RIMG1176.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986514869427554"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986514869427554"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tRlxYyoYcsqPU5cTTzZUftMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986514869427554"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986514869427554"/>
+    <gphoto:id>5489986514869427554</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>41.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>194147</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3a00047</gphoto:checksum>
+    <gphoto:timestamp>1278184127000</gphoto:timestamp>
+    <gphoto:imageVersion>1985</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1278184127000</exif:time>
+      <exif:imageUniqueID>457280caed309c85a127d877a7ff0cca</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-G5kRB9kjIdE/TDBZpeh6HWI/AAAAAAAAB8E/AJSE1HvATLg/RIMG1176.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-G5kRB9kjIdE/TDBZpeh6HWI/AAAAAAAAB8E/AJSE1HvATLg/s72/RIMG1176.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-G5kRB9kjIdE/TDBZpeh6HWI/AAAAAAAAB8E/AJSE1HvATLg/s144/RIMG1176.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-G5kRB9kjIdE/TDBZpeh6HWI/AAAAAAAAB8E/AJSE1HvATLg/s288/RIMG1176.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1176.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986517200456626</id>
+    <published>2010-07-04T09:51:34.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1178.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-w0sGC5v0rEo/TDBZpnNqy7I/AAAAAAAAB8I/5l_FH5_i8KM/RIMG1178.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986517200456626"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986517200456626"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jnKKpQhn3E1wwQhlEM3PLdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986517200456626"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986517200456626"/>
+    <gphoto:id>5489986517200456626</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>42.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>182390</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3c48047</gphoto:checksum>
+    <gphoto:timestamp>1278184356000</gphoto:timestamp>
+    <gphoto:imageVersion>1986</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.2</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>22.5</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1278184356000</exif:time>
+      <exif:imageUniqueID>0f389ad2e53b9289c040cc2a87950b00</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-w0sGC5v0rEo/TDBZpnNqy7I/AAAAAAAAB8I/5l_FH5_i8KM/RIMG1178.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-w0sGC5v0rEo/TDBZpnNqy7I/AAAAAAAAB8I/5l_FH5_i8KM/s72/RIMG1178.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-w0sGC5v0rEo/TDBZpnNqy7I/AAAAAAAAB8I/5l_FH5_i8KM/s144/RIMG1178.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-w0sGC5v0rEo/TDBZpnNqy7I/AAAAAAAAB8I/5l_FH5_i8KM/s288/RIMG1178.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1178.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986523718433330</id>
+    <published>2010-07-04T09:51:35.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1184.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Cvs6dS-HT0k/TDBZp_frOjI/AAAAAAAAB8M/H-gYUP9V4kE/RIMG1184.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986523718433330"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986523718433330"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QouCTQkLFuWCb0P9fuOnpdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986523718433330"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986523718433330"/>
+    <gphoto:id>5489986523718433330</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>43.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>190125</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3e68047</gphoto:checksum>
+    <gphoto:timestamp>1278184595000</gphoto:timestamp>
+    <gphoto:imageVersion>1987</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.11111111</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1278184595000</exif:time>
+      <exif:imageUniqueID>23b7099df135e8584e0c064ddd13b51a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Cvs6dS-HT0k/TDBZp_frOjI/AAAAAAAAB8M/H-gYUP9V4kE/RIMG1184.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Cvs6dS-HT0k/TDBZp_frOjI/AAAAAAAAB8M/H-gYUP9V4kE/s72/RIMG1184.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Cvs6dS-HT0k/TDBZp_frOjI/AAAAAAAAB8M/H-gYUP9V4kE/s144/RIMG1184.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Cvs6dS-HT0k/TDBZp_frOjI/AAAAAAAAB8M/H-gYUP9V4kE/s288/RIMG1184.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1184.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986526309831186</id>
+    <published>2010-07-04T09:51:36.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1185.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Ek0ZcURmvDI/TDBZqJJg0hI/AAAAAAAAB8Q/0bhqeXV2ay0/RIMG1185.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986526309831186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986526309831186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/z3137zbxEijn2NVzQMjBuNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986526309831186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986526309831186"/>
+    <gphoto:id>5489986526309831186</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>44.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>140891</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3e7c047</gphoto:checksum>
+    <gphoto:timestamp>1278184607000</gphoto:timestamp>
+    <gphoto:imageVersion>1988</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.015625</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>283</exif:iso>
+      <exif:time>1278184607000</exif:time>
+      <exif:imageUniqueID>0c24993d721615acf94dd028301ae01b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Ek0ZcURmvDI/TDBZqJJg0hI/AAAAAAAAB8Q/0bhqeXV2ay0/RIMG1185.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ek0ZcURmvDI/TDBZqJJg0hI/AAAAAAAAB8Q/0bhqeXV2ay0/s72/RIMG1185.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ek0ZcURmvDI/TDBZqJJg0hI/AAAAAAAAB8Q/0bhqeXV2ay0/s144/RIMG1185.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ek0ZcURmvDI/TDBZqJJg0hI/AAAAAAAAB8Q/0bhqeXV2ay0/s288/RIMG1185.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1185.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986530810161186</id>
+    <published>2010-07-04T09:51:37.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1186.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ukUX253q-ck/TDBZqZ6eaCI/AAAAAAAAB8U/gdo7Pm7NCnc/RIMG1186.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986530810161186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986530810161186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/x3lrdWVjQd1QitgNppg_sNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986530810161186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986530810161186"/>
+    <gphoto:id>5489986530810161186</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>45.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>186206</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3e50047</gphoto:checksum>
+    <gphoto:timestamp>1278184615000</gphoto:timestamp>
+    <gphoto:imageVersion>1989</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.4</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.014705882</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>9.8</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1278184615000</exif:time>
+      <exif:imageUniqueID>705a70448e0d071f2c0ef5bd1072d405</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ukUX253q-ck/TDBZqZ6eaCI/AAAAAAAAB8U/gdo7Pm7NCnc/RIMG1186.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ukUX253q-ck/TDBZqZ6eaCI/AAAAAAAAB8U/gdo7Pm7NCnc/s72/RIMG1186.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ukUX253q-ck/TDBZqZ6eaCI/AAAAAAAAB8U/gdo7Pm7NCnc/s144/RIMG1186.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ukUX253q-ck/TDBZqZ6eaCI/AAAAAAAAB8U/gdo7Pm7NCnc/s288/RIMG1186.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1186.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986539607757218</id>
+    <published>2010-07-04T09:51:39.000Z</published>
+    <updated>2013-05-12T01:02:00.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">RIMG1187.JPG</title>
+    <summary type="text">やばい。。。バッテリーが切....れ....ru....</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qo0xD59JeVk/TDBZq6r_EaI/AAAAAAAAB8Y/6HYUuUPr70s/RIMG1187.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986539607757218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuccphoto2010/20100703TT02#5489986539607757218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/yPY5lWdzYXE6JHmKrFVBKdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuccphoto2010/albumid/5489986307232025585/photoid/5489986539607757218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuccphoto2010&amp;aid=5489986307232025585&amp;iid=5489986539607757218"/>
+    <gphoto:id>5489986539607757218</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>46.0</gphoto:position>
+    <gphoto:albumid>5489986307232025585</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>122318</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>f3ea0047</gphoto:checksum>
+    <gphoto:timestamp>1278184688000</gphoto:timestamp>
+    <gphoto:imageVersion>1990</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.6</exif:fstop>
+      <exif:make>RICOH      </exif:make>
+      <exif:model>Caplio R6      </exif:model>
+      <exif:exposure>0.01369863</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>12.4</exif:focallength>
+      <exif:iso>283</exif:iso>
+      <exif:time>1278184688000</exif:time>
+      <exif:imageUniqueID>692fcf02d547c162e901e30a547e8d9e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qo0xD59JeVk/TDBZq6r_EaI/AAAAAAAAB8Y/6HYUuUPr70s/RIMG1187.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kuccphoto2010</media:credit>
+      <media:description type="plain">やばい。。。バッテリーが切....れ....ru....</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qo0xD59JeVk/TDBZq6r_EaI/AAAAAAAAB8Y/6HYUuUPr70s/s72/RIMG1187.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qo0xD59JeVk/TDBZq6r_EaI/AAAAAAAAB8Y/6HYUuUPr70s/s144/RIMG1187.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qo0xD59JeVk/TDBZq6r_EaI/AAAAAAAAB8Y/6HYUuUPr70s/s288/RIMG1187.JPG" height="216" width="288"/>
+      <media:title type="plain">RIMG1187.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

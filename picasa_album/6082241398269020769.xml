@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769</id>
+  <updated>2014-11-27T03:14:22.734Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">城丹国境尾根</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-miSRPbx37sQ/VGh2U54ACmE/AAAAAAAAGzU/fYiQZ0LNntI/s160-c/KYDoPF.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>akira kawata</name>
+    <uri>https://picasaweb.google.com/117263078553287461854</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>11</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6082241398269020769</gphoto:id>
+  <gphoto:name>KYDoPF</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1416132179000</gphoto:timestamp>
+  <gphoto:numphotos>11</gphoto:numphotos>
+  <gphoto:user>117263078553287461854</gphoto:user>
+  <gphoto:nickname>akira kawata</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241401280354802</id>
+    <published>2014-11-16T10:03:00.000Z</published>
+    <updated>2014-11-27T03:14:06.776Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2831.JPG</title>
+    <summary type="text">県道が通る予定</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qsKLNDSprkE/VGh2VFF9WfI/AAAAAAAAGys/p5PgZ6wa0bE/IMGP2831.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241401280354802"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241401280354802"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gq37JEVLWadZ2sq8A06WQNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241401280354802"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241401280354802"/>
+    <gphoto:id>6082241401280354802</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>26.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>570836</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416096985000</gphoto:timestamp>
+    <gphoto:imageVersion>6955</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241401280354802</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.7</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1416129385000</exif:time>
+      <exif:imageUniqueID>b9df0a0de2e33bce0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qsKLNDSprkE/VGh2VFF9WfI/AAAAAAAAGys/p5PgZ6wa0bE/IMGP2831.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">県道が通る予定</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qsKLNDSprkE/VGh2VFF9WfI/AAAAAAAAGys/p5PgZ6wa0bE/s72/IMGP2831.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qsKLNDSprkE/VGh2VFF9WfI/AAAAAAAAGys/p5PgZ6wa0bE/s144/IMGP2831.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qsKLNDSprkE/VGh2VFF9WfI/AAAAAAAAGys/p5PgZ6wa0bE/s288/IMGP2831.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2831.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241467485231714</id>
+    <published>2014-11-16T10:03:15.000Z</published>
+    <updated>2014-11-27T03:14:07.111Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2832.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-atxAJ8ml-_U/VGh2Y7ubmmI/AAAAAAAAGyw/71VgsFXqjx0/IMGP2832.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241467485231714"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241467485231714"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ahMWheZurvGvqJu4K8TlWdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241467485231714"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241467485231714"/>
+    <gphoto:id>6082241467485231714</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>27.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>764873</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416096990000</gphoto:timestamp>
+    <gphoto:imageVersion>6956</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241467485231714</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1416129390000</exif:time>
+      <exif:imageUniqueID>5f4b2203769f05920000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-atxAJ8ml-_U/VGh2Y7ubmmI/AAAAAAAAGyw/71VgsFXqjx0/IMGP2832.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atxAJ8ml-_U/VGh2Y7ubmmI/AAAAAAAAGyw/71VgsFXqjx0/s72/IMGP2832.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atxAJ8ml-_U/VGh2Y7ubmmI/AAAAAAAAGyw/71VgsFXqjx0/s144/IMGP2832.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-atxAJ8ml-_U/VGh2Y7ubmmI/AAAAAAAAGyw/71VgsFXqjx0/s288/IMGP2832.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2832.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241563761474466</id>
+    <published>2014-11-16T10:03:38.000Z</published>
+    <updated>2014-11-27T03:14:09.139Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2834.JPG</title>
+    <summary type="text">松井さんとデュエット</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xlEucbxaUDE/VGh2eiYee6I/AAAAAAAAGy0/Gj9mmPlCAs0/IMGP2834.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241563761474466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241563761474466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ODhm0ED4dTlvN8o8D7ocZNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241563761474466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241563761474466"/>
+    <gphoto:id>6082241563761474466</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>28.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>467581</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416097049000</gphoto:timestamp>
+    <gphoto:imageVersion>6957</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241563761474466</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416129449000</exif:time>
+      <exif:imageUniqueID>4f459d3bbadcb8040000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xlEucbxaUDE/VGh2eiYee6I/AAAAAAAAGy0/Gj9mmPlCAs0/IMGP2834.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">松井さんとデュエット</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xlEucbxaUDE/VGh2eiYee6I/AAAAAAAAGy0/Gj9mmPlCAs0/s72/IMGP2834.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xlEucbxaUDE/VGh2eiYee6I/AAAAAAAAGy0/Gj9mmPlCAs0/s144/IMGP2834.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xlEucbxaUDE/VGh2eiYee6I/AAAAAAAAGy0/Gj9mmPlCAs0/s288/IMGP2834.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2834.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241663585365234</id>
+    <published>2014-11-16T10:04:01.000Z</published>
+    <updated>2014-11-27T03:14:10.879Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2835.JPG</title>
+    <summary type="text">北山とは思えない展望</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gKPXiDMEwYY/VGh2kWQWLPI/AAAAAAAAGy4/VplkbxSxPsU/IMGP2835.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241663585365234"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241663585365234"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/G0kWQLwxbxSvVIeext1pQ9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241663585365234"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241663585365234"/>
+    <gphoto:id>6082241663585365234</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>29.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>337109</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416097612000</gphoto:timestamp>
+    <gphoto:imageVersion>6958</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241663585365234</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416130012000</exif:time>
+      <exif:imageUniqueID>a705bebfd362c1b20000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gKPXiDMEwYY/VGh2kWQWLPI/AAAAAAAAGy4/VplkbxSxPsU/IMGP2835.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">北山とは思えない展望</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKPXiDMEwYY/VGh2kWQWLPI/AAAAAAAAGy4/VplkbxSxPsU/s72/IMGP2835.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKPXiDMEwYY/VGh2kWQWLPI/AAAAAAAAGy4/VplkbxSxPsU/s144/IMGP2835.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gKPXiDMEwYY/VGh2kWQWLPI/AAAAAAAAGy4/VplkbxSxPsU/s288/IMGP2835.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2835.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241641508515218</id>
+    <published>2014-11-16T10:03:56.000Z</published>
+    <updated>2014-11-27T03:14:11.798Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2836.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-EXJpAy2vlec/VGh2jEA0LZI/AAAAAAAAGy8/iQ8B6LLZ6QQ/IMGP2836.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241641508515218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241641508515218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/e1Vxs3VzWO6VlH1SB17ZVdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241641508515218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241641508515218"/>
+    <gphoto:id>6082241641508515218</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>30.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>554387</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416097617000</gphoto:timestamp>
+    <gphoto:imageVersion>6959</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241641508515218</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416130017000</exif:time>
+      <exif:imageUniqueID>21341ff7b703298f0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-EXJpAy2vlec/VGh2jEA0LZI/AAAAAAAAGy8/iQ8B6LLZ6QQ/IMGP2836.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EXJpAy2vlec/VGh2jEA0LZI/AAAAAAAAGy8/iQ8B6LLZ6QQ/s72/IMGP2836.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EXJpAy2vlec/VGh2jEA0LZI/AAAAAAAAGy8/iQ8B6LLZ6QQ/s144/IMGP2836.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EXJpAy2vlec/VGh2jEA0LZI/AAAAAAAAGy8/iQ8B6LLZ6QQ/s288/IMGP2836.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2836.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241763187164386</id>
+    <published>2014-11-16T10:04:24.000Z</published>
+    <updated>2014-11-27T03:14:13.027Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2838.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ypNmrOCI_K0/VGh2qJTRBOI/AAAAAAAAGzA/7y2ci_DP2Mc/IMGP2838.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241763187164386"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241763187164386"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DYK4-cpJ2-f1krYVnszzvtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241763187164386"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241763187164386"/>
+    <gphoto:id>6082241763187164386</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>31.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>345032</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416097763000</gphoto:timestamp>
+    <gphoto:imageVersion>6960</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241763187164386</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416130163000</exif:time>
+      <exif:imageUniqueID>fc1f6ad1b4ca988e0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ypNmrOCI_K0/VGh2qJTRBOI/AAAAAAAAGzA/7y2ci_DP2Mc/IMGP2838.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ypNmrOCI_K0/VGh2qJTRBOI/AAAAAAAAGzA/7y2ci_DP2Mc/s72/IMGP2838.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ypNmrOCI_K0/VGh2qJTRBOI/AAAAAAAAGzA/7y2ci_DP2Mc/s144/IMGP2838.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ypNmrOCI_K0/VGh2qJTRBOI/AAAAAAAAGzA/7y2ci_DP2Mc/s288/IMGP2838.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2838.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241791319190578</id>
+    <published>2014-11-16T10:04:31.000Z</published>
+    <updated>2014-11-27T03:14:13.783Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2839.JPG</title>
+    <summary type="text">迷った末に見つけた看板。自己中傷足りてない。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4LUd8n-3yQU/VGh2ryGdrDI/AAAAAAAAGzE/9YDei5qpnvE/IMGP2839.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241791319190578"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241791319190578"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/XKYNOu3Ypo7ZHlBK7arsWdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241791319190578"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241791319190578"/>
+    <gphoto:id>6082241791319190578</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>32.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>599888</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416100808000</gphoto:timestamp>
+    <gphoto:imageVersion>6961</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241791319190578</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.7</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1416133208000</exif:time>
+      <exif:imageUniqueID>8ae0cdd8027049090000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4LUd8n-3yQU/VGh2ryGdrDI/AAAAAAAAGzE/9YDei5qpnvE/IMGP2839.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">迷った末に見つけた看板。自己中傷足りてない。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4LUd8n-3yQU/VGh2ryGdrDI/AAAAAAAAGzE/9YDei5qpnvE/s72/IMGP2839.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4LUd8n-3yQU/VGh2ryGdrDI/AAAAAAAAGzE/9YDei5qpnvE/s144/IMGP2839.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4LUd8n-3yQU/VGh2ryGdrDI/AAAAAAAAGzE/9YDei5qpnvE/s288/IMGP2839.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2839.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241825680991218</id>
+    <published>2014-11-16T10:04:39.000Z</published>
+    <updated>2014-11-27T03:14:14.975Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2840.JPG</title>
+    <summary type="text">大展望。大規模な伐採が行われていた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-sOPID5J5e5Q/VGh2tyG9I_I/AAAAAAAAGzI/X_ETu-S_TJs/IMGP2840.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241825680991218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241825680991218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KB0qF4yvRdfy5E1yfdku9NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241825680991218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241825680991218"/>
+    <gphoto:id>6082241825680991218</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>33.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>516517</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416103454000</gphoto:timestamp>
+    <gphoto:imageVersion>6962</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241825680991218</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416135854000</exif:time>
+      <exif:imageUniqueID>3341097230f00cf40000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sOPID5J5e5Q/VGh2tyG9I_I/AAAAAAAAGzI/X_ETu-S_TJs/IMGP2840.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">大展望。大規模な伐採が行われていた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sOPID5J5e5Q/VGh2tyG9I_I/AAAAAAAAGzI/X_ETu-S_TJs/s72/IMGP2840.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sOPID5J5e5Q/VGh2tyG9I_I/AAAAAAAAGzI/X_ETu-S_TJs/s144/IMGP2840.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sOPID5J5e5Q/VGh2tyG9I_I/AAAAAAAAGzI/X_ETu-S_TJs/s288/IMGP2840.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2840.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241864013109634</id>
+    <published>2014-11-16T10:04:48.000Z</published>
+    <updated>2014-11-27T03:14:17.639Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2842.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zsWbO10TE_k/VGh2wA6C2YI/AAAAAAAAGzM/TSBCyswQ_mk/IMGP2842.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241864013109634"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241864013109634"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/NB21Qg_q7XF2-V6g2TzIINMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241864013109634"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241864013109634"/>
+    <gphoto:id>6082241864013109634</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>34.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>496751</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416105817000</gphoto:timestamp>
+    <gphoto:imageVersion>6963</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241864013109634</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.8</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.7</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1416138217000</exif:time>
+      <exif:imageUniqueID>ee3298a609e860ca0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zsWbO10TE_k/VGh2wA6C2YI/AAAAAAAAGzM/TSBCyswQ_mk/IMGP2842.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsWbO10TE_k/VGh2wA6C2YI/AAAAAAAAGzM/TSBCyswQ_mk/s72/IMGP2842.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsWbO10TE_k/VGh2wA6C2YI/AAAAAAAAGzM/TSBCyswQ_mk/s144/IMGP2842.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsWbO10TE_k/VGh2wA6C2YI/AAAAAAAAGzM/TSBCyswQ_mk/s288/IMGP2842.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2842.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241957542647346</id>
+    <published>2014-11-16T10:05:09.000Z</published>
+    <updated>2014-11-27T03:14:19.074Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2844.JPG</title>
+    <summary type="text">展望がこんなところにも</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-tFz_vGqdT4M/VGh21dVOVjI/AAAAAAAAGzQ/Qn-igwj1xV4/IMGP2844.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241957542647346"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082241957542647346"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ct6LeCmwGB_ve9yHeoIWXdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082241957542647346"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082241957542647346"/>
+    <gphoto:id>6082241957542647346</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>35.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>665833</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416109676000</gphoto:timestamp>
+    <gphoto:imageVersion>6964</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082241957542647346</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416142076000</exif:time>
+      <exif:imageUniqueID>6512f51cb86b69470000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tFz_vGqdT4M/VGh21dVOVjI/AAAAAAAAGzQ/Qn-igwj1xV4/IMGP2844.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">展望がこんなところにも</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tFz_vGqdT4M/VGh21dVOVjI/AAAAAAAAGzQ/Qn-igwj1xV4/s72/IMGP2844.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tFz_vGqdT4M/VGh21dVOVjI/AAAAAAAAGzQ/Qn-igwj1xV4/s144/IMGP2844.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tFz_vGqdT4M/VGh21dVOVjI/AAAAAAAAGzQ/Qn-igwj1xV4/s288/IMGP2844.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2844.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082242022703672098</id>
+    <published>2014-11-16T10:05:25.000Z</published>
+    <updated>2014-11-27T03:14:22.734Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMGP2845.JPG</title>
+    <summary type="text">城丹国境尾根ー茶呑峠間</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AQk1tMfSfP4/VGh25QE0qyI/AAAAAAAAGzU/5vDTadSf4Fo/IMGP2845.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082242022703672098"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117263078553287461854/KYDoPF#6082242022703672098"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/c0NITnluQgjoi8juqWTuFNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117263078553287461854/albumid/6082241398269020769/photoid/6082242022703672098"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=117263078553287461854&amp;aid=6082241398269020769&amp;iid=6082242022703672098"/>
+    <gphoto:id>6082242022703672098</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>6082241398269020769</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>893922</gphoto:size>
+    <gphoto:client>es-upload-highlights</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1416109681000</gphoto:timestamp>
+    <gphoto:imageVersion>6965</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6082242022703672098</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>PENTAX RICOH IMAGING   </exif:make>
+      <exif:model>PENTAX WG-10</exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1416142081000</exif:time>
+      <exif:imageUniqueID>e70efc141547263f0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AQk1tMfSfP4/VGh25QE0qyI/AAAAAAAAGzU/5vDTadSf4Fo/IMGP2845.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>akira kawata</media:credit>
+      <media:description type="plain">城丹国境尾根ー茶呑峠間</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AQk1tMfSfP4/VGh25QE0qyI/AAAAAAAAGzU/5vDTadSf4Fo/s72/IMGP2845.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AQk1tMfSfP4/VGh25QE0qyI/AAAAAAAAGzU/5vDTadSf4Fo/s144/IMGP2845.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AQk1tMfSfP4/VGh25QE0qyI/AAAAAAAAGzU/5vDTadSf4Fo/s288/IMGP2845.JPG" height="216" width="288"/>
+      <media:title type="plain">IMGP2845.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kago.photo.a</id>
+  <updated>2015-09-04T03:02:50.422Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">kago.photo.a</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-NmDzDcNbJno/AAAAAAAAAAA/AAAAAAAAAAA/g0glpP7zUB4/s64-c/kago.photo.a.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kago.photo.a?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kago-chan</name>
+    <uri>https://picasaweb.google.com/kago.photo.a</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>17</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>kago.photo.a</gphoto:user>
+  <gphoto:nickname>kago-chan</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-NmDzDcNbJno/AAAAAAAAAAA/AAAAAAAAAAA/g0glpP7zUB4/s64-c/kago.photo.a.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5793557178475450065</id>
+    <published>2012-09-29T07:00:00.000Z</published>
+    <updated>2013-05-09T00:45:06.197Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">九月山陰制覇</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5793557178475450065"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/MgnbR"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5793557178475450065"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5793557178475450065</gphoto:id>
+    <gphoto:name>MgnbR</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1348902000000</gphoto:timestamp>
+    <gphoto:numphotos>34</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PzaIVM2Fs1Q/UGbZjujxjtE/AAAAAAAAEIE/NeOZYjc-T_s/MgnbR.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PzaIVM2Fs1Q/UGbZjujxjtE/AAAAAAAAEIE/NeOZYjc-T_s/s160-c/MgnbR.jpg" height="160" width="160"/>
+      <media:title type="plain">九月山陰制覇</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5602320462365259873</id>
+    <published>2011-05-03T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:51.639Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW四国2011</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5602320462365259873"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/GW2011"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5602320462365259873"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5602320462365259873</gphoto:id>
+    <gphoto:name>GW2011</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1304406000000</gphoto:timestamp>
+    <gphoto:numphotos>14</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MSULEfAYYNw/Tb9wxzUu-GE/AAAAAAAAEJw/-bf-Oc97kVY/GW2011.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MSULEfAYYNw/Tb9wxzUu-GE/AAAAAAAAEJw/-bf-Oc97kVY/s160-c/GW2011.jpg" height="160" width="160"/>
+      <media:title type="plain">GW四国2011</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5545346426113767457</id>
+    <published>2010-11-30T08:00:00.000Z</published>
+    <updated>2013-05-11T11:18:49.668Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF福知山廃線歩き</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5545346426113767457"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/NF02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5545346426113767457"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5545346426113767457</gphoto:id>
+    <gphoto:name>NF02</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291104000000</gphoto:timestamp>
+    <gphoto:numphotos>42</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sv3pa91BwMs/TPUHMaz-OCE/AAAAAAAAD-I/nRRsEbPSoO8/NF02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sv3pa91BwMs/TPUHMaz-OCE/AAAAAAAAD-I/nRRsEbPSoO8/s160-c/NF02.jpg" height="160" width="160"/>
+      <media:title type="plain">NF福知山廃線歩き</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5542375622153117505</id>
+    <published>2010-11-22T08:00:00.000Z</published>
+    <updated>2013-05-11T11:18:47.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF愛宕山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5542375622153117505"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5542375622153117505"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5542375622153117505</gphoto:id>
+    <gphoto:name>NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1290412800000</gphoto:timestamp>
+    <gphoto:numphotos>22</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Lvdqb26GxyM/TOp5Q3o4n0E/AAAAAAAAD7E/_j9jiupc-YU/NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Lvdqb26GxyM/TOp5Q3o4n0E/AAAAAAAAD7E/_j9jiupc-YU/s160-c/NF.jpg" height="160" width="160"/>
+      <media:title type="plain">NF愛宕山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5468506703511379553</id>
+    <published>2010-05-07T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:45.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW信州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5468506703511379553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/GW02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5468506703511379553"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5468506703511379553</gphoto:id>
+    <gphoto:name>GW02</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1273215600000</gphoto:timestamp>
+    <gphoto:numphotos>110</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iZAa-95M3KI/S-QJ35qjXmE/AAAAAAAAELM/eINM_gKJvZY/GW02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iZAa-95M3KI/S-QJ35qjXmE/AAAAAAAAELM/eINM_gKJvZY/s160-c/GW02.jpg" height="160" width="160"/>
+      <media:title type="plain">GW信州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451458163019859121</id>
+    <published>2010-03-22T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:39.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ペルー、ボリビア１</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5451458163019859121"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/LyJbh"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451458163019859121"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5451458163019859121</gphoto:id>
+    <gphoto:name>LyJbh</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1269241200000</gphoto:timestamp>
+    <gphoto:numphotos>175</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Wr3UcLO8yfA/S6d4UPKzxLE/AAAAAAAADZ4/QZQAwZZXjlQ/LyJbh.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wr3UcLO8yfA/S6d4UPKzxLE/AAAAAAAADZ4/QZQAwZZXjlQ/s160-c/LyJbh.jpg" height="160" width="160"/>
+      <media:title type="plain">ペルー、ボリビア１</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451469045999218625</id>
+    <published>2010-03-22T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:41.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ペルー、ボリビア２</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5451469045999218625"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/JaVMXE"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451469045999218625"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5451469045999218625</gphoto:id>
+    <gphoto:name>JaVMXE</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1269241200000</gphoto:timestamp>
+    <gphoto:numphotos>112</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QYrHf2pwFAo/S6eCNtbSL8E/AAAAAAAADs0/2HOcrYgMyNY/JaVMXE.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QYrHf2pwFAo/S6eCNtbSL8E/AAAAAAAADs0/2HOcrYgMyNY/s160-c/JaVMXE.jpg" height="160" width="160"/>
+      <media:title type="plain">ペルー、ボリビア２</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451472429735032305</id>
+    <published>2010-03-22T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:43.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ペルー、ボリビア３</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5451472429735032305"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/OTMkvC"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5451472429735032305"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5451472429735032305</gphoto:id>
+    <gphoto:name>OTMkvC</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1269241200000</gphoto:timestamp>
+    <gphoto:numphotos>159</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lRZxEk0yrZ8/S6eFSq0xNfE/AAAAAAAADtA/6PT8rM92DfQ/OTMkvC.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lRZxEk0yrZ8/S6eFSq0xNfE/AAAAAAAADtA/6PT8rM92DfQ/s160-c/OTMkvC.jpg" height="160" width="160"/>
+      <media:title type="plain">ペルー、ボリビア３</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5408010514921629729</id>
+    <published>2009-11-25T08:00:00.000Z</published>
+    <updated>2013-05-12T10:16:21.599Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11月四国の旅</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5408010514921629729"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/11"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5408010514921629729"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5408010514921629729</gphoto:id>
+    <gphoto:name>11</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1259136000000</gphoto:timestamp>
+    <gphoto:numphotos>113</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YSsq06s-6rc/Sw0c6RN7KCE/AAAAAAAAELc/Vd-mTPEo03w/11.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YSsq06s-6rc/Sw0c6RN7KCE/AAAAAAAAELc/Vd-mTPEo03w/s160-c/11.jpg" height="160" width="160"/>
+      <media:title type="plain">11月四国の旅</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5392076887519939697</id>
+    <published>2009-10-13T07:00:00.000Z</published>
+    <updated>2013-05-11T11:18:37.640Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">１０月三連休白馬登山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5392076887519939697"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/HTbJJK"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5392076887519939697"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5392076887519939697</gphoto:id>
+    <gphoto:name>HTbJJK</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1255417200000</gphoto:timestamp>
+    <gphoto:numphotos>55</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-uz9S92WixE0/StSBXFo4THE/AAAAAAAAELw/iwi32E5nbUQ/HTbJJK.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uz9S92WixE0/StSBXFo4THE/AAAAAAAAELw/iwi32E5nbUQ/s160-c/HTbJJK.jpg" height="160" width="160"/>
+      <media:title type="plain">１０月三連休白馬登山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5383167532409493601</id>
+    <published>2009-09-19T07:00:00.000Z</published>
+    <updated>2013-05-12T10:16:19.597Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">美山・天橋立・丹後・城崎</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5383167532409493601"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/AgqGPC"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5383167532409493601"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5383167532409493601</gphoto:id>
+    <gphoto:name>AgqGPC</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1253343600000</gphoto:timestamp>
+    <gphoto:numphotos>48</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-c2nsCkI82fo/SrTaWXevGGE/AAAAAAAAEKY/-gXakWSeCW4/AgqGPC.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c2nsCkI82fo/SrTaWXevGGE/AAAAAAAAEKY/-gXakWSeCW4/s160-c/AgqGPC.jpg" height="160" width="160"/>
+      <media:title type="plain">美山・天橋立・丹後・城崎</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5379822948629591857</id>
+    <published>2009-09-10T07:00:00.000Z</published>
+    <updated>2013-05-12T10:16:17.597Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏北海道</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5379822948629591857"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/VMDtBH"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5379822948629591857"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5379822948629591857</gphoto:id>
+    <gphoto:name>VMDtBH</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1252566000000</gphoto:timestamp>
+    <gphoto:numphotos>191</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BIbnxnu1ehg/Sqj4d9-PtzE/AAAAAAAAELE/ylJNdgxbWNE/VMDtBH.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BIbnxnu1ehg/Sqj4d9-PtzE/AAAAAAAAELE/ylJNdgxbWNE/s160-c/VMDtBH.jpg" height="160" width="160"/>
+      <media:title type="plain">夏北海道</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5334554805778676097</id>
+    <published>2009-05-11T07:00:00.000Z</published>
+    <updated>2013-05-12T10:16:15.596Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW南紀</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5334554805778676097"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5334554805778676097"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5334554805778676097</gphoto:id>
+    <gphoto:name>GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1242025200000</gphoto:timestamp>
+    <gphoto:numphotos>103</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HFJ8foS3SRg/SgglVQlKeYE/AAAAAAAAELs/PYZb5dzr2v4/GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HFJ8foS3SRg/SgglVQlKeYE/AAAAAAAAELs/PYZb5dzr2v4/s160-c/GW.jpg" height="160" width="160"/>
+      <media:title type="plain">GW南紀</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315235243606333169</id>
+    <published>2009-03-16T07:00:00.000Z</published>
+    <updated>2013-05-12T10:15:53.904Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">アテネ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5315235243606333169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/sQFAhJ"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315235243606333169"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5315235243606333169</gphoto:id>
+    <gphoto:name>sQFAhJ</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1237186800000</gphoto:timestamp>
+    <gphoto:numphotos>73</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lkyc1X5lPGw/ScOCSvDK1vE/AAAAAAAAELU/KtxTdER2bIk/sQFAhJ.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lkyc1X5lPGw/ScOCSvDK1vE/AAAAAAAAELU/KtxTdER2bIk/s160-c/sQFAhJ.jpg" height="160" width="160"/>
+      <media:title type="plain">アテネ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315241403323834753</id>
+    <published>2009-03-14T07:00:00.000Z</published>
+    <updated>2013-05-12T10:15:55.903Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">デルフォイとメテオラ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5315241403323834753"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/puNtqG"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315241403323834753"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5315241403323834753</gphoto:id>
+    <gphoto:name>puNtqG</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1237014000000</gphoto:timestamp>
+    <gphoto:numphotos>75</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DYJL84Lc-GM/ScOH5RyQ4YE/AAAAAAAABB0/T_K-YlO-J44/puNtqG.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DYJL84Lc-GM/ScOH5RyQ4YE/AAAAAAAABB0/T_K-YlO-J44/s160-c/puNtqG.jpg" height="160" width="160"/>
+      <media:title type="plain">デルフォイとメテオラ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315245775578286081</id>
+    <published>2009-03-13T07:00:00.000Z</published>
+    <updated>2013-05-12T10:15:57.905Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ペロポネソス</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5315245775578286081"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/ZbFPSJ"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315245775578286081"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5315245775578286081</gphoto:id>
+    <gphoto:name>ZbFPSJ</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236927600000</gphoto:timestamp>
+    <gphoto:numphotos>63</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yHu4R4LS_28/ScOL3xs9SAE/AAAAAAAAEK8/igQSGUGKhv4/ZbFPSJ.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yHu4R4LS_28/ScOL3xs9SAE/AAAAAAAAEK8/igQSGUGKhv4/s160-c/ZbFPSJ.jpg" height="160" width="160"/>
+      <media:title type="plain">ペロポネソス</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315252469143941553</id>
+    <published>2009-03-04T08:00:00.000Z</published>
+    <updated>2013-05-12T10:16:14.597Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">サントリーニ島とクレタ島</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kago.photo.a/albumid/5315252469143941553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kago.photo.a/pPHYZC"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kago.photo.a/albumid/5315252469143941553"/>
+    <author>
+      <name>kago-chan</name>
+      <uri>https://picasaweb.google.com/kago.photo.a</uri>
+    </author>
+    <gphoto:id>5315252469143941553</gphoto:id>
+    <gphoto:name>pPHYZC</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236153600000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>kago.photo.a</gphoto:user>
+    <gphoto:nickname>kago-chan</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0A_RIf-AiNQ/ScOR9ZLXsbE/AAAAAAAAELk/tQPvEnlZoMM/pPHYZC.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kago-chan</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0A_RIf-AiNQ/ScOR9ZLXsbE/AAAAAAAAELk/tQPvEnlZoMM/s160-c/pPHYZC.jpg" height="160" width="160"/>
+      <media:title type="plain">サントリーニ島とクレタ島</media:title>
+    </media:group>
+  </entry>
+</feed>

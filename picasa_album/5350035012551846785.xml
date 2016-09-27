@@ -1,0 +1,2613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785</id>
+  <updated>2013-05-12T10:28:07.188Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">愛宕山ケーブル跡</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-RiONgKthOD0/Sj8kf4sOK4E/AAAAAAAAG0o/Yj-jjTuqGbQ/s160-c/UEbBBF.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>y01.narita</name>
+    <uri>https://picasaweb.google.com/y01.narita</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>43</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5350035012551846785</gphoto:id>
+  <gphoto:name>UEbBBF</gphoto:name>
+  <gphoto:location>愛宕山</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1245394800000</gphoto:timestamp>
+  <gphoto:numphotos>43</gphoto:numphotos>
+  <gphoto:user>y01.narita</gphoto:user>
+  <gphoto:nickname>y01.narita</gphoto:nickname>
+  <georss:where>
+    <gml:Envelope>
+      <gml:lowerCorner>35.0485005 135.6385561</gml:lowerCorner>
+      <gml:upperCorner>35.0490538 135.639747</gml:upperCorner>
+    </gml:Envelope>
+    <gml:Point>
+      <gml:pos>35.0487772 135.6391516</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035033056987874</id>
+    <published>2009-06-22T06:28:20.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200040.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jIVKBe21gCg/Sj8khFFByuI/AAAAAAAAGxc/1jOevOAQV3I/P6200040.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035033056987874"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035033056987874"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/e_ywCQ745WkOsK-uyWaR3dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035033056987874"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035033056987874"/>
+    <gphoto:id>5350035033056987874</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>399805</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fda7481c</gphoto:checksum>
+    <gphoto:timestamp>1245495133000</gphoto:timestamp>
+    <gphoto:imageVersion>6935</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.31</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1245495133000</exif:time>
+      <exif:imageUniqueID>3d8e4068b3e7034263edeea033c7af79</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jIVKBe21gCg/Sj8khFFByuI/AAAAAAAAGxc/1jOevOAQV3I/P6200040.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jIVKBe21gCg/Sj8khFFByuI/AAAAAAAAGxc/1jOevOAQV3I/s72/P6200040.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jIVKBe21gCg/Sj8khFFByuI/AAAAAAAAGxc/1jOevOAQV3I/s144/P6200040.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jIVKBe21gCg/Sj8khFFByuI/AAAAAAAAGxc/1jOevOAQV3I/s288/P6200040.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200040.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0392248 135.6570171</gml:lowerCorner>
+        <gml:upperCorner>35.0398177 135.6581852</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0395213 135.6576012</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035051152179298</id>
+    <published>2009-06-22T06:28:24.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200041.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-15z0gAunlBs/Sj8kiIfQgGI/AAAAAAAAGxg/BeIzwDlmhNA/P6200041.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035051152179298"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035051152179298"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/VzT3EnAhGENyw87yW5-3k9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035051152179298"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035051152179298"/>
+    <gphoto:id>5350035051152179298</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>647391</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fdd8481c</gphoto:checksum>
+    <gphoto:timestamp>1245495236000</gphoto:timestamp>
+    <gphoto:imageVersion>6936</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1245495236000</exif:time>
+      <exif:imageUniqueID>8969c64756254ef1ae45d292aba82d41</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-15z0gAunlBs/Sj8kiIfQgGI/AAAAAAAAGxg/BeIzwDlmhNA/P6200041.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-15z0gAunlBs/Sj8kiIfQgGI/AAAAAAAAGxg/BeIzwDlmhNA/s72/P6200041.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-15z0gAunlBs/Sj8kiIfQgGI/AAAAAAAAGxg/BeIzwDlmhNA/s144/P6200041.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-15z0gAunlBs/Sj8kiIfQgGI/AAAAAAAAGxg/BeIzwDlmhNA/s288/P6200041.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200041.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0397101 135.6569285</gml:lowerCorner>
+        <gml:upperCorner>35.040303 135.6580966</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0400066 135.6575126</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035063445405298</id>
+    <published>2009-06-22T06:28:27.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200042.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-OFn8HXFkZFk/Sj8ki2SMPnI/AAAAAAAAGxk/r_DcsfxUNKI/P6200042.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035063445405298"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035063445405298"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dQvQL4SHFiQa22PVmP-an9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035063445405298"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035063445405298"/>
+    <gphoto:id>5350035063445405298</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>577959</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fdc6081c</gphoto:checksum>
+    <gphoto:timestamp>1245495383000</gphoto:timestamp>
+    <gphoto:imageVersion>6937</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1245495383000</exif:time>
+      <exif:imageUniqueID>90ae6899a8f7fbf08065aba4870d5fc3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OFn8HXFkZFk/Sj8ki2SMPnI/AAAAAAAAGxk/r_DcsfxUNKI/P6200042.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OFn8HXFkZFk/Sj8ki2SMPnI/AAAAAAAAGxk/r_DcsfxUNKI/s72/P6200042.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OFn8HXFkZFk/Sj8ki2SMPnI/AAAAAAAAGxk/r_DcsfxUNKI/s144/P6200042.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OFn8HXFkZFk/Sj8ki2SMPnI/AAAAAAAAGxk/r_DcsfxUNKI/s288/P6200042.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200042.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0403087 135.6564417</gml:lowerCorner>
+        <gml:upperCorner>35.0409016 135.6576098</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0406052 135.6570258</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035078773137602</id>
+    <published>2009-06-22T06:28:30.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200043.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-r4Oo_42O7D0/Sj8kjvYm4MI/AAAAAAAAGxo/LH0Oez5OrNU/P6200043.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035078773137602"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035078773137602"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sWLsRMIiWD-KLSZUnshvH9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035078773137602"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035078773137602"/>
+    <gphoto:id>5350035078773137602</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>459955</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fdc7081c</gphoto:checksum>
+    <gphoto:timestamp>1245495390000</gphoto:timestamp>
+    <gphoto:imageVersion>6938</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245495390000</exif:time>
+      <exif:imageUniqueID>e130f95fa7c4ccf4627ccb6a94270a8c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-r4Oo_42O7D0/Sj8kjvYm4MI/AAAAAAAAGxo/LH0Oez5OrNU/P6200043.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-r4Oo_42O7D0/Sj8kjvYm4MI/AAAAAAAAGxo/LH0Oez5OrNU/s72/P6200043.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-r4Oo_42O7D0/Sj8kjvYm4MI/AAAAAAAAGxo/LH0Oez5OrNU/s144/P6200043.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-r4Oo_42O7D0/Sj8kjvYm4MI/AAAAAAAAGxo/LH0Oez5OrNU/s288/P6200043.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200043.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0404075 135.6563264</gml:lowerCorner>
+        <gml:upperCorner>35.0410004 135.6574945</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.040704 135.6569105</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035083761747202</id>
+    <published>2009-06-22T06:28:32.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200044.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-d8CIUPAFtkk/Sj8kkB9_BQI/AAAAAAAAGxs/C4uvoR4UZ60/P6200044.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035083761747202"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035083761747202"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0av9swmICUizqNhXkqoTTdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035083761747202"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035083761747202"/>
+    <gphoto:id>5350035083761747202</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>302299</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd03c81c</gphoto:checksum>
+    <gphoto:timestamp>1245495929000</gphoto:timestamp>
+    <gphoto:imageVersion>6939</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>2500</exif:iso>
+      <exif:time>1245495929000</exif:time>
+      <exif:imageUniqueID>821b4da246a00a9cb751031aad617190</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-d8CIUPAFtkk/Sj8kkB9_BQI/AAAAAAAAGxs/C4uvoR4UZ60/P6200044.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-d8CIUPAFtkk/Sj8kkB9_BQI/AAAAAAAAGxs/C4uvoR4UZ60/s72/P6200044.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-d8CIUPAFtkk/Sj8kkB9_BQI/AAAAAAAAGxs/C4uvoR4UZ60/s144/P6200044.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-d8CIUPAFtkk/Sj8kkB9_BQI/AAAAAAAAGxs/C4uvoR4UZ60/s288/P6200044.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200044.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0412143 135.6548062</gml:lowerCorner>
+        <gml:upperCorner>35.0424002 135.6571425</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0418073 135.6559744</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035089207743186</id>
+    <published>2009-06-22T06:28:33.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200045.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-49rarROVIV0/Sj8kkWQaUtI/AAAAAAAAGxw/jpPEFqqy-ZQ/P6200045.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035089207743186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035089207743186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1wyJpPxKArhHbvvzDxQLtdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035089207743186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035089207743186"/>
+    <gphoto:id>5350035089207743186</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>231756</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd3e881c</gphoto:checksum>
+    <gphoto:timestamp>1245495955000</gphoto:timestamp>
+    <gphoto:imageVersion>6940</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245495955000</exif:time>
+      <exif:imageUniqueID>f1f64f2eb54011ba1393ff83be8b87eb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-49rarROVIV0/Sj8kkWQaUtI/AAAAAAAAGxw/jpPEFqqy-ZQ/P6200045.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-49rarROVIV0/Sj8kkWQaUtI/AAAAAAAAGxw/jpPEFqqy-ZQ/s72/P6200045.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-49rarROVIV0/Sj8kkWQaUtI/AAAAAAAAGxw/jpPEFqqy-ZQ/s144/P6200045.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-49rarROVIV0/Sj8kkWQaUtI/AAAAAAAAGxw/jpPEFqqy-ZQ/s288/P6200045.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200045.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0413091 135.6547794</gml:lowerCorner>
+        <gml:upperCorner>35.042495 135.6571157</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0419021 135.6559476</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035096106141282</id>
+    <published>2009-06-22T06:28:34.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200046.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mzL3M2GVly0/Sj8kkv9HhmI/AAAAAAAAGx0/LLzqra1Dl7U/P6200046.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035096106141282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035096106141282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/b11i90UgDnOwvN2cCYCH4tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035096106141282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035096106141282"/>
+    <gphoto:id>5350035096106141282</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>268954</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd3cc81c</gphoto:checksum>
+    <gphoto:timestamp>1245495968000</gphoto:timestamp>
+    <gphoto:imageVersion>6941</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1600</exif:iso>
+      <exif:time>1245495968000</exif:time>
+      <exif:imageUniqueID>8cd7ce476adda82ee5a0be7e7372631b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mzL3M2GVly0/Sj8kkv9HhmI/AAAAAAAAGx0/LLzqra1Dl7U/P6200046.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzL3M2GVly0/Sj8kkv9HhmI/AAAAAAAAGx0/LLzqra1Dl7U/s72/P6200046.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzL3M2GVly0/Sj8kkv9HhmI/AAAAAAAAGx0/LLzqra1Dl7U/s144/P6200046.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzL3M2GVly0/Sj8kkv9HhmI/AAAAAAAAGx0/LLzqra1Dl7U/s288/P6200046.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200046.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.04132 135.654707</gml:lowerCorner>
+        <gml:upperCorner>35.0425059 135.6570433</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.041913 135.6558752</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035104080299874</id>
+    <published>2009-06-22T06:28:36.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200047.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-371AmGLbGo4/Sj8klNqTh2I/AAAAAAAAGx4/HVnwiESZG7g/P6200047.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035104080299874"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035104080299874"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/n3OrrTHaFI02B9I9meHMONMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035104080299874"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035104080299874"/>
+    <gphoto:id>5350035104080299874</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>396298</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd36881c</gphoto:checksum>
+    <gphoto:timestamp>1245496019000</gphoto:timestamp>
+    <gphoto:imageVersion>6942</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1600</exif:iso>
+      <exif:time>1245496019000</exif:time>
+      <exif:imageUniqueID>1cab86f9b4193a4c280ca089cc40f052</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-371AmGLbGo4/Sj8klNqTh2I/AAAAAAAAGx4/HVnwiESZG7g/P6200047.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-371AmGLbGo4/Sj8klNqTh2I/AAAAAAAAGx4/HVnwiESZG7g/s72/P6200047.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-371AmGLbGo4/Sj8klNqTh2I/AAAAAAAAGx4/HVnwiESZG7g/s144/P6200047.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-371AmGLbGo4/Sj8klNqTh2I/AAAAAAAAGx4/HVnwiESZG7g/s288/P6200047.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200047.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0415221 135.6545487</gml:lowerCorner>
+        <gml:upperCorner>35.042708 135.656885</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0421151 135.6557169</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035109533926514</id>
+    <published>2009-06-22T06:28:38.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200048.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-x_zL-MpRcMQ/Sj8klh-jRHI/AAAAAAAAGx8/9D_i_FdKr_Q/P6200048.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035109533926514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035109533926514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-3s4J0lhMh7JSpCe96zDDtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035109533926514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035109533926514"/>
+    <gphoto:id>5350035109533926514</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>405786</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd37c81c</gphoto:checksum>
+    <gphoto:timestamp>1245496025000</gphoto:timestamp>
+    <gphoto:imageVersion>6943</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.04</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245496025000</exif:time>
+      <exif:imageUniqueID>f91204f000eb00c7ae847768a881b9d4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-x_zL-MpRcMQ/Sj8klh-jRHI/AAAAAAAAGx8/9D_i_FdKr_Q/P6200048.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x_zL-MpRcMQ/Sj8klh-jRHI/AAAAAAAAGx8/9D_i_FdKr_Q/s72/P6200048.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x_zL-MpRcMQ/Sj8klh-jRHI/AAAAAAAAGx8/9D_i_FdKr_Q/s144/P6200048.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x_zL-MpRcMQ/Sj8klh-jRHI/AAAAAAAAGx8/9D_i_FdKr_Q/s288/P6200048.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200048.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0415989 135.6545004</gml:lowerCorner>
+        <gml:upperCorner>35.0427848 135.6568367</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0421919 135.6556686</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035125834106226</id>
+    <published>2009-06-22T06:28:41.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200049.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XHILMG0KGs4/Sj8kmes0RXI/AAAAAAAAGyA/CgWiiCJPqgk/P6200049.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035125834106226"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035125834106226"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/r05fslB_S9w3_hTobO4FxNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035125834106226"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035125834106226"/>
+    <gphoto:id>5350035125834106226</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>533371</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fd48881c</gphoto:checksum>
+    <gphoto:timestamp>1245496386000</gphoto:timestamp>
+    <gphoto:imageVersion>6944</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1245496386000</exif:time>
+      <exif:imageUniqueID>a71efe8549a88d161c5fadcf7208292e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XHILMG0KGs4/Sj8kmes0RXI/AAAAAAAAGyA/CgWiiCJPqgk/P6200049.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XHILMG0KGs4/Sj8kmes0RXI/AAAAAAAAGyA/CgWiiCJPqgk/s72/P6200049.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XHILMG0KGs4/Sj8kmes0RXI/AAAAAAAAGyA/CgWiiCJPqgk/s144/P6200049.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XHILMG0KGs4/Sj8kmes0RXI/AAAAAAAAGyA/CgWiiCJPqgk/s288/P6200049.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200049.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035130122910818</id>
+    <published>2009-06-22T06:28:42.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200050.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hmW83Lg78vo/Sj8kmurWPGI/AAAAAAAAGyE/9spSkBEN_aY/P6200050.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035130122910818"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035130122910818"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gaBXwv5lUvPoKFKlzEu_lNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035130122910818"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035130122910818"/>
+    <gphoto:id>5350035130122910818</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>198331</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fc5c081c</gphoto:checksum>
+    <gphoto:timestamp>1245498278000</gphoto:timestamp>
+    <gphoto:imageVersion>6945</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245498278000</exif:time>
+      <exif:imageUniqueID>7d59e117440012230dfd6a8d892d1d21</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hmW83Lg78vo/Sj8kmurWPGI/AAAAAAAAGyE/9spSkBEN_aY/P6200050.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hmW83Lg78vo/Sj8kmurWPGI/AAAAAAAAGyE/9spSkBEN_aY/s72/P6200050.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hmW83Lg78vo/Sj8kmurWPGI/AAAAAAAAGyE/9spSkBEN_aY/s144/P6200050.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hmW83Lg78vo/Sj8kmurWPGI/AAAAAAAAGyE/9spSkBEN_aY/s288/P6200050.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200050.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0410675 135.6383549</gml:lowerCorner>
+        <gml:upperCorner>35.0505538 135.6570446</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0458107 135.6476998</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035137062606978</id>
+    <published>2009-06-22T06:28:44.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200051.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nZqQdmDUXl4/Sj8knIh5mII/AAAAAAAAGyI/AWQDJEoEweY/P6200051.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035137062606978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035137062606978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ZnXAUN8yF-_lo6Vq1NiUE9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035137062606978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035137062606978"/>
+    <gphoto:id>5350035137062606978</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>454413</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fb98481c</gphoto:checksum>
+    <gphoto:timestamp>1245498820000</gphoto:timestamp>
+    <gphoto:imageVersion>6946</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245498820000</exif:time>
+      <exif:imageUniqueID>ccb310e0f66a658d3d4a9cd7553a2779</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nZqQdmDUXl4/Sj8knIh5mII/AAAAAAAAGyI/AWQDJEoEweY/P6200051.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nZqQdmDUXl4/Sj8knIh5mII/AAAAAAAAGyI/AWQDJEoEweY/s72/P6200051.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nZqQdmDUXl4/Sj8knIh5mII/AAAAAAAAGyI/AWQDJEoEweY/s144/P6200051.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nZqQdmDUXl4/Sj8knIh5mII/AAAAAAAAGyI/AWQDJEoEweY/s288/P6200051.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200051.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0416648 135.6375609</gml:lowerCorner>
+        <gml:upperCorner>35.0511511 135.6562506</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.046408 135.6469058</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035147228667538</id>
+    <published>2009-06-22T06:28:46.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200052.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-iMZJ_j8UFYs/Sj8knuZrXpI/AAAAAAAAGyM/0POUWbPt7J8/P6200052.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035147228667538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035147228667538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tuYj9t_LEzNObG3B1AMZhdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035147228667538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035147228667538"/>
+    <gphoto:id>5350035147228667538</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>406988</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>fb99881c</gphoto:checksum>
+    <gphoto:timestamp>1245498826000</gphoto:timestamp>
+    <gphoto:imageVersion>6947</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>2500</exif:iso>
+      <exif:time>1245498826000</exif:time>
+      <exif:imageUniqueID>d63523ca0da90674a9490eede6999e88</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iMZJ_j8UFYs/Sj8knuZrXpI/AAAAAAAAGyM/0POUWbPt7J8/P6200052.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMZJ_j8UFYs/Sj8knuZrXpI/AAAAAAAAGyM/0POUWbPt7J8/s72/P6200052.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMZJ_j8UFYs/Sj8knuZrXpI/AAAAAAAAGyM/0POUWbPt7J8/s144/P6200052.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMZJ_j8UFYs/Sj8knuZrXpI/AAAAAAAAGyM/0POUWbPt7J8/s288/P6200052.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200052.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0416824 135.6375609</gml:lowerCorner>
+        <gml:upperCorner>35.0511687 135.6562506</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0464256 135.6469058</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035155533158146</id>
+    <published>2009-06-22T06:28:48.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200053.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-sNaGxw0-JCE/Sj8koNVn1wI/AAAAAAAAGyU/07vjB0G4dAM/P6200053.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035155533158146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035155533158146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/PshU2LklG7MjmQFKwmPNFNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035155533158146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035155533158146"/>
+    <gphoto:id>5350035155533158146</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>369438</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c788c81c</gphoto:checksum>
+    <gphoto:timestamp>1245507136000</gphoto:timestamp>
+    <gphoto:imageVersion>6949</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507136000</exif:time>
+      <exif:imageUniqueID>4be608d1a93fc936437aac125f760201</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sNaGxw0-JCE/Sj8koNVn1wI/AAAAAAAAGyU/07vjB0G4dAM/P6200053.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sNaGxw0-JCE/Sj8koNVn1wI/AAAAAAAAGyU/07vjB0G4dAM/s72/P6200053.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sNaGxw0-JCE/Sj8koNVn1wI/AAAAAAAAGyU/07vjB0G4dAM/s144/P6200053.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sNaGxw0-JCE/Sj8koNVn1wI/AAAAAAAAGyU/07vjB0G4dAM/s288/P6200053.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200053.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035161024453650</id>
+    <published>2009-06-22T06:28:50.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200054.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-O7ukj3SdpOw/Sj8kohy2XBI/AAAAAAAAGyY/KHahbSyR0vM/P6200054.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035161024453650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035161024453650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9ZKxs0UI_cdThMiceoDWLNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035161024453650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035161024453650"/>
+    <gphoto:id>5350035161024453650</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>306995</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c788081c</gphoto:checksum>
+    <gphoto:timestamp>1245507143000</gphoto:timestamp>
+    <gphoto:imageVersion>6950</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507143000</exif:time>
+      <exif:imageUniqueID>9985c5dcb78efb888b7762654cba50bb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-O7ukj3SdpOw/Sj8kohy2XBI/AAAAAAAAGyY/KHahbSyR0vM/P6200054.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O7ukj3SdpOw/Sj8kohy2XBI/AAAAAAAAGyY/KHahbSyR0vM/s72/P6200054.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O7ukj3SdpOw/Sj8kohy2XBI/AAAAAAAAGyY/KHahbSyR0vM/s144/P6200054.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O7ukj3SdpOw/Sj8kohy2XBI/AAAAAAAAGyY/KHahbSyR0vM/s288/P6200054.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200054.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035168879002066</id>
+    <published>2009-06-22T06:28:51.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200055.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-820XsTaWNnI/Sj8ko_DhQdI/AAAAAAAAGyc/Y_zJtB2AACU/P6200055.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035168879002066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035168879002066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/byxJUEKh3HHYFrpC68FjdNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035168879002066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035168879002066"/>
+    <gphoto:id>5350035168879002066</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>221968</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c787881c</gphoto:checksum>
+    <gphoto:timestamp>1245507162000</gphoto:timestamp>
+    <gphoto:imageVersion>6951</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507162000</exif:time>
+      <exif:imageUniqueID>b764bf9394517f6964a535b99b4bcf08</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-820XsTaWNnI/Sj8ko_DhQdI/AAAAAAAAGyc/Y_zJtB2AACU/P6200055.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-820XsTaWNnI/Sj8ko_DhQdI/AAAAAAAAGyc/Y_zJtB2AACU/s72/P6200055.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-820XsTaWNnI/Sj8ko_DhQdI/AAAAAAAAGyc/Y_zJtB2AACU/s144/P6200055.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-820XsTaWNnI/Sj8ko_DhQdI/AAAAAAAAGyc/Y_zJtB2AACU/s288/P6200055.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200055.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035176196654546</id>
+    <published>2009-06-22T06:28:53.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200056.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BSf1-BQthDw/Sj8kpaULxdI/AAAAAAAAGyg/MrgK0UH0fk0/P6200056.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035176196654546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035176196654546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Z3F9KQ2K5rTPiHXuUUliudMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035176196654546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035176196654546"/>
+    <gphoto:id>5350035176196654546</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>420080</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c784881c</gphoto:checksum>
+    <gphoto:timestamp>1245507170000</gphoto:timestamp>
+    <gphoto:imageVersion>6952</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507170000</exif:time>
+      <exif:imageUniqueID>7d63e4a85458070e2a8b6dfa4b26871c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BSf1-BQthDw/Sj8kpaULxdI/AAAAAAAAGyg/MrgK0UH0fk0/P6200056.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BSf1-BQthDw/Sj8kpaULxdI/AAAAAAAAGyg/MrgK0UH0fk0/s72/P6200056.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BSf1-BQthDw/Sj8kpaULxdI/AAAAAAAAGyg/MrgK0UH0fk0/s144/P6200056.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BSf1-BQthDw/Sj8kpaULxdI/AAAAAAAAGyg/MrgK0UH0fk0/s288/P6200056.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200056.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035183231177218</id>
+    <published>2009-06-22T06:28:55.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200057.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qZf07F3xuz4/Sj8kp0hWEgI/AAAAAAAAGyk/EQHgczO5-Us/P6200057.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035183231177218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035183231177218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gd7Eq9ADn5AUhdj7Agh5SNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035183231177218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035183231177218"/>
+    <gphoto:id>5350035183231177218</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>497269</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7b8881c</gphoto:checksum>
+    <gphoto:timestamp>1245507266000</gphoto:timestamp>
+    <gphoto:imageVersion>6953</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507266000</exif:time>
+      <exif:imageUniqueID>0d3eee19061843391b2e304f4c79d53a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qZf07F3xuz4/Sj8kp0hWEgI/AAAAAAAAGyk/EQHgczO5-Us/P6200057.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qZf07F3xuz4/Sj8kp0hWEgI/AAAAAAAAGyk/EQHgczO5-Us/s72/P6200057.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qZf07F3xuz4/Sj8kp0hWEgI/AAAAAAAAGyk/EQHgczO5-Us/s144/P6200057.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qZf07F3xuz4/Sj8kp0hWEgI/AAAAAAAAGyk/EQHgczO5-Us/s288/P6200057.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200057.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035191899900594</id>
+    <published>2009-06-22T06:28:57.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200058.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ihlZeLcRQLw/Sj8kqU0ISrI/AAAAAAAAGyo/hXc-yHERa7A/P6200058.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035191899900594"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035191899900594"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Y-b54ZcQYkVeQeVrnrGvUdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035191899900594"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035191899900594"/>
+    <gphoto:id>5350035191899900594</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>525898</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7b6c81c</gphoto:checksum>
+    <gphoto:timestamp>1245507280000</gphoto:timestamp>
+    <gphoto:imageVersion>6954</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.27</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507280000</exif:time>
+      <exif:imageUniqueID>8aeac9a1627b1c72de4205bf602f921b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ihlZeLcRQLw/Sj8kqU0ISrI/AAAAAAAAGyo/hXc-yHERa7A/P6200058.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ihlZeLcRQLw/Sj8kqU0ISrI/AAAAAAAAGyo/hXc-yHERa7A/s72/P6200058.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ihlZeLcRQLw/Sj8kqU0ISrI/AAAAAAAAGyo/hXc-yHERa7A/s144/P6200058.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ihlZeLcRQLw/Sj8kqU0ISrI/AAAAAAAAGyo/hXc-yHERa7A/s288/P6200058.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200058.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035204693648306</id>
+    <published>2009-06-22T06:29:00.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200059.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BcrNsw7mSkg/Sj8krEeZY7I/AAAAAAAAGzE/y9ROSSRS_78/P6200059.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035204693648306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035204693648306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qo423PrBZJioGgDqsPOF59MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035204693648306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035204693648306"/>
+    <gphoto:id>5350035204693648306</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>432642</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7b2080c</gphoto:checksum>
+    <gphoto:timestamp>1245507318000</gphoto:timestamp>
+    <gphoto:imageVersion>6961</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1245507318000</exif:time>
+      <exif:imageUniqueID>178e3cf15d3bbaf58a550e76f0027b47</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BcrNsw7mSkg/Sj8krEeZY7I/AAAAAAAAGzE/y9ROSSRS_78/P6200059.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BcrNsw7mSkg/Sj8krEeZY7I/AAAAAAAAGzE/y9ROSSRS_78/s72/P6200059.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BcrNsw7mSkg/Sj8krEeZY7I/AAAAAAAAGzE/y9ROSSRS_78/s144/P6200059.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BcrNsw7mSkg/Sj8krEeZY7I/AAAAAAAAGzE/y9ROSSRS_78/s288/P6200059.JPG" height="288" width="216"/>
+      <media:title type="plain">P6200059.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035214744263218</id>
+    <published>2009-06-22T06:29:02.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200060.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lbsRiT-Huls/Sj8krp6pmjI/AAAAAAAAGzI/U1oXS6SA3WA/P6200060.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035214744263218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035214744263218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/vW7Bzt2XNatUxRuSTn2shNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035214744263218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035214744263218"/>
+    <gphoto:id>5350035214744263218</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>439543</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7b3880c</gphoto:checksum>
+    <gphoto:timestamp>1245507323000</gphoto:timestamp>
+    <gphoto:imageVersion>6962</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.16666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1245507323000</exif:time>
+      <exif:imageUniqueID>dcdf102fab686d13ba89e0c239cc248f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lbsRiT-Huls/Sj8krp6pmjI/AAAAAAAAGzI/U1oXS6SA3WA/P6200060.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbsRiT-Huls/Sj8krp6pmjI/AAAAAAAAGzI/U1oXS6SA3WA/s72/P6200060.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbsRiT-Huls/Sj8krp6pmjI/AAAAAAAAGzI/U1oXS6SA3WA/s144/P6200060.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lbsRiT-Huls/Sj8krp6pmjI/AAAAAAAAGzI/U1oXS6SA3WA/s288/P6200060.JPG" height="288" width="216"/>
+      <media:title type="plain">P6200060.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035224776828514</id>
+    <published>2009-06-22T06:29:04.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200061.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-s4dR_ZR5xxw/Sj8ksPSmZmI/AAAAAAAAGzM/ppAJkzBiIlU/P6200061.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035224776828514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035224776828514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kT8lGG481j2iwj3u37i-K9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035224776828514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035224776828514"/>
+    <gphoto:id>5350035224776828514</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>451724</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7b0080c</gphoto:checksum>
+    <gphoto:timestamp>1245507334000</gphoto:timestamp>
+    <gphoto:imageVersion>6963</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507334000</exif:time>
+      <exif:imageUniqueID>a6356dbd056eaaa7afa1c107b29c8e8d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-s4dR_ZR5xxw/Sj8ksPSmZmI/AAAAAAAAGzM/ppAJkzBiIlU/P6200061.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4dR_ZR5xxw/Sj8ksPSmZmI/AAAAAAAAGzM/ppAJkzBiIlU/s72/P6200061.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4dR_ZR5xxw/Sj8ksPSmZmI/AAAAAAAAGzM/ppAJkzBiIlU/s144/P6200061.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s4dR_ZR5xxw/Sj8ksPSmZmI/AAAAAAAAGzM/ppAJkzBiIlU/s288/P6200061.JPG" height="288" width="216"/>
+      <media:title type="plain">P6200061.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035232662426306</id>
+    <published>2009-06-22T06:29:06.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200062.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8hxyjKtLlQE/Sj8kssqrEsI/AAAAAAAAGzQ/LceEhx7ammA/P6200062.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035232662426306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035232662426306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/vGtg2Vsz23I8i635pSZpC9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035232662426306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035232662426306"/>
+    <gphoto:id>5350035232662426306</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>335867</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7aa881c</gphoto:checksum>
+    <gphoto:timestamp>1245507379000</gphoto:timestamp>
+    <gphoto:imageVersion>6964</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1245507379000</exif:time>
+      <exif:imageUniqueID>705a0e9920c9c267952dbd9e9e316749</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8hxyjKtLlQE/Sj8kssqrEsI/AAAAAAAAGzQ/LceEhx7ammA/P6200062.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8hxyjKtLlQE/Sj8kssqrEsI/AAAAAAAAGzQ/LceEhx7ammA/s72/P6200062.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8hxyjKtLlQE/Sj8kssqrEsI/AAAAAAAAGzQ/LceEhx7ammA/s144/P6200062.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8hxyjKtLlQE/Sj8kssqrEsI/AAAAAAAAGzQ/LceEhx7ammA/s288/P6200062.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200062.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035240062636514</id>
+    <published>2009-06-22T06:29:08.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200063.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lYqqGf9dp7c/Sj8ktIPBUeI/AAAAAAAAGzU/0lzZbB66Djc/P6200063.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035240062636514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035240062636514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MbVIhkQ4YqjZkCu5aMChRNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035240062636514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035240062636514"/>
+    <gphoto:id>5350035240062636514</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>562064</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7a6481c</gphoto:checksum>
+    <gphoto:timestamp>1245507413000</gphoto:timestamp>
+    <gphoto:imageVersion>6965</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1245507413000</exif:time>
+      <exif:imageUniqueID>3cb041da7318d093e3110ca6e1bf9969</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lYqqGf9dp7c/Sj8ktIPBUeI/AAAAAAAAGzU/0lzZbB66Djc/P6200063.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lYqqGf9dp7c/Sj8ktIPBUeI/AAAAAAAAGzU/0lzZbB66Djc/s72/P6200063.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lYqqGf9dp7c/Sj8ktIPBUeI/AAAAAAAAGzU/0lzZbB66Djc/s144/P6200063.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lYqqGf9dp7c/Sj8ktIPBUeI/AAAAAAAAGzU/0lzZbB66Djc/s288/P6200063.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200063.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035249665132786</id>
+    <published>2009-06-22T06:29:10.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200064.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-b6oEuwFI-MU/Sj8ktsAbyPI/AAAAAAAAGzY/t3GG07BdOSA/P6200064.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035249665132786"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035249665132786"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9MfaDP2DEZB5ZfDvJKyybNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035249665132786"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035249665132786"/>
+    <gphoto:id>5350035249665132786</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>25.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>379775</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7a4881c</gphoto:checksum>
+    <gphoto:timestamp>1245507427000</gphoto:timestamp>
+    <gphoto:imageVersion>6966</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507427000</exif:time>
+      <exif:imageUniqueID>f2d0f9a73d53bc11d471222de36278ab</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-b6oEuwFI-MU/Sj8ktsAbyPI/AAAAAAAAGzY/t3GG07BdOSA/P6200064.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-b6oEuwFI-MU/Sj8ktsAbyPI/AAAAAAAAGzY/t3GG07BdOSA/s72/P6200064.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-b6oEuwFI-MU/Sj8ktsAbyPI/AAAAAAAAGzY/t3GG07BdOSA/s144/P6200064.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-b6oEuwFI-MU/Sj8ktsAbyPI/AAAAAAAAGzY/t3GG07BdOSA/s288/P6200064.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200064.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035255489905186</id>
+    <published>2009-06-22T06:29:12.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200065.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5RY5EJfks2c/Sj8kuBtKwiI/AAAAAAAAGzc/OjlbyPahP1Y/P6200065.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035255489905186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035255489905186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gXt-vRl2S-vNXssPtQD6XdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035255489905186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035255489905186"/>
+    <gphoto:id>5350035255489905186</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>26.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>344741</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7d6481c</gphoto:checksum>
+    <gphoto:timestamp>1245507540000</gphoto:timestamp>
+    <gphoto:imageVersion>6967</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507540000</exif:time>
+      <exif:imageUniqueID>cbde266f957c15ead24b166d29dbaf7b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5RY5EJfks2c/Sj8kuBtKwiI/AAAAAAAAGzc/OjlbyPahP1Y/P6200065.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5RY5EJfks2c/Sj8kuBtKwiI/AAAAAAAAGzc/OjlbyPahP1Y/s72/P6200065.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5RY5EJfks2c/Sj8kuBtKwiI/AAAAAAAAGzc/OjlbyPahP1Y/s144/P6200065.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5RY5EJfks2c/Sj8kuBtKwiI/AAAAAAAAGzc/OjlbyPahP1Y/s288/P6200065.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200065.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035266401466642</id>
+    <published>2009-06-22T06:29:14.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200066.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gK9SejBnqYs/Sj8kuqWr-RI/AAAAAAAAGzk/rfZNUn7_jrU/P6200066.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035266401466642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035266401466642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/xNwz4ZXCodHc3HdGH9OUNNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035266401466642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035266401466642"/>
+    <gphoto:id>5350035266401466642</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>27.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>386265</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7d5c81c</gphoto:checksum>
+    <gphoto:timestamp>1245507561000</gphoto:timestamp>
+    <gphoto:imageVersion>6969</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507561000</exif:time>
+      <exif:imageUniqueID>52427351692e194328b0a741f2c611ff</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gK9SejBnqYs/Sj8kuqWr-RI/AAAAAAAAGzk/rfZNUn7_jrU/P6200066.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gK9SejBnqYs/Sj8kuqWr-RI/AAAAAAAAGzk/rfZNUn7_jrU/s72/P6200066.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gK9SejBnqYs/Sj8kuqWr-RI/AAAAAAAAGzk/rfZNUn7_jrU/s144/P6200066.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gK9SejBnqYs/Sj8kuqWr-RI/AAAAAAAAGzk/rfZNUn7_jrU/s288/P6200066.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200066.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035274688804082</id>
+    <published>2009-06-22T06:29:16.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200067.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-GB8taMbsGXM/Sj8kvJOitPI/AAAAAAAAGzo/JQJuUluaYFI/P6200067.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035274688804082"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035274688804082"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/c_es5mA041lC1ygB3MiWmtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035274688804082"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035274688804082"/>
+    <gphoto:id>5350035274688804082</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>28.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>408191</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7d2080c</gphoto:checksum>
+    <gphoto:timestamp>1245507574000</gphoto:timestamp>
+    <gphoto:imageVersion>6970</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1245507574000</exif:time>
+      <exif:imageUniqueID>05b9415cb45c5278a9fcf348c6ecebe0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GB8taMbsGXM/Sj8kvJOitPI/AAAAAAAAGzo/JQJuUluaYFI/P6200067.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GB8taMbsGXM/Sj8kvJOitPI/AAAAAAAAGzo/JQJuUluaYFI/s72/P6200067.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GB8taMbsGXM/Sj8kvJOitPI/AAAAAAAAGzo/JQJuUluaYFI/s144/P6200067.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GB8taMbsGXM/Sj8kvJOitPI/AAAAAAAAGzo/JQJuUluaYFI/s288/P6200067.JPG" height="288" width="216"/>
+      <media:title type="plain">P6200067.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035282715643538</id>
+    <published>2009-06-22T06:29:18.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200068.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IWuWlpMjgI8/Sj8kvnISjpI/AAAAAAAAGzs/eVl1QSOxpl8/P6200068.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035282715643538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035282715643538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/zjDaoo5HA0iqwgdNWu9cY9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035282715643538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035282715643538"/>
+    <gphoto:id>5350035282715643538</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>29.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>286952</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7cc481c</gphoto:checksum>
+    <gphoto:timestamp>1245507621000</gphoto:timestamp>
+    <gphoto:imageVersion>6971</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507621000</exif:time>
+      <exif:imageUniqueID>a8e8bebd6af4c980077de936ed0ae4a8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IWuWlpMjgI8/Sj8kvnISjpI/AAAAAAAAGzs/eVl1QSOxpl8/P6200068.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IWuWlpMjgI8/Sj8kvnISjpI/AAAAAAAAGzs/eVl1QSOxpl8/s72/P6200068.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IWuWlpMjgI8/Sj8kvnISjpI/AAAAAAAAGzs/eVl1QSOxpl8/s144/P6200068.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IWuWlpMjgI8/Sj8kvnISjpI/AAAAAAAAGzs/eVl1QSOxpl8/s288/P6200068.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200068.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035286447486306</id>
+    <published>2009-06-22T06:29:19.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200069.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-aW0uGqL113c/Sj8kv1CB9WI/AAAAAAAAGzw/fgSW9eS3nE8/P6200069.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035286447486306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035286447486306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2iYFK0-hAtgck_2TdfHJWNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035286447486306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035286447486306"/>
+    <gphoto:id>5350035286447486306</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>30.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>305621</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7cb481c</gphoto:checksum>
+    <gphoto:timestamp>1245507645000</gphoto:timestamp>
+    <gphoto:imageVersion>6972</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1245507645000</exif:time>
+      <exif:imageUniqueID>9b2d4121d827ed3334d4ef29e0bf2c89</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-aW0uGqL113c/Sj8kv1CB9WI/AAAAAAAAGzw/fgSW9eS3nE8/P6200069.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aW0uGqL113c/Sj8kv1CB9WI/AAAAAAAAGzw/fgSW9eS3nE8/s72/P6200069.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aW0uGqL113c/Sj8kv1CB9WI/AAAAAAAAGzw/fgSW9eS3nE8/s144/P6200069.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aW0uGqL113c/Sj8kv1CB9WI/AAAAAAAAGzw/fgSW9eS3nE8/s288/P6200069.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200069.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035294210383586</id>
+    <published>2009-06-22T06:29:21.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200070.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yfFDw-qX2z0/Sj8kwR82XuI/AAAAAAAAGz0/p-ao4AeQEnE/P6200070.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035294210383586"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035294210383586"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/oeFR1qcPBoJTMWxsRqZekNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035294210383586"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035294210383586"/>
+    <gphoto:id>5350035294210383586</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>31.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>370845</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7f3c81c</gphoto:checksum>
+    <gphoto:timestamp>1245507832000</gphoto:timestamp>
+    <gphoto:imageVersion>6973</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1245507832000</exif:time>
+      <exif:imageUniqueID>c7f51e645cd70be63c746ca98ff88f5f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yfFDw-qX2z0/Sj8kwR82XuI/AAAAAAAAGz0/p-ao4AeQEnE/P6200070.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yfFDw-qX2z0/Sj8kwR82XuI/AAAAAAAAGz0/p-ao4AeQEnE/s72/P6200070.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yfFDw-qX2z0/Sj8kwR82XuI/AAAAAAAAGz0/p-ao4AeQEnE/s144/P6200070.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yfFDw-qX2z0/Sj8kwR82XuI/AAAAAAAAGz0/p-ao4AeQEnE/s288/P6200070.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200070.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035306146022786</id>
+    <published>2009-06-22T06:29:23.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200071.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-iDZLVmkey48/Sj8kw-ahxYI/AAAAAAAAGz4/D7-Fqtyo35I/P6200071.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035306146022786"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035306146022786"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/VTp1VZ3EWKzTC9GuOvPvYdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035306146022786"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035306146022786"/>
+    <gphoto:id>5350035306146022786</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>32.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>295219</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7f0c81c</gphoto:checksum>
+    <gphoto:timestamp>1245507841000</gphoto:timestamp>
+    <gphoto:imageVersion>6974</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507841000</exif:time>
+      <exif:imageUniqueID>a78543b2a92d35e7347be78edee5cc7e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iDZLVmkey48/Sj8kw-ahxYI/AAAAAAAAGz4/D7-Fqtyo35I/P6200071.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iDZLVmkey48/Sj8kw-ahxYI/AAAAAAAAGz4/D7-Fqtyo35I/s72/P6200071.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iDZLVmkey48/Sj8kw-ahxYI/AAAAAAAAGz4/D7-Fqtyo35I/s144/P6200071.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iDZLVmkey48/Sj8kw-ahxYI/AAAAAAAAGz4/D7-Fqtyo35I/s288/P6200071.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200071.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035314822449426</id>
+    <published>2009-06-22T06:29:25.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200072.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gdx4jdlVTXI/Sj8kxevJiRI/AAAAAAAAGz8/y58fspJd_M4/P6200072.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035314822449426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035314822449426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KaQ6PsSckU1Clx1yBYTtHdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035314822449426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035314822449426"/>
+    <gphoto:id>5350035314822449426</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>33.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>420122</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7f1881c</gphoto:checksum>
+    <gphoto:timestamp>1245507850000</gphoto:timestamp>
+    <gphoto:imageVersion>6975</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507850000</exif:time>
+      <exif:imageUniqueID>f3e6b3dc1dc6d74e44b93c48382a05fe</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gdx4jdlVTXI/Sj8kxevJiRI/AAAAAAAAGz8/y58fspJd_M4/P6200072.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gdx4jdlVTXI/Sj8kxevJiRI/AAAAAAAAGz8/y58fspJd_M4/s72/P6200072.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gdx4jdlVTXI/Sj8kxevJiRI/AAAAAAAAGz8/y58fspJd_M4/s144/P6200072.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gdx4jdlVTXI/Sj8kxevJiRI/AAAAAAAAGz8/y58fspJd_M4/s288/P6200072.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200072.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035323572704978</id>
+    <published>2009-06-22T06:29:27.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200073.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WGoayhlf20A/Sj8kx_VX1tI/AAAAAAAAG0A/uttS_bNSeX8/P6200073.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035323572704978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035323572704978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GHagS-X1iVDIw0t_WKeVktMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035323572704978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035323572704978"/>
+    <gphoto:id>5350035323572704978</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>34.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>402561</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7ec081c</gphoto:checksum>
+    <gphoto:timestamp>1245507878000</gphoto:timestamp>
+    <gphoto:imageVersion>6976</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>24.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507878000</exif:time>
+      <exif:imageUniqueID>4db319501c2d03b0fe95f861dcb6be94</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WGoayhlf20A/Sj8kx_VX1tI/AAAAAAAAG0A/uttS_bNSeX8/P6200073.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WGoayhlf20A/Sj8kx_VX1tI/AAAAAAAAG0A/uttS_bNSeX8/s72/P6200073.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WGoayhlf20A/Sj8kx_VX1tI/AAAAAAAAG0A/uttS_bNSeX8/s144/P6200073.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WGoayhlf20A/Sj8kx_VX1tI/AAAAAAAAG0A/uttS_bNSeX8/s288/P6200073.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200073.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035330660481954</id>
+    <published>2009-06-22T06:29:29.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200076.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-R1mApDhQlb8/Sj8kyZvOu6I/AAAAAAAAG0E/BtzAi4bkCPg/P6200076.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035330660481954"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035330660481954"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/S59muKx2jGZpc-ZrXiYMtdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035330660481954"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035330660481954"/>
+    <gphoto:id>5350035330660481954</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>35.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>472718</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c7e8481c</gphoto:checksum>
+    <gphoto:timestamp>1245507908000</gphoto:timestamp>
+    <gphoto:imageVersion>6977</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245507908000</exif:time>
+      <exif:imageUniqueID>4d4e9a1ab9896aca007e11b1e5741dd9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-R1mApDhQlb8/Sj8kyZvOu6I/AAAAAAAAG0E/BtzAi4bkCPg/P6200076.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R1mApDhQlb8/Sj8kyZvOu6I/AAAAAAAAG0E/BtzAi4bkCPg/s72/P6200076.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R1mApDhQlb8/Sj8kyZvOu6I/AAAAAAAAG0E/BtzAi4bkCPg/s144/P6200076.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R1mApDhQlb8/Sj8kyZvOu6I/AAAAAAAAG0E/BtzAi4bkCPg/s288/P6200076.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200076.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035339072242482</id>
+    <published>2009-06-22T06:29:31.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200077.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-RChuaG5j4eI/Sj8ky5EwAzI/AAAAAAAAG0I/sBaNme6zifQ/P6200077.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035339072242482"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035339072242482"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uUKxAZFQTNJZUk1h-LCJatMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035339072242482"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035339072242482"/>
+    <gphoto:id>5350035339072242482</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>321347</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c711881c</gphoto:checksum>
+    <gphoto:timestamp>1245508107000</gphoto:timestamp>
+    <gphoto:imageVersion>6978</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508107000</exif:time>
+      <exif:imageUniqueID>108715dd556a969ba3aa55b401b7838f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RChuaG5j4eI/Sj8ky5EwAzI/AAAAAAAAG0I/sBaNme6zifQ/P6200077.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RChuaG5j4eI/Sj8ky5EwAzI/AAAAAAAAG0I/sBaNme6zifQ/s72/P6200077.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RChuaG5j4eI/Sj8ky5EwAzI/AAAAAAAAG0I/sBaNme6zifQ/s144/P6200077.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RChuaG5j4eI/Sj8ky5EwAzI/AAAAAAAAG0I/sBaNme6zifQ/s288/P6200077.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200077.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035342868232354</id>
+    <published>2009-06-22T06:29:32.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200078.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5a_xwfyICPE/Sj8kzHNyOKI/AAAAAAAAG0M/ZhgBYjE8AFk/P6200078.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035342868232354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035342868232354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rY6BDpRAZe16khUiHBehqNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035342868232354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035342868232354"/>
+    <gphoto:id>5350035342868232354</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>37.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>323424</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c70ec81c</gphoto:checksum>
+    <gphoto:timestamp>1245508112000</gphoto:timestamp>
+    <gphoto:imageVersion>6979</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>2000</exif:iso>
+      <exif:time>1245508112000</exif:time>
+      <exif:imageUniqueID>7a95c684610f34dfc5fbc2ef29a396d0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5a_xwfyICPE/Sj8kzHNyOKI/AAAAAAAAG0M/ZhgBYjE8AFk/P6200078.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5a_xwfyICPE/Sj8kzHNyOKI/AAAAAAAAG0M/ZhgBYjE8AFk/s72/P6200078.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5a_xwfyICPE/Sj8kzHNyOKI/AAAAAAAAG0M/ZhgBYjE8AFk/s144/P6200078.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5a_xwfyICPE/Sj8kzHNyOKI/AAAAAAAAG0M/ZhgBYjE8AFk/s288/P6200078.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200078.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035350036486194</id>
+    <published>2009-06-22T06:29:34.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200079.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-KfoJqnoEEck/Sj8kzh61GDI/AAAAAAAAG0Q/SXuE2HXwWJA/P6200079.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035350036486194"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035350036486194"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/MF8Kh7avWdnBzQm7zuX4ydMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035350036486194"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035350036486194"/>
+    <gphoto:id>5350035350036486194</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>38.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>355836</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c70f881c</gphoto:checksum>
+    <gphoto:timestamp>1245508122000</gphoto:timestamp>
+    <gphoto:imageVersion>6980</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508122000</exif:time>
+      <exif:imageUniqueID>63b8fc968792d6d2bb94e9d6d6c505de</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KfoJqnoEEck/Sj8kzh61GDI/AAAAAAAAG0Q/SXuE2HXwWJA/P6200079.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KfoJqnoEEck/Sj8kzh61GDI/AAAAAAAAG0Q/SXuE2HXwWJA/s72/P6200079.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KfoJqnoEEck/Sj8kzh61GDI/AAAAAAAAG0Q/SXuE2HXwWJA/s144/P6200079.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KfoJqnoEEck/Sj8kzh61GDI/AAAAAAAAG0Q/SXuE2HXwWJA/s288/P6200079.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200079.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035358790878290</id>
+    <published>2009-06-22T06:29:36.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200080.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bvV4ugW0D9E/Sj8k0CiChFI/AAAAAAAAG0U/uV2t_IOeMdg/P6200080.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035358790878290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035358790878290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LNzw4A9BBqWXs1ydi_N86NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035358790878290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035358790878290"/>
+    <gphoto:id>5350035358790878290</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>39.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>362292</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c70f481c</gphoto:checksum>
+    <gphoto:timestamp>1245508125000</gphoto:timestamp>
+    <gphoto:imageVersion>6981</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508125000</exif:time>
+      <exif:imageUniqueID>d598e94fa106e49b8307d946aa8f6e67</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bvV4ugW0D9E/Sj8k0CiChFI/AAAAAAAAG0U/uV2t_IOeMdg/P6200080.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bvV4ugW0D9E/Sj8k0CiChFI/AAAAAAAAG0U/uV2t_IOeMdg/s72/P6200080.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bvV4ugW0D9E/Sj8k0CiChFI/AAAAAAAAG0U/uV2t_IOeMdg/s144/P6200080.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bvV4ugW0D9E/Sj8k0CiChFI/AAAAAAAAG0U/uV2t_IOeMdg/s288/P6200080.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200080.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035368851623506</id>
+    <published>2009-06-22T06:29:38.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200081.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pA4wCyGy_iM/Sj8k0oAtTlI/AAAAAAAAG0Y/HVW-zWb94PE/P6200081.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035368851623506"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035368851623506"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/m_noXWUVDnQRCEC9CZkja9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035368851623506"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035368851623506"/>
+    <gphoto:id>5350035368851623506</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>40.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>267679</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c70ac81c</gphoto:checksum>
+    <gphoto:timestamp>1245508144000</gphoto:timestamp>
+    <gphoto:imageVersion>6982</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1250</exif:iso>
+      <exif:time>1245508144000</exif:time>
+      <exif:imageUniqueID>1597736b85438d9ac3f25abf1633a9f3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pA4wCyGy_iM/Sj8k0oAtTlI/AAAAAAAAG0Y/HVW-zWb94PE/P6200081.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pA4wCyGy_iM/Sj8k0oAtTlI/AAAAAAAAG0Y/HVW-zWb94PE/s72/P6200081.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pA4wCyGy_iM/Sj8k0oAtTlI/AAAAAAAAG0Y/HVW-zWb94PE/s144/P6200081.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pA4wCyGy_iM/Sj8k0oAtTlI/AAAAAAAAG0Y/HVW-zWb94PE/s288/P6200081.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200081.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035371135762226</id>
+    <published>2009-06-22T06:29:39.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200082.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2ZgwtuAMEYg/Sj8k0whSfzI/AAAAAAAAG0c/2anb95Sz-EE/P6200082.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035371135762226"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035371135762226"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6zFsdPmzKf6juWWujY-aT9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035371135762226"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035371135762226"/>
+    <gphoto:id>5350035371135762226</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>41.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>373865</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c705881c</gphoto:checksum>
+    <gphoto:timestamp>1245508203000</gphoto:timestamp>
+    <gphoto:imageVersion>6983</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508203000</exif:time>
+      <exif:imageUniqueID>5ac2348655269789ae8647ad738d3610</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2ZgwtuAMEYg/Sj8k0whSfzI/AAAAAAAAG0c/2anb95Sz-EE/P6200082.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2ZgwtuAMEYg/Sj8k0whSfzI/AAAAAAAAG0c/2anb95Sz-EE/s72/P6200082.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2ZgwtuAMEYg/Sj8k0whSfzI/AAAAAAAAG0c/2anb95Sz-EE/s144/P6200082.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2ZgwtuAMEYg/Sj8k0whSfzI/AAAAAAAAG0c/2anb95Sz-EE/s288/P6200082.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200082.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035382647373250</id>
+    <published>2009-06-22T06:29:41.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200083.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--9rkFtI_f14/Sj8k1bZ3vcI/AAAAAAAAG0k/r2VDe-dvaFs/P6200083.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035382647373250"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035382647373250"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EZJowuf9kVL9haFHUKpQxdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035382647373250"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035382647373250"/>
+    <gphoto:id>5350035382647373250</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>42.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>348763</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c702c81c</gphoto:checksum>
+    <gphoto:timestamp>1245508208000</gphoto:timestamp>
+    <gphoto:imageVersion>6985</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508208000</exif:time>
+      <exif:imageUniqueID>50ec0bc9848dc66e444b8b61c680b828</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--9rkFtI_f14/Sj8k1bZ3vcI/AAAAAAAAG0k/r2VDe-dvaFs/P6200083.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--9rkFtI_f14/Sj8k1bZ3vcI/AAAAAAAAG0k/r2VDe-dvaFs/s72/P6200083.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--9rkFtI_f14/Sj8k1bZ3vcI/AAAAAAAAG0k/r2VDe-dvaFs/s144/P6200083.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--9rkFtI_f14/Sj8k1bZ3vcI/AAAAAAAAG0k/r2VDe-dvaFs/s288/P6200083.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200083.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035389424571138</id>
+    <published>2009-06-22T06:29:43.000Z</published>
+    <updated>2013-05-12T10:28:07.188Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P6200084.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lUGVHH69ePs/Sj8k10prkwI/AAAAAAAAG0o/1c0zGJe1tT8/P6200084.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035389424571138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/UEbBBF#5350035389424571138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Ax0Au8z0mbVG-RHIZN5a29MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5350035012551846785/photoid/5350035389424571138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5350035012551846785&amp;iid=5350035389424571138"/>
+    <gphoto:id>5350035389424571138</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>43.0</gphoto:position>
+    <gphoto:albumid>5350035012551846785</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>215972</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c702081c</gphoto:checksum>
+    <gphoto:timestamp>1245508214000</gphoto:timestamp>
+    <gphoto:imageVersion>6986</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1245508214000</exif:time>
+      <exif:imageUniqueID>f24462e00a47ce38dae164a9f01319b7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lUGVHH69ePs/Sj8k10prkwI/AAAAAAAAG0o/1c0zGJe1tT8/P6200084.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lUGVHH69ePs/Sj8k10prkwI/AAAAAAAAG0o/1c0zGJe1tT8/s72/P6200084.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lUGVHH69ePs/Sj8k10prkwI/AAAAAAAAG0o/1c0zGJe1tT8/s144/P6200084.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lUGVHH69ePs/Sj8k10prkwI/AAAAAAAAG0o/1c0zGJe1tT8/s288/P6200084.JPG" height="216" width="288"/>
+      <media:title type="plain">P6200084.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0476139 135.6368609</gml:lowerCorner>
+        <gml:upperCorner>35.0499854 135.6415334</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0487997 135.6391972</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

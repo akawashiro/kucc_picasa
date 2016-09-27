@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521</id>
+  <updated>2013-05-12T10:28:20.746Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">亀岡花火大会</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-3OSDCq-_U4w/SoejnisRkLE/AAAAAAAAH_o/-WhD3WryymQ/s160-c/BHIimJ.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>y01.narita</name>
+    <uri>https://picasaweb.google.com/y01.narita</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5370440980385337521</gphoto:id>
+  <gphoto:name>BHIimJ</gphoto:name>
+  <gphoto:location>亀岡</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1249627058000</gphoto:timestamp>
+  <gphoto:numphotos>9</gphoto:numphotos>
+  <gphoto:user>y01.narita</gphoto:user>
+  <gphoto:nickname>y01.narita</gphoto:nickname>
+  <georss:where>
+    <gml:Envelope>
+      <gml:lowerCorner>34.9203884 135.4390867</gml:lowerCorner>
+      <gml:upperCorner>35.1064275 135.7081313</gml:upperCorner>
+    </gml:Envelope>
+    <gml:Point>
+      <gml:pos>35.013408 135.573609</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370440996348990242</id>
+    <published>2009-08-16T06:13:53.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070250.JPG</title>
+    <summary type="text">明らかにあの雲の下雨降ってるよね？</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-UV-dMIfQ1ko/SoejoeKTkyI/AAAAAAAAH6Y/vXdeaXHrf7g/P8070250.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370440996348990242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370440996348990242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tUc-7X_RnSbmKgA8AAbXKdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370440996348990242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370440996348990242"/>
+    <gphoto:id>5370440996348990242</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>155246</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5506da81</gphoto:checksum>
+    <gphoto:timestamp>1249659458000</gphoto:timestamp>
+    <gphoto:imageVersion>8102</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1249659458000</exif:time>
+      <exif:imageUniqueID>6a95ff69eb44615a39ff745fef921141</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-UV-dMIfQ1ko/SoejoeKTkyI/AAAAAAAAH6Y/vXdeaXHrf7g/P8070250.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">明らかにあの雲の下雨降ってるよね？</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UV-dMIfQ1ko/SoejoeKTkyI/AAAAAAAAH6Y/vXdeaXHrf7g/s72/P8070250.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UV-dMIfQ1ko/SoejoeKTkyI/AAAAAAAAH6Y/vXdeaXHrf7g/s144/P8070250.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UV-dMIfQ1ko/SoejoeKTkyI/AAAAAAAAH6Y/vXdeaXHrf7g/s288/P8070250.JPG" height="288" width="216"/>
+      <media:title type="plain">P8070250.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>34.9754079 135.6926925</gml:lowerCorner>
+        <gml:upperCorner>34.9767684 135.6953666</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>34.9760882 135.6940296</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441003134506610</id>
+    <published>2009-08-16T06:13:55.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070252.JPG</title>
+    <summary type="text">二条駅前からの入道雲</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-TYBTgUDXtcM/Soejo3cGVnI/AAAAAAAAH6c/gdLtBq1ULLU/P8070252.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441003134506610"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441003134506610"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dTxfRbfjhBpHfvZbH_N5KtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441003134506610"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441003134506610"/>
+    <gphoto:id>5370441003134506610</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>186555</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c70ab3a0</gphoto:checksum>
+    <gphoto:timestamp>1249663815000</gphoto:timestamp>
+    <gphoto:imageVersion>8103</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>19.86</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1249663815000</exif:time>
+      <exif:imageUniqueID>ed87542b8dc5a9bafb134719c7528680</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TYBTgUDXtcM/Soejo3cGVnI/AAAAAAAAH6c/gdLtBq1ULLU/P8070252.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">二条駅前からの入道雲</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TYBTgUDXtcM/Soejo3cGVnI/AAAAAAAAH6c/gdLtBq1ULLU/s72/P8070252.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TYBTgUDXtcM/Soejo3cGVnI/AAAAAAAAH6c/gdLtBq1ULLU/s144/P8070252.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TYBTgUDXtcM/Soejo3cGVnI/AAAAAAAAH6c/gdLtBq1ULLU/s288/P8070252.JPG" height="288" width="216"/>
+      <media:title type="plain">P8070252.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0099456 135.740067</gml:lowerCorner>
+        <gml:upperCorner>35.0126653 135.7454153</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0113055 135.7427412</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441007136519138</id>
+    <published>2009-08-16T06:13:56.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070253.JPG</title>
+    <summary type="text">二条駅ホームからも</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-LxPAT2zrRZQ/SoejpGWQM-I/AAAAAAAAH6g/bV3q-ki5a8I/P8070253.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441007136519138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441007136519138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/wlbbBCdaFiiSRh1Qkvi-ONMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441007136519138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441007136519138"/>
+    <gphoto:id>5370441007136519138</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>166263</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>10f2bd9b</gphoto:checksum>
+    <gphoto:timestamp>1249664249000</gphoto:timestamp>
+    <gphoto:imageVersion>8104</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>24.0</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1249664249000</exif:time>
+      <exif:imageUniqueID>f886b917ba38a783eca58032e541ca22</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LxPAT2zrRZQ/SoejpGWQM-I/AAAAAAAAH6g/bV3q-ki5a8I/P8070253.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">二条駅ホームからも</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LxPAT2zrRZQ/SoejpGWQM-I/AAAAAAAAH6g/bV3q-ki5a8I/s72/P8070253.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LxPAT2zrRZQ/SoejpGWQM-I/AAAAAAAAH6g/bV3q-ki5a8I/s144/P8070253.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LxPAT2zrRZQ/SoejpGWQM-I/AAAAAAAAH6g/bV3q-ki5a8I/s288/P8070253.JPG" height="288" width="216"/>
+      <media:title type="plain">P8070253.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0085968 135.7390048</gml:lowerCorner>
+        <gml:upperCorner>35.0113165 135.7443531</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0099567 135.741679</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441012824516562</id>
+    <published>2009-08-16T06:13:57.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070254.JPG</title>
+    <summary type="text">亀岡からの夕焼け</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xkqJO6KvxBg/SoejpbiYJ9I/AAAAAAAAH6k/XsDObcOuOV0/P8070254.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441012824516562"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441012824516562"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/o8gUyX28xjsUD0M7QiqKX9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441012824516562"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441012824516562"/>
+    <gphoto:id>5370441012824516562</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>204087</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>918ac011</gphoto:checksum>
+    <gphoto:timestamp>1249671670000</gphoto:timestamp>
+    <gphoto:imageVersion>8105</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>13.83</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1249671670000</exif:time>
+      <exif:imageUniqueID>c55b8bac7828f69c9b654c1e49c6b71f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xkqJO6KvxBg/SoejpbiYJ9I/AAAAAAAAH6k/XsDObcOuOV0/P8070254.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">亀岡からの夕焼け</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xkqJO6KvxBg/SoejpbiYJ9I/AAAAAAAAH6k/XsDObcOuOV0/s72/P8070254.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xkqJO6KvxBg/SoejpbiYJ9I/AAAAAAAAH6k/XsDObcOuOV0/s144/P8070254.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xkqJO6KvxBg/SoejpbiYJ9I/AAAAAAAAH6k/XsDObcOuOV0/s288/P8070254.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070254.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0120546 135.5767285</gml:lowerCorner>
+        <gml:upperCorner>35.0229325 135.5981218</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0174936 135.5874252</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441024977147698</id>
+    <published>2009-08-16T06:14:00.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070256.JPG</title>
+    <summary type="text">時刻は午後７時０１分</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bWofggRc3AE/SoejqIzylzI/AAAAAAAAH6o/OG1Fij7lom4/P8070256.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441024977147698"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441024977147698"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/F8npVaF0pfj_mkrUNap0AdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441024977147698"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441024977147698"/>
+    <gphoto:id>5370441024977147698</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>320362</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5cd7d7ea</gphoto:checksum>
+    <gphoto:timestamp>1249671711000</gphoto:timestamp>
+    <gphoto:imageVersion>8106</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1249671711000</exif:time>
+      <exif:imageUniqueID>e0c6e5e098119cb02266100b9bc5dc09</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bWofggRc3AE/SoejqIzylzI/AAAAAAAAH6o/OG1Fij7lom4/P8070256.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">時刻は午後７時０１分</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bWofggRc3AE/SoejqIzylzI/AAAAAAAAH6o/OG1Fij7lom4/s72/P8070256.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bWofggRc3AE/SoejqIzylzI/AAAAAAAAH6o/OG1Fij7lom4/s144/P8070256.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bWofggRc3AE/SoejqIzylzI/AAAAAAAAH6o/OG1Fij7lom4/s288/P8070256.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070256.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0193763 135.5873568</gml:lowerCorner>
+        <gml:upperCorner>35.020736 135.5900309</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0200562 135.5886939</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441035238262946</id>
+    <published>2009-08-16T06:14:02.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070258.JPG</title>
+    <summary type="text">時刻は午後７時３６分</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ivL7-TDWttY/SoejqvCOyKI/AAAAAAAAH6s/n2FxE9fap_0/P8070258.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441035238262946"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441035238262946"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kZ1MWXN0lhqj4ZCzCFS2QtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441035238262946"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441035238262946"/>
+    <gphoto:id>5370441035238262946</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>314059</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e7e86fac</gphoto:checksum>
+    <gphoto:timestamp>1249673812000</gphoto:timestamp>
+    <gphoto:imageVersion>8107</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1249673812000</exif:time>
+      <exif:imageUniqueID>d706f9839df3bfca2823b4b221e87c82</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ivL7-TDWttY/SoejqvCOyKI/AAAAAAAAH6s/n2FxE9fap_0/P8070258.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">時刻は午後７時３６分</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ivL7-TDWttY/SoejqvCOyKI/AAAAAAAAH6s/n2FxE9fap_0/s72/P8070258.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ivL7-TDWttY/SoejqvCOyKI/AAAAAAAAH6s/n2FxE9fap_0/s144/P8070258.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ivL7-TDWttY/SoejqvCOyKI/AAAAAAAAH6s/n2FxE9fap_0/s288/P8070258.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070258.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0193763 135.5873568</gml:lowerCorner>
+        <gml:upperCorner>35.020736 135.5900309</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0200562 135.5886939</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441042328892114</id>
+    <published>2009-08-16T06:14:04.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070259.JPG</title>
+    <summary type="text">もうすぐ花火始まります</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Gd95I20uA1k/SoejrJcxMtI/AAAAAAAAH6w/3ZZDbezBHr0/P8070259.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441042328892114"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441042328892114"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/34nDtUguGvNnEVW7mhJ47dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441042328892114"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441042328892114"/>
+    <gphoto:id>5370441042328892114</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>292909</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e7e9efac</gphoto:checksum>
+    <gphoto:timestamp>1249673817000</gphoto:timestamp>
+    <gphoto:imageVersion>8108</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1000</exif:iso>
+      <exif:time>1249673817000</exif:time>
+      <exif:imageUniqueID>b2db88c4a8bc92b7824436795dc85ebb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Gd95I20uA1k/SoejrJcxMtI/AAAAAAAAH6w/3ZZDbezBHr0/P8070259.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">もうすぐ花火始まります</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Gd95I20uA1k/SoejrJcxMtI/AAAAAAAAH6w/3ZZDbezBHr0/s72/P8070259.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Gd95I20uA1k/SoejrJcxMtI/AAAAAAAAH6w/3ZZDbezBHr0/s144/P8070259.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Gd95I20uA1k/SoejrJcxMtI/AAAAAAAAH6w/3ZZDbezBHr0/s288/P8070259.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070259.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0193763 135.5873568</gml:lowerCorner>
+        <gml:upperCorner>35.020736 135.5900309</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0200562 135.5886939</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441045953462946</id>
+    <published>2009-08-16T06:14:05.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070262.JPG</title>
+    <summary type="text">やっぱ花火をとるのは難しいです</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pAgclAz-dX4/SoejrW87wqI/AAAAAAAAH60/oJyGzCDhcDE/P8070262.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441045953462946"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441045953462946"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_L3TB-8TweQp50RktC9_3dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441045953462946"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441045953462946"/>
+    <gphoto:id>5370441045953462946</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>165481</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e604afac</gphoto:checksum>
+    <gphoto:timestamp>1249675571000</gphoto:timestamp>
+    <gphoto:imageVersion>8109</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>24.0</exif:focallength>
+      <exif:iso>2500</exif:iso>
+      <exif:time>1249675571000</exif:time>
+      <exif:imageUniqueID>6542bd123449de94151a1a88d1a88718</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pAgclAz-dX4/SoejrW87wqI/AAAAAAAAH60/oJyGzCDhcDE/P8070262.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">やっぱ花火をとるのは難しいです</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pAgclAz-dX4/SoejrW87wqI/AAAAAAAAH60/oJyGzCDhcDE/s72/P8070262.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pAgclAz-dX4/SoejrW87wqI/AAAAAAAAH60/oJyGzCDhcDE/s144/P8070262.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pAgclAz-dX4/SoejrW87wqI/AAAAAAAAH60/oJyGzCDhcDE/s288/P8070262.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070262.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0193763 135.5873568</gml:lowerCorner>
+        <gml:upperCorner>35.020736 135.5900309</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0200562 135.5886939</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441051031972050</id>
+    <published>2009-08-16T06:14:06.000Z</published>
+    <updated>2013-05-12T10:28:20.746Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P8070263.JPG</title>
+    <summary type="text">かろうじてうまく写った？</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-E_f5Xk8wr6M/Soejrp3vqNI/AAAAAAAAH64/zTc4Uo43eyY/P8070263.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441051031972050"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/y01.narita/BHIimJ#5370441051031972050"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dTkFw1bnfYDC_gGHljX-ltMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/y01.narita/albumid/5370440980385337521/photoid/5370441051031972050"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=y01.narita&amp;aid=5370440980385337521&amp;iid=5370441051031972050"/>
+    <gphoto:id>5370441051031972050</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5370440980385337521</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>285465</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2d5ebfe6</gphoto:checksum>
+    <gphoto:timestamp>1249675575000</gphoto:timestamp>
+    <gphoto:imageVersion>8110</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="2" name="Attribution-Noncommercial" url="http://creativecommons.org/licenses/by-nc/3.0">ATTRIBUTION_NON_COMMERCIAL</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.  </exif:make>
+      <exif:model>uD800,S800      </exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>24.0</exif:focallength>
+      <exif:iso>2500</exif:iso>
+      <exif:time>1249675575000</exif:time>
+      <exif:imageUniqueID>9688641694e64781357491e3272a1ef1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-E_f5Xk8wr6M/Soejrp3vqNI/AAAAAAAAH64/zTc4Uo43eyY/P8070263.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>y01.narita</media:credit>
+      <media:description type="plain">かろうじてうまく写った？</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E_f5Xk8wr6M/Soejrp3vqNI/AAAAAAAAH64/zTc4Uo43eyY/s72/P8070263.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E_f5Xk8wr6M/Soejrp3vqNI/AAAAAAAAH64/zTc4Uo43eyY/s144/P8070263.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E_f5Xk8wr6M/Soejrp3vqNI/AAAAAAAAH64/zTc4Uo43eyY/s288/P8070263.JPG" height="216" width="288"/>
+      <media:title type="plain">P8070263.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0193763 135.5873568</gml:lowerCorner>
+        <gml:upperCorner>35.020736 135.5900309</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0200562 135.5886939</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

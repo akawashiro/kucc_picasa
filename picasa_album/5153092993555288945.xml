@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945</id>
+  <updated>2013-05-12T09:11:34.577Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">1月九州</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-BhaTjfOnSrM/R4N2xn9q03E/AAAAAAAACYA/VaC5MsI1Fxg/s160-c/1.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Kuro.tour1</name>
+    <uri>https://picasaweb.google.com/kuro.tour1</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>20</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5153092993555288945</gphoto:id>
+  <gphoto:name>1</gphoto:name>
+  <gphoto:location>雲仙</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1198656000000</gphoto:timestamp>
+  <gphoto:numphotos>20</gphoto:numphotos>
+  <gphoto:user>kuro.tour1</gphoto:user>
+  <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+  <georss:where>
+    <gml:Envelope>
+      <gml:lowerCorner>32.6788313 130.1255547</gml:lowerCorner>
+      <gml:upperCorner>32.9178586 130.3198112</gml:upperCorner>
+    </gml:Envelope>
+    <gml:Point>
+      <gml:pos>32.798345 130.222683</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093027915027330</id>
+    <published>2008-01-08T13:12:46.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380045.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1GAv3Tukq94/R4N2zn9q04I/AAAAAAAACCE/FDu4wyuqCA0/CA380045.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093027915027330"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093027915027330"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/TTLHm-5O2LdGOnxW_pNMCtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093027915027330"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093027915027330"/>
+    <gphoto:id>5153093027915027330</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50209075E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>315437</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>2f2b1008</gphoto:checksum>
+    <gphoto:timestamp>1198702074000</gphoto:timestamp>
+    <gphoto:imageVersion>2081</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198702074000</exif:time>
+      <exif:imageUniqueID>6e4e388f0cf247aa6be973a52c3041d3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1GAv3Tukq94/R4N2zn9q04I/AAAAAAAACCE/FDu4wyuqCA0/CA380045.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1GAv3Tukq94/R4N2zn9q04I/AAAAAAAACCE/FDu4wyuqCA0/s72/CA380045.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1GAv3Tukq94/R4N2zn9q04I/AAAAAAAACCE/FDu4wyuqCA0/s144/CA380045.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1GAv3Tukq94/R4N2zn9q04I/AAAAAAAACCE/FDu4wyuqCA0/s288/CA380045.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380045.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093057979798418</id>
+    <published>2008-01-08T13:12:53.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380046.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-QaVfynAxoYw/R4N21X9q05I/AAAAAAAACCQ/oM8bKD6mpJk/CA380046.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093057979798418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093057979798418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/epb1PpfRb26H3zta03x1P9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093057979798418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093057979798418"/>
+    <gphoto:id>5153093057979798418</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50209818E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>341888</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>264054d9</gphoto:checksum>
+    <gphoto:timestamp>1198702197000</gphoto:timestamp>
+    <gphoto:imageVersion>2084</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198702197000</exif:time>
+      <exif:imageUniqueID>c9c96ba30312f332e4765b4d084d9d4a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QaVfynAxoYw/R4N21X9q05I/AAAAAAAACCQ/oM8bKD6mpJk/CA380046.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QaVfynAxoYw/R4N21X9q05I/AAAAAAAACCQ/oM8bKD6mpJk/s72/CA380046.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QaVfynAxoYw/R4N21X9q05I/AAAAAAAACCQ/oM8bKD6mpJk/s144/CA380046.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QaVfynAxoYw/R4N21X9q05I/AAAAAAAACCQ/oM8bKD6mpJk/s288/CA380046.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380046.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093092339536802</id>
+    <published>2008-01-08T13:13:00.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380047.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-wx1iKeMKQ90/R4N23X9q06I/AAAAAAAACCY/I0L6wA2yAHc/CA380047.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093092339536802"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093092339536802"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HtFB77TxqhJ_TPLdQOclxtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093092339536802"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093092339536802"/>
+    <gphoto:id>5153093092339536802</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50210547E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>366439</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>28383df2</gphoto:checksum>
+    <gphoto:timestamp>1198708171000</gphoto:timestamp>
+    <gphoto:imageVersion>2086</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198708171000</exif:time>
+      <exif:imageUniqueID>28457a63aac8a00d0e6181e112cb2516</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wx1iKeMKQ90/R4N23X9q06I/AAAAAAAACCY/I0L6wA2yAHc/CA380047.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wx1iKeMKQ90/R4N23X9q06I/AAAAAAAACCY/I0L6wA2yAHc/s72/CA380047.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wx1iKeMKQ90/R4N23X9q06I/AAAAAAAACCY/I0L6wA2yAHc/s144/CA380047.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wx1iKeMKQ90/R4N23X9q06I/AAAAAAAACCY/I0L6wA2yAHc/s288/CA380047.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380047.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093118109340594</id>
+    <published>2008-01-08T13:13:07.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380048.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-VHZtvgoA6-g/R4N2439q07I/AAAAAAAACCg/6LndquVTaEc/CA380048.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093118109340594"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093118109340594"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ltbGj7uflQJhlm3S2SPkRNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093118109340594"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093118109340594"/>
+    <gphoto:id>5153093118109340594</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50211162E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>303526</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>6b54bcb6</gphoto:checksum>
+    <gphoto:timestamp>1198708228000</gphoto:timestamp>
+    <gphoto:imageVersion>2088</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198708228000</exif:time>
+      <exif:imageUniqueID>9629903432fcad2fa4b4f16d5b988c32</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VHZtvgoA6-g/R4N2439q07I/AAAAAAAACCg/6LndquVTaEc/CA380048.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VHZtvgoA6-g/R4N2439q07I/AAAAAAAACCg/6LndquVTaEc/s72/CA380048.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VHZtvgoA6-g/R4N2439q07I/AAAAAAAACCg/6LndquVTaEc/s144/CA380048.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VHZtvgoA6-g/R4N2439q07I/AAAAAAAACCg/6LndquVTaEc/s288/CA380048.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380048.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093152469078978</id>
+    <published>2008-01-08T13:13:15.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380049.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-j11CvvQdiCI/R4N2639q08I/AAAAAAAACCo/H2eU_X0e8Xo/CA380049.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093152469078978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093152469078978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/3Qwolg3bTpDI39TOiFgHfdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093152469078978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093152469078978"/>
+    <gphoto:id>5153093152469078978</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50211994E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>407657</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>6341b117</gphoto:checksum>
+    <gphoto:timestamp>1198820398000</gphoto:timestamp>
+    <gphoto:imageVersion>2090</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.11049</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820398000</exif:time>
+      <exif:imageUniqueID>59458dfd0d511082d354b5121e634e95</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-j11CvvQdiCI/R4N2639q08I/AAAAAAAACCo/H2eU_X0e8Xo/CA380049.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j11CvvQdiCI/R4N2639q08I/AAAAAAAACCo/H2eU_X0e8Xo/s72/CA380049.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j11CvvQdiCI/R4N2639q08I/AAAAAAAACCo/H2eU_X0e8Xo/s144/CA380049.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j11CvvQdiCI/R4N2639q08I/AAAAAAAACCo/H2eU_X0e8Xo/s288/CA380049.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380049.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093182533850066</id>
+    <published>2008-01-08T13:13:22.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380050.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gIn3Wb6TjIk/R4N28n9q09I/AAAAAAAACCw/wQ6Qf-Be3n4/CA380050.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093182533850066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093182533850066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/esc466hwKyZ50VYdFEiBKtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093182533850066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093182533850066"/>
+    <gphoto:id>5153093182533850066</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50212723E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>367174</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>cb46f426</gphoto:checksum>
+    <gphoto:timestamp>1198820527000</gphoto:timestamp>
+    <gphoto:imageVersion>2092</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.08775</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820527000</exif:time>
+      <exif:imageUniqueID>9520bc9cc1006ac3404148eca7cb294f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gIn3Wb6TjIk/R4N28n9q09I/AAAAAAAACCw/wQ6Qf-Be3n4/CA380050.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gIn3Wb6TjIk/R4N28n9q09I/AAAAAAAACCw/wQ6Qf-Be3n4/s72/CA380050.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gIn3Wb6TjIk/R4N28n9q09I/AAAAAAAACCw/wQ6Qf-Be3n4/s144/CA380050.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gIn3Wb6TjIk/R4N28n9q09I/AAAAAAAACCw/wQ6Qf-Be3n4/s288/CA380050.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380050.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093221188555746</id>
+    <published>2008-01-08T13:13:31.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380051.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DnZLXTGUjFQ/R4N2-39q0-I/AAAAAAAACC4/roHM8vkMTQY/CA380051.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093221188555746"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093221188555746"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pIglmX27mkz1KpsWh_aUW9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093221188555746"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093221188555746"/>
+    <gphoto:id>5153093221188555746</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50213581E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>306119</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>214c974f</gphoto:checksum>
+    <gphoto:timestamp>1198820558000</gphoto:timestamp>
+    <gphoto:imageVersion>2094</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.0919</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820558000</exif:time>
+      <exif:imageUniqueID>55ea58c0a17e015db6dda6d038ddc9f2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DnZLXTGUjFQ/R4N2-39q0-I/AAAAAAAACC4/roHM8vkMTQY/CA380051.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DnZLXTGUjFQ/R4N2-39q0-I/AAAAAAAACC4/roHM8vkMTQY/s72/CA380051.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DnZLXTGUjFQ/R4N2-39q0-I/AAAAAAAACC4/roHM8vkMTQY/s144/CA380051.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DnZLXTGUjFQ/R4N2-39q0-I/AAAAAAAACC4/roHM8vkMTQY/s288/CA380051.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380051.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093251253326834</id>
+    <published>2008-01-08T13:13:38.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380052.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hq5RwQfEERQ/R4N3An9q0_I/AAAAAAAACDA/TO2z-TEKIxA/CA380052.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093251253326834"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093251253326834"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JLtRfU_iSohauxz5D9WiAtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093251253326834"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093251253326834"/>
+    <gphoto:id>5153093251253326834</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.5021431E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>350291</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>d3e04947</gphoto:checksum>
+    <gphoto:timestamp>1198820620000</gphoto:timestamp>
+    <gphoto:imageVersion>2096</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820620000</exif:time>
+      <exif:imageUniqueID>8b18489bd098cb897b24cabd7f54e05e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hq5RwQfEERQ/R4N3An9q0_I/AAAAAAAACDA/TO2z-TEKIxA/CA380052.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hq5RwQfEERQ/R4N3An9q0_I/AAAAAAAACDA/TO2z-TEKIxA/s72/CA380052.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hq5RwQfEERQ/R4N3An9q0_I/AAAAAAAACDA/TO2z-TEKIxA/s144/CA380052.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hq5RwQfEERQ/R4N3An9q0_I/AAAAAAAACDA/TO2z-TEKIxA/s288/CA380052.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380052.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093285613065218</id>
+    <published>2008-01-08T13:13:46.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380053.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FlSd18zYCXU/R4N3Cn9q1AI/AAAAAAAACDI/cHFHTgtsLj0/CA380053.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093285613065218"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093285613065218"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kI-FPa6tbPXdk2VuOMc39dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093285613065218"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093285613065218"/>
+    <gphoto:id>5153093285613065218</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50215091E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>332743</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>75210493</gphoto:checksum>
+    <gphoto:timestamp>1198820656000</gphoto:timestamp>
+    <gphoto:imageVersion>2098</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.05002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820656000</exif:time>
+      <exif:imageUniqueID>26b7ec68bed63abed702da3566bb1eb5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FlSd18zYCXU/R4N3Cn9q1AI/AAAAAAAACDI/cHFHTgtsLj0/CA380053.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlSd18zYCXU/R4N3Cn9q1AI/AAAAAAAACDI/cHFHTgtsLj0/s72/CA380053.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlSd18zYCXU/R4N3Cn9q1AI/AAAAAAAACDI/cHFHTgtsLj0/s144/CA380053.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FlSd18zYCXU/R4N3Cn9q1AI/AAAAAAAACDI/cHFHTgtsLj0/s288/CA380053.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380053.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093319972803602</id>
+    <published>2008-01-08T13:13:54.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380054.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-h56Lbv7coSQ/R4N3En9q1BI/AAAAAAAACDQ/pefCz-VB6Jk/CA380054.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093319972803602"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093319972803602"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pJI6_SQof0iJa3YFa62r_dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093319972803602"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093319972803602"/>
+    <gphoto:id>5153093319972803602</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50215898E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>390674</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>862c416a</gphoto:checksum>
+    <gphoto:timestamp>1198820672000</gphoto:timestamp>
+    <gphoto:imageVersion>2100</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.08775</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820672000</exif:time>
+      <exif:imageUniqueID>7be2c928e3f40206caa68e4f3a2c0f91</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-h56Lbv7coSQ/R4N3En9q1BI/AAAAAAAACDQ/pefCz-VB6Jk/CA380054.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h56Lbv7coSQ/R4N3En9q1BI/AAAAAAAACDQ/pefCz-VB6Jk/s72/CA380054.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h56Lbv7coSQ/R4N3En9q1BI/AAAAAAAACDQ/pefCz-VB6Jk/s144/CA380054.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h56Lbv7coSQ/R4N3En9q1BI/AAAAAAAACDQ/pefCz-VB6Jk/s288/CA380054.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380054.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093350037574690</id>
+    <published>2008-01-08T13:14:00.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380055.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pDJw0Mv3VUE/R4N3GX9q1CI/AAAAAAAACDY/XuDdMcd8Fgw/CA380055.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093350037574690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093350037574690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LYLSEQF9lsfZxDFJ31L-V9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093350037574690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093350037574690"/>
+    <gphoto:id>5153093350037574690</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.5021655E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>312570</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>894a04ec</gphoto:checksum>
+    <gphoto:timestamp>1198820687000</gphoto:timestamp>
+    <gphoto:imageVersion>2102</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.08</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198820687000</exif:time>
+      <exif:imageUniqueID>999fedf174384990d1734928828818a0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pDJw0Mv3VUE/R4N3GX9q1CI/AAAAAAAACDY/XuDdMcd8Fgw/CA380055.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pDJw0Mv3VUE/R4N3GX9q1CI/AAAAAAAACDY/XuDdMcd8Fgw/s72/CA380055.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pDJw0Mv3VUE/R4N3GX9q1CI/AAAAAAAACDY/XuDdMcd8Fgw/s144/CA380055.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pDJw0Mv3VUE/R4N3GX9q1CI/AAAAAAAACDY/XuDdMcd8Fgw/s288/CA380055.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380055.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093508951364722</id>
+    <published>2008-01-08T13:14:38.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380060.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-RtEHRIE4BSs/R4N3Pn9q1HI/AAAAAAAACEA/xCgAlgdkOL8/CA380060.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093508951364722"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093508951364722"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/aYcA_Mjv7Y62vpNxl97A19MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093508951364722"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093508951364722"/>
+    <gphoto:id>5153093508951364722</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50220301E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>303042</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>d09b1c28</gphoto:checksum>
+    <gphoto:timestamp>1198858804000</gphoto:timestamp>
+    <gphoto:imageVersion>2112</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.06391</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198858804000</exif:time>
+      <exif:imageUniqueID>61a440e36b95f8709e7e80333016aaed</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RtEHRIE4BSs/R4N3Pn9q1HI/AAAAAAAACEA/xCgAlgdkOL8/CA380060.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RtEHRIE4BSs/R4N3Pn9q1HI/AAAAAAAACEA/xCgAlgdkOL8/s72/CA380060.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RtEHRIE4BSs/R4N3Pn9q1HI/AAAAAAAACEA/xCgAlgdkOL8/s144/CA380060.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RtEHRIE4BSs/R4N3Pn9q1HI/AAAAAAAACEA/xCgAlgdkOL8/s288/CA380060.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380060.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093534721168514</id>
+    <published>2008-01-08T13:14:44.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380061.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IKxqUNl-6qs/R4N3RH9q1II/AAAAAAAACEI/RVxqoJYDAVU/CA380061.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093534721168514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093534721168514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YX1Z2aga9tviKYZiLctNVdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093534721168514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093534721168514"/>
+    <gphoto:id>5153093534721168514</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50220902E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>308178</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>c056a5cb</gphoto:checksum>
+    <gphoto:timestamp>1198878414000</gphoto:timestamp>
+    <gphoto:imageVersion>2114</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1198878414000</exif:time>
+      <exif:imageUniqueID>ce8cb30515a636b66eb88d8a1acf140d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IKxqUNl-6qs/R4N3RH9q1II/AAAAAAAACEI/RVxqoJYDAVU/CA380061.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IKxqUNl-6qs/R4N3RH9q1II/AAAAAAAACEI/RVxqoJYDAVU/s72/CA380061.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IKxqUNl-6qs/R4N3RH9q1II/AAAAAAAACEI/RVxqoJYDAVU/s144/CA380061.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IKxqUNl-6qs/R4N3RH9q1II/AAAAAAAACEI/RVxqoJYDAVU/s288/CA380061.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380061.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093594850710690</id>
+    <published>2008-01-08T13:14:58.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380063.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7Ix746hAwbQ/R4N3Un9q1KI/AAAAAAAACEc/1kqxMVKH488/CA380063.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093594850710690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093594850710690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/r1d1_v1cba5Jxpw95l9dOtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093594850710690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093594850710690"/>
+    <gphoto:id>5153093594850710690</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50222323E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>336795</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>68ef0094</gphoto:checksum>
+    <gphoto:timestamp>1199281791000</gphoto:timestamp>
+    <gphoto:imageVersion>2119</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.00154</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199281791000</exif:time>
+      <exif:imageUniqueID>d9b00d67784829d0122062e3b96c0724</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7Ix746hAwbQ/R4N3Un9q1KI/AAAAAAAACEc/1kqxMVKH488/CA380063.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7Ix746hAwbQ/R4N3Un9q1KI/AAAAAAAACEc/1kqxMVKH488/s72/CA380063.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7Ix746hAwbQ/R4N3Un9q1KI/AAAAAAAACEc/1kqxMVKH488/s144/CA380063.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7Ix746hAwbQ/R4N3Un9q1KI/AAAAAAAACEc/1kqxMVKH488/s288/CA380063.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380063.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093629210449074</id>
+    <published>2008-01-08T13:15:06.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380064.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1elNK73pyRI/R4N3Wn9q1LI/AAAAAAAACEk/P_z2a_2kc4I/CA380064.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093629210449074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093629210449074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8D9BETrN83-l3nOLaJ5jeNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093629210449074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093629210449074"/>
+    <gphoto:id>5153093629210449074</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50223117E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>334135</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>78658a2d</gphoto:checksum>
+    <gphoto:timestamp>1199281831000</gphoto:timestamp>
+    <gphoto:imageVersion>2121</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.00359</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199281831000</exif:time>
+      <exif:imageUniqueID>5229c1ee8e71514d15cb0ce84bf3eaa4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1elNK73pyRI/R4N3Wn9q1LI/AAAAAAAACEk/P_z2a_2kc4I/CA380064.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1elNK73pyRI/R4N3Wn9q1LI/AAAAAAAACEk/P_z2a_2kc4I/s72/CA380064.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1elNK73pyRI/R4N3Wn9q1LI/AAAAAAAACEk/P_z2a_2kc4I/s144/CA380064.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1elNK73pyRI/R4N3Wn9q1LI/AAAAAAAACEk/P_z2a_2kc4I/s288/CA380064.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380064.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093659275220162</id>
+    <published>2008-01-08T13:15:13.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380065.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FS5QjRhHLM8/R4N3YX9q1MI/AAAAAAAACEs/vzh80NnK2cM/CA380065.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093659275220162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093659275220162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fMoyFTAarG64G-xqulXyg9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093659275220162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093659275220162"/>
+    <gphoto:id>5153093659275220162</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50223808E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>339179</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>16f71e9c</gphoto:checksum>
+    <gphoto:timestamp>1199361297000</gphoto:timestamp>
+    <gphoto:imageVersion>2123</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.03962</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199361297000</exif:time>
+      <exif:imageUniqueID>b0400e8d8eb0683892752d9d4a7b6ead</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FS5QjRhHLM8/R4N3YX9q1MI/AAAAAAAACEs/vzh80NnK2cM/CA380065.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FS5QjRhHLM8/R4N3YX9q1MI/AAAAAAAACEs/vzh80NnK2cM/s72/CA380065.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FS5QjRhHLM8/R4N3YX9q1MI/AAAAAAAACEs/vzh80NnK2cM/s144/CA380065.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FS5QjRhHLM8/R4N3YX9q1MI/AAAAAAAACEs/vzh80NnK2cM/s288/CA380065.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380065.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093693634958546</id>
+    <published>2008-01-08T13:15:21.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380066.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BbSw_83fpII/R4N3aX9q1NI/AAAAAAAACE0/Wl3PaA5NrF4/CA380066.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093693634958546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093693634958546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SL-Q6dsxa1W5ziud52zFlNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093693634958546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093693634958546"/>
+    <gphoto:id>5153093693634958546</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50224627E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>405632</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>349b0ded</gphoto:checksum>
+    <gphoto:timestamp>1199368361000</gphoto:timestamp>
+    <gphoto:imageVersion>2125</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.00104</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199368361000</exif:time>
+      <exif:imageUniqueID>0efc73f39ff5b0e1660c7a1ba8519e7b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BbSw_83fpII/R4N3aX9q1NI/AAAAAAAACE0/Wl3PaA5NrF4/CA380066.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BbSw_83fpII/R4N3aX9q1NI/AAAAAAAACE0/Wl3PaA5NrF4/s72/CA380066.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BbSw_83fpII/R4N3aX9q1NI/AAAAAAAACE0/Wl3PaA5NrF4/s144/CA380066.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BbSw_83fpII/R4N3aX9q1NI/AAAAAAAACE0/Wl3PaA5NrF4/s288/CA380066.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380066.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093727994696930</id>
+    <published>2008-01-08T13:15:29.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380067.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zUqXiMr8NLU/R4N3cX9q1OI/AAAAAAAACE8/H84hXXWkC0g/CA380067.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093727994696930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093727994696930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/VJamNHlAE548qU13hqpOY9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093727994696930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093727994696930"/>
+    <gphoto:id>5153093727994696930</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50225408E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>381745</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>187cfd93</gphoto:checksum>
+    <gphoto:timestamp>1199381898000</gphoto:timestamp>
+    <gphoto:imageVersion>2127</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199381898000</exif:time>
+      <exif:imageUniqueID>8287176e3394113ea9159eb4fc517744</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zUqXiMr8NLU/R4N3cX9q1OI/AAAAAAAACE8/H84hXXWkC0g/CA380067.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zUqXiMr8NLU/R4N3cX9q1OI/AAAAAAAACE8/H84hXXWkC0g/s72/CA380067.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zUqXiMr8NLU/R4N3cX9q1OI/AAAAAAAACE8/H84hXXWkC0g/s144/CA380067.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zUqXiMr8NLU/R4N3cX9q1OI/AAAAAAAACE8/H84hXXWkC0g/s288/CA380067.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380067.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093758059468018</id>
+    <published>2008-01-08T13:15:36.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380068.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yRLqm1JT8W4/R4N3eH9q1PI/AAAAAAAACFE/bFLFXKnV5cU/CA380068.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093758059468018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093758059468018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rGmt4E2TBRjVM5tUIj9eZtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093758059468018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093758059468018"/>
+    <gphoto:id>5153093758059468018</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50226099E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>337782</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>355a9f0e</gphoto:checksum>
+    <gphoto:timestamp>1199381969000</gphoto:timestamp>
+    <gphoto:imageVersion>2129</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199381969000</exif:time>
+      <exif:imageUniqueID>ccf3971673981dda0551d3d9baebab63</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yRLqm1JT8W4/R4N3eH9q1PI/AAAAAAAACFE/bFLFXKnV5cU/CA380068.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yRLqm1JT8W4/R4N3eH9q1PI/AAAAAAAACFE/bFLFXKnV5cU/s72/CA380068.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yRLqm1JT8W4/R4N3eH9q1PI/AAAAAAAACFE/bFLFXKnV5cU/s144/CA380068.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yRLqm1JT8W4/R4N3eH9q1PI/AAAAAAAACFE/bFLFXKnV5cU/s288/CA380068.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380068.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093788124239106</id>
+    <published>2008-01-08T13:15:43.000Z</published>
+    <updated>2013-05-12T09:11:34.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CA380069.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DGmKs8H3fOY/R4N3f39q1QI/AAAAAAAACFM/itOBrj8vEJ4/CA380069.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093788124239106"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/1#5153093788124239106"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SjadB39XRKYWHIL0vXrHfNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5153092993555288945/photoid/5153093788124239106"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5153092993555288945&amp;iid=5153093788124239106"/>
+    <gphoto:id>5153093788124239106</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.50226765E9</gphoto:position>
+    <gphoto:albumid>5153092993555288945</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>329892</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum>958065bb</gphoto:checksum>
+    <gphoto:timestamp>1199384790000</gphoto:timestamp>
+    <gphoto:imageVersion>2131</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>KDDI-CA</exif:make>
+      <exif:model>W52CA</exif:model>
+      <exif:exposure>0.13283</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:time>1199384790000</exif:time>
+      <exif:imageUniqueID>bf58af86c54c809f702e5ef542f772de</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DGmKs8H3fOY/R4N3f39q1QI/AAAAAAAACFM/itOBrj8vEJ4/CA380069.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DGmKs8H3fOY/R4N3f39q1QI/AAAAAAAACFM/itOBrj8vEJ4/s72/CA380069.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DGmKs8H3fOY/R4N3f39q1QI/AAAAAAAACFM/itOBrj8vEJ4/s144/CA380069.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DGmKs8H3fOY/R4N3f39q1QI/AAAAAAAACFM/itOBrj8vEJ4/s288/CA380069.JPG" height="216" width="288"/>
+      <media:title type="plain">CA380069.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

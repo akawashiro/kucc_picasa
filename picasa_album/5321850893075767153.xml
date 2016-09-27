@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/over.the.night.sky/albumid/5321850893075767153</id>
+  <updated>2013-05-12T13:27:51.309Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">20081224135629</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-RJDFDHTcgtI/SdsDMN1gX3E/AAAAAAAAAgQ/zH4hoF8Q4Fc/s160-c/20081224135629.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/over.the.night.sky/albumid/5321850893075767153"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/over.the.night.sky/20081224135629"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/over.the.night.sky/albumid/5321850893075767153?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=over.the.night.sky&amp;aid=5321850893075767153"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/over.the.night.sky/albumid/5321850893075767153?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>ゆかにゃん</name>
+    <uri>https://picasaweb.google.com/over.the.night.sky</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5321850893075767153</gphoto:id>
+  <gphoto:name>20081224135629</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1230019200000</gphoto:timestamp>
+  <gphoto:numphotos>1</gphoto:numphotos>
+  <gphoto:user>over.the.night.sky</gphoto:user>
+  <gphoto:nickname>ゆかにゃん</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/over.the.night.sky/albumid/5321850893075767153/photoid/5321850899604719570</id>
+    <published>2009-04-07T07:39:30.000Z</published>
+    <updated>2013-05-12T13:27:51.309Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">仙丈ヶ岳.jpg</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-tzlqUsTD5HA/SdsDMmKIR9I/AAAAAAAAAgM/uM1FE7AmWno/%2525E4%2525BB%252599%2525E4%2525B8%252588%2525E3%252583%2525B6%2525E5%2525B2%2525B3.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/over.the.night.sky/albumid/5321850893075767153/photoid/5321850899604719570"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/over.the.night.sky/20081224135629#5321850899604719570"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fIfJO33lJsmbrhCFj7prrtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/over.the.night.sky/albumid/5321850893075767153/photoid/5321850899604719570"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=over.the.night.sky&amp;aid=5321850893075767153&amp;iid=5321850899604719570"/>
+    <gphoto:id>5321850899604719570</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5321850893075767153</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>185</gphoto:height>
+    <gphoto:size>54171</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>4a453fec</gphoto:checksum>
+    <gphoto:timestamp>1230094601000</gphoto:timestamp>
+    <gphoto:imageVersion>515</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:imageUniqueID>ccf6dc9f2d6fba9dbc334ce4369c6f12</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tzlqUsTD5HA/SdsDMmKIR9I/AAAAAAAAAgM/uM1FE7AmWno/%2525E4%2525BB%252599%2525E4%2525B8%252588%2525E3%252583%2525B6%2525E5%2525B2%2525B3.jpg" height="60" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ゆかにゃん</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tzlqUsTD5HA/SdsDMmKIR9I/AAAAAAAAAgM/uM1FE7AmWno/s72/%2525E4%2525BB%252599%2525E4%2525B8%252588%2525E3%252583%2525B6%2525E5%2525B2%2525B3.jpg" height="9" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tzlqUsTD5HA/SdsDMmKIR9I/AAAAAAAAAgM/uM1FE7AmWno/s144/%2525E4%2525BB%252599%2525E4%2525B8%252588%2525E3%252583%2525B6%2525E5%2525B2%2525B3.jpg" height="17" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tzlqUsTD5HA/SdsDMmKIR9I/AAAAAAAAAgM/uM1FE7AmWno/s288/%2525E4%2525BB%252599%2525E4%2525B8%252588%2525E3%252583%2525B6%2525E5%2525B2%2525B3.jpg" height="34" width="288"/>
+      <media:title type="plain">仙丈ヶ岳.jpg</media:title>
+    </media:group>
+  </entry>
+</feed>

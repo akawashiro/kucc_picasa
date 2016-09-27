@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017</id>
+  <updated>2014-08-17T13:40:23.676Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2014/08/17</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-pfOD-v809So/U--OkbSScnE/AAAAAAAALLw/l6ZO7A5ZS4Y/s160-c/20140817.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109810150729587520469/20140817"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=109810150729587520469&amp;aid=6048209581032764017"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>米谷拓哉</name>
+    <uri>https://picasaweb.google.com/109810150729587520469</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>3</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6048209581032764017</gphoto:id>
+  <gphoto:name>20140817</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1408208528000</gphoto:timestamp>
+  <gphoto:numphotos>3</gphoto:numphotos>
+  <gphoto:user>109810150729587520469</gphoto:user>
+  <gphoto:nickname>米谷拓哉</gphoto:nickname>
+  <gphoto:albumType>Buzz</gphoto:albumType>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575696717826</id>
+    <published>2014-08-16T17:02:08.000Z</published>
+    <updated>2014-08-17T01:39:07.862Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">17 - 1</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BInLiggDpnI/U--OkHaE2AI/AAAAAAAALLw/m99Hg4r1Dww/17%252520-%2525201.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575696717826"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109810150729587520469/20140817#6048209575696717826"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HA8w6N1-l2QwMzA3ICxqg9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575696717826"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=109810150729587520469&amp;aid=6048209581032764017&amp;iid=6048209575696717826"/>
+    <gphoto:id>6048209575696717826</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6048209581032764017</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2448</gphoto:width>
+    <gphoto:height>3264</gphoto:height>
+    <gphoto:size>1934304</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408208528000</gphoto:timestamp>
+    <gphoto:imageVersion>11452</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>cs_01_6ec3f484edf49f88f5995af04faf2dae</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1408215285000</exif:time>
+      <exif:imageUniqueID>f7e3310788ca3f140000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BInLiggDpnI/U--OkHaE2AI/AAAAAAAALLw/m99Hg4r1Dww/17%252520-%2525201.jpg" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>米谷拓哉</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BInLiggDpnI/U--OkHaE2AI/AAAAAAAALLw/m99Hg4r1Dww/s72/17%252520-%2525201.jpg" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BInLiggDpnI/U--OkHaE2AI/AAAAAAAALLw/m99Hg4r1Dww/s144/17%252520-%2525201.jpg" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BInLiggDpnI/U--OkHaE2AI/AAAAAAAALLw/m99Hg4r1Dww/s288/17%252520-%2525201.jpg" height="288" width="216"/>
+      <media:title type="plain">17 - 1</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209573976042306</id>
+    <published>2014-08-16T17:02:08.000Z</published>
+    <updated>2014-08-16T17:10:31.606Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">17 - 2</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bh_yKgPFE-w/U--OkA_1a0I/AAAAAAAAKrU/bzvtfCQ08sU/17%252520-%2525202.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209573976042306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109810150729587520469/20140817#6048209573976042306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bdwFAKRHJ5YjRKcSWLPOJNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209573976042306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=109810150729587520469&amp;aid=6048209581032764017&amp;iid=6048209573976042306"/>
+    <gphoto:id>6048209573976042306</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>6048209581032764017</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2448</gphoto:width>
+    <gphoto:height>3264</gphoto:height>
+    <gphoto:size>2808575</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408208528000</gphoto:timestamp>
+    <gphoto:imageVersion>10933</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>cs_01_fbb2ee30f1e64689cce42b394b61aa8f</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>40</exif:iso>
+      <exif:time>1408215290000</exif:time>
+      <exif:imageUniqueID>3992903a998ed9ac0000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bh_yKgPFE-w/U--OkA_1a0I/AAAAAAAAKrU/bzvtfCQ08sU/17%252520-%2525202.jpg" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>米谷拓哉</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bh_yKgPFE-w/U--OkA_1a0I/AAAAAAAAKrU/bzvtfCQ08sU/s72/17%252520-%2525202.jpg" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bh_yKgPFE-w/U--OkA_1a0I/AAAAAAAAKrU/bzvtfCQ08sU/s144/17%252520-%2525202.jpg" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bh_yKgPFE-w/U--OkA_1a0I/AAAAAAAAKrU/bzvtfCQ08sU/s288/17%252520-%2525202.jpg" height="288" width="216"/>
+      <media:title type="plain">17 - 2</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575385103666</id>
+    <published>2014-08-16T17:02:08.000Z</published>
+    <updated>2014-08-16T17:11:41.782Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">17 - 3</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3dmnoDbb1Ko/U--OkGPx_TI/AAAAAAAAKrg/fkS1caC9L2c/17%252520-%2525203.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575385103666"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/109810150729587520469/20140817#6048209575385103666"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/g5CRUshJUwAWxEIlYqyX69MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/109810150729587520469/albumid/6048209581032764017/photoid/6048209575385103666"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=109810150729587520469&amp;aid=6048209581032764017&amp;iid=6048209575385103666"/>
+    <gphoto:id>6048209575385103666</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>6048209581032764017</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2448</gphoto:width>
+    <gphoto:height>3264</gphoto:height>
+    <gphoto:size>2901926</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408208528000</gphoto:timestamp>
+    <gphoto:imageVersion>10936</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>cs_01_aa660e3679bed7eeeec9789d8051c1ac</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>40</exif:iso>
+      <exif:time>1408215296000</exif:time>
+      <exif:imageUniqueID>c372d9e4267726240000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3dmnoDbb1Ko/U--OkGPx_TI/AAAAAAAAKrg/fkS1caC9L2c/17%252520-%2525203.jpg" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>米谷拓哉</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3dmnoDbb1Ko/U--OkGPx_TI/AAAAAAAAKrg/fkS1caC9L2c/s72/17%252520-%2525203.jpg" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3dmnoDbb1Ko/U--OkGPx_TI/AAAAAAAAKrg/fkS1caC9L2c/s144/17%252520-%2525203.jpg" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3dmnoDbb1Ko/U--OkGPx_TI/AAAAAAAAKrg/fkS1caC9L2c/s288/17%252520-%2525203.jpg" height="288" width="216"/>
+      <media:title type="plain">17 - 3</media:title>
+    </media:group>
+  </entry>
+</feed>

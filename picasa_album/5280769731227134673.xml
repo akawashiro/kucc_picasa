@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673</id>
+  <updated>2013-05-12T08:51:14.208Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">大文字カフェ</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-V7AMpV9JKq4/SUkQF4JtqtE/AAAAAAAAEOo/L7dH067Urik/s160-c/NCCAuE.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kucc</name>
+    <uri>https://picasaweb.google.com/kucc.photo.2008</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>10</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5280769731227134673</gphoto:id>
+  <gphoto:name>NCCAuE</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1226587227000</gphoto:timestamp>
+  <gphoto:numphotos>10</gphoto:numphotos>
+  <gphoto:user>kucc.photo.2008</gphoto:user>
+  <gphoto:nickname>kucc</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769750124455666</id>
+    <published>2008-12-17T14:43:39.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1047.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3UJjIm8tjTY/SUkQG-jL5vI/AAAAAAAAENY/7AMTvjSCRSo/IMG_1047.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769750124455666"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769750124455666"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bXkPBBd8jsYv5Nk-UV_eCdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769750124455666"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769750124455666"/>
+    <gphoto:id>5280769750124455666</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16437261E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1138</gphoto:height>
+    <gphoto:size>185077</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7bbee88</gphoto:checksum>
+    <gphoto:timestamp>1226593135000</gphoto:timestamp>
+    <gphoto:imageVersion>4310</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226593135000</exif:time>
+      <exif:imageUniqueID>1236fc80a435f5b4e573c58a90a4d3e7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3UJjIm8tjTY/SUkQG-jL5vI/AAAAAAAAENY/7AMTvjSCRSo/IMG_1047.JPG" height="365" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3UJjIm8tjTY/SUkQG-jL5vI/AAAAAAAAENY/7AMTvjSCRSo/s72/IMG_1047.JPG" height="52" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3UJjIm8tjTY/SUkQG-jL5vI/AAAAAAAAENY/7AMTvjSCRSo/s144/IMG_1047.JPG" height="103" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3UJjIm8tjTY/SUkQG-jL5vI/AAAAAAAAENY/7AMTvjSCRSo/s288/IMG_1047.JPG" height="205" width="288"/>
+      <media:title type="plain">IMG_1047.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769757200709906</id>
+    <published>2008-12-17T14:43:41.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1048.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-P7Fd-j5UCrg/SUkQHY6S-RI/AAAAAAAAENg/EejAoekM4nA/IMG_1048.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769757200709906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769757200709906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/iXMUpXiYghRIJJ6pfrUsSNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769757200709906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769757200709906"/>
+    <gphoto:id>5280769757200709906</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16437504E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1138</gphoto:height>
+    <gphoto:size>197298</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ddef3ec1</gphoto:checksum>
+    <gphoto:timestamp>1226593142000</gphoto:timestamp>
+    <gphoto:imageVersion>4312</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226593142000</exif:time>
+      <exif:imageUniqueID>229104a0ece67010de41b56d52642423</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P7Fd-j5UCrg/SUkQHY6S-RI/AAAAAAAAENg/EejAoekM4nA/IMG_1048.JPG" height="365" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P7Fd-j5UCrg/SUkQHY6S-RI/AAAAAAAAENg/EejAoekM4nA/s72/IMG_1048.JPG" height="52" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P7Fd-j5UCrg/SUkQHY6S-RI/AAAAAAAAENg/EejAoekM4nA/s144/IMG_1048.JPG" height="103" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P7Fd-j5UCrg/SUkQHY6S-RI/AAAAAAAAENg/EejAoekM4nA/s288/IMG_1048.JPG" height="205" width="288"/>
+      <media:title type="plain">IMG_1048.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769766527162978</id>
+    <published>2008-12-17T14:43:43.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1053.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-l2PoSEMAtQA/SUkQH7p5WmI/AAAAAAAAENo/qjjfurrn_rA/IMG_1053.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769766527162978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769766527162978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9XEYOG519Kkdc5yNjkiOBdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769766527162978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769766527162978"/>
+    <gphoto:id>5280769766527162978</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16437747E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1277</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>140189</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e3037d49</gphoto:checksum>
+    <gphoto:timestamp>1226593954000</gphoto:timestamp>
+    <gphoto:imageVersion>4314</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226593954000</exif:time>
+      <exif:imageUniqueID>507e4322a7f6b92c097404c4dddf21ca</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-l2PoSEMAtQA/SUkQH7p5WmI/AAAAAAAAENo/qjjfurrn_rA/IMG_1053.JPG" height="512" width="409" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2PoSEMAtQA/SUkQH7p5WmI/AAAAAAAAENo/qjjfurrn_rA/s72/IMG_1053.JPG" height="72" width="58"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2PoSEMAtQA/SUkQH7p5WmI/AAAAAAAAENo/qjjfurrn_rA/s144/IMG_1053.JPG" height="144" width="115"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-l2PoSEMAtQA/SUkQH7p5WmI/AAAAAAAAENo/qjjfurrn_rA/s288/IMG_1053.JPG" height="288" width="230"/>
+      <media:title type="plain">IMG_1053.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769774153717906</id>
+    <published>2008-12-17T14:43:45.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1056.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-JfUSBlTidos/SUkQIYENWJI/AAAAAAAAENw/QJAFX0VIfqM/IMG_1056.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769774153717906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769774153717906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/o54CvxTURhJQvHpa5A9Se9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769774153717906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769774153717906"/>
+    <gphoto:id>5280769774153717906</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16437875E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1099</gphoto:height>
+    <gphoto:size>97289</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b9451959</gphoto:checksum>
+    <gphoto:timestamp>1226594438000</gphoto:timestamp>
+    <gphoto:imageVersion>4316</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226594438000</exif:time>
+      <exif:imageUniqueID>ab2f3a1651fec8ab334b7b1570bdd493</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-JfUSBlTidos/SUkQIYENWJI/AAAAAAAAENw/QJAFX0VIfqM/IMG_1056.JPG" height="352" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JfUSBlTidos/SUkQIYENWJI/AAAAAAAAENw/QJAFX0VIfqM/s72/IMG_1056.JPG" height="50" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JfUSBlTidos/SUkQIYENWJI/AAAAAAAAENw/QJAFX0VIfqM/s144/IMG_1056.JPG" height="99" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JfUSBlTidos/SUkQIYENWJI/AAAAAAAAENw/QJAFX0VIfqM/s288/IMG_1056.JPG" height="198" width="288"/>
+      <media:title type="plain">IMG_1056.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769795004064546</id>
+    <published>2008-12-17T14:43:50.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1058.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AOnIJofzlic/SUkQJlvUYyI/AAAAAAAAEN4/gSvN5EmqR78/IMG_1058.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769795004064546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769795004064546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Xzi59gUraI4esOpaBJ-ul9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769795004064546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769795004064546"/>
+    <gphoto:id>5280769795004064546</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16438451E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1232</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>345176</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>11e89b47</gphoto:checksum>
+    <gphoto:timestamp>1226594697000</gphoto:timestamp>
+    <gphoto:imageVersion>4318</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226594697000</exif:time>
+      <exif:imageUniqueID>7d56172435a8b4e4a42477f5cf43eee0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AOnIJofzlic/SUkQJlvUYyI/AAAAAAAAEN4/gSvN5EmqR78/IMG_1058.JPG" height="512" width="395" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOnIJofzlic/SUkQJlvUYyI/AAAAAAAAEN4/gSvN5EmqR78/s72/IMG_1058.JPG" height="72" width="56"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOnIJofzlic/SUkQJlvUYyI/AAAAAAAAEN4/gSvN5EmqR78/s144/IMG_1058.JPG" height="144" width="111"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOnIJofzlic/SUkQJlvUYyI/AAAAAAAAEN4/gSvN5EmqR78/s288/IMG_1058.JPG" height="288" width="222"/>
+      <media:title type="plain">IMG_1058.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769807147768146</id>
+    <published>2008-12-17T14:43:53.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1060.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Qpp_DjlheVE/SUkQKS-mmVI/AAAAAAAAEOA/BtK3cRQVbXw/IMG_1060.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769807147768146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769807147768146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/He5mmBDhMMt5p9tRHqlmp9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769807147768146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769807147768146"/>
+    <gphoto:id>5280769807147768146</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16438784E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1241</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>221759</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>13d2e379</gphoto:checksum>
+    <gphoto:timestamp>1226594862000</gphoto:timestamp>
+    <gphoto:imageVersion>4320</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226594862000</exif:time>
+      <exif:imageUniqueID>d8bf2bcd4c1e891c1322e35ef28aab6c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Qpp_DjlheVE/SUkQKS-mmVI/AAAAAAAAEOA/BtK3cRQVbXw/IMG_1060.JPG" height="512" width="398" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qpp_DjlheVE/SUkQKS-mmVI/AAAAAAAAEOA/BtK3cRQVbXw/s72/IMG_1060.JPG" height="72" width="56"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qpp_DjlheVE/SUkQKS-mmVI/AAAAAAAAEOA/BtK3cRQVbXw/s144/IMG_1060.JPG" height="144" width="112"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qpp_DjlheVE/SUkQKS-mmVI/AAAAAAAAEOA/BtK3cRQVbXw/s288/IMG_1060.JPG" height="288" width="224"/>
+      <media:title type="plain">IMG_1060.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769819194974770</id>
+    <published>2008-12-17T14:43:55.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1061.JPG</title>
+    <summary type="text">日が沈む</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-N89lrXMWksQ/SUkQK_24YjI/AAAAAAAAEOI/yZcKHcPO-0Q/IMG_1061.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769819194974770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769819194974770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gzSwylqzPW0f7pMbm9tvLtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769819194974770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769819194974770"/>
+    <gphoto:id>5280769819194974770</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.1643904E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1158</gphoto:height>
+    <gphoto:size>106339</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>e727550f</gphoto:checksum>
+    <gphoto:timestamp>1226595046000</gphoto:timestamp>
+    <gphoto:imageVersion>4322</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1226595046000</exif:time>
+      <exif:imageUniqueID>565fe9982ac31fc5e20666761d3a05e2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-N89lrXMWksQ/SUkQK_24YjI/AAAAAAAAEOI/yZcKHcPO-0Q/IMG_1061.JPG" height="371" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain">日が沈む</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-N89lrXMWksQ/SUkQK_24YjI/AAAAAAAAEOI/yZcKHcPO-0Q/s72/IMG_1061.JPG" height="53" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-N89lrXMWksQ/SUkQK_24YjI/AAAAAAAAEOI/yZcKHcPO-0Q/s144/IMG_1061.JPG" height="105" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-N89lrXMWksQ/SUkQK_24YjI/AAAAAAAAEOI/yZcKHcPO-0Q/s288/IMG_1061.JPG" height="209" width="288"/>
+      <media:title type="plain">IMG_1061.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769840428355250</id>
+    <published>2008-12-17T14:44:00.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1068.JPG</title>
+    <summary type="text">お疲れさまです</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-KNDqH-Z5Q28/SUkQMO9UDrI/AAAAAAAAEOQ/qC2pg3cp-eI/IMG_1068.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769840428355250"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769840428355250"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/m7kdoAn9nIHJHk6agLr0bdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769840428355250"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769840428355250"/>
+    <gphoto:id>5280769840428355250</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16439386E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1197</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>340037</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8730523e</gphoto:checksum>
+    <gphoto:timestamp>1226595367000</gphoto:timestamp>
+    <gphoto:imageVersion>4324</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1226595367000</exif:time>
+      <exif:imageUniqueID>a6c7d58541b0927182328869e238a102</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KNDqH-Z5Q28/SUkQMO9UDrI/AAAAAAAAEOQ/qC2pg3cp-eI/IMG_1068.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain">お疲れさまです</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KNDqH-Z5Q28/SUkQMO9UDrI/AAAAAAAAEOQ/qC2pg3cp-eI/s72/IMG_1068.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KNDqH-Z5Q28/SUkQMO9UDrI/AAAAAAAAEOQ/qC2pg3cp-eI/s144/IMG_1068.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KNDqH-Z5Q28/SUkQMO9UDrI/AAAAAAAAEOQ/qC2pg3cp-eI/s288/IMG_1068.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_1068.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769849723446146</id>
+    <published>2008-12-17T14:44:03.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1071.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ktEebBH4XUA/SUkQMxlb44I/AAAAAAAAEOY/Ult32__ugMw/IMG_1071.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769849723446146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769849723446146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rcf2adG50qQqUOyEC3muwdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769849723446146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769849723446146"/>
+    <gphoto:id>5280769849723446146</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16439693E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1157</gphoto:height>
+    <gphoto:size>287152</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ebb0f50e</gphoto:checksum>
+    <gphoto:timestamp>1226597599000</gphoto:timestamp>
+    <gphoto:imageVersion>4326</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1226597599000</exif:time>
+      <exif:imageUniqueID>0ec5216385aaa955a7e85b11a1f4574a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ktEebBH4XUA/SUkQMxlb44I/AAAAAAAAEOY/Ult32__ugMw/IMG_1071.JPG" height="371" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ktEebBH4XUA/SUkQMxlb44I/AAAAAAAAEOY/Ult32__ugMw/s72/IMG_1071.JPG" height="53" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ktEebBH4XUA/SUkQMxlb44I/AAAAAAAAEOY/Ult32__ugMw/s144/IMG_1071.JPG" height="105" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ktEebBH4XUA/SUkQMxlb44I/AAAAAAAAEOY/Ult32__ugMw/s288/IMG_1071.JPG" height="209" width="288"/>
+      <media:title type="plain">IMG_1071.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769863707677746</id>
+    <published>2008-12-17T14:44:06.000Z</published>
+    <updated>2013-05-12T08:51:14.208Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_1073.JPG</title>
+    <summary type="text">鉄分メニュー</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6CO2N5Cie7E/SUkQNlriVDI/AAAAAAAAEOg/qtc7MJBSFD4/IMG_1073.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769863707677746"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2008/NCCAuE#5280769863707677746"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/xA7rd4dYT3De1AQcDfxgMNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2008/albumid/5280769731227134673/photoid/5280769863707677746"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2008&amp;aid=5280769731227134673&amp;iid=5280769863707677746"/>
+    <gphoto:id>5280769863707677746</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>1.16440026E9</gphoto:position>
+    <gphoto:albumid>5280769731227134673</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1178</gphoto:height>
+    <gphoto:size>310646</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d16485b</gphoto:checksum>
+    <gphoto:timestamp>1226597769000</gphoto:timestamp>
+    <gphoto:imageVersion>4328</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.6</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon PowerShot A570 IS</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1226597769000</exif:time>
+      <exif:imageUniqueID>1a2954aada23d25c60428560557f24be</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6CO2N5Cie7E/SUkQNlriVDI/AAAAAAAAEOg/qtc7MJBSFD4/IMG_1073.JPG" height="377" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kucc</media:credit>
+      <media:description type="plain">鉄分メニュー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6CO2N5Cie7E/SUkQNlriVDI/AAAAAAAAEOg/qtc7MJBSFD4/s72/IMG_1073.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6CO2N5Cie7E/SUkQNlriVDI/AAAAAAAAEOg/qtc7MJBSFD4/s144/IMG_1073.JPG" height="107" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6CO2N5Cie7E/SUkQNlriVDI/AAAAAAAAEOg/qtc7MJBSFD4/s288/IMG_1073.JPG" height="213" width="288"/>
+      <media:title type="plain">IMG_1073.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

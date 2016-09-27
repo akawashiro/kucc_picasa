@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985</id>
+  <updated>2015-03-09T22:45:27.375Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">10.1204 クラブラン(高雄・愛宕)</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-HD-B5a7NRBk/TPriIpyx2iE/AAAAAAAAHyk/gTiRiK67YUc/s160-c/101204.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>f Kawauchiya</name>
+    <uri>https://picasaweb.google.com/101432773461468347439</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>10</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5546994529345853985</gphoto:id>
+  <gphoto:name>101204</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1291363200000</gphoto:timestamp>
+  <gphoto:numphotos>10</gphoto:numphotos>
+  <gphoto:user>101432773461468347439</gphoto:user>
+  <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994540358908482</id>
+    <published>2010-12-05T00:51:49.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01263.JPG</title>
+    <summary type="text">高雄。トラックバンバン通ってた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Wm_t4gGO9DI/TPriJS0fukI/AAAAAAAABjo/EmGYuOkwUJ0/DSC01263.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994540358908482"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994540358908482"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Y1rf-UGeEXPpwReKFOg4UNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994540358908482"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994540358908482"/>
+    <gphoto:id>5546994540358908482</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>431817</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>553ec071</gphoto:checksum>
+    <gphoto:timestamp>1291458759000</gphoto:timestamp>
+    <gphoto:imageVersion>1594</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291458759000</exif:time>
+      <exif:imageUniqueID>10d3c36557d1bb715808dbf616ab4623</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Wm_t4gGO9DI/TPriJS0fukI/AAAAAAAABjo/EmGYuOkwUJ0/DSC01263.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">高雄。トラックバンバン通ってた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wm_t4gGO9DI/TPriJS0fukI/AAAAAAAABjo/EmGYuOkwUJ0/s72/DSC01263.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wm_t4gGO9DI/TPriJS0fukI/AAAAAAAABjo/EmGYuOkwUJ0/s144/DSC01263.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wm_t4gGO9DI/TPriJS0fukI/AAAAAAAABjo/EmGYuOkwUJ0/s288/DSC01263.JPG" height="288" width="216"/>
+      <media:title type="plain">DSC01263.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994582637896066</id>
+    <published>2010-12-05T00:51:59.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01264.JPG</title>
+    <summary type="text">道悪うー</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8LptBxwnnT0/TPriLwUl4YI/AAAAAAAABjs/WOlovUorZh8/DSC01264.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994582637896066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994582637896066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jVOvMzxUDfPMThudT5z189MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994582637896066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994582637896066"/>
+    <gphoto:id>5546994582637896066</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>599420</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>55fa4061</gphoto:checksum>
+    <gphoto:timestamp>1291460322000</gphoto:timestamp>
+    <gphoto:imageVersion>1595</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291460322000</exif:time>
+      <exif:imageUniqueID>2d11e9f1fae98084c8a33816c5024dde</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8LptBxwnnT0/TPriLwUl4YI/AAAAAAAABjs/WOlovUorZh8/DSC01264.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">道悪うー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8LptBxwnnT0/TPriLwUl4YI/AAAAAAAABjs/WOlovUorZh8/s72/DSC01264.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8LptBxwnnT0/TPriLwUl4YI/AAAAAAAABjs/WOlovUorZh8/s144/DSC01264.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8LptBxwnnT0/TPriLwUl4YI/AAAAAAAABjs/WOlovUorZh8/s288/DSC01264.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01264.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994616899044274</id>
+    <published>2010-12-05T00:52:06.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01265.JPG</title>
+    <summary type="text">つづら折れのところで見上げる</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hjnQaTJfPCs/TPriNv9Fg7I/AAAAAAAABjw/JfodoqOLP5o/DSC01265.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994616899044274"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994616899044274"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_7MD5N_jU0aGhjHRNjZJUtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994616899044274"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994616899044274"/>
+    <gphoto:id>5546994616899044274</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>452845</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>55fb4051</gphoto:checksum>
+    <gphoto:timestamp>1291460330000</gphoto:timestamp>
+    <gphoto:imageVersion>1596</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291460330000</exif:time>
+      <exif:imageUniqueID>4692cce39eb623410a18947628d6db03</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hjnQaTJfPCs/TPriNv9Fg7I/AAAAAAAABjw/JfodoqOLP5o/DSC01265.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">つづら折れのところで見上げる</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hjnQaTJfPCs/TPriNv9Fg7I/AAAAAAAABjw/JfodoqOLP5o/s72/DSC01265.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hjnQaTJfPCs/TPriNv9Fg7I/AAAAAAAABjw/JfodoqOLP5o/s144/DSC01265.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hjnQaTJfPCs/TPriNv9Fg7I/AAAAAAAABjw/JfodoqOLP5o/s288/DSC01265.JPG" height="288" width="216"/>
+      <media:title type="plain">DSC01265.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994644682361666</id>
+    <published>2010-12-05T00:52:13.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01266.JPG</title>
+    <summary type="text">つづら折れ撮ってもいいじゃん！(笑）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-219TABQDwrc/TPriPXdJS0I/AAAAAAAABj0/xeztrVJaiD8/DSC01266.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994644682361666"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994644682361666"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/23OekvCq74nlaBu7W5VC09MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994644682361666"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994644682361666"/>
+    <gphoto:id>5546994644682361666</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>693410</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>55f80071</gphoto:checksum>
+    <gphoto:timestamp>1291460337000</gphoto:timestamp>
+    <gphoto:imageVersion>1597</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1291460337000</exif:time>
+      <exif:imageUniqueID>79a2d38017a23cd971df784cc1cec069</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-219TABQDwrc/TPriPXdJS0I/AAAAAAAABj0/xeztrVJaiD8/DSC01266.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">つづら折れ撮ってもいいじゃん！(笑）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-219TABQDwrc/TPriPXdJS0I/AAAAAAAABj0/xeztrVJaiD8/s72/DSC01266.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-219TABQDwrc/TPriPXdJS0I/AAAAAAAABj0/xeztrVJaiD8/s144/DSC01266.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-219TABQDwrc/TPriPXdJS0I/AAAAAAAABj0/xeztrVJaiD8/s288/DSC01266.JPG" height="288" width="216"/>
+      <media:title type="plain">DSC01266.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994668882496162</id>
+    <published>2010-12-05T00:52:19.000Z</published>
+    <updated>2015-03-09T22:45:27.375Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01267.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NQVcJ6tI2cE/TPriQxm6CqI/AAAAAAAABj8/L1XfnjH3slg/DSC01267.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994668882496162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994668882496162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sl5oWo-cpOUdN6Azhw0_d9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994668882496162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994668882496162"/>
+    <gphoto:id>5546994668882496162</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>514764</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>56cb4061</gphoto:checksum>
+    <gphoto:timestamp>1291461994000</gphoto:timestamp>
+    <gphoto:imageVersion>1599</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291461994000</exif:time>
+      <exif:imageUniqueID>af94fc1ae0bd88bc02b6cb7f3c656151</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NQVcJ6tI2cE/TPriQxm6CqI/AAAAAAAABj8/L1XfnjH3slg/DSC01267.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NQVcJ6tI2cE/TPriQxm6CqI/AAAAAAAABj8/L1XfnjH3slg/s72/DSC01267.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NQVcJ6tI2cE/TPriQxm6CqI/AAAAAAAABj8/L1XfnjH3slg/s144/DSC01267.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NQVcJ6tI2cE/TPriQxm6CqI/AAAAAAAABj8/L1XfnjH3slg/s288/DSC01267.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01267.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994706098726866</id>
+    <published>2010-12-05T00:52:27.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01268.JPG</title>
+    <summary type="text">展望がよろしい</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-CiwBufM7pqU/TPriS8P8p9I/AAAAAAAABkA/fGb7oYwXJIU/DSC01268.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994706098726866"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994706098726866"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2kMuDF5EtY6LCnk2K1xk3dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994706098726866"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994706098726866"/>
+    <gphoto:id>5546994706098726866</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>185334</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>599ac061</gphoto:checksum>
+    <gphoto:timestamp>1291467750000</gphoto:timestamp>
+    <gphoto:imageVersion>1600</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291467750000</exif:time>
+      <exif:imageUniqueID>872987bbb25f4f0f8577625324082a86</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CiwBufM7pqU/TPriS8P8p9I/AAAAAAAABkA/fGb7oYwXJIU/DSC01268.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">展望がよろしい</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CiwBufM7pqU/TPriS8P8p9I/AAAAAAAABkA/fGb7oYwXJIU/s72/DSC01268.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CiwBufM7pqU/TPriS8P8p9I/AAAAAAAABkA/fGb7oYwXJIU/s144/DSC01268.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CiwBufM7pqU/TPriS8P8p9I/AAAAAAAABkA/fGb7oYwXJIU/s288/DSC01268.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01268.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994726185951138</id>
+    <published>2010-12-05T00:52:32.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01269.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FMaCF8NIHfs/TPriUHFHX6I/AAAAAAAABkE/FpGRYSK7WzU/DSC01269.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994726185951138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994726185951138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sPAGS4swbM7uBFVwRTpIX9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994726185951138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994726185951138"/>
+    <gphoto:id>5546994726185951138</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>318268</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>59d80061</gphoto:checksum>
+    <gphoto:timestamp>1291468273000</gphoto:timestamp>
+    <gphoto:imageVersion>1601</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291468273000</exif:time>
+      <exif:imageUniqueID>e8e8efd66b746e21b39981d9ba1673f6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FMaCF8NIHfs/TPriUHFHX6I/AAAAAAAABkE/FpGRYSK7WzU/DSC01269.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FMaCF8NIHfs/TPriUHFHX6I/AAAAAAAABkE/FpGRYSK7WzU/s72/DSC01269.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FMaCF8NIHfs/TPriUHFHX6I/AAAAAAAABkE/FpGRYSK7WzU/s144/DSC01269.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FMaCF8NIHfs/TPriUHFHX6I/AAAAAAAABkE/FpGRYSK7WzU/s288/DSC01269.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01269.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994757949665570</id>
+    <published>2010-12-05T00:52:39.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01270.JPG</title>
+    <summary type="text">神社の階段も担いでのぼろうとした水田さん</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-plVqFaWlnN8/TPriV9aLMSI/AAAAAAAABkI/V3wazelB2vo/DSC01270.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994757949665570"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994757949665570"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/q0hkAcGbLlNLN_iO7xScidMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994757949665570"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994757949665570"/>
+    <gphoto:id>5546994757949665570</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>594778</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>5a090071</gphoto:checksum>
+    <gphoto:timestamp>1291468664000</gphoto:timestamp>
+    <gphoto:imageVersion>1602</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291468664000</exif:time>
+      <exif:imageUniqueID>708771e330c48bd37798ffab5e33eda7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-plVqFaWlnN8/TPriV9aLMSI/AAAAAAAABkI/V3wazelB2vo/DSC01270.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">神社の階段も担いでのぼろうとした水田さん</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-plVqFaWlnN8/TPriV9aLMSI/AAAAAAAABkI/V3wazelB2vo/s72/DSC01270.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-plVqFaWlnN8/TPriV9aLMSI/AAAAAAAABkI/V3wazelB2vo/s144/DSC01270.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-plVqFaWlnN8/TPriV9aLMSI/AAAAAAAABkI/V3wazelB2vo/s288/DSC01270.JPG" height="288" width="216"/>
+      <media:title type="plain">DSC01270.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994781722264066</id>
+    <published>2010-12-05T00:52:45.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01272.JPG</title>
+    <summary type="text">前のver.を記念に撮影。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-owFIRvPrEIk/TPriXV-AQgI/AAAAAAAABkM/-zogTatWFRc/DSC01272.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994781722264066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994781722264066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/a35bjhq9gZutxM6d3faJ1NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994781722264066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994781722264066"/>
+    <gphoto:id>5546994781722264066</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>311274</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>66b6c061</gphoto:checksum>
+    <gphoto:timestamp>1291494534000</gphoto:timestamp>
+    <gphoto:imageVersion>1603</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.18</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1291494534000</exif:time>
+      <exif:imageUniqueID>42ecd47be5911f96dea1d2f9277f400b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-owFIRvPrEIk/TPriXV-AQgI/AAAAAAAABkM/-zogTatWFRc/DSC01272.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">前のver.を記念に撮影。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-owFIRvPrEIk/TPriXV-AQgI/AAAAAAAABkM/-zogTatWFRc/s72/DSC01272.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-owFIRvPrEIk/TPriXV-AQgI/AAAAAAAABkM/-zogTatWFRc/s144/DSC01272.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-owFIRvPrEIk/TPriXV-AQgI/AAAAAAAABkM/-zogTatWFRc/s288/DSC01272.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01272.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994801980043938</id>
+    <published>2010-12-05T00:52:50.000Z</published>
+    <updated>2013-05-11T18:40:17.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSC01273.JPG</title>
+    <summary type="text">5人で4時間かけてつくった！</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ItauBjVySgk/TPriYhb1cqI/AAAAAAAABkQ/JyH14MQvcfg/DSC01273.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994801980043938"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204#5546994801980043938"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/k0M13uFVhyctW9p1gCp18tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985/photoid/5546994801980043938"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5546994529345853985&amp;iid=5546994801980043938"/>
+    <gphoto:id>5546994801980043938</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5546994529345853985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>357927</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>692a4061</gphoto:checksum>
+    <gphoto:timestamp>1291499618000</gphoto:timestamp>
+    <gphoto:imageVersion>1604</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>SONY</exif:make>
+      <exif:model>DSC-TX1</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.49</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1291499618000</exif:time>
+      <exif:imageUniqueID>57def4f35ea407d84fb65ed45596db69</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ItauBjVySgk/TPriYhb1cqI/AAAAAAAABkQ/JyH14MQvcfg/DSC01273.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">5人で4時間かけてつくった！</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ItauBjVySgk/TPriYhb1cqI/AAAAAAAABkQ/JyH14MQvcfg/s72/DSC01273.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ItauBjVySgk/TPriYhb1cqI/AAAAAAAABkQ/JyH14MQvcfg/s144/DSC01273.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ItauBjVySgk/TPriYhb1cqI/AAAAAAAABkQ/JyH14MQvcfg/s288/DSC01273.JPG" height="216" width="288"/>
+      <media:title type="plain">DSC01273.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

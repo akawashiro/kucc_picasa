@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/hanaaai</id>
+  <updated>2015-10-14T06:13:33.663Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">108889195101870772533</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-EB5NC_sO8iw/AAAAAAAAAAI/AAAAAAAAAAA/7Lb04aveD7k/s64-c/108889195101870772533.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/108889195101870772533?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>fanakemu</name>
+    <uri>https://picasaweb.google.com/108889195101870772533</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>28</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>108889195101870772533</gphoto:user>
+  <gphoto:nickname>fanakemu</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-EB5NC_sO8iw/AAAAAAAAAAI/AAAAAAAAAAA/7Lb04aveD7k/s64-c/108889195101870772533.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6155138112318494385</id>
+    <published>2015-05-29T19:09:51.000Z</published>
+    <updated>2015-05-31T21:06:13.453Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">150531尾瀬</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/6155138112318494385"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/150531"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6155138112318494385"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>6155138112318494385</gphoto:id>
+    <gphoto:name>150531</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1432926591000</gphoto:timestamp>
+    <gphoto:numphotos>84</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Lyr0YwHUNmY/VWtxgHg2VrE/AAAAAAAAMiU/3EZ5OLW98Fc/150531.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Lyr0YwHUNmY/VWtxgHg2VrE/AAAAAAAAMiU/3EZ5OLW98Fc/s160-c/150531.jpg" height="160" width="160"/>
+      <media:title type="plain">150531尾瀬</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6089105303603026385</id>
+    <published>2014-12-04T21:58:28.000Z</published>
+    <updated>2014-12-04T22:19:03.647Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/6089105303603026385"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6089105303603026385"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>6089105303603026385</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1417730308000</gphoto:timestamp>
+    <gphoto:numphotos>1</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cQWUgNLy8Kc/VIDZAx00mdE/AAAAAAAAMS4/S8GbdJtBAKQ/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cQWUgNLy8Kc/VIDZAx00mdE/AAAAAAAAMS4/S8GbdJtBAKQ/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6086804903176023825</id>
+    <published>2014-11-22T02:44:19.000Z</published>
+    <updated>2014-11-29T00:01:10.122Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">141123-24 DEEPな北山遊び in 廃村八丁</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/6086804903176023825"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/14112324DEEPIn"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6086804903176023825"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>6086804903176023825</gphoto:id>
+    <gphoto:name>14112324DEEPIn</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1416624259000</gphoto:timestamp>
+    <gphoto:numphotos>74</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zJ4h_nF8C2o/VHisz2bprxE/AAAAAAAAMRs/HvD0Em0qc1Y/14112324DEEPIn.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zJ4h_nF8C2o/VHisz2bprxE/AAAAAAAAMRs/HvD0Em0qc1Y/s160-c/14112324DEEPIn.jpg" height="160" width="160"/>
+      <media:title type="plain">141123-24 DEEPな北山遊び in 廃村八丁</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6069992220656908385</id>
+    <published>2014-10-10T21:44:30.000Z</published>
+    <updated>2014-10-14T20:45:05.840Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">141011-12 台風来る前に涸沢で生BEER飲む会</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/6069992220656908385"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/14101112BEER"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6069992220656908385"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>6069992220656908385</gphoto:id>
+    <gphoto:name>14101112BEER</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1412977470000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Pg6sX7YGa-Q/VDzxw7WjuGE/AAAAAAAAMGk/WDGXcCW2La8/14101112BEER.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Pg6sX7YGa-Q/VDzxw7WjuGE/AAAAAAAAMGk/WDGXcCW2La8/s160-c/14101112BEER.jpg" height="160" width="160"/>
+      <media:title type="plain">141011-12 台風来る前に涸沢で生BEER飲む会</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6063529181956542721</id>
+    <published>2014-09-18T09:27:19.000Z</published>
+    <updated>2014-09-27T01:35:38.899Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">140918野反湖～日光</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/6063529181956542721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/14091802"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/6063529181956542721"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>6063529181956542721</gphoto:id>
+    <gphoto:name>14091802</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1411032439000</gphoto:timestamp>
+    <gphoto:numphotos>84</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-o2vz6MEiD8s/VCX7qj-8EQE/AAAAAAAALw4/QQwUGHfLgkk/14091802.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-o2vz6MEiD8s/VCX7qj-8EQE/AAAAAAAALw4/QQwUGHfLgkk/s160-c/14091802.jpg" height="160" width="160"/>
+      <media:title type="plain">140918野反湖～日光</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5984732905249860929</id>
+    <published>2014-02-27T08:00:00.000Z</published>
+    <updated>2014-02-26T21:43:03.483Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">140208八重山諸島</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5984732905249860929"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/140208"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5984732905249860929"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5984732905249860929</gphoto:id>
+    <gphoto:name>140208</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1393488000000</gphoto:timestamp>
+    <gphoto:numphotos>156</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qlO87_0gKoU/Uw4K3m0CbUE/AAAAAAAALS4/02gfQrP5Fao/140208.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qlO87_0gKoU/Uw4K3m0CbUE/AAAAAAAALS4/02gfQrP5Fao/s160-c/140208.jpg" height="160" width="160"/>
+      <media:title type="plain">140208八重山諸島</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5953653372758865969</id>
+    <published>2013-11-30T23:18:12.000Z</published>
+    <updated>2013-12-07T00:33:09.127Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20131201鳳来寺山～宇連山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5953653372758865969"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20131201"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5953653372758865969"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5953653372758865969</gphoto:id>
+    <gphoto:name>20131201</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385853492000</gphoto:timestamp>
+    <gphoto:numphotos>92</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-65XBcTwAUc4/Up-gMt8ZODE/AAAAAAAAMHM/sr35h5alIwQ/20131201.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-65XBcTwAUc4/Up-gMt8ZODE/AAAAAAAAMHM/sr35h5alIwQ/s160-c/20131201.jpg" height="160" width="160"/>
+      <media:title type="plain">20131201鳳来寺山～宇連山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5950186396799781153</id>
+    <published>2013-11-25T12:40:04.000Z</published>
+    <updated>2013-12-07T00:24:11.764Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">25.11.23 OBラン＋</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5950186396799781153"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/251123OB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5950186396799781153"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5950186396799781153</gphoto:id>
+    <gphoto:name>251123OB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385383204000</gphoto:timestamp>
+    <gphoto:numphotos>95</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KL6KqZ_RWrE/UpNPAKCcySE/AAAAAAAALaI/p57gFOqUZZ8/251123OB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KL6KqZ_RWrE/UpNPAKCcySE/AAAAAAAALaI/p57gFOqUZZ8/s160-c/251123OB.jpg" height="160" width="160"/>
+      <media:title type="plain">25.11.23 OBラン＋</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5793887942341087265</id>
+    <published>2012-09-28T12:44:49.000Z</published>
+    <updated>2013-05-09T23:07:06.897Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120929TQR</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5793887942341087265"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20120929TQR"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5793887942341087265"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5793887942341087265</gphoto:id>
+    <gphoto:name>20120929TQR</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1348836289000</gphoto:timestamp>
+    <gphoto:numphotos>100</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HCtfdDcBFKs/UGgGYt-o0CE/AAAAAAAAKGc/BucWegxjmQk/20120929TQR.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HCtfdDcBFKs/UGgGYt-o0CE/AAAAAAAAKGc/BucWegxjmQk/s160-c/20120929TQR.jpg" height="160" width="160"/>
+      <media:title type="plain">20120929TQR</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5737459786597629537</id>
+    <published>2012-04-28T01:52:13.000Z</published>
+    <updated>2013-05-09T23:07:04.898Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120428GW北信州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5737459786597629537"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20120428GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5737459786597629537"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5737459786597629537</gphoto:id>
+    <gphoto:name>20120428GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1335577933000</gphoto:timestamp>
+    <gphoto:numphotos>213</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZTdcsJBOAeM/T5-NRw09fmE/AAAAAAAAJ5k/0S_bqrglPjY/20120428GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZTdcsJBOAeM/T5-NRw09fmE/AAAAAAAAJ5k/0S_bqrglPjY/s160-c/20120428GW.jpg" height="160" width="160"/>
+      <media:title type="plain">20120428GW北信州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5729071159880020209</id>
+    <published>2012-03-22T22:00:27.000Z</published>
+    <updated>2013-05-09T23:07:02.898Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120326春合宿＠瀬戸内</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5729071159880020209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20120326"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5729071159880020209"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5729071159880020209</gphoto:id>
+    <gphoto:name>20120326</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1332453627000</gphoto:timestamp>
+    <gphoto:numphotos>53</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ejfCYQHcdos/T4G_3bGVcPE/AAAAAAAAJbc/gnDaTzJH9gA/20120326.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ejfCYQHcdos/T4G_3bGVcPE/AAAAAAAAJbc/gnDaTzJH9gA/s160-c/20120326.jpg" height="160" width="160"/>
+      <media:title type="plain">20120326春合宿＠瀬戸内</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5708415903339246129</id>
+    <published>2012-02-09T08:00:00.000Z</published>
+    <updated>2013-05-09T23:07:00.898Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">南紀ツアー, 2012.02</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5708415903339246129"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/201202"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5708415903339246129"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5708415903339246129</gphoto:id>
+    <gphoto:name>201202</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1328774400000</gphoto:timestamp>
+    <gphoto:numphotos>125</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mbbr01dQHcE/TzheBQS58jE/AAAAAAAAK6s/4g810A3aqrg/201202.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mbbr01dQHcE/TzheBQS58jE/AAAAAAAAK6s/4g810A3aqrg/s160-c/201202.jpg" height="160" width="160"/>
+      <media:title type="plain">南紀ツアー, 2012.02</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5649222059649494001</id>
+    <published>2011-08-17T07:00:00.000Z</published>
+    <updated>2013-05-11T20:51:40.608Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">たぶん夏合宿本田班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5649222059649494001"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/USoZlH"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5649222059649494001"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5649222059649494001</gphoto:id>
+    <gphoto:name>USoZlH</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1313564400000</gphoto:timestamp>
+    <gphoto:numphotos>45</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tn5cA0px9FI/TmYRiEq1a_E/AAAAAAAAI10/7O4Y03aNljo/USoZlH.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tn5cA0px9FI/TmYRiEq1a_E/AAAAAAAAI10/7O4Y03aNljo/s160-c/USoZlH.jpg" height="160" width="160"/>
+      <media:title type="plain">たぶん夏合宿本田班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5516242104340509233</id>
+    <published>2010-09-08T19:58:51.000Z</published>
+    <updated>2013-05-11T20:51:38.608Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">匹見峡～大仙</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5516242104340509233"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/pFmnlJ"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5516242104340509233"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5516242104340509233</gphoto:id>
+    <gphoto:name>pFmnlJ</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1283975931000</gphoto:timestamp>
+    <gphoto:numphotos>43</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4cApalHknms/TI2g97RE8jE/AAAAAAAAJPw/kp9qGusgD5I/pFmnlJ.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4cApalHknms/TI2g97RE8jE/AAAAAAAAJPw/kp9qGusgD5I/s160-c/pFmnlJ.jpg" height="160" width="160"/>
+      <media:title type="plain">匹見峡～大仙</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5516237799649393585</id>
+    <published>2010-08-12T21:59:54.000Z</published>
+    <updated>2013-05-11T20:51:36.608Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">うっちーや班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5516237799649393585"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/EvlxTG"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5516237799649393585"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5516237799649393585</gphoto:id>
+    <gphoto:name>EvlxTG</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1281650394000</gphoto:timestamp>
+    <gphoto:numphotos>35</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SL9M2EqKye4/TI2dDXCvO7E/AAAAAAAAJP0/fM_ZbyUYQbo/EvlxTG.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SL9M2EqKye4/TI2dDXCvO7E/AAAAAAAAJP0/fM_ZbyUYQbo/s160-c/EvlxTG.jpg" height="160" width="160"/>
+      <media:title type="plain">うっちーや班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5477588078873064801</id>
+    <published>2010-05-27T07:00:00.000Z</published>
+    <updated>2013-05-11T20:51:35.189Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">南紀＠古座川・潮岬，2010.5</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5477588078873064801"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20105"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5477588078873064801"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5477588078873064801</gphoto:id>
+    <gphoto:name>20105</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1274943600000</gphoto:timestamp>
+    <gphoto:numphotos>41</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-c2efFuf67JQ/TARNVhMktWE/AAAAAAAAHhc/2RDrAlY7cWw/20105.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c2efFuf67JQ/TARNVhMktWE/AAAAAAAAHhc/2RDrAlY7cWw/s160-c/20105.jpg" height="160" width="160"/>
+      <media:title type="plain">南紀＠古座川・潮岬，2010.5</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5450896152294511937</id>
+    <published>2010-03-04T08:00:00.000Z</published>
+    <updated>2013-05-11T20:51:32.615Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春海外@Viet Nam，2010.3</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5450896152294511937"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/VietNam20103"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5450896152294511937"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5450896152294511937</gphoto:id>
+    <gphoto:name>VietNam20103</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1267689600000</gphoto:timestamp>
+    <gphoto:numphotos>235</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CQXWgehZmdA/S6V5K6EO1UE/AAAAAAAAG-Y/rJnLgvFPRBQ/VietNam20103.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQXWgehZmdA/S6V5K6EO1UE/AAAAAAAAG-Y/rJnLgvFPRBQ/s160-c/VietNam20103.jpg" height="160" width="160"/>
+      <media:title type="plain">春海外@Viet Nam，2010.3</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5383938565874527889</id>
+    <published>2009-09-17T07:00:00.000Z</published>
+    <updated>2013-05-11T20:51:30.608Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Slv.Wk@四国，2009.9</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5383938565874527889"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/SlvWk20099"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5383938565874527889"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5383938565874527889</gphoto:id>
+    <gphoto:name>SlvWk20099</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1253170800000</gphoto:timestamp>
+    <gphoto:numphotos>139</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fPXndDV6FC0/SreXma96LpE/AAAAAAAALiA/lG3NRR0qpZ4/SlvWk20099.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fPXndDV6FC0/SreXma96LpE/AAAAAAAALiA/lG3NRR0qpZ4/s160-c/SlvWk20099.jpg" height="160" width="160"/>
+      <media:title type="plain">Slv.Wk@四国，2009.9</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5350004077112181697</id>
+    <published>2009-06-19T07:00:00.000Z</published>
+    <updated>2013-05-11T20:51:28.608Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">４回生ツアー@帝釈峡らへん，2009.6</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5350004077112181697"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20096"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5350004077112181697"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5350004077112181697</gphoto:id>
+    <gphoto:name>20096</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1245394800000</gphoto:timestamp>
+    <gphoto:numphotos>73</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-75G5mURFSq0/Sj8IXNMpw8E/AAAAAAAAIC4/4S04dYEMFX0/20096.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-75G5mURFSq0/Sj8IXNMpw8E/AAAAAAAAIC4/4S04dYEMFX0/s160-c/20096.jpg" height="160" width="160"/>
+      <media:title type="plain">４回生ツアー@帝釈峡らへん，2009.6</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5332650624764449745</id>
+    <published>2009-05-01T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:19.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW信州＠神坂・真弓・月夜沢・ビーナス，2009.5</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5332650624764449745"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/GW20095"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5332650624764449745"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5332650624764449745</gphoto:id>
+    <gphoto:name>GW20095</gphoto:name>
+    <gphoto:location>美ヶ原</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1241161200000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mGZ3LDooSZ0/SgFhfVhZk9E/AAAAAAAAEkw/6xGMntSud20/GW20095.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mGZ3LDooSZ0/SgFhfVhZk9E/AAAAAAAAEkw/6xGMntSud20/s160-c/GW20095.jpg" height="160" width="160"/>
+      <media:title type="plain">GW信州＠神坂・真弓・月夜沢・ビーナス，2009.5</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>36.22593 138.128001</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5321974472697928993</id>
+    <published>2009-03-24T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:17.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春合宿＠山口，2009.3</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5321974472697928993"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/2009302"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5321974472697928993"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5321974472697928993</gphoto:id>
+    <gphoto:name>2009302</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1237878000000</gphoto:timestamp>
+    <gphoto:numphotos>34</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rwuW8olTO5E/SdtzlfzbXSE/AAAAAAAAEY0/f75gCBN7cfo/2009302.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rwuW8olTO5E/SdtzlfzbXSE/AAAAAAAAEY0/f75gCBN7cfo/s160-c/2009302.jpg" height="160" width="160"/>
+      <media:title type="plain">春合宿＠山口，2009.3</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5321959352721807265</id>
+    <published>2009-03-22T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:15.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">プレ春＠中国地方，2009.3</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5321959352721807265"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20093"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5321959352721807265"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5321959352721807265</gphoto:id>
+    <gphoto:name>20093</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1237705200000</gphoto:timestamp>
+    <gphoto:numphotos>60</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7I5KX4C9YYU/Sdtl1ZgNF6E/AAAAAAAAEYs/ChoIcffhSso/20093.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7I5KX4C9YYU/Sdtl1ZgNF6E/AAAAAAAAEYs/ChoIcffhSso/s160-c/20093.jpg" height="160" width="160"/>
+      <media:title type="plain">プレ春＠中国地方，2009.3</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5274447227260536705</id>
+    <published>2008-11-20T08:00:00.000Z</published>
+    <updated>2013-05-12T05:47:13.182Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF＠Korea，2008.11</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5274447227260536705"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/NFKorea200811"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5274447227260536705"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5274447227260536705</gphoto:id>
+    <gphoto:name>NFKorea200811</gphoto:name>
+    <gphoto:location>Seoul</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1227168000000</gphoto:timestamp>
+    <gphoto:numphotos>112</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--svqCoxfB6g/STKZztdoh4E/AAAAAAAALiI/y4tDgkmzWXo/NFKorea200811.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--svqCoxfB6g/STKZztdoh4E/AAAAAAAALiI/y4tDgkmzWXo/s160-c/NFKorea200811.jpg" height="160" width="160"/>
+      <media:title type="plain">NF＠Korea，2008.11</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.9650796 125.7440184</gml:lowerCorner>
+        <gml:upperCorner>38.0630865 128.1829833</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.5140831 126.9635009</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5227368208051863313</id>
+    <published>2008-07-24T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:11.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">プレ夏＠雪彦・氷ノ山・香住，2008.7</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5227368208051863313"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20087"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5227368208051863313"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5227368208051863313</gphoto:id>
+    <gphoto:name>20087</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1216882800000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fhM4T9g0HFI/SItXsH8Z_xE/AAAAAAAAC30/6XLBhDW9Hj0/20087.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fhM4T9g0HFI/SItXsH8Z_xE/AAAAAAAAC30/6XLBhDW9Hj0/s160-c/20087.jpg" height="160" width="160"/>
+      <media:title type="plain">プレ夏＠雪彦・氷ノ山・香住，2008.7</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5204247782487473585</id>
+    <published>2008-05-02T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:09.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW南紀＠高野・龍神・熊野，2008.5</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5204247782487473585"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/GW20085"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5204247782487473585"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5204247782487473585</gphoto:id>
+    <gphoto:name>GW20085</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1209711600000</gphoto:timestamp>
+    <gphoto:numphotos>40</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mpCpoYi1b2Y/SDkzyO5HvbE/AAAAAAAABTg/DLCoJU2pYvM/GW20085.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mpCpoYi1b2Y/SDkzyO5HvbE/AAAAAAAABTg/DLCoJU2pYvM/s160-c/GW20085.jpg" height="160" width="160"/>
+      <media:title type="plain">GW南紀＠高野・龍神・熊野，2008.5</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5144728294421671233</id>
+    <published>2007-11-20T08:00:00.000Z</published>
+    <updated>2013-05-12T05:47:07.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF＠九州，2007.11</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5144728294421671233"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/NF200711"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5144728294421671233"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5144728294421671233</gphoto:id>
+    <gphoto:name>NF200711</gphoto:name>
+    <gphoto:location>通潤橋</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1195545600000</gphoto:timestamp>
+    <gphoto:numphotos>69</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DvDPMxjaN6o/R2W_IDbnrUE/AAAAAAAAC54/KWxQjDUFOJs/NF200711.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DvDPMxjaN6o/R2W_IDbnrUE/AAAAAAAAC54/KWxQjDUFOJs/s160-c/NF200711.jpg" height="160" width="160"/>
+      <media:title type="plain">NF＠九州，2007.11</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>32.5746452 131.0260204</gml:lowerCorner>
+        <gml:upperCorner>32.5928701 131.0641293</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>32.5837577 131.0450749</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5085596529190413233</id>
+    <published>2007-06-14T07:00:00.000Z</published>
+    <updated>2013-05-12T05:47:03.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">回生ツアー@鳥取砂丘らへん，2007.6.14</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5085596529190413233"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/2007614"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5085596529190413233"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5085596529190413233</gphoto:id>
+    <gphoto:name>2007614</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1181804400000</gphoto:timestamp>
+    <gphoto:numphotos>33</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FsvZBbB-QmQ/RpOrGUFao7E/AAAAAAAAAGQ/WcDElfHu_iI/2007614.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FsvZBbB-QmQ/RpOrGUFao7E/AAAAAAAAAGQ/WcDElfHu_iI/s160-c/2007614.jpg" height="160" width="160"/>
+      <media:title type="plain">回生ツアー@鳥取砂丘らへん，2007.6.14</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5087734234986821265</id>
+    <published>2007-02-20T08:00:00.000Z</published>
+    <updated>2013-05-12T05:47:05.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春海外＠ニュージーランド，2007.2</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108889195101870772533/albumid/5087734234986821265"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108889195101870772533/20072"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108889195101870772533/albumid/5087734234986821265"/>
+    <author>
+      <name>fanakemu</name>
+      <uri>https://picasaweb.google.com/108889195101870772533</uri>
+    </author>
+    <gphoto:id>5087734234986821265</gphoto:id>
+    <gphoto:name>20072</gphoto:name>
+    <gphoto:location>NZランド</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1171958400000</gphoto:timestamp>
+    <gphoto:numphotos>158</gphoto:numphotos>
+    <gphoto:user>108889195101870772533</gphoto:user>
+    <gphoto:nickname>fanakemu</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fpK71RWVPdE/RptDVKv7tpE/AAAAAAAAK6g/KTUF8Dmk4oQ/20072.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>fanakemu</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fpK71RWVPdE/RptDVKv7tpE/AAAAAAAAK6g/KTUF8Dmk4oQ/s160-c/20072.jpg" height="160" width="160"/>
+      <media:title type="plain">春海外＠ニュージーランド，2007.2</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>-46.4738404 168.2048033</gml:lowerCorner>
+        <gml:upperCorner>-46.3545433 168.509674</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>-46.4141919 168.3572387</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161</id>
+  <updated>2013-05-12T08:25:13.987Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">4.11.新サイ＠清滝</title>
+  <subtitle type="text">京都の西のほう、清滝川沿いの爽やかな道を走ってきました。川遊びもめっちゃ気持ちよかった～。</subtitle>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-leufQV8G9GU/SeiPUeNn_7E/AAAAAAAAAqg/FDJtl6fZASc/s160-c/411.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>photo.2009</name>
+    <uri>https://picasaweb.google.com/kucc.photo.2009</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>13</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5325664141235978161</gphoto:id>
+  <gphoto:name>411</gphoto:name>
+  <gphoto:location>京都　清滝</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1239346800000</gphoto:timestamp>
+  <gphoto:numphotos>13</gphoto:numphotos>
+  <gphoto:user>kucc.photo.2009</gphoto:user>
+  <gphoto:nickname>photo.2009</gphoto:nickname>
+  <georss:where>
+    <gml:Envelope>
+      <gml:lowerCorner>35.0306293 135.6390093</gml:lowerCorner>
+      <gml:upperCorner>35.0483384 135.6771182</gml:upperCorner>
+    </gml:Envelope>
+    <gml:Point>
+      <gml:pos>35.0394839 135.6580638</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325672703993207922</id>
+    <published>2009-04-17T14:50:03.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">4.11.jpg</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-eeK_DYgNgmE/SeiXG4-CXHI/AAAAAAAAAp8/7hjhU5te6KM/4.11.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325672703993207922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325672703993207922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_Eehejm7pCchtPZIZt635tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325672703993207922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325672703993207922"/>
+    <gphoto:id>5325672703993207922</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>-12.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>579877</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>24fe1fff</gphoto:checksum>
+    <gphoto:timestamp>1239979702000</gphoto:timestamp>
+    <gphoto:imageVersion>671</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:imageUniqueID>c144da9603c7d958ac686f3f9c62f597</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-eeK_DYgNgmE/SeiXG4-CXHI/AAAAAAAAAp8/7hjhU5te6KM/4.11.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eeK_DYgNgmE/SeiXG4-CXHI/AAAAAAAAAp8/7hjhU5te6KM/s72/4.11.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eeK_DYgNgmE/SeiXG4-CXHI/AAAAAAAAAp8/7hjhU5te6KM/s144/4.11.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eeK_DYgNgmE/SeiXG4-CXHI/AAAAAAAAAp8/7hjhU5te6KM/s288/4.11.jpg" height="216" width="288"/>
+      <media:title type="plain">4.11.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664152424672130</id>
+    <published>2009-04-17T14:16:52.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0039.JPG</title>
+    <summary type="text">いい天気</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-26Um_r3bWeM/SeiPVH5N64I/AAAAAAAAAnU/Ga2nJCzBJtU/DCF_0039.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664152424672130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664152424672130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7VZDDyVwNvR59gBdISNNf9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664152424672130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664152424672130"/>
+    <gphoto:id>5325664152424672130</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-11.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>430423</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>751217eb</gphoto:checksum>
+    <gphoto:timestamp>1239450119000</gphoto:timestamp>
+    <gphoto:imageVersion>629</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239450119000</exif:time>
+      <exif:imageUniqueID>8c9ca273e53493338a1ff0ad7edec531</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-26Um_r3bWeM/SeiPVH5N64I/AAAAAAAAAnU/Ga2nJCzBJtU/DCF_0039.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">いい天気</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26Um_r3bWeM/SeiPVH5N64I/AAAAAAAAAnU/Ga2nJCzBJtU/s72/DCF_0039.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26Um_r3bWeM/SeiPVH5N64I/AAAAAAAAAnU/Ga2nJCzBJtU/s144/DCF_0039.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-26Um_r3bWeM/SeiPVH5N64I/AAAAAAAAAnU/Ga2nJCzBJtU/s288/DCF_0039.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0039.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664163533205538</id>
+    <published>2009-04-17T14:16:55.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0035.JPG</title>
+    <summary type="text">TDJコンビ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_ZroS4PD0Vs/SeiPVxRssCI/AAAAAAAAAnc/VNtaGAV_C7c/DCF_0035.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664163533205538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664163533205538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/x6tE8eti7da56kugWA5gMNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664163533205538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664163533205538"/>
+    <gphoto:id>5325664163533205538</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>-10.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>414148</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>757297eb</gphoto:checksum>
+    <gphoto:timestamp>1239450883000</gphoto:timestamp>
+    <gphoto:imageVersion>631</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239450883000</exif:time>
+      <exif:imageUniqueID>e24fbcf2d2655820056285eed7277995</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_ZroS4PD0Vs/SeiPVxRssCI/AAAAAAAAAnc/VNtaGAV_C7c/DCF_0035.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">TDJコンビ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ZroS4PD0Vs/SeiPVxRssCI/AAAAAAAAAnc/VNtaGAV_C7c/s72/DCF_0035.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ZroS4PD0Vs/SeiPVxRssCI/AAAAAAAAAnc/VNtaGAV_C7c/s144/DCF_0035.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ZroS4PD0Vs/SeiPVxRssCI/AAAAAAAAAnc/VNtaGAV_C7c/s288/DCF_0035.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0035.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664174131064242</id>
+    <published>2009-04-17T14:16:57.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0033.JPG</title>
+    <summary type="text">川遊び</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-LA9y4td4d2o/SeiPWYwbLbI/AAAAAAAAAnk/_p6L2V0kqxs/DCF_0033.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664174131064242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664174131064242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/dbKnbQbNuXFgF_5SDYX_2tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664174131064242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664174131064242"/>
+    <gphoto:id>5325664174131064242</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-9.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>467457</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>1385dffe</gphoto:checksum>
+    <gphoto:timestamp>1239452063000</gphoto:timestamp>
+    <gphoto:imageVersion>633</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239452063000</exif:time>
+      <exif:imageUniqueID>044e8eaed63e17142304012c000a7935</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LA9y4td4d2o/SeiPWYwbLbI/AAAAAAAAAnk/_p6L2V0kqxs/DCF_0033.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">川遊び</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LA9y4td4d2o/SeiPWYwbLbI/AAAAAAAAAnk/_p6L2V0kqxs/s72/DCF_0033.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LA9y4td4d2o/SeiPWYwbLbI/AAAAAAAAAnk/_p6L2V0kqxs/s144/DCF_0033.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LA9y4td4d2o/SeiPWYwbLbI/AAAAAAAAAnk/_p6L2V0kqxs/s288/DCF_0033.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0033.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664187633077490</id>
+    <published>2009-04-17T14:17:00.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0030.JPG</title>
+    <summary type="text">木洩れ日の気持ちいい自然歩道</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-TkeAEY1iDP0/SeiPXLDjjPI/AAAAAAAAAns/zk9Q2f8lyyI/DCF_0030.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664187633077490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664187633077490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Xf8JgeDWuxALI1zQfz5nmNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664187633077490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664187633077490"/>
+    <gphoto:id>5325664187633077490</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-8.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>636879</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>15a01ffe</gphoto:checksum>
+    <gphoto:timestamp>1239456432000</gphoto:timestamp>
+    <gphoto:imageVersion>635</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239456432000</exif:time>
+      <exif:imageUniqueID>64b0a49703dc9da2afc092bc21b6a589</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TkeAEY1iDP0/SeiPXLDjjPI/AAAAAAAAAns/zk9Q2f8lyyI/DCF_0030.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">木洩れ日の気持ちいい自然歩道</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkeAEY1iDP0/SeiPXLDjjPI/AAAAAAAAAns/zk9Q2f8lyyI/s72/DCF_0030.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkeAEY1iDP0/SeiPXLDjjPI/AAAAAAAAAns/zk9Q2f8lyyI/s144/DCF_0030.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TkeAEY1iDP0/SeiPXLDjjPI/AAAAAAAAAns/zk9Q2f8lyyI/s288/DCF_0030.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0030.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664193259897106</id>
+    <published>2009-04-17T14:17:02.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0028.JPG</title>
+    <summary type="text">清流☆５～６月はこの辺り、ホタルがきれいですよ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-goanvM_tQqU/SeiPXgBGARI/AAAAAAAAAn0/i3tCjPQ3PhE/DCF_0028.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664193259897106"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664193259897106"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8br_AVa5-y4qQyZ4i77c5dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664193259897106"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664193259897106"/>
+    <gphoto:id>5325664193259897106</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-7.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>404952</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>896890a0</gphoto:checksum>
+    <gphoto:timestamp>1239456690000</gphoto:timestamp>
+    <gphoto:imageVersion>637</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239456690000</exif:time>
+      <exif:imageUniqueID>094a22c2f343a8160373de5b9e9f3ce3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-goanvM_tQqU/SeiPXgBGARI/AAAAAAAAAn0/i3tCjPQ3PhE/DCF_0028.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">清流☆５～６月はこの辺り、ホタルがきれいですよ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-goanvM_tQqU/SeiPXgBGARI/AAAAAAAAAn0/i3tCjPQ3PhE/s72/DCF_0028.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-goanvM_tQqU/SeiPXgBGARI/AAAAAAAAAn0/i3tCjPQ3PhE/s144/DCF_0028.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-goanvM_tQqU/SeiPXgBGARI/AAAAAAAAAn0/i3tCjPQ3PhE/s288/DCF_0028.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0028.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664205749739186</id>
+    <published>2009-04-17T14:17:04.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0027.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ulVA4sJ-IQQ/SeiPYOi53rI/AAAAAAAAAn8/2kQXAGPnCd8/DCF_0027.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664205749739186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664205749739186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sMTL4SOXIlZuSUzuhYTbCtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664205749739186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664205749739186"/>
+    <gphoto:id>5325664205749739186</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>-6.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1071</gphoto:height>
+    <gphoto:size>402899</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>622ed7d7</gphoto:checksum>
+    <gphoto:timestamp>1239456705000</gphoto:timestamp>
+    <gphoto:imageVersion>639</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239456705000</exif:time>
+      <exif:imageUniqueID>21943d11143baea747a4f08e6895fe14</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ulVA4sJ-IQQ/SeiPYOi53rI/AAAAAAAAAn8/2kQXAGPnCd8/DCF_0027.JPG" height="343" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ulVA4sJ-IQQ/SeiPYOi53rI/AAAAAAAAAn8/2kQXAGPnCd8/s72/DCF_0027.JPG" height="49" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ulVA4sJ-IQQ/SeiPYOi53rI/AAAAAAAAAn8/2kQXAGPnCd8/s144/DCF_0027.JPG" height="97" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ulVA4sJ-IQQ/SeiPYOi53rI/AAAAAAAAAn8/2kQXAGPnCd8/s288/DCF_0027.JPG" height="193" width="288"/>
+      <media:title type="plain">DCF_0027.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664211663628242</id>
+    <published>2009-04-17T14:17:06.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0026.JPG</title>
+    <summary type="text">釣れてます？</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WhVU2PNkc2E/SeiPYkk4p9I/AAAAAAAAAoE/6lgDC1a9qHg/DCF_0026.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664211663628242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664211663628242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/eS4t0vquDVI3dZnJU1NMAdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664211663628242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664211663628242"/>
+    <gphoto:id>5325664211663628242</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-5.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1101</gphoto:height>
+    <gphoto:size>356069</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9feb3</gphoto:checksum>
+    <gphoto:timestamp>1239456816000</gphoto:timestamp>
+    <gphoto:imageVersion>641</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239456816000</exif:time>
+      <exif:imageUniqueID>7e19a0db70a74f1b81f5d07f477eefe8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WhVU2PNkc2E/SeiPYkk4p9I/AAAAAAAAAoE/6lgDC1a9qHg/DCF_0026.JPG" height="353" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">釣れてます？</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WhVU2PNkc2E/SeiPYkk4p9I/AAAAAAAAAoE/6lgDC1a9qHg/s72/DCF_0026.JPG" height="50" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WhVU2PNkc2E/SeiPYkk4p9I/AAAAAAAAAoE/6lgDC1a9qHg/s144/DCF_0026.JPG" height="100" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WhVU2PNkc2E/SeiPYkk4p9I/AAAAAAAAAoE/6lgDC1a9qHg/s288/DCF_0026.JPG" height="199" width="288"/>
+      <media:title type="plain">DCF_0026.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664220602407410</id>
+    <published>2009-04-17T14:17:08.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0025.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-z1IZMiZPUiQ/SeiPZF4DmfI/AAAAAAAAAoM/6LBsSh_Y718/DCF_0025.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664220602407410"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664220602407410"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LsIH06b8wW3Gt5rctcYfu9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664220602407410"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664220602407410"/>
+    <gphoto:id>5325664220602407410</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>-4.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>977</gphoto:height>
+    <gphoto:size>356522</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>893ce3f4</gphoto:checksum>
+    <gphoto:timestamp>1239456830000</gphoto:timestamp>
+    <gphoto:imageVersion>643</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239456830000</exif:time>
+      <exif:imageUniqueID>2e04b71b978a41be0da0481e63cdb0e1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-z1IZMiZPUiQ/SeiPZF4DmfI/AAAAAAAAAoM/6LBsSh_Y718/DCF_0025.JPG" height="313" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-z1IZMiZPUiQ/SeiPZF4DmfI/AAAAAAAAAoM/6LBsSh_Y718/s72/DCF_0025.JPG" height="44" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-z1IZMiZPUiQ/SeiPZF4DmfI/AAAAAAAAAoM/6LBsSh_Y718/s144/DCF_0025.JPG" height="88" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-z1IZMiZPUiQ/SeiPZF4DmfI/AAAAAAAAAoM/6LBsSh_Y718/s288/DCF_0025.JPG" height="176" width="288"/>
+      <media:title type="plain">DCF_0025.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664229255082258</id>
+    <published>2009-04-17T14:17:10.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0020.JPG</title>
+    <summary type="text">変なポーズとるなー</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Ljv7_OUYoxo/SeiPZmHA8RI/AAAAAAAAAoU/GbM_kbg2dv0/DCF_0020.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664229255082258"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664229255082258"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kF6v3ahw8FPsYBLR3Wk5TtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664229255082258"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664229255082258"/>
+    <gphoto:id>5325664229255082258</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-3.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>562354</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>70b197eb</gphoto:checksum>
+    <gphoto:timestamp>1239459578000</gphoto:timestamp>
+    <gphoto:imageVersion>645</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239459578000</exif:time>
+      <exif:imageUniqueID>9bae99a600a312d67246bff19999ec28</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Ljv7_OUYoxo/SeiPZmHA8RI/AAAAAAAAAoU/GbM_kbg2dv0/DCF_0020.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">変なポーズとるなー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ljv7_OUYoxo/SeiPZmHA8RI/AAAAAAAAAoU/GbM_kbg2dv0/s72/DCF_0020.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ljv7_OUYoxo/SeiPZmHA8RI/AAAAAAAAAoU/GbM_kbg2dv0/s144/DCF_0020.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ljv7_OUYoxo/SeiPZmHA8RI/AAAAAAAAAoU/GbM_kbg2dv0/s288/DCF_0020.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0020.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664243097074242</id>
+    <published>2009-04-17T14:17:13.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0019.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AjrpdCldxQ4/SeiPaZrM-kI/AAAAAAAAAoc/Hq2nIZZDVMs/DCF_0019.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664243097074242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664243097074242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1kuL6BDESCpivCX0yufnbNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664243097074242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664243097074242"/>
+    <gphoto:id>5325664243097074242</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>-2.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>512192</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>70b357eb</gphoto:checksum>
+    <gphoto:timestamp>1239459596000</gphoto:timestamp>
+    <gphoto:imageVersion>647</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239459596000</exif:time>
+      <exif:imageUniqueID>3710eca882b4ba93c59b4b77c4b60863</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AjrpdCldxQ4/SeiPaZrM-kI/AAAAAAAAAoc/Hq2nIZZDVMs/DCF_0019.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AjrpdCldxQ4/SeiPaZrM-kI/AAAAAAAAAoc/Hq2nIZZDVMs/s72/DCF_0019.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AjrpdCldxQ4/SeiPaZrM-kI/AAAAAAAAAoc/Hq2nIZZDVMs/s144/DCF_0019.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AjrpdCldxQ4/SeiPaZrM-kI/AAAAAAAAAoc/Hq2nIZZDVMs/s288/DCF_0019.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0019.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664255715157858</id>
+    <published>2009-04-17T14:17:16.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0017.JPG</title>
+    <summary type="text">橋渡ってみたり</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zsGYOA2jPbQ/SeiPbIrlp2I/AAAAAAAAAok/aVVj9eNH4fw/DCF_0017.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664255715157858"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664255715157858"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tGs2wQ8nsZgHhx9Xs1bIPNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664255715157858"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664255715157858"/>
+    <gphoto:id>5325664255715157858</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>-1.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1550</gphoto:width>
+    <gphoto:height>1354</gphoto:height>
+    <gphoto:size>589386</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>39282c61</gphoto:checksum>
+    <gphoto:timestamp>1239459787000</gphoto:timestamp>
+    <gphoto:imageVersion>649</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239459787000</exif:time>
+      <exif:imageUniqueID>016a2709cfb5dccc03c3d7f936d6aa9d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zsGYOA2jPbQ/SeiPbIrlp2I/AAAAAAAAAok/aVVj9eNH4fw/DCF_0017.JPG" height="448" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">橋渡ってみたり</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsGYOA2jPbQ/SeiPbIrlp2I/AAAAAAAAAok/aVVj9eNH4fw/s72/DCF_0017.JPG" height="63" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsGYOA2jPbQ/SeiPbIrlp2I/AAAAAAAAAok/aVVj9eNH4fw/s144/DCF_0017.JPG" height="126" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zsGYOA2jPbQ/SeiPbIrlp2I/AAAAAAAAAok/aVVj9eNH4fw/s288/DCF_0017.JPG" height="252" width="288"/>
+      <media:title type="plain">DCF_0017.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664261099336690</id>
+    <published>2009-04-17T14:17:17.000Z</published>
+    <updated>2013-05-12T08:25:13.987Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DCF_0016.JPG</title>
+    <summary type="text">道路に出たー　
+お疲れ様でした。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Aw2rfDkokNw/SeiPbcvRs_I/AAAAAAAAAow/OcFJU2zmz4I/DCF_0016.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664261099336690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/411#5325664261099336690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tmr4KO73jDjadn-N-4FhidMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5325664141235978161/photoid/5325664261099336690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5325664141235978161&amp;iid=5325664261099336690"/>
+    <gphoto:id>5325664261099336690</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>0.0</gphoto:position>
+    <gphoto:albumid>5325664141235978161</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>389436</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>179e1ffe</gphoto:checksum>
+    <gphoto:timestamp>1239460449000</gphoto:timestamp>
+    <gphoto:imageVersion>652</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:make>TOSHIBA</exif:make>
+      <exif:model>921T</exif:model>
+      <exif:time>1239460449000</exif:time>
+      <exif:imageUniqueID>e00d44904dba92e2abc7cc387bf48a56</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Aw2rfDkokNw/SeiPbcvRs_I/AAAAAAAAAow/OcFJU2zmz4I/DCF_0016.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain">道路に出たー　
+お疲れ様でした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Aw2rfDkokNw/SeiPbcvRs_I/AAAAAAAAAow/OcFJU2zmz4I/s72/DCF_0016.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Aw2rfDkokNw/SeiPbcvRs_I/AAAAAAAAAow/OcFJU2zmz4I/s144/DCF_0016.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Aw2rfDkokNw/SeiPbcvRs_I/AAAAAAAAAow/OcFJU2zmz4I/s288/DCF_0016.JPG" height="216" width="288"/>
+      <media:title type="plain">DCF_0016.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

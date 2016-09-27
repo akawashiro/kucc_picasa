@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/lunaticstraycat</id>
+  <updated>2015-10-06T04:22:17.918Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">116542640615960066334</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-IDpaOJ_O1qQ/AAAAAAAAAAI/AAAAAAAAAAA/e3ueiAie7Og/s64-c/116542640615960066334.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/116542640615960066334?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>A. Okuyama</name>
+    <uri>https://picasaweb.google.com/116542640615960066334</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>21</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>116542640615960066334</gphoto:user>
+  <gphoto:nickname>A. Okuyama</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-IDpaOJ_O1qQ/AAAAAAAAAAI/AAAAAAAAAAA/e3ueiAie7Og/s64-c/116542640615960066334.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5905877757940327937</id>
+    <published>2013-07-28T07:00:00.000Z</published>
+    <updated>2014-07-10T08:15:44.007Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">WonderFestival 2013 Summer</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5905877757940327937"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/WonderFestival2013Summer"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5905877757940327937"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5905877757940327937</gphoto:id>
+    <gphoto:name>WonderFestival2013Summer</gphoto:name>
+    <gphoto:location>幕張メッセ</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1374994800000</gphoto:timestamp>
+    <gphoto:numphotos>144</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-n0novJmmleM/UfXkh7jp5gE/AAAAAAAABw0/bkvXK-Rupww/WonderFestival2013Summer.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-n0novJmmleM/UfXkh7jp5gE/AAAAAAAABw0/bkvXK-Rupww/s160-c/WonderFestival2013Summer.jpg" height="160" width="160"/>
+      <media:title type="plain">WonderFestival 2013 Summer</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.6466018 140.0365198</gml:lowerCorner>
+        <gml:upperCorner>35.6467381 140.0368161</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.64667 140.036668</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5788390138801669249</id>
+    <published>2012-09-12T08:13:02.000Z</published>
+    <updated>2013-05-10T01:04:53.279Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">特撮博物館</title>
+    <summary type="text">セットが置いてあって撮影し放題って言うのは非常にいい</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5788390138801669249"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/mUktUI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5788390138801669249"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5788390138801669249</gphoto:id>
+    <gphoto:name>mUktUI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1347437582000</gphoto:timestamp>
+    <gphoto:numphotos>6</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nUNAjJmAG3I/UFR-KbylxIE/AAAAAAAABMs/iOGv4qEr46Y/mUktUI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">セットが置いてあって撮影し放題って言うのは非常にいい</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nUNAjJmAG3I/UFR-KbylxIE/AAAAAAAABMs/iOGv4qEr46Y/s160-c/mUktUI.jpg" height="160" width="160"/>
+      <media:title type="plain">特撮博物館</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5777476131609692081</id>
+    <published>2012-08-15T01:07:03.000Z</published>
+    <updated>2013-05-10T01:04:51.279Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿小川班</title>
+    <summary type="text">あれだ、遅いと人が撮れねぇ</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5777476131609692081"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/jExRgB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5777476131609692081"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5777476131609692081</gphoto:id>
+    <gphoto:name>jExRgB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1344992823000</gphoto:timestamp>
+    <gphoto:numphotos>2</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mA2p4mlm7hU/UC237mrkx7E/AAAAAAAABK4/n1jV01p6CDM/jExRgB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">あれだ、遅いと人が撮れねぇ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mA2p4mlm7hU/UC237mrkx7E/AAAAAAAABK4/n1jV01p6CDM/s160-c/jExRgB.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿小川班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5724467812798713793</id>
+    <published>2012-03-23T07:00:00.000Z</published>
+    <updated>2014-09-05T07:58:21.419Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">12 春合宿</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5724467812798713793"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/12"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5724467812798713793"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5724467812798713793</gphoto:id>
+    <gphoto:name>12</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1332486000000</gphoto:timestamp>
+    <gphoto:numphotos>61</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fcHNtXl6exM/T3FlJW4GT8E/AAAAAAAACw4/ss_1hJ7YBRs/12.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fcHNtXl6exM/T3FlJW4GT8E/AAAAAAAACw4/ss_1hJ7YBRs/s160-c/12.jpg" height="160" width="160"/>
+      <media:title type="plain">12 春合宿</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768148074290705</id>
+    <published>2012-03-21T07:00:00.000Z</published>
+    <updated>2014-12-10T15:34:14.033Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ボックス写真集</title>
+    <summary type="text">掲載に対する抗議は受付中
+*このアルバムの登場人物は20歳以上です</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768148074290705"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/awJZnB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768148074290705"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768148074290705</gphoto:id>
+    <gphoto:name>awJZnB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1332313200000</gphoto:timestamp>
+    <gphoto:numphotos>160</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-r6JOu7oX0RI/Tagpe6dp3hE/AAAAAAAAC1Y/7O4oSMX1pSQ/awJZnB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">掲載に対する抗議は受付中
+*このアルバムの登場人物は20歳以上です</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-r6JOu7oX0RI/Tagpe6dp3hE/AAAAAAAAC1Y/7O4oSMX1pSQ/s160-c/awJZnB.jpg" height="160" width="160"/>
+      <media:title type="plain">ボックス写真集</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5683025435000378673</id>
+    <published>2011-12-03T08:00:00.000Z</published>
+    <updated>2013-05-11T09:50:51.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11 追いコン</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5683025435000378673"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/11"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5683025435000378673"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5683025435000378673</gphoto:id>
+    <gphoto:name>11</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1322899200000</gphoto:timestamp>
+    <gphoto:numphotos>116</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3fAMKgarcPk/Tt4phe61FTE/AAAAAAAAA8Q/Fg8rUvSxtS8/11.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3fAMKgarcPk/Tt4phe61FTE/AAAAAAAAA8Q/Fg8rUvSxtS8/s160-c/11.jpg" height="160" width="160"/>
+      <media:title type="plain">11 追いコン</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5669520836749804497</id>
+    <published>2011-10-29T07:00:00.000Z</published>
+    <updated>2013-05-11T09:50:49.979Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11 TQU</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5669520836749804497"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/11TQU"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5669520836749804497"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5669520836749804497</gphoto:id>
+    <gphoto:name>11TQU</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1319871600000</gphoto:timestamp>
+    <gphoto:numphotos>23</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Gta7Nl384C8/Tq4vKaElw9E/AAAAAAAAAps/PzGqaAYbLDA/11TQU.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Gta7Nl384C8/Tq4vKaElw9E/AAAAAAAAAps/PzGqaAYbLDA/s160-c/11TQU.jpg" height="160" width="160"/>
+      <media:title type="plain">11 TQU</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5601784360959350801</id>
+    <published>2011-04-29T07:00:00.000Z</published>
+    <updated>2013-05-11T09:50:47.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11 GW南紀</title>
+    <summary type="text">澱み班とは言わせない！</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5601784360959350801"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/11GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5601784360959350801"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5601784360959350801</gphoto:id>
+    <gphoto:name>11GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1304060400000</gphoto:timestamp>
+    <gphoto:numphotos>94</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_MmcK_bh1bs/Tb2JMl9SGBE/AAAAAAAAAMs/1PwWcZ81kH4/11GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">澱み班とは言わせない！</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_MmcK_bh1bs/Tb2JMl9SGBE/AAAAAAAAAMs/1PwWcZ81kH4/s160-c/11GW.jpg" height="160" width="160"/>
+      <media:title type="plain">11 GW南紀</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768144260156897</id>
+    <published>2010-09-24T07:00:00.000Z</published>
+    <updated>2013-05-11T09:50:37.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10 TQ-Run</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768144260156897"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/10TQRun"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768144260156897"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768144260156897</gphoto:id>
+    <gphoto:name>10TQRun</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1285311600000</gphoto:timestamp>
+    <gphoto:numphotos>61</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-aFqjQPaDjvI/TagpesQSzeE/AAAAAAAAABc/a7uj5s6BEBw/10TQRun.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aFqjQPaDjvI/TagpesQSzeE/AAAAAAAAABc/a7uj5s6BEBw/s160-c/10TQRun.jpg" height="160" width="160"/>
+      <media:title type="plain">10 TQ-Run</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768163616069137</id>
+    <published>2010-08-26T00:04:51.000Z</published>
+    <updated>2013-05-11T09:50:43.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10 夏合宿</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768163616069137"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/10"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768163616069137"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768163616069137</gphoto:id>
+    <gphoto:name>10</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1282781091000</gphoto:timestamp>
+    <gphoto:numphotos>15</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DA0dNf86Xno/Tagpf0XGlhE/AAAAAAAAAB0/LjkS2d5esIQ/10.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DA0dNf86Xno/Tagpf0XGlhE/AAAAAAAAAB0/LjkS2d5esIQ/s160-c/10.jpg" height="160" width="160"/>
+      <media:title type="plain">10 夏合宿</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768161512940081</id>
+    <published>2010-05-29T00:47:53.000Z</published>
+    <updated>2013-05-11T09:50:41.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">愛宕山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768161512940081"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/SmPiHL"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768161512940081"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768161512940081</gphoto:id>
+    <gphoto:name>SmPiHL</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1275094073000</gphoto:timestamp>
+    <gphoto:numphotos>21</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jZjCFkuQUew/TagpfshrYjE/AAAAAAAAABw/GXX_CUPpaPM/SmPiHL.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jZjCFkuQUew/TagpfshrYjE/AAAAAAAAABw/GXX_CUPpaPM/s160-c/SmPiHL.jpg" height="160" width="160"/>
+      <media:title type="plain">愛宕山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768128143671921</id>
+    <published>2009-06-05T07:00:00.000Z</published>
+    <updated>2013-05-11T09:50:35.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">TQF2009</title>
+    <summary type="text">だいたいココに載ってる
+https://picasaweb.google.com/kucc.photo.2009/TQF2009#</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768128143671921"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/TQF2009"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768128143671921"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768128143671921</gphoto:id>
+    <gphoto:name>TQF2009</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1244185200000</gphoto:timestamp>
+    <gphoto:numphotos>31</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lcu2i52Ewro/TagpdwN0wnE/AAAAAAAAABU/lFKYdKOqaqc/TQF2009.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">だいたいココに載ってる
+https://picasaweb.google.com/kucc.photo.2009/TQF2009#</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lcu2i52Ewro/TagpdwN0wnE/AAAAAAAAABU/lFKYdKOqaqc/s160-c/TQF2009.jpg" height="160" width="160"/>
+      <media:title type="plain">TQF2009</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768126035300817</id>
+    <published>2009-01-15T23:51:15.000Z</published>
+    <updated>2013-05-12T05:56:27.535Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09雪合戦</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768126035300817"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/09"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768126035300817"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768126035300817</gphoto:id>
+    <gphoto:name>09</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1232063475000</gphoto:timestamp>
+    <gphoto:numphotos>11</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-91S3BiQYcPA/TagpdoXJkdE/AAAAAAAAABQ/KFK5gBJQPpg/09.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-91S3BiQYcPA/TagpdoXJkdE/AAAAAAAAABQ/KFK5gBJQPpg/s160-c/09.jpg" height="160" width="160"/>
+      <media:title type="plain">09雪合戦</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768099207829537</id>
+    <published>2008-11-20T23:54:10.000Z</published>
+    <updated>2013-05-11T09:50:31.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF南紀</title>
+    <summary type="text">お疲れさんでした</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768099207829537"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768099207829537"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768099207829537</gphoto:id>
+    <gphoto:name>NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1227225250000</gphoto:timestamp>
+    <gphoto:numphotos>151</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AoZIVrXqC54/TagpcEa-2CE/AAAAAAAACsE/vjmYTozbLiA/NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">お疲れさんでした</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AoZIVrXqC54/TagpcEa-2CE/AAAAAAAACsE/vjmYTozbLiA/s160-c/NF.jpg" height="160" width="160"/>
+      <media:title type="plain">NF南紀</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768111237955249</id>
+    <published>2008-09-26T15:01:44.000Z</published>
+    <updated>2013-05-11T09:50:33.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08TQ-Run</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768111237955249"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/08TQRun"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768111237955249"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768111237955249</gphoto:id>
+    <gphoto:name>08TQRun</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1222441304000</gphoto:timestamp>
+    <gphoto:numphotos>101</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-O2Vv5EUCNU0/TagpcxPL_rE/AAAAAAAAABI/oiAI-3TS7u4/08TQRun.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O2Vv5EUCNU0/TagpcxPL_rE/AAAAAAAAABI/oiAI-3TS7u4/s160-c/08TQRun.jpg" height="160" width="160"/>
+      <media:title type="plain">08TQ-Run</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768164594045073</id>
+    <published>2007-09-02T07:00:00.000Z</published>
+    <updated>2014-07-13T00:37:24.768Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">言い出せん</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768164594045073"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/TPjNyJ"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768164594045073"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768164594045073</gphoto:id>
+    <gphoto:name>TPjNyJ</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1188716400000</gphoto:timestamp>
+    <gphoto:numphotos>19</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kU-OZDGDOpA/Tagpf4ARUJE/AAAAAAAACtU/Ci97JfEn7KY/TPjNyJ.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kU-OZDGDOpA/Tagpf4ARUJE/AAAAAAAACtU/Ci97JfEn7KY/s160-c/TPjNyJ.jpg" height="160" width="160"/>
+      <media:title type="plain">言い出せん</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768160356122753</id>
+    <published>2007-03-23T00:26:25.000Z</published>
+    <updated>2013-05-11T09:50:39.978Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">07 春 大分</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768160356122753"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/07"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768160356122753"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768160356122753</gphoto:id>
+    <gphoto:name>07</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1174609585000</gphoto:timestamp>
+    <gphoto:numphotos>16</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-JcnkKMkTaho/TagpfoN3wIE/AAAAAAAAABs/Q09-IfV65r0/07.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JcnkKMkTaho/TagpfoN3wIE/AAAAAAAAABs/Q09-IfV65r0/s160-c/07.jpg" height="160" width="160"/>
+      <media:title type="plain">07 春 大分</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768153693451905</id>
+    <published>2007-02-19T08:00:00.000Z</published>
+    <updated>2013-07-01T13:06:45.502Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">自転車遍歴</title>
+    <summary type="text">お付き合いした相棒たち</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768153693451905"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/UkowOB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768153693451905"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768153693451905</gphoto:id>
+    <gphoto:name>UkowOB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1171872000000</gphoto:timestamp>
+    <gphoto:numphotos>10</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-adOBGixdges/TagpfPZXdoE/AAAAAAAABQg/hD9MDN1waKg/UkowOB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">お付き合いした相棒たち</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-adOBGixdges/TagpfPZXdoE/AAAAAAAABQg/hD9MDN1waKg/s160-c/UkowOB.jpg" height="160" width="160"/>
+      <media:title type="plain">自転車遍歴</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768137069812657</id>
+    <published>2000-02-22T08:00:00.000Z</published>
+    <updated>2015-01-08T13:18:10.148Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">猫</title>
+    <summary type="text">にゃー</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768137069812657"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/eMucYI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768137069812657"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768137069812657</gphoto:id>
+    <gphoto:name>eMucYI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>951206400000</gphoto:timestamp>
+    <gphoto:numphotos>92</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sUhuK7UvDNw/TagpeRd-27E/AAAAAAAAC2E/UhFvMVwmrRs/eMucYI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain">にゃー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sUhuK7UvDNw/TagpeRd-27E/AAAAAAAAC2E/UhFvMVwmrRs/s160-c/eMucYI.jpg" height="160" width="160"/>
+      <media:title type="plain">猫</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768121531898097</id>
+    <published>2000-01-01T08:00:00.000Z</published>
+    <updated>2013-07-12T01:26:27.740Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">雑多</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5595768121531898097"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/iMYFoB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5595768121531898097"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5595768121531898097</gphoto:id>
+    <gphoto:name>iMYFoB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>946713600000</gphoto:timestamp>
+    <gphoto:numphotos>72</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-f-bqW1iCIPs/TagpdXldGPE/AAAAAAAAByc/I2yApJN_BJM/iMYFoB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-f-bqW1iCIPs/TagpdXldGPE/AAAAAAAAByc/I2yApJN_BJM/s160-c/iMYFoB.jpg" height="160" width="160"/>
+      <media:title type="plain">雑多</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5684892069452966449</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2015-04-09T08:01:21.204Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116542640615960066334/albumid/5684892069452966449"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116542640615960066334/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116542640615960066334/albumid/5684892069452966449"/>
+    <author>
+      <name>A. Okuyama</name>
+      <uri>https://picasaweb.google.com/116542640615960066334</uri>
+    </author>
+    <gphoto:id>5684892069452966449</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>0</gphoto:timestamp>
+    <gphoto:numphotos>1</gphoto:numphotos>
+    <gphoto:user>116542640615960066334</gphoto:user>
+    <gphoto:nickname>A. Okuyama</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IpbPKWV9dI0/TuTLN6It6jE/AAAAAAAABHw/Nryk_wgb-AA/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>A. Okuyama</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IpbPKWV9dI0/TuTLN6It6jE/AAAAAAAABHw/Nryk_wgb-AA/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+</feed>

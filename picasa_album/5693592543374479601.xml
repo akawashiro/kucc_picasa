@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601</id>
+  <updated>2013-05-11T08:35:06.964Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2011-12-09(東京モーターショー)</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-6BCnB-ebSmY/TwO0QJOmEPE/AAAAAAAAH1E/1HXD68gwgDE/s160-c/20111209.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Yasuhiro Yabuuchi</name>
+    <uri>https://picasaweb.google.com/102496171775139139619</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>19</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5693592543374479601</gphoto:id>
+  <gphoto:name>20111209</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1323396550000</gphoto:timestamp>
+  <gphoto:numphotos>19</gphoto:numphotos>
+  <gphoto:user>102496171775139139619</gphoto:user>
+  <gphoto:nickname>Yasuhiro Yabuuchi</gphoto:nickname>
+  <gphoto:allowPrints>false</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592554937057826</id>
+    <published>2012-01-04T02:06:59.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096928.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-yuCvz1xc-7E/TwO0Q0TVAiI/AAAAAAAAHzc/9nynkZW5LXA/_C096928.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592554937057826"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592554937057826"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9Sq0qaVeYD7rCUJZc7zdjdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592554937057826"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592554937057826"/>
+    <gphoto:id>5693592554937057826</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>203917</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2655409f</gphoto:checksum>
+    <gphoto:timestamp>1323428950000</gphoto:timestamp>
+    <gphoto:imageVersion>7991</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323428950000</exif:time>
+      <exif:imageUniqueID>6135ceca8723e6f931a7b71114355eab</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yuCvz1xc-7E/TwO0Q0TVAiI/AAAAAAAAHzc/9nynkZW5LXA/_C096928.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yuCvz1xc-7E/TwO0Q0TVAiI/AAAAAAAAHzc/9nynkZW5LXA/s72/_C096928.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yuCvz1xc-7E/TwO0Q0TVAiI/AAAAAAAAHzc/9nynkZW5LXA/s144/_C096928.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yuCvz1xc-7E/TwO0Q0TVAiI/AAAAAAAAHzc/9nynkZW5LXA/s288/_C096928.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096928.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592583504967074</id>
+    <published>2012-01-04T02:07:05.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096929.JPG</title>
+    <summary type="text">小径車</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-htIrLzEudnw/TwO0SeuctaI/AAAAAAAAHzg/g63NxsHhCPo/_C096929.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592583504967074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592583504967074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/oOrJfNqwyxvyjt180DxJ19MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592583504967074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592583504967074"/>
+    <gphoto:id>5693592583504967074</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>249112</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2652e09f</gphoto:checksum>
+    <gphoto:timestamp>1323428966000</gphoto:timestamp>
+    <gphoto:imageVersion>7992</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323428966000</exif:time>
+      <exif:imageUniqueID>46735484a36b46153bb2739728ccf775</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-htIrLzEudnw/TwO0SeuctaI/AAAAAAAAHzg/g63NxsHhCPo/_C096929.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">小径車</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-htIrLzEudnw/TwO0SeuctaI/AAAAAAAAHzg/g63NxsHhCPo/s72/_C096929.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-htIrLzEudnw/TwO0SeuctaI/AAAAAAAAHzg/g63NxsHhCPo/s144/_C096929.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-htIrLzEudnw/TwO0SeuctaI/AAAAAAAAHzg/g63NxsHhCPo/s288/_C096929.JPG" height="288" width="216"/>
+      <media:title type="plain">_C096929.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592599004819890</id>
+    <published>2012-01-04T02:07:09.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096930.JPG</title>
+    <summary type="text">みんなの見方ハイエース</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-H9IVWsJuyh8/TwO0TYd5sbI/AAAAAAAAHzk/_tU0bonhI5Y/_C096930.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592599004819890"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592599004819890"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/WpowfMWqCZKcKwMENP1BxNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592599004819890"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592599004819890"/>
+    <gphoto:id>5693592599004819890</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>185965</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2653e09f</gphoto:checksum>
+    <gphoto:timestamp>1323429033000</gphoto:timestamp>
+    <gphoto:imageVersion>7993</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323429033000</exif:time>
+      <exif:imageUniqueID>116fed683293e362b55cb85dc0ed30e2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-H9IVWsJuyh8/TwO0TYd5sbI/AAAAAAAAHzk/_tU0bonhI5Y/_C096930.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">みんなの見方ハイエース</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H9IVWsJuyh8/TwO0TYd5sbI/AAAAAAAAHzk/_tU0bonhI5Y/s72/_C096930.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H9IVWsJuyh8/TwO0TYd5sbI/AAAAAAAAHzk/_tU0bonhI5Y/s144/_C096930.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H9IVWsJuyh8/TwO0TYd5sbI/AAAAAAAAHzk/_tU0bonhI5Y/s288/_C096930.JPG" height="288" width="216"/>
+      <media:title type="plain">_C096930.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592623748139602</id>
+    <published>2012-01-04T02:07:15.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096932.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-psumAScH8k4/TwO0U0pKylI/AAAAAAAAHzo/trVtdFrnvVA/_C096932.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592623748139602"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592623748139602"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1VOq0ZJAJYbQnS3RW9WjRdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592623748139602"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592623748139602"/>
+    <gphoto:id>5693592623748139602</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>213465</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>265ea09f</gphoto:checksum>
+    <gphoto:timestamp>1323429318000</gphoto:timestamp>
+    <gphoto:imageVersion>7994</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323429318000</exif:time>
+      <exif:imageUniqueID>603229713ecef9e6a0ad3071b71aacd7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-psumAScH8k4/TwO0U0pKylI/AAAAAAAAHzo/trVtdFrnvVA/_C096932.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-psumAScH8k4/TwO0U0pKylI/AAAAAAAAHzo/trVtdFrnvVA/s72/_C096932.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-psumAScH8k4/TwO0U0pKylI/AAAAAAAAHzo/trVtdFrnvVA/s144/_C096932.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-psumAScH8k4/TwO0U0pKylI/AAAAAAAAHzo/trVtdFrnvVA/s288/_C096932.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096932.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592642735371426</id>
+    <published>2012-01-04T02:07:19.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096933.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nUAzYYNhjVI/TwO0V7YE9KI/AAAAAAAAHzs/P-0MULh0FDQ/_C096933.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592642735371426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592642735371426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tISOKuL2hYhxrk9JkkhRcNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592642735371426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592642735371426"/>
+    <gphoto:id>5693592642735371426</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>274272</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>265f209f</gphoto:checksum>
+    <gphoto:timestamp>1323429396000</gphoto:timestamp>
+    <gphoto:imageVersion>7995</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1323429396000</exif:time>
+      <exif:imageUniqueID>ab34372591f54962235a9d49a5e5ac36</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nUAzYYNhjVI/TwO0V7YE9KI/AAAAAAAAHzs/P-0MULh0FDQ/_C096933.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nUAzYYNhjVI/TwO0V7YE9KI/AAAAAAAAHzs/P-0MULh0FDQ/s72/_C096933.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nUAzYYNhjVI/TwO0V7YE9KI/AAAAAAAAHzs/P-0MULh0FDQ/s144/_C096933.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nUAzYYNhjVI/TwO0V7YE9KI/AAAAAAAAHzs/P-0MULh0FDQ/s288/_C096933.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096933.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592664679651778</id>
+    <published>2012-01-04T02:07:24.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096935.JPG</title>
+    <summary type="text">充電コネクタ周りデカすぎ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Venw2xV0PoM/TwO0XNIAGcI/AAAAAAAAHzw/ZeFtVRrapRc/_C096935.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592664679651778"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592664679651778"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/05dMytVcAMkcjm1TRQ3pj9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592664679651778"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592664679651778"/>
+    <gphoto:id>5693592664679651778</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>118779</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>265c009f</gphoto:checksum>
+    <gphoto:timestamp>1323429779000</gphoto:timestamp>
+    <gphoto:imageVersion>7996</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323429779000</exif:time>
+      <exif:imageUniqueID>a756f0b8508426b3a2047ab59535b57a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Venw2xV0PoM/TwO0XNIAGcI/AAAAAAAAHzw/ZeFtVRrapRc/_C096935.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">充電コネクタ周りデカすぎ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Venw2xV0PoM/TwO0XNIAGcI/AAAAAAAAHzw/ZeFtVRrapRc/s72/_C096935.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Venw2xV0PoM/TwO0XNIAGcI/AAAAAAAAHzw/ZeFtVRrapRc/s144/_C096935.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Venw2xV0PoM/TwO0XNIAGcI/AAAAAAAAHzw/ZeFtVRrapRc/s288/_C096935.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096935.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592681115123090</id>
+    <published>2012-01-04T02:07:28.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096940.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-qxZOHRM6F-U/TwO0YKWhfZI/AAAAAAAAHz0/vsr7nOkR1tk/_C096940.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592681115123090"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592681115123090"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/d_mA_1cMgLIuOPTC3qQF9dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592681115123090"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592681115123090"/>
+    <gphoto:id>5693592681115123090</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>160230</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>265a409f</gphoto:checksum>
+    <gphoto:timestamp>1323430090000</gphoto:timestamp>
+    <gphoto:imageVersion>7997</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323430090000</exif:time>
+      <exif:imageUniqueID>be77973d43e47b28f70f85026bd978d8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qxZOHRM6F-U/TwO0YKWhfZI/AAAAAAAAHz0/vsr7nOkR1tk/_C096940.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qxZOHRM6F-U/TwO0YKWhfZI/AAAAAAAAHz0/vsr7nOkR1tk/s72/_C096940.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qxZOHRM6F-U/TwO0YKWhfZI/AAAAAAAAHz0/vsr7nOkR1tk/s144/_C096940.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qxZOHRM6F-U/TwO0YKWhfZI/AAAAAAAAHz0/vsr7nOkR1tk/s288/_C096940.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096940.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592702018437202</id>
+    <published>2012-01-04T02:07:33.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096947.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1Zw_yitUwDU/TwO0ZYOQwFI/AAAAAAAAHz4/hqppPoWLsa4/_C096947.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592702018437202"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592702018437202"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/RLIa90df3jKpgCy5WBAXMNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592702018437202"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592702018437202"/>
+    <gphoto:id>5693592702018437202</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>179352</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2658e09f</gphoto:checksum>
+    <gphoto:timestamp>1323430264000</gphoto:timestamp>
+    <gphoto:imageVersion>7998</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323430264000</exif:time>
+      <exif:imageUniqueID>5556ac88a803d05bc618122c0adf8d6b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1Zw_yitUwDU/TwO0ZYOQwFI/AAAAAAAAHz4/hqppPoWLsa4/_C096947.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1Zw_yitUwDU/TwO0ZYOQwFI/AAAAAAAAHz4/hqppPoWLsa4/s72/_C096947.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1Zw_yitUwDU/TwO0ZYOQwFI/AAAAAAAAHz4/hqppPoWLsa4/s144/_C096947.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1Zw_yitUwDU/TwO0ZYOQwFI/AAAAAAAAHz4/hqppPoWLsa4/s288/_C096947.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096947.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592718426897554</id>
+    <published>2012-01-04T02:07:37.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096981.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WroZryOqT38/TwO0aVWV_JI/AAAAAAAAHz8/LuXVKlHkFxE/_C096981.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592718426897554"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592718426897554"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9jiy68IsfsDlbfxTMhTcoNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592718426897554"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592718426897554"/>
+    <gphoto:id>5693592718426897554</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>169615</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2676c09f</gphoto:checksum>
+    <gphoto:timestamp>1323432327000</gphoto:timestamp>
+    <gphoto:imageVersion>7999</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323432327000</exif:time>
+      <exif:imageUniqueID>51b969001640c64542586f66daf26459</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WroZryOqT38/TwO0aVWV_JI/AAAAAAAAHz8/LuXVKlHkFxE/_C096981.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WroZryOqT38/TwO0aVWV_JI/AAAAAAAAHz8/LuXVKlHkFxE/s72/_C096981.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WroZryOqT38/TwO0aVWV_JI/AAAAAAAAHz8/LuXVKlHkFxE/s144/_C096981.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WroZryOqT38/TwO0aVWV_JI/AAAAAAAAHz8/LuXVKlHkFxE/s288/_C096981.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096981.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593834895236962</id>
+    <published>2012-01-04T02:11:57.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096984.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-P9MiK9r29XA/TwO1bUhI32I/AAAAAAAAH0w/CZ7k2UgVSzk/_C096984.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593834895236962"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693593834895236962"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DlvPzKVHwJR4h29H1KZTt9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593834895236962"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693593834895236962"/>
+    <gphoto:id>5693593834895236962</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.090909</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>149733</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2674209f</gphoto:checksum>
+    <gphoto:timestamp>1323432477000</gphoto:timestamp>
+    <gphoto:imageVersion>8012</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1323432477000</exif:time>
+      <exif:imageUniqueID>9caa995a19dcb4cc2ff738a8534ad147</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P9MiK9r29XA/TwO1bUhI32I/AAAAAAAAH0w/CZ7k2UgVSzk/_C096984.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P9MiK9r29XA/TwO1bUhI32I/AAAAAAAAH0w/CZ7k2UgVSzk/s72/_C096984.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P9MiK9r29XA/TwO1bUhI32I/AAAAAAAAH0w/CZ7k2UgVSzk/s144/_C096984.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P9MiK9r29XA/TwO1bUhI32I/AAAAAAAAH0w/CZ7k2UgVSzk/s288/_C096984.JPG" height="216" width="288"/>
+      <media:title type="plain">_C096984.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593860467288130</id>
+    <published>2012-01-04T02:12:03.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C096986.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_ND3VWlc8J4/TwO1czx_aEI/AAAAAAAAH00/xOocK6PqvzA/_C096986.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593860467288130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693593860467288130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KTkyQkwiKeN3tySXjdpVM9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593860467288130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693593860467288130"/>
+    <gphoto:id>5693593860467288130</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.181818</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>235627</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2675009f</gphoto:checksum>
+    <gphoto:timestamp>1323432607000</gphoto:timestamp>
+    <gphoto:imageVersion>8013</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323432607000</exif:time>
+      <exif:imageUniqueID>57094269c28017e273d59e7076189d29</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_ND3VWlc8J4/TwO1czx_aEI/AAAAAAAAH00/xOocK6PqvzA/_C096986.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ND3VWlc8J4/TwO1czx_aEI/AAAAAAAAH00/xOocK6PqvzA/s72/_C096986.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ND3VWlc8J4/TwO1czx_aEI/AAAAAAAAH00/xOocK6PqvzA/s144/_C096986.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ND3VWlc8J4/TwO1czx_aEI/AAAAAAAAH00/xOocK6PqvzA/s288/_C096986.JPG" height="288" width="216"/>
+      <media:title type="plain">_C096986.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592734306021602</id>
+    <published>2012-01-04T02:07:41.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097010.JPG</title>
+    <summary type="text">一度は使ってみたいKTC。ここだけ客層が違った</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4TyU4yQXQMk/TwO0bQgOMOI/AAAAAAAAH0A/oF7JSbXz88g/_C097010.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592734306021602"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592734306021602"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pdxCjobx83SOJ0o4MSPmJdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592734306021602"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592734306021602"/>
+    <gphoto:id>5693592734306021602</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.272727</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>141659</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>267b209f</gphoto:checksum>
+    <gphoto:timestamp>1323434403000</gphoto:timestamp>
+    <gphoto:imageVersion>8000</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1323434403000</exif:time>
+      <exif:imageUniqueID>0ba273918e6c7540467f8fc1bd6de320</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4TyU4yQXQMk/TwO0bQgOMOI/AAAAAAAAH0A/oF7JSbXz88g/_C097010.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">一度は使ってみたいKTC。ここだけ客層が違った</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4TyU4yQXQMk/TwO0bQgOMOI/AAAAAAAAH0A/oF7JSbXz88g/s72/_C097010.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4TyU4yQXQMk/TwO0bQgOMOI/AAAAAAAAH0A/oF7JSbXz88g/s144/_C097010.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4TyU4yQXQMk/TwO0bQgOMOI/AAAAAAAAH0A/oF7JSbXz88g/s288/_C097010.JPG" height="216" width="288"/>
+      <media:title type="plain">_C097010.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592757745891714</id>
+    <published>2012-01-04T02:07:46.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097011.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AOPDPilidsk/TwO0cn0uOYI/AAAAAAAAH0I/IVC3E1fOrbA/_C097011.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592757745891714"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592757745891714"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LPJVsA3gFanHnCiHU7B4BNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592757745891714"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592757745891714"/>
+    <gphoto:id>5693592757745891714</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.363636</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>170381</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2678609f</gphoto:checksum>
+    <gphoto:timestamp>1323434472000</gphoto:timestamp>
+    <gphoto:imageVersion>8002</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323434472000</exif:time>
+      <exif:imageUniqueID>2dc82033d8a04a312c7ab89827eeedd1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AOPDPilidsk/TwO0cn0uOYI/AAAAAAAAH0I/IVC3E1fOrbA/_C097011.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOPDPilidsk/TwO0cn0uOYI/AAAAAAAAH0I/IVC3E1fOrbA/s72/_C097011.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOPDPilidsk/TwO0cn0uOYI/AAAAAAAAH0I/IVC3E1fOrbA/s144/_C097011.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AOPDPilidsk/TwO0cn0uOYI/AAAAAAAAH0I/IVC3E1fOrbA/s288/_C097011.JPG" height="288" width="216"/>
+      <media:title type="plain">_C097011.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593876534177538</id>
+    <published>2012-01-04T02:12:06.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097019.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mVVRsvDhLpE/TwO1dvoorwI/AAAAAAAAH04/nv-GPzxp3cc/_C097019.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593876534177538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693593876534177538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/in7ds39W0eKIaIUNIJqNXNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593876534177538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693593876534177538"/>
+    <gphoto:id>5693593876534177538</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.454545</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>193776</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2684c09f</gphoto:checksum>
+    <gphoto:timestamp>1323435265000</gphoto:timestamp>
+    <gphoto:imageVersion>8014</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1323435265000</exif:time>
+      <exif:imageUniqueID>da648e391eb3341e183edc069f2c86de</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mVVRsvDhLpE/TwO1dvoorwI/AAAAAAAAH04/nv-GPzxp3cc/_C097019.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mVVRsvDhLpE/TwO1dvoorwI/AAAAAAAAH04/nv-GPzxp3cc/s72/_C097019.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mVVRsvDhLpE/TwO1dvoorwI/AAAAAAAAH04/nv-GPzxp3cc/s144/_C097019.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mVVRsvDhLpE/TwO1dvoorwI/AAAAAAAAH04/nv-GPzxp3cc/s288/_C097019.JPG" height="216" width="288"/>
+      <media:title type="plain">_C097019.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592781008767618</id>
+    <published>2012-01-04T02:07:51.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097024.JPG</title>
+    <summary type="text">フロントLefty、リアRighty</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xSdhK_2aZ4M/TwO0d-fBioI/AAAAAAAAH0M/fk603XyHPZE/_C097024.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592781008767618"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592781008767618"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YEr4O9pB93Lnj51C12nWZ9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592781008767618"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592781008767618"/>
+    <gphoto:id>5693592781008767618</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.545455</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>239859</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2680809f</gphoto:checksum>
+    <gphoto:timestamp>1323435775000</gphoto:timestamp>
+    <gphoto:imageVersion>8003</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323435775000</exif:time>
+      <exif:imageUniqueID>edf3c426a0fb8c159a3d8ee1462ead63</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xSdhK_2aZ4M/TwO0d-fBioI/AAAAAAAAH0M/fk603XyHPZE/_C097024.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">フロントLefty、リアRighty</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xSdhK_2aZ4M/TwO0d-fBioI/AAAAAAAAH0M/fk603XyHPZE/s72/_C097024.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xSdhK_2aZ4M/TwO0d-fBioI/AAAAAAAAH0M/fk603XyHPZE/s144/_C097024.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xSdhK_2aZ4M/TwO0d-fBioI/AAAAAAAAH0M/fk603XyHPZE/s288/_C097024.JPG" height="288" width="216"/>
+      <media:title type="plain">_C097024.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593517765517186</id>
+    <published>2012-01-04T02:10:43.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097030.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-65XlgU7WebM/TwO1I3HhX4I/AAAAAAAAH0o/rvUZ6NCdhl8/_C097030.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593517765517186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693593517765517186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/4e4A_wFBq6CQ-Z0U4rN9wdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593517765517186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693593517765517186"/>
+    <gphoto:id>5693593517765517186</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.636364</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>194082</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>268f209f</gphoto:checksum>
+    <gphoto:timestamp>1323436135000</gphoto:timestamp>
+    <gphoto:imageVersion>8010</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1323436135000</exif:time>
+      <exif:imageUniqueID>48ba8078c4d25c8f4419083f85f1a414</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-65XlgU7WebM/TwO1I3HhX4I/AAAAAAAAH0o/rvUZ6NCdhl8/_C097030.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-65XlgU7WebM/TwO1I3HhX4I/AAAAAAAAH0o/rvUZ6NCdhl8/s72/_C097030.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-65XlgU7WebM/TwO1I3HhX4I/AAAAAAAAH0o/rvUZ6NCdhl8/s144/_C097030.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-65XlgU7WebM/TwO1I3HhX4I/AAAAAAAAH0o/rvUZ6NCdhl8/s288/_C097030.JPG" height="216" width="288"/>
+      <media:title type="plain">_C097030.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593540087107474</id>
+    <published>2012-01-04T02:10:48.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097031.JPG</title>
+    <summary type="text">Tektro?</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XGUF1ndf_fQ/TwO1KKRZz5I/AAAAAAAAH0s/8QmD9pzreDg/_C097031.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593540087107474"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693593540087107474"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/K3RKW9JS4_5CNDwHyeabQ9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693593540087107474"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693593540087107474"/>
+    <gphoto:id>5693593540087107474</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.727273</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>161938</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>268c409f</gphoto:checksum>
+    <gphoto:timestamp>1323436150000</gphoto:timestamp>
+    <gphoto:imageVersion>8011</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323436150000</exif:time>
+      <exif:imageUniqueID>e0755e218aee3a40070b3f3f7ed48d66</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XGUF1ndf_fQ/TwO1KKRZz5I/AAAAAAAAH0s/8QmD9pzreDg/_C097031.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">Tektro?</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XGUF1ndf_fQ/TwO1KKRZz5I/AAAAAAAAH0s/8QmD9pzreDg/s72/_C097031.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XGUF1ndf_fQ/TwO1KKRZz5I/AAAAAAAAH0s/8QmD9pzreDg/s144/_C097031.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XGUF1ndf_fQ/TwO1KKRZz5I/AAAAAAAAH0s/8QmD9pzreDg/s288/_C097031.JPG" height="288" width="216"/>
+      <media:title type="plain">_C097031.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592797886683522</id>
+    <published>2012-01-04T02:07:55.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097037.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mzHTzMWdTLE/TwO0e9XCGYI/AAAAAAAAH0Q/0kpIKK-PLII/_C097037.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592797886683522"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592797886683522"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/wCBf1ynr-GUNkN42QnK9j9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592797886683522"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592797886683522"/>
+    <gphoto:id>5693592797886683522</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.818182</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>126943</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>268be09f</gphoto:checksum>
+    <gphoto:timestamp>1323436560000</gphoto:timestamp>
+    <gphoto:imageVersion>8004</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1323436560000</exif:time>
+      <exif:imageUniqueID>53244f64a8f66e630600ec110c7fd549</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mzHTzMWdTLE/TwO0e9XCGYI/AAAAAAAAH0Q/0kpIKK-PLII/_C097037.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzHTzMWdTLE/TwO0e9XCGYI/AAAAAAAAH0Q/0kpIKK-PLII/s72/_C097037.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzHTzMWdTLE/TwO0e9XCGYI/AAAAAAAAH0Q/0kpIKK-PLII/s144/_C097037.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mzHTzMWdTLE/TwO0e9XCGYI/AAAAAAAAH0Q/0kpIKK-PLII/s288/_C097037.JPG" height="216" width="288"/>
+      <media:title type="plain">_C097037.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592815050244386</id>
+    <published>2012-01-04T02:07:59.000Z</published>
+    <updated>2013-05-11T08:35:06.964Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">_C097039.JPG</title>
+    <summary type="text">ブレーキはBB7ですね。わかります。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--rxAT4iIsKw/TwO0f9TJQSI/AAAAAAAAH0U/766XMiwFAvE/_C097039.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592815050244386"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102496171775139139619/20111209#5693592815050244386"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/P-6Mig-YX6YfoXXhrMTrStMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102496171775139139619/albumid/5693592543374479601/photoid/5693592815050244386"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=102496171775139139619&amp;aid=5693592543374479601&amp;iid=5693592815050244386"/>
+    <gphoto:id>5693592815050244386</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.909091</gphoto:position>
+    <gphoto:albumid>5693592543374479601</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>239346</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2696609f</gphoto:checksum>
+    <gphoto:timestamp>1323436632000</gphoto:timestamp>
+    <gphoto:imageVersion>8005</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>OLYMPUS IMAGING CORP.</exif:make>
+      <exif:model>E-410</exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>25.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323436632000</exif:time>
+      <exif:imageUniqueID>ccd8d997563ab9947bc7e3a41a543e61</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--rxAT4iIsKw/TwO0f9TJQSI/AAAAAAAAH0U/766XMiwFAvE/_C097039.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Yasuhiro Yabuuchi</media:credit>
+      <media:description type="plain">ブレーキはBB7ですね。わかります。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--rxAT4iIsKw/TwO0f9TJQSI/AAAAAAAAH0U/766XMiwFAvE/s72/_C097039.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--rxAT4iIsKw/TwO0f9TJQSI/AAAAAAAAH0U/766XMiwFAvE/s144/_C097039.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--rxAT4iIsKw/TwO0f9TJQSI/AAAAAAAAH0U/766XMiwFAvE/s288/_C097039.JPG" height="216" width="288"/>
+      <media:title type="plain">_C097039.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

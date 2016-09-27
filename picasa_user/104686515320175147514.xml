@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/104686515320175147514</id>
+  <updated>2015-09-19T16:33:27.599Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">104686515320175147514</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-ssT7H2qxYic/AAAAAAAAAAI/AAAAAAAAAAA/B76FC5q3Dq4/s64-c/104686515320175147514.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104686515320175147514"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104686515320175147514"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/104686515320175147514?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104686515320175147514?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>松岡広大</name>
+    <uri>https://picasaweb.google.com/104686515320175147514</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>104686515320175147514</gphoto:user>
+  <gphoto:nickname>松岡広大</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-ssT7H2qxYic/AAAAAAAAAAI/AAAAAAAAAAA/B76FC5q3Dq4/s64-c/104686515320175147514.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104686515320175147514/albumid/6092623821232779105</id>
+    <published>2014-12-14T09:32:05.000Z</published>
+    <updated>2014-12-15T23:55:22.959Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ポス夏　台湾</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104686515320175147514/albumid/6092623821232779105"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104686515320175147514/VvrZbI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104686515320175147514/albumid/6092623821232779105"/>
+    <author>
+      <name>松岡広大</name>
+      <uri>https://picasaweb.google.com/104686515320175147514</uri>
+    </author>
+    <gphoto:id>6092623821232779105</gphoto:id>
+    <gphoto:name>VvrZbI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1418549525000</gphoto:timestamp>
+    <gphoto:numphotos>230</gphoto:numphotos>
+    <gphoto:user>104686515320175147514</gphoto:user>
+    <gphoto:nickname>松岡広大</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-uCddCldzTM8/VI1ZFdapr2E/AAAAAAAABZQ/s12eetPSE7Y/VvrZbI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>松岡広大</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-uCddCldzTM8/VI1ZFdapr2E/AAAAAAAABZQ/s12eetPSE7Y/s160-c/VvrZbI.jpg" height="160" width="160"/>
+      <media:title type="plain">ポス夏　台湾</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/104686515320175147514/albumid/5995023061835506465</id>
+    <published>2014-03-26T09:11:18.000Z</published>
+    <updated>2014-03-26T09:11:18.548Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/104686515320175147514/albumid/5995023061835506465"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/104686515320175147514/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/104686515320175147514/albumid/5995023061835506465"/>
+    <author>
+      <name>松岡広大</name>
+      <uri>https://picasaweb.google.com/104686515320175147514</uri>
+    </author>
+    <gphoto:id>5995023061835506465</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395825078000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>104686515320175147514</gphoto:user>
+    <gphoto:nickname>松岡広大</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-675YiC2duGs/UzKZtjT64yE/AAAAAAAAAAk/KpC49VzEfTE/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>松岡広大</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-675YiC2duGs/UzKZtjT64yE/AAAAAAAAAAk/KpC49VzEfTE/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+</feed>

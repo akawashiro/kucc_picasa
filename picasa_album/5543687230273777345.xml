@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345</id>
+  <updated>2014-10-13T08:13:36.169Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">09.1114 クラブラン(芹生)</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-oMQ0MB8wJwk/TO8iKgpWbsE/AAAAAAAAIXk/FC3b4lqFiKg/s160-c/091114.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>f Kawauchiya</name>
+    <uri>https://picasaweb.google.com/101432773461468347439</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>18</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5543687230273777345</gphoto:id>
+  <gphoto:name>091114</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1258185600000</gphoto:timestamp>
+  <gphoto:numphotos>18</gphoto:numphotos>
+  <gphoto:user>101432773461468347439</gphoto:user>
+  <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137540113294562</id>
+    <published>2010-01-16T01:05:26.000Z</published>
+    <updated>2014-06-18T03:09:00.688Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0193.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-RiTIrS5Cbwo/S1EQ1qmj5OI/AAAAAAAAIXg/NqMWj71PNBc/GEDC0193.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137540113294562"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137540113294562"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-Vu1nrKtkOqLyxBSUhyLrNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137540113294562"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137540113294562"/>
+    <gphoto:id>5427137540113294562</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>150142</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b4890020</gphoto:checksum>
+    <gphoto:timestamp>1257607688000</gphoto:timestamp>
+    <gphoto:imageVersion>8568</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.013513514</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607688000</exif:time>
+      <exif:imageUniqueID>ea1277f15784ea6a6b1d3d8de1b303fd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RiTIrS5Cbwo/S1EQ1qmj5OI/AAAAAAAAIXg/NqMWj71PNBc/GEDC0193.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RiTIrS5Cbwo/S1EQ1qmj5OI/AAAAAAAAIXg/NqMWj71PNBc/s72/GEDC0193.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RiTIrS5Cbwo/S1EQ1qmj5OI/AAAAAAAAIXg/NqMWj71PNBc/s144/GEDC0193.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RiTIrS5Cbwo/S1EQ1qmj5OI/AAAAAAAAIXg/NqMWj71PNBc/s288/GEDC0193.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0193.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137534929867266</id>
+    <published>2010-01-16T01:05:25.000Z</published>
+    <updated>2013-11-25T03:50:08.543Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0192.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-foxQP3gZdKE/S1EQ1XSvEgI/AAAAAAAABeE/d5_kaQvsNH8/GEDC0192.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137534929867266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137534929867266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sdoAiMmOcIjhOH19hBXbkNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137534929867266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137534929867266"/>
+    <gphoto:id>5427137534929867266</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>136295</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b48b8020</gphoto:checksum>
+    <gphoto:timestamp>1257607676000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.014084507</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607676000</exif:time>
+      <exif:imageUniqueID>199509d4eda2045bf65467060fafab52</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-foxQP3gZdKE/S1EQ1XSvEgI/AAAAAAAABeE/d5_kaQvsNH8/GEDC0192.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-foxQP3gZdKE/S1EQ1XSvEgI/AAAAAAAABeE/d5_kaQvsNH8/s72/GEDC0192.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-foxQP3gZdKE/S1EQ1XSvEgI/AAAAAAAABeE/d5_kaQvsNH8/s144/GEDC0192.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-foxQP3gZdKE/S1EQ1XSvEgI/AAAAAAAABeE/d5_kaQvsNH8/s288/GEDC0192.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0192.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137500739311586</id>
+    <published>2010-01-16T01:05:17.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0184.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ume_qjxeRkc/S1EQzX7El-I/AAAAAAAAIXc/GJaU2SjDHVQ/GEDC0184.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137500739311586"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137500739311586"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/eKAj4rClkbdMa9Xh-ssjndMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137500739311586"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137500739311586"/>
+    <gphoto:id>5427137500739311586</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>160121</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>afea4020</gphoto:checksum>
+    <gphoto:timestamp>1257598194000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.03125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257598194000</exif:time>
+      <exif:imageUniqueID>a6bfda86451159f91930381d0a278a32</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ume_qjxeRkc/S1EQzX7El-I/AAAAAAAAIXc/GJaU2SjDHVQ/GEDC0184.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ume_qjxeRkc/S1EQzX7El-I/AAAAAAAAIXc/GJaU2SjDHVQ/s72/GEDC0184.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ume_qjxeRkc/S1EQzX7El-I/AAAAAAAAIXc/GJaU2SjDHVQ/s144/GEDC0184.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ume_qjxeRkc/S1EQzX7El-I/AAAAAAAAIXc/GJaU2SjDHVQ/s288/GEDC0184.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0184.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137502923432514</id>
+    <published>2010-01-16T01:05:18.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0185.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xPKGXjrupDw/S1EQzgDzokI/AAAAAAAABeE/M1Qz0SWpENo/GEDC0185.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137502923432514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137502923432514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fOhDBgg-170h_dBB1Bi4fNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137502923432514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137502923432514"/>
+    <gphoto:id>5427137502923432514</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>139015</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b2f7c020</gphoto:checksum>
+    <gphoto:timestamp>1257604383000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.4</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.003058104</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257604383000</exif:time>
+      <exif:imageUniqueID>2e8d178bc67f290c43fe7fb1ea945984</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xPKGXjrupDw/S1EQzgDzokI/AAAAAAAABeE/M1Qz0SWpENo/GEDC0185.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPKGXjrupDw/S1EQzgDzokI/AAAAAAAABeE/M1Qz0SWpENo/s72/GEDC0185.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPKGXjrupDw/S1EQzgDzokI/AAAAAAAABeE/M1Qz0SWpENo/s144/GEDC0185.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xPKGXjrupDw/S1EQzgDzokI/AAAAAAAABeE/M1Qz0SWpENo/s288/GEDC0185.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0185.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137507900936338</id>
+    <published>2010-01-16T01:05:19.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0186.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3Z6ykWup6HI/S1EQzymiUJI/AAAAAAAABeE/B015sF8ohDM/GEDC0186.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137507900936338"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137507900936338"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/N5jABfAmtg9h-I-bxcstEdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137507900936338"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137507900936338"/>
+    <gphoto:id>5427137507900936338</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>78330</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b2f54020</gphoto:checksum>
+    <gphoto:timestamp>1257604395000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.4</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.0034482758</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>16.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257604395000</exif:time>
+      <exif:imageUniqueID>9b6ea01ac8306924ef9a314deb148122</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3Z6ykWup6HI/S1EQzymiUJI/AAAAAAAABeE/B015sF8ohDM/GEDC0186.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3Z6ykWup6HI/S1EQzymiUJI/AAAAAAAABeE/B015sF8ohDM/s72/GEDC0186.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3Z6ykWup6HI/S1EQzymiUJI/AAAAAAAABeE/B015sF8ohDM/s144/GEDC0186.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3Z6ykWup6HI/S1EQzymiUJI/AAAAAAAABeE/B015sF8ohDM/s288/GEDC0186.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0186.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137514021104866</id>
+    <published>2010-01-16T01:05:20.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0187.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-UhrAF7AeSoE/S1EQ0JZsrOI/AAAAAAAAIXc/b1KqvKjdsnw/GEDC0187.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137514021104866"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137514021104866"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/WNgCjH_cveP1MuM95TSfRtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137514021104866"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137514021104866"/>
+    <gphoto:id>5427137514021104866</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>99603</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b2f3c020</gphoto:checksum>
+    <gphoto:timestamp>1257604413000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.4</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.002793296</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.0</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257604413000</exif:time>
+      <exif:imageUniqueID>cd3d81bf942146bb9e04f95ece579b6b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-UhrAF7AeSoE/S1EQ0JZsrOI/AAAAAAAAIXc/b1KqvKjdsnw/GEDC0187.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UhrAF7AeSoE/S1EQ0JZsrOI/AAAAAAAAIXc/b1KqvKjdsnw/s72/GEDC0187.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UhrAF7AeSoE/S1EQ0JZsrOI/AAAAAAAAIXc/b1KqvKjdsnw/s144/GEDC0187.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UhrAF7AeSoE/S1EQ0JZsrOI/AAAAAAAAIXc/b1KqvKjdsnw/s288/GEDC0187.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0187.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137515987464290</id>
+    <published>2010-01-16T01:05:21.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0188.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--hXSQ5QKWRc/S1EQ0Qug8GI/AAAAAAAAIXc/O0py7bN_wz8/GEDC0188.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137515987464290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137515987464290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/P47-CFsrJz9hBi3gAk37KNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137515987464290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137515987464290"/>
+    <gphoto:id>5427137515987464290</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>119532</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b48e8020</gphoto:checksum>
+    <gphoto:timestamp>1257607637000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.008130081</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607637000</exif:time>
+      <exif:imageUniqueID>51a3bf33a49385f78409f9ebdfad8717</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--hXSQ5QKWRc/S1EQ0Qug8GI/AAAAAAAAIXc/O0py7bN_wz8/GEDC0188.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--hXSQ5QKWRc/S1EQ0Qug8GI/AAAAAAAAIXc/O0py7bN_wz8/s72/GEDC0188.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--hXSQ5QKWRc/S1EQ0Qug8GI/AAAAAAAAIXc/O0py7bN_wz8/s144/GEDC0188.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--hXSQ5QKWRc/S1EQ0Qug8GI/AAAAAAAAIXc/O0py7bN_wz8/s288/GEDC0188.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0188.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137488802289826</id>
+    <published>2010-01-16T01:05:14.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0181.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WORTIEtoESE/S1EQyrdEGKI/AAAAAAAABeE/5d34G4C1FsI/GEDC0181.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137488802289826"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137488802289826"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/R6p2FSTQYBbydu47Kq9zddMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137488802289826"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137488802289826"/>
+    <gphoto:id>5427137488802289826</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>177910</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ae328020</gphoto:checksum>
+    <gphoto:timestamp>1257594677000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.004761905</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257594677000</exif:time>
+      <exif:imageUniqueID>79250bd495158f03c0bd39a84760838f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WORTIEtoESE/S1EQyrdEGKI/AAAAAAAABeE/5d34G4C1FsI/GEDC0181.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WORTIEtoESE/S1EQyrdEGKI/AAAAAAAABeE/5d34G4C1FsI/s72/GEDC0181.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WORTIEtoESE/S1EQyrdEGKI/AAAAAAAABeE/5d34G4C1FsI/s144/GEDC0181.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WORTIEtoESE/S1EQyrdEGKI/AAAAAAAABeE/5d34G4C1FsI/s288/GEDC0181.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0181.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137492174512754</id>
+    <published>2010-01-16T01:05:15.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0182.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NTtcU8vTYMk/S1EQy4BEInI/AAAAAAAABeE/BbjOs_YMOBc/GEDC0182.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137492174512754"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137492174512754"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qJEncXbQd5_fRYLogUNrwNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137492174512754"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137492174512754"/>
+    <gphoto:id>5427137492174512754</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>189936</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>afef0020</gphoto:checksum>
+    <gphoto:timestamp>1257598168000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.010309278</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257598168000</exif:time>
+      <exif:imageUniqueID>b0195661fa6d867b457c529369b66494</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NTtcU8vTYMk/S1EQy4BEInI/AAAAAAAABeE/BbjOs_YMOBc/GEDC0182.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NTtcU8vTYMk/S1EQy4BEInI/AAAAAAAABeE/BbjOs_YMOBc/s72/GEDC0182.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NTtcU8vTYMk/S1EQy4BEInI/AAAAAAAABeE/BbjOs_YMOBc/s144/GEDC0182.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NTtcU8vTYMk/S1EQy4BEInI/AAAAAAAABeE/BbjOs_YMOBc/s288/GEDC0182.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0182.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137496370528354</id>
+    <published>2010-01-16T01:05:16.000Z</published>
+    <updated>2014-06-18T21:18:13.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0183.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8P7foJVqaas/S1EQzHpeQGI/AAAAAAAAIXk/uxAcxxhxwV0/GEDC0183.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137496370528354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137496370528354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9US7ruN7pAfITB6TnqOz59MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137496370528354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137496370528354"/>
+    <gphoto:id>5427137496370528354</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>144944</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>afefc020</gphoto:checksum>
+    <gphoto:timestamp>1257598174000</gphoto:timestamp>
+    <gphoto:imageVersion>8569</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.006849315</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257598174000</exif:time>
+      <exif:imageUniqueID>09ea5b4c080b62abdcd7512b3bad2fe7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8P7foJVqaas/S1EQzHpeQGI/AAAAAAAAIXk/uxAcxxhxwV0/GEDC0183.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8P7foJVqaas/S1EQzHpeQGI/AAAAAAAAIXk/uxAcxxhxwV0/s72/GEDC0183.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8P7foJVqaas/S1EQzHpeQGI/AAAAAAAAIXk/uxAcxxhxwV0/s144/GEDC0183.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8P7foJVqaas/S1EQzHpeQGI/AAAAAAAAIXk/uxAcxxhxwV0/s288/GEDC0183.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0183.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137474451650466</id>
+    <published>2010-01-16T01:05:11.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0178.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-aQetqgaudWs/S1EQx1_mt6I/AAAAAAAAIXc/Ue3CcnBcmb0/GEDC0178.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137474451650466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137474451650466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ab4lDUQF3UVx7H3PiZ-JtdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137474451650466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137474451650466"/>
+    <gphoto:id>5427137474451650466</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>159975</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ac4d8020</gphoto:checksum>
+    <gphoto:timestamp>1257590764000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.2</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257590764000</exif:time>
+      <exif:imageUniqueID>02b07af7eea0a5e56d27d3b286c750dc</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-aQetqgaudWs/S1EQx1_mt6I/AAAAAAAAIXc/Ue3CcnBcmb0/GEDC0178.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aQetqgaudWs/S1EQx1_mt6I/AAAAAAAAIXc/Ue3CcnBcmb0/s72/GEDC0178.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aQetqgaudWs/S1EQx1_mt6I/AAAAAAAAIXc/Ue3CcnBcmb0/s144/GEDC0178.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aQetqgaudWs/S1EQx1_mt6I/AAAAAAAAIXc/Ue3CcnBcmb0/s288/GEDC0178.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0178.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137478760047682</id>
+    <published>2010-01-16T01:05:12.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0179.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZTvrxziY4Zw/S1EQyGCzpEI/AAAAAAAAIXc/xvbnI0NUwcc/GEDC0179.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137478760047682"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137478760047682"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AjMFcX0PdASuN4_m2XrD5dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137478760047682"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137478760047682"/>
+    <gphoto:id>5427137478760047682</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>108688</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ac4b8020</gphoto:checksum>
+    <gphoto:timestamp>1257590780000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.0024752475</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>12.2</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257590780000</exif:time>
+      <exif:imageUniqueID>38cae03c40e4406601dc111fe1fdc546</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZTvrxziY4Zw/S1EQyGCzpEI/AAAAAAAAIXc/xvbnI0NUwcc/GEDC0179.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZTvrxziY4Zw/S1EQyGCzpEI/AAAAAAAAIXc/xvbnI0NUwcc/s72/GEDC0179.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZTvrxziY4Zw/S1EQyGCzpEI/AAAAAAAAIXc/xvbnI0NUwcc/s144/GEDC0179.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZTvrxziY4Zw/S1EQyGCzpEI/AAAAAAAAIXc/xvbnI0NUwcc/s288/GEDC0179.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0179.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137482461560066</id>
+    <published>2010-01-16T01:05:13.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0180.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mkQbbLK_Mqg/S1EQyT1UPQI/AAAAAAAABeE/XI9v3PVxbF0/GEDC0180.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137482461560066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137482461560066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/H7lgoxKxt4Oh2COj9tGwOdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137482461560066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137482461560066"/>
+    <gphoto:id>5427137482461560066</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>153921</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ac57c020</gphoto:checksum>
+    <gphoto:timestamp>1257590814000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.2</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257590814000</exif:time>
+      <exif:imageUniqueID>28e3fd51c9a73c897c8e1c706ce4a5fe</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mkQbbLK_Mqg/S1EQyT1UPQI/AAAAAAAABeE/XI9v3PVxbF0/GEDC0180.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mkQbbLK_Mqg/S1EQyT1UPQI/AAAAAAAABeE/XI9v3PVxbF0/s72/GEDC0180.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mkQbbLK_Mqg/S1EQyT1UPQI/AAAAAAAABeE/XI9v3PVxbF0/s144/GEDC0180.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mkQbbLK_Mqg/S1EQyT1UPQI/AAAAAAAABeE/XI9v3PVxbF0/s288/GEDC0180.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0180.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137543406641986</id>
+    <published>2010-01-16T01:05:27.000Z</published>
+    <updated>2014-06-18T03:09:00.688Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0195.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3vfXCRh0lzc/S1EQ123wY0I/AAAAAAAAIXg/nU14nMC2h1M/GEDC0195.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137543406641986"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137543406641986"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SNJWO3lbqW4pbwLyhnucsNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137543406641986"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137543406641986"/>
+    <gphoto:id>5427137543406641986</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>150174</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b4970020</gphoto:checksum>
+    <gphoto:timestamp>1257607704000</gphoto:timestamp>
+    <gphoto:imageVersion>8568</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1257607704000</exif:time>
+      <exif:imageUniqueID>e87e8289fd88ab6b750c83ca932172a3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3vfXCRh0lzc/S1EQ123wY0I/AAAAAAAAIXg/nU14nMC2h1M/GEDC0195.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3vfXCRh0lzc/S1EQ123wY0I/AAAAAAAAIXg/nU14nMC2h1M/s72/GEDC0195.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3vfXCRh0lzc/S1EQ123wY0I/AAAAAAAAIXg/nU14nMC2h1M/s144/GEDC0195.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3vfXCRh0lzc/S1EQ123wY0I/AAAAAAAAIXg/nU14nMC2h1M/s288/GEDC0195.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0195.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137524321449138</id>
+    <published>2010-01-16T01:05:22.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0189.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZxYuEILxHkw/S1EQ0vxfdLI/AAAAAAAABeE/abpQwcgvZbc/GEDC0189.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137524321449138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137524321449138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IV9dp5j4OdcFdS3j899LbNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137524321449138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137524321449138"/>
+    <gphoto:id>5427137524321449138</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>122976</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b48c0020</gphoto:checksum>
+    <gphoto:timestamp>1257607648000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.011904762</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607648000</exif:time>
+      <exif:imageUniqueID>981bb447038e7c2d39ff41122f948e7d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZxYuEILxHkw/S1EQ0vxfdLI/AAAAAAAABeE/abpQwcgvZbc/GEDC0189.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZxYuEILxHkw/S1EQ0vxfdLI/AAAAAAAABeE/abpQwcgvZbc/s72/GEDC0189.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZxYuEILxHkw/S1EQ0vxfdLI/AAAAAAAABeE/abpQwcgvZbc/s144/GEDC0189.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZxYuEILxHkw/S1EQ0vxfdLI/AAAAAAAABeE/abpQwcgvZbc/s288/GEDC0189.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0189.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137521941710594</id>
+    <published>2010-01-16T01:05:22.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0190.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_glrxbDeKfs/S1EQ0m6HhwI/AAAAAAAAIXc/_VaWxYDgPes/GEDC0190.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137521941710594"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137521941710594"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/BWHR5X9FmVXFSR6dACeMwNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137521941710594"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137521941710594"/>
+    <gphoto:id>5427137521941710594</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>145753</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b48d8020</gphoto:checksum>
+    <gphoto:timestamp>1257607660000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.019607844</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607660000</exif:time>
+      <exif:imageUniqueID>4a66ceb4334e25bc14337447fb773cf9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_glrxbDeKfs/S1EQ0m6HhwI/AAAAAAAAIXc/_VaWxYDgPes/GEDC0190.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_glrxbDeKfs/S1EQ0m6HhwI/AAAAAAAAIXc/_VaWxYDgPes/s72/GEDC0190.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_glrxbDeKfs/S1EQ0m6HhwI/AAAAAAAAIXc/_VaWxYDgPes/s144/GEDC0190.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_glrxbDeKfs/S1EQ0m6HhwI/AAAAAAAAIXc/_VaWxYDgPes/s288/GEDC0190.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0190.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137525711677362</id>
+    <published>2010-01-16T01:05:23.000Z</published>
+    <updated>2014-06-18T03:08:34.833Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0191.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9Lqw0CLz_Yw/S1EQ0088p7I/AAAAAAAAIXc/HPz8czl2JSk/GEDC0191.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137525711677362"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137525711677362"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/39dTgVEm6Mm34lOc0ve7RNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137525711677362"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137525711677362"/>
+    <gphoto:id>5427137525711677362</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>480</gphoto:width>
+    <gphoto:height>640</gphoto:height>
+    <gphoto:size>86670</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b48a8020</gphoto:checksum>
+    <gphoto:timestamp>1257607669000</gphoto:timestamp>
+    <gphoto:imageVersion>8567</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.019607844</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607669000</exif:time>
+      <exif:imageUniqueID>3a7aa3ed6de60072312f4d1dd29257c1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9Lqw0CLz_Yw/S1EQ0088p7I/AAAAAAAAIXc/HPz8czl2JSk/GEDC0191.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9Lqw0CLz_Yw/S1EQ0088p7I/AAAAAAAAIXc/HPz8czl2JSk/s72/GEDC0191.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9Lqw0CLz_Yw/S1EQ0088p7I/AAAAAAAAIXc/HPz8czl2JSk/s144/GEDC0191.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9Lqw0CLz_Yw/S1EQ0088p7I/AAAAAAAAIXc/HPz8czl2JSk/s288/GEDC0191.JPG" height="288" width="216"/>
+      <media:title type="plain">GEDC0191.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137538700367778</id>
+    <published>2010-01-16T01:05:26.000Z</published>
+    <updated>2013-05-11T18:40:12.724Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">GEDC0194.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-DPHZnoWOH8Q/S1EQ1lVsV6I/AAAAAAAABeE/T-f8LgVuDyc/GEDC0194.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137538700367778"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114#5427137538700367778"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uQtt-qdqrmPteNtpXEH1QdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345/photoid/5427137538700367778"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101432773461468347439&amp;aid=5543687230273777345&amp;iid=5427137538700367778"/>
+    <gphoto:id>5427137538700367778</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5543687230273777345</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>155372</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b489c020</gphoto:checksum>
+    <gphoto:timestamp>1257607694000</gphoto:timestamp>
+    <gphoto:imageVersion>1505</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>GENERAL IMAGING CO.    </exif:make>
+      <exif:model>A1050</exif:model>
+      <exif:exposure>0.008403362</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>6.4</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1257607694000</exif:time>
+      <exif:imageUniqueID>0b3a5094c15c3b7d8485d72f5815fb56</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DPHZnoWOH8Q/S1EQ1lVsV6I/AAAAAAAABeE/T-f8LgVuDyc/GEDC0194.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHZnoWOH8Q/S1EQ1lVsV6I/AAAAAAAABeE/T-f8LgVuDyc/s72/GEDC0194.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHZnoWOH8Q/S1EQ1lVsV6I/AAAAAAAABeE/T-f8LgVuDyc/s144/GEDC0194.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DPHZnoWOH8Q/S1EQ1lVsV6I/AAAAAAAABeE/T-f8LgVuDyc/s288/GEDC0194.JPG" height="216" width="288"/>
+      <media:title type="plain">GEDC0194.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

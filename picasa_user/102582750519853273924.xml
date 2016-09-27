@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/102582750519853273924</id>
+  <updated>2015-09-04T11:09:40.950Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">102582750519853273924</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-ad1qhtd9kD0/AAAAAAAAAAI/AAAAAAAAAAA/8LX95t12F70/s64-c/102582750519853273924.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/102582750519853273924?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>ysk oshima</name>
+    <uri>https://picasaweb.google.com/102582750519853273924</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>102582750519853273924</gphoto:user>
+  <gphoto:nickname>ysk oshima</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-ad1qhtd9kD0/AAAAAAAAAAI/AAAAAAAAAAA/8LX95t12F70/s64-c/102582750519853273924.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6082063293161449441</id>
+    <published>2014-11-15T22:31:51.000Z</published>
+    <updated>2014-11-17T03:50:45.866Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014/11/16</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/6082063293161449441"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/20141116"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6082063293161449441"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>6082063293161449441</gphoto:id>
+    <gphoto:name>20141116</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1416090711000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <gphoto:albumType>Buzz</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-g-qJbDQzLWE/VGfUV0pUp-E/AAAAAAAABv4/4h46ZSMehTE/20141116.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-g-qJbDQzLWE/VGfUV0pUp-E/AAAAAAAABv4/4h46ZSMehTE/s160-c/20141116.jpg" height="160" width="160"/>
+      <media:title type="plain">2014/11/16</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6081922222978415873</id>
+    <published>2014-11-15T13:20:44.000Z</published>
+    <updated>2014-11-15T13:49:11.701Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ソロワンデー鈴鹿スカイライン、鎌ヶ岳登山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/6081922222978415873"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/KxGMoK"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6081922222978415873"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>6081922222978415873</gphoto:id>
+    <gphoto:name>KxGMoK</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1416057644000</gphoto:timestamp>
+    <gphoto:numphotos>64</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Zkx_m7kFfKw/VGdUCdQuvQE/AAAAAAAABvA/UrQxgT11xkI/KxGMoK.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Zkx_m7kFfKw/VGdUCdQuvQE/AAAAAAAABvA/UrQxgT11xkI/s160-c/KxGMoK.jpg" height="160" width="160"/>
+      <media:title type="plain">ソロワンデー鈴鹿スカイライン、鎌ヶ岳登山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6063206272768461169</id>
+    <published>2014-09-08T11:38:16.000Z</published>
+    <updated>2014-09-26T07:39:11.363Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿九州2014</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/6063206272768461169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/2014"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6063206272768461169"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>6063206272768461169</gphoto:id>
+    <gphoto:name>2014</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1410176296000</gphoto:timestamp>
+    <gphoto:numphotos>212</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FabPPZlwbJs/VCTV-xhIyXE/AAAAAAAABjA/gO2kTvEm7zg/2014.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FabPPZlwbJs/VCTV-xhIyXE/AAAAAAAABjA/gO2kTvEm7zg/s160-c/2014.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿九州2014</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6044791930234844657</id>
+    <published>2014-08-07T11:35:50.000Z</published>
+    <updated>2014-08-07T12:20:52.278Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">曽爾高原のステマ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/6044791930234844657"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/eapuGJ"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6044791930234844657"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>6044791930234844657</gphoto:id>
+    <gphoto:name>eapuGJ</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1407411350000</gphoto:timestamp>
+    <gphoto:numphotos>9</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-27PB8FHEcSg/U-NqO97LtfE/AAAAAAAABHI/IPYyEEpcMH4/eapuGJ.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-27PB8FHEcSg/U-NqO97LtfE/AAAAAAAABHI/IPYyEEpcMH4/s160-c/eapuGJ.jpg" height="160" width="160"/>
+      <media:title type="plain">曽爾高原のステマ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6010153192622537345</id>
+    <published>2014-05-06T02:16:17.000Z</published>
+    <updated>2014-05-06T04:08:20.823Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014GW 東海ソロ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/6010153192622537345"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/2014GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/6010153192622537345"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>6010153192622537345</gphoto:id>
+    <gphoto:name>2014GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1399342577000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iDotnBB5hkA/U2hafEvyOoE/AAAAAAAABEY/eUJR0qYBjFk/2014GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iDotnBB5hkA/U2hafEvyOoE/AAAAAAAABEY/eUJR0qYBjFk/s160-c/2014GW.jpg" height="160" width="160"/>
+      <media:title type="plain">2014GW 東海ソロ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5997687984742492769</id>
+    <published>2014-04-02T11:32:20.000Z</published>
+    <updated>2014-04-02T14:10:06.600Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">山口～春合宿別府　ソロ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/5997687984742492769"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/fkrsFD"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5997687984742492769"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>5997687984742492769</gphoto:id>
+    <gphoto:name>fkrsFD</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1396438340000</gphoto:timestamp>
+    <gphoto:numphotos>146</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zO1Asf9EOkk/UzwRcew0amE/AAAAAAAAA6g/4h0MiuVowBQ/fkrsFD.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zO1Asf9EOkk/UzwRcew0amE/AAAAAAAAA6g/4h0MiuVowBQ/s160-c/fkrsFD.jpg" height="160" width="160"/>
+      <media:title type="plain">山口～春合宿別府　ソロ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5997638196320805985</id>
+    <published>2014-04-01T11:57:07.000Z</published>
+    <updated>2014-04-03T05:49:27.168Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2月春九州（ymmt企画）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/5997638196320805985"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/2Ymmt"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5997638196320805985"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>5997638196320805985</gphoto:id>
+    <gphoto:name>2Ymmt</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1396353427000</gphoto:timestamp>
+    <gphoto:numphotos>148</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BfcWwIKYIKk/UzvkKacEJGE/AAAAAAAAA5c/Yq-srNERqEM/2Ymmt.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BfcWwIKYIKk/UzvkKacEJGE/AAAAAAAAA5c/Yq-srNERqEM/s160-c/2Ymmt.jpg" height="160" width="160"/>
+      <media:title type="plain">2月春九州（ymmt企画）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5954541189070419329</id>
+    <published>2013-12-07T06:24:35.000Z</published>
+    <updated>2013-12-07T07:28:40.254Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">追いコンTTスタート　一部分</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/5954541189070419329"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5954541189070419329"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>5954541189070419329</gphoto:id>
+    <gphoto:name>TT</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1386397475000</gphoto:timestamp>
+    <gphoto:numphotos>17</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dpsUCp4-6Ag/UqLHqbb5dYE/AAAAAAAABmY/waheQpaYiz0/TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dpsUCp4-6Ag/UqLHqbb5dYE/AAAAAAAABmY/waheQpaYiz0/s160-c/TT.jpg" height="160" width="160"/>
+      <media:title type="plain">追いコンTTスタート　一部分</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5934415042972542225</id>
+    <published>2013-10-04T13:09:57.000Z</published>
+    <updated>2013-10-14T01:44:56.558Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿2013永井班（ヴェネツィア）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/102582750519853273924/albumid/5934415042972542225"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/102582750519853273924/2013"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/102582750519853273924/albumid/5934415042972542225"/>
+    <author>
+      <name>ysk oshima</name>
+      <uri>https://picasaweb.google.com/102582750519853273924</uri>
+    </author>
+    <gphoto:id>5934415042972542225</gphoto:id>
+    <gphoto:name>2013</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1380892197000</gphoto:timestamp>
+    <gphoto:numphotos>59</gphoto:numphotos>
+    <gphoto:user>102582750519853273924</gphoto:user>
+    <gphoto:nickname>ysk oshima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4deo9RNcZjY/UltHCioc5RE/AAAAAAAAAIY/7MJe2GQXUOg/2013.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>ysk oshima</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4deo9RNcZjY/UltHCioc5RE/AAAAAAAAAIY/7MJe2GQXUOg/s160-c/2013.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿2013永井班（ヴェネツィア）</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/111521380200679836503</id>
+  <updated>2015-07-03T10:39:44.703Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">111521380200679836503</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-zvtUGuOwlPg/AAAAAAAAAAI/AAAAAAAAAAA/F3Uo8JRa9IA/s64-c/111521380200679836503.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111521380200679836503"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111521380200679836503"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/111521380200679836503?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111521380200679836503?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Takayuki Ujiie</name>
+    <uri>https://picasaweb.google.com/111521380200679836503</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>111521380200679836503</gphoto:user>
+  <gphoto:nickname>Takayuki Ujiie</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-zvtUGuOwlPg/AAAAAAAAAAI/AAAAAAAAAAA/F3Uo8JRa9IA/s64-c/111521380200679836503.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111521380200679836503/albumid/5994626055384453217</id>
+    <published>2014-03-25T07:30:42.000Z</published>
+    <updated>2014-09-18T17:18:36.516Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111521380200679836503/albumid/5994626055384453217"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111521380200679836503/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111521380200679836503/albumid/5994626055384453217"/>
+    <author>
+      <name>Takayuki Ujiie</name>
+      <uri>https://picasaweb.google.com/111521380200679836503</uri>
+    </author>
+    <gphoto:id>5994626055384453217</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395732642000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>111521380200679836503</gphoto:user>
+    <gphoto:nickname>Takayuki Ujiie</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ruBJZomsQig/UzEwovB90GE/AAAAAAAABCc/9XwCsfhogt4/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Takayuki Ujiie</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ruBJZomsQig/UzEwovB90GE/AAAAAAAABCc/9XwCsfhogt4/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111521380200679836503/albumid/5808804307023487841</id>
+    <published>2012-11-10T08:00:00.000Z</published>
+    <updated>2013-05-10T22:52:09.812Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿2012@China</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111521380200679836503/albumid/5808804307023487841"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111521380200679836503/2012China"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111521380200679836503/albumid/5808804307023487841"/>
+    <author>
+      <name>Takayuki Ujiie</name>
+      <uri>https://picasaweb.google.com/111521380200679836503</uri>
+    </author>
+    <gphoto:id>5808804307023487841</gphoto:id>
+    <gphoto:name>2012China</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1352534400000</gphoto:timestamp>
+    <gphoto:numphotos>495</gphoto:numphotos>
+    <gphoto:user>111521380200679836503</gphoto:user>
+    <gphoto:nickname>Takayuki Ujiie</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-EyMBw73zuGM/UJ0Evank42E/AAAAAAAABC0/px2uuQTAT1A/2012China.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Takayuki Ujiie</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EyMBw73zuGM/UJ0Evank42E/AAAAAAAABC0/px2uuQTAT1A/s160-c/2012China.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿2012@China</media:title>
+    </media:group>
+  </entry>
+</feed>

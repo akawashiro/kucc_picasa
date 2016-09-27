@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985</id>
+  <updated>2013-05-11T22:09:33.947Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">20100730スイカ</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-cvU2LUTLgDM/TFQfP9K1e7E/AAAAAAAADhE/-eYu5V-Kf5c/s160-c/20100730.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>ima yau</name>
+    <uri>https://picasaweb.google.com/110285154028398714884</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>10</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5500055403904727985</gphoto:id>
+  <gphoto:name>20100730</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1280490696000</gphoto:timestamp>
+  <gphoto:numphotos>10</gphoto:numphotos>
+  <gphoto:user>110285154028398714884</gphoto:user>
+  <gphoto:nickname>ima yau</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055409816123890</id>
+    <published>2010-07-31T13:04:01.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6867.JPG</title>
+    <summary type="text">西瓜</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2f5gDD0fdAg/TFQfQTMOOfI/AAAAAAAADgc/hp0D3hQLkbU/IMG_6867.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055409816123890"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055409816123890"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/cBgO1gk_wePF3HyLAipmB9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055409816123890"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055409816123890"/>
+    <gphoto:id>5500055409816123890</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>219802</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6a92404c</gphoto:checksum>
+    <gphoto:timestamp>1280524851000</gphoto:timestamp>
+    <gphoto:imageVersion>3591</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280524851000</exif:time>
+      <exif:imageUniqueID>c57334459c6dbbe98a92766210816789</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2f5gDD0fdAg/TFQfQTMOOfI/AAAAAAAADgc/hp0D3hQLkbU/IMG_6867.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">西瓜</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2f5gDD0fdAg/TFQfQTMOOfI/AAAAAAAADgc/hp0D3hQLkbU/s72/IMG_6867.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2f5gDD0fdAg/TFQfQTMOOfI/AAAAAAAADgc/hp0D3hQLkbU/s144/IMG_6867.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2f5gDD0fdAg/TFQfQTMOOfI/AAAAAAAADgc/hp0D3hQLkbU/s288/IMG_6867.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6867.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055419563625618</id>
+    <published>2010-07-31T13:04:03.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6857.JPG</title>
+    <summary type="text">スイカ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Mh1iRXE97mA/TFQfQ3gNTJI/AAAAAAAADgg/JzABCLC93IY/IMG_6857.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055419563625618"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055419563625618"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Ga6OvzpPkHvKdT9iHvdYFtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055419563625618"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055419563625618"/>
+    <gphoto:id>5500055419563625618</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>187866</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>69bf004c</gphoto:checksum>
+    <gphoto:timestamp>1280523096000</gphoto:timestamp>
+    <gphoto:imageVersion>3592</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.02</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280523096000</exif:time>
+      <exif:imageUniqueID>4cea542d6928ba1d259e050cb0cccfeb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Mh1iRXE97mA/TFQfQ3gNTJI/AAAAAAAADgg/JzABCLC93IY/IMG_6857.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">スイカ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Mh1iRXE97mA/TFQfQ3gNTJI/AAAAAAAADgg/JzABCLC93IY/s72/IMG_6857.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Mh1iRXE97mA/TFQfQ3gNTJI/AAAAAAAADgg/JzABCLC93IY/s144/IMG_6857.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Mh1iRXE97mA/TFQfQ3gNTJI/AAAAAAAADgg/JzABCLC93IY/s288/IMG_6857.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6857.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055423540067058</id>
+    <published>2010-07-31T13:04:04.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6864.JPG</title>
+    <summary type="text">すいか</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7v6LjkmxYYg/TFQfRGUQ-vI/AAAAAAAADgk/G9cy2Q-hkGY/IMG_6864.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055423540067058"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055423540067058"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/96kN3m005HhDe6E3nXUQhNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055423540067058"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055423540067058"/>
+    <gphoto:id>5500055423540067058</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>870</gphoto:width>
+    <gphoto:height>1153</gphoto:height>
+    <gphoto:size>93301</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>a8d45a77</gphoto:checksum>
+    <gphoto:timestamp>1280523175000</gphoto:timestamp>
+    <gphoto:imageVersion>3593</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280523175000</exif:time>
+      <exif:imageUniqueID>b6a61fdd9273cceac654cc7d0bfc4772</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7v6LjkmxYYg/TFQfRGUQ-vI/AAAAAAAADgk/G9cy2Q-hkGY/IMG_6864.JPG" height="512" width="387" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">すいか</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7v6LjkmxYYg/TFQfRGUQ-vI/AAAAAAAADgk/G9cy2Q-hkGY/s72/IMG_6864.JPG" height="72" width="55"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7v6LjkmxYYg/TFQfRGUQ-vI/AAAAAAAADgk/G9cy2Q-hkGY/s144/IMG_6864.JPG" height="144" width="109"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7v6LjkmxYYg/TFQfRGUQ-vI/AAAAAAAADgk/G9cy2Q-hkGY/s288/IMG_6864.JPG" height="288" width="218"/>
+      <media:title type="plain">IMG_6864.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055434491416802</id>
+    <published>2010-07-31T13:04:06.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6898.JPG</title>
+    <summary type="text">Suica</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-s5r8BZUiNqY/TFQfRvHRUOI/AAAAAAAADgo/Zouba0Pv2nc/IMG_6898.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055434491416802"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055434491416802"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/rtb-majPrHNOVVZTgpG6ltMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055434491416802"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055434491416802"/>
+    <gphoto:id>5500055434491416802</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>97236</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>958b004c</gphoto:checksum>
+    <gphoto:timestamp>1280612856000</gphoto:timestamp>
+    <gphoto:imageVersion>3594</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.1</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280612856000</exif:time>
+      <exif:imageUniqueID>ef2a11653c8eb2ed37034d98a1d312ad</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-s5r8BZUiNqY/TFQfRvHRUOI/AAAAAAAADgo/Zouba0Pv2nc/IMG_6898.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">Suica</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s5r8BZUiNqY/TFQfRvHRUOI/AAAAAAAADgo/Zouba0Pv2nc/s72/IMG_6898.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s5r8BZUiNqY/TFQfRvHRUOI/AAAAAAAADgo/Zouba0Pv2nc/s144/IMG_6898.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s5r8BZUiNqY/TFQfRvHRUOI/AAAAAAAADgo/Zouba0Pv2nc/s288/IMG_6898.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6898.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055438340870050</id>
+    <published>2010-07-31T13:04:07.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6879.JPG</title>
+    <summary type="text">スイカ!?</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-tKNEHhG_M94/TFQfR9dDT6I/AAAAAAAADgs/AqwVZCs8utg/IMG_6879.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055438340870050"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055438340870050"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Ha16B2C2D7jKJG6RLxYyftMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055438340870050"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055438340870050"/>
+    <gphoto:id>5500055438340870050</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>131515</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6bbf004c</gphoto:checksum>
+    <gphoto:timestamp>1280527192000</gphoto:timestamp>
+    <gphoto:imageVersion>3595</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.06666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>15.434</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280527192000</exif:time>
+      <exif:imageUniqueID>75a9aa69f615e6e82f825174dac43903</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-tKNEHhG_M94/TFQfR9dDT6I/AAAAAAAADgs/AqwVZCs8utg/IMG_6879.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">スイカ!?</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tKNEHhG_M94/TFQfR9dDT6I/AAAAAAAADgs/AqwVZCs8utg/s72/IMG_6879.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tKNEHhG_M94/TFQfR9dDT6I/AAAAAAAADgs/AqwVZCs8utg/s144/IMG_6879.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-tKNEHhG_M94/TFQfR9dDT6I/AAAAAAAADgs/AqwVZCs8utg/s288/IMG_6879.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6879.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055444454139490</id>
+    <published>2010-07-31T13:04:09.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6873.JPG</title>
+    <summary type="text">豪快なる皮むき</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-wtpRU5Oz-Dg/TFQfSUOkZmI/AAAAAAAADgw/eU07zNA3BCo/IMG_6873.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055444454139490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055444454139490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ML9px1_CnTqKzwCtsSTsL9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055444454139490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055444454139490"/>
+    <gphoto:id>5500055444454139490</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>170687</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6bae804c</gphoto:checksum>
+    <gphoto:timestamp>1280527060000</gphoto:timestamp>
+    <gphoto:imageVersion>3596</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.753</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280527060000</exif:time>
+      <exif:imageUniqueID>08bd66562a33a48bcd720eb7afd31b91</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wtpRU5Oz-Dg/TFQfSUOkZmI/AAAAAAAADgw/eU07zNA3BCo/IMG_6873.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">豪快なる皮むき</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wtpRU5Oz-Dg/TFQfSUOkZmI/AAAAAAAADgw/eU07zNA3BCo/s72/IMG_6873.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wtpRU5Oz-Dg/TFQfSUOkZmI/AAAAAAAADgw/eU07zNA3BCo/s144/IMG_6873.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wtpRU5Oz-Dg/TFQfSUOkZmI/AAAAAAAADgw/eU07zNA3BCo/s288/IMG_6873.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6873.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055448009559490</id>
+    <published>2010-07-31T13:04:10.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6884.JPG</title>
+    <summary type="text">。。。。。ん？そのローソクは仏壇などで使うやつでは？</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-I2g0R_v8rq8/TFQfShePzcI/AAAAAAAADg0/AZyO1lYqAOU/IMG_6884.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055448009559490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055448009559490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/LN9WxczCpmxZfGXa__14tNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055448009559490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055448009559490"/>
+    <gphoto:id>5500055448009559490</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>165977</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c12004c</gphoto:checksum>
+    <gphoto:timestamp>1280527921000</gphoto:timestamp>
+    <gphoto:imageVersion>3597</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.033333335</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280527921000</exif:time>
+      <exif:imageUniqueID>c829c75ab0aa8cfb98f7f20f05d6ea2b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-I2g0R_v8rq8/TFQfShePzcI/AAAAAAAADg0/AZyO1lYqAOU/IMG_6884.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">。。。。。ん？そのローソクは仏壇などで使うやつでは？</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-I2g0R_v8rq8/TFQfShePzcI/AAAAAAAADg0/AZyO1lYqAOU/s72/IMG_6884.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-I2g0R_v8rq8/TFQfShePzcI/AAAAAAAADg0/AZyO1lYqAOU/s144/IMG_6884.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-I2g0R_v8rq8/TFQfShePzcI/AAAAAAAADg0/AZyO1lYqAOU/s288/IMG_6884.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6884.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055453546885266</id>
+    <published>2010-07-31T13:04:11.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6887.JPG</title>
+    <summary type="text">スイカケーキ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bT5H2Th6gLo/TFQfS2GcsJI/AAAAAAAADg4/RWHdtw9X9zw/IMG_6887.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055453546885266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055453546885266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HDsymO-snQNqhQ5S_AM55NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055453546885266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055453546885266"/>
+    <gphoto:id>5500055453546885266</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>93964</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c26804c</gphoto:checksum>
+    <gphoto:timestamp>1280528021000</gphoto:timestamp>
+    <gphoto:imageVersion>3598</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1280528021000</exif:time>
+      <exif:imageUniqueID>8e4a19f10167673950004f4572e960be</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bT5H2Th6gLo/TFQfS2GcsJI/AAAAAAAADg4/RWHdtw9X9zw/IMG_6887.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">スイカケーキ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bT5H2Th6gLo/TFQfS2GcsJI/AAAAAAAADg4/RWHdtw9X9zw/s72/IMG_6887.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bT5H2Th6gLo/TFQfS2GcsJI/AAAAAAAADg4/RWHdtw9X9zw/s144/IMG_6887.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bT5H2Th6gLo/TFQfS2GcsJI/AAAAAAAADg4/RWHdtw9X9zw/s288/IMG_6887.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6887.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055457601349426</id>
+    <published>2010-07-31T13:04:12.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6890.JPG</title>
+    <summary type="text">うむ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-y_57izRSZjg/TFQfTFNG5zI/AAAAAAAADg8/8zeQpvI3yg0/IMG_6890.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055457601349426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055457601349426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QS2kLE_EHcikhDiCVodpDdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055457601349426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055457601349426"/>
+    <gphoto:id>5500055457601349426</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>162564</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c23804c</gphoto:checksum>
+    <gphoto:timestamp>1280528060000</gphoto:timestamp>
+    <gphoto:imageVersion>3599</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280528060000</exif:time>
+      <exif:imageUniqueID>98b1a40f6ce926b68d5cd03dbcf37558</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-y_57izRSZjg/TFQfTFNG5zI/AAAAAAAADg8/8zeQpvI3yg0/IMG_6890.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">うむ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-y_57izRSZjg/TFQfTFNG5zI/AAAAAAAADg8/8zeQpvI3yg0/s72/IMG_6890.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-y_57izRSZjg/TFQfTFNG5zI/AAAAAAAADg8/8zeQpvI3yg0/s144/IMG_6890.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-y_57izRSZjg/TFQfTFNG5zI/AAAAAAAADg8/8zeQpvI3yg0/s288/IMG_6890.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6890.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055468970811922</id>
+    <published>2010-07-31T13:04:14.000Z</published>
+    <updated>2013-05-11T22:09:33.947Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_6892.JPG</title>
+    <summary type="text">今回使われたスイカは、スタッフがすべておいしくいただきました</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YVVXWHp2wJ4/TFQfTvjzIhI/AAAAAAAADhE/gVP2hsnNxis/IMG_6892.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055468970811922"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/110285154028398714884/20100730#5500055468970811922"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/H3vg6exUmfNeKajZ15UGX9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/110285154028398714884/albumid/5500055403904727985/photoid/5500055468970811922"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=110285154028398714884&amp;aid=5500055403904727985&amp;iid=5500055468970811922"/>
+    <gphoto:id>5500055468970811922</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5500055403904727985</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>197297</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c2b804c</gphoto:checksum>
+    <gphoto:timestamp>1280528125000</gphoto:timestamp>
+    <gphoto:imageVersion>3601</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>Canon</exif:make>
+      <exif:model>Canon IXY DIGITAL 820 IS</exif:model>
+      <exif:exposure>0.04</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.6</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1280528125000</exif:time>
+      <exif:imageUniqueID>14cd625f2f195ce147553c9685641589</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YVVXWHp2wJ4/TFQfTvjzIhI/AAAAAAAADhE/gVP2hsnNxis/IMG_6892.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>ima yau</media:credit>
+      <media:description type="plain">今回使われたスイカは、スタッフがすべておいしくいただきました</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YVVXWHp2wJ4/TFQfTvjzIhI/AAAAAAAADhE/gVP2hsnNxis/s72/IMG_6892.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YVVXWHp2wJ4/TFQfTvjzIhI/AAAAAAAADhE/gVP2hsnNxis/s144/IMG_6892.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YVVXWHp2wJ4/TFQfTvjzIhI/AAAAAAAADhE/gVP2hsnNxis/s288/IMG_6892.JPG" height="216" width="288"/>
+      <media:title type="plain">IMG_6892.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

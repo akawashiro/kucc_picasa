@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/njun.greece</id>
+  <updated>2015-05-19T02:36:23.046Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">njun.greece</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-5zx5wFzeaTY/AAAAAAAAAAA/AAAAAAAAAAA/0W5YZ4_otvo/s64-c/njun.greece.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/njun.greece?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>njun.greece</name>
+    <uri>https://picasaweb.google.com/njun.greece</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>12</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>njun.greece</gphoto:user>
+  <gphoto:nickname>njun.greece</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-5zx5wFzeaTY/AAAAAAAAAAA/AAAAAAAAAAA/0W5YZ4_otvo/s64-c/njun.greece.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315456343195162161</id>
+    <published>2009-03-16T07:00:00.000Z</published>
+    <updated>2013-05-12T09:06:26.912Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 12 - Athens</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315456343195162161"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece12Athens"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315456343195162161"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315456343195162161</gphoto:id>
+    <gphoto:name>Greece12Athens</gphoto:name>
+    <gphoto:location>Athens</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1237186800000</gphoto:timestamp>
+    <gphoto:numphotos>273</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-33yzj-lTyOA/ScRLYbM-ljE/AAAAAAAADjY/e2rtwhISuVY/Greece12Athens.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-33yzj-lTyOA/ScRLYbM-ljE/AAAAAAAADjY/e2rtwhISuVY/s160-c/Greece12Athens.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 12 - Athens</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.9374027 23.6650526</gml:lowerCorner>
+        <gml:upperCorner>38.0209573 23.7682412</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.97918 23.7166469</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315199073534199153</id>
+    <published>2009-03-13T07:00:00.000Z</published>
+    <updated>2013-05-12T09:06:24.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 11 - Meteora</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315199073534199153"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece11Meteora"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315199073534199153"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315199073534199153</gphoto:id>
+    <gphoto:name>Greece11Meteora</gphoto:name>
+    <gphoto:location>Meteora</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236927600000</gphoto:timestamp>
+    <gphoto:numphotos>219</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2YwLq-G1PSc/ScNhZXB9xXE/AAAAAAAADlI/2It8NC1c5fg/Greece11Meteora.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2YwLq-G1PSc/ScNhZXB9xXE/AAAAAAAADlI/2It8NC1c5fg/s160-c/Greece11Meteora.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 11 - Meteora</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>39.7732999 21.572</gml:lowerCorner>
+        <gml:upperCorner>39.7932999 21.628</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>39.7832999 21.6</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315196254257928785</id>
+    <published>2009-03-12T07:00:00.000Z</published>
+    <updated>2013-05-12T09:06:22.579Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 10 - Delphi</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315196254257928785"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece10Delphi"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315196254257928785"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315196254257928785</gphoto:id>
+    <gphoto:name>Greece10Delphi</gphoto:name>
+    <gphoto:location>Delphi</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236841200000</gphoto:timestamp>
+    <gphoto:numphotos>158</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P0SlaJn57XE/ScNe1QaH2lE/AAAAAAAADmo/J72fZLFQw4M/Greece10Delphi.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P0SlaJn57XE/ScNe1QaH2lE/AAAAAAAADmo/J72fZLFQw4M/s160-c/Greece10Delphi.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 10 - Delphi</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>38.4228902 22.4231841</gml:lowerCorner>
+        <gml:upperCorner>38.5411497 22.5560218</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>38.48202 22.489603</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315175317621068849</id>
+    <published>2009-03-10T07:00:00.000Z</published>
+    <updated>2013-05-12T09:06:20.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 9 - Olympia</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315175317621068849"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece9Olympia"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315175317621068849"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315175317621068849</gphoto:id>
+    <gphoto:name>Greece9Olympia</gphoto:name>
+    <gphoto:location>Olympia</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236668400000</gphoto:timestamp>
+    <gphoto:numphotos>106</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rAvFjHxmfxg/ScNLylW6VDE/AAAAAAAADn4/JpnZ7ONGPEI/Greece9Olympia.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rAvFjHxmfxg/ScNLylW6VDE/AAAAAAAADn4/JpnZ7ONGPEI/s160-c/Greece9Olympia.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 9 - Olympia</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.628056 21.602556</gml:lowerCorner>
+        <gml:upperCorner>37.6480559 21.6585559</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.638056 21.630556</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315173068584395665</id>
+    <published>2009-03-09T07:00:00.000Z</published>
+    <updated>2013-05-12T09:06:18.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 8 - Mistra</title>
+    <summary type="text">Sparti, Mistra and finally Megalopoli.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315173068584395665"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece8Mistra"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315173068584395665"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315173068584395665</gphoto:id>
+    <gphoto:name>Greece8Mistra</gphoto:name>
+    <gphoto:location>Mistra</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236582000000</gphoto:timestamp>
+    <gphoto:numphotos>102</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-De7XcMGYLFc/ScNJvrCyI5E/AAAAAAAADNI/lUsx22g0j8s/Greece8Mistra.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">Sparti, Mistra and finally Megalopoli.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-De7XcMGYLFc/ScNJvrCyI5E/AAAAAAAADNI/lUsx22g0j8s/s160-c/Greece8Mistra.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 8 - Mistra</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.0069976 22.2979165</gml:lowerCorner>
+        <gml:upperCorner>37.1304824 22.4518154</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.06874 22.374866</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315171884670476193</id>
+    <published>2009-03-08T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:16.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 7 - Sparti</title>
+    <summary type="text">Long way to Sparti from Nafplion.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315171884670476193"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece7Sparti"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315171884670476193"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315171884670476193</gphoto:id>
+    <gphoto:name>Greece7Sparti</gphoto:name>
+    <gphoto:location>Sparti</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236499200000</gphoto:timestamp>
+    <gphoto:numphotos>62</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ktwblf8rurE/ScNIqwntX6E/AAAAAAAADn0/VKCzDOw1SzM/Greece7Sparti.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">Long way to Sparti from Nafplion.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ktwblf8rurE/ScNIqwntX6E/AAAAAAAADn0/VKCzDOw1SzM/s160-c/Greece7Sparti.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 7 - Sparti</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.0348981 22.4029368</gml:lowerCorner>
+        <gml:upperCorner>37.1137038 22.4622311</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.074301 22.432584</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315168419021700209</id>
+    <published>2009-03-07T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:14.579Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 6 - Mykene</title>
+    <summary type="text">Peloponnese STAGE starts.
+Korinthos, Mykene and finally Nafplion.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315168419021700209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece6Mykene"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315168419021700209"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315168419021700209</gphoto:id>
+    <gphoto:name>Greece6Mykene</gphoto:name>
+    <gphoto:location>Mykene</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236412800000</gphoto:timestamp>
+    <gphoto:numphotos>174</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-znLnhT4_UvY/ScNFhCEpvHE/AAAAAAAANY4/aXFFINR-KtQ/Greece6Mykene.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">Peloponnese STAGE starts.
+Korinthos, Mykene and finally Nafplion.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-znLnhT4_UvY/ScNFhCEpvHE/AAAAAAAANY4/aXFFINR-KtQ/s160-c/Greece6Mykene.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 6 - Mykene</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.6602304 22.5982488</gml:lowerCorner>
+        <gml:upperCorner>37.7786255 22.8932032</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.719428 22.745726</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315166169520510209</id>
+    <published>2009-03-05T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:12.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 5 - Crete</title>
+    <summary type="text">2 days in Crete.
+Iraklion, Rethymno and Hania.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315166169520510209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece5Crete"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315166169520510209"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315166169520510209</gphoto:id>
+    <gphoto:name>Greece5Crete</gphoto:name>
+    <gphoto:location>Crete</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236240000000</gphoto:timestamp>
+    <gphoto:numphotos>153</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5VSYrKToues/ScNDeGBxlQE/AAAAAAAADng/coDAhkGYgsU/Greece5Crete.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">2 days in Crete.
+Iraklion, Rethymno and Hania.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5VSYrKToues/ScNDeGBxlQE/AAAAAAAADng/coDAhkGYgsU/s160-c/Greece5Crete.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 5 - Crete</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>34.8552234 23.411007</gml:lowerCorner>
+        <gml:upperCorner>35.6250105 26.207531</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.240117 24.809269</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315163665959207201</id>
+    <published>2009-03-03T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:10.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 4 - Santorini again</title>
+    <summary type="text">We land at Santorini again.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315163665959207201"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece4SantoriniAgain"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315163665959207201"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315163665959207201</gphoto:id>
+    <gphoto:name>Greece4SantoriniAgain</gphoto:name>
+    <gphoto:location>Santorini</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1236067200000</gphoto:timestamp>
+    <gphoto:numphotos>86</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NWA-kvi-SCI/ScNBMXiPwSE/AAAAAAAADnY/waX4gIdAjj4/Greece4SantoriniAgain.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">We land at Santorini again.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NWA-kvi-SCI/ScNBMXiPwSE/AAAAAAAADnY/waX4gIdAjj4/s160-c/Greece4SantoriniAgain.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 4 - Santorini again</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.3174439 25.3928245</gml:lowerCorner>
+        <gml:upperCorner>36.468868 25.5301935</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>36.393156 25.461509</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315159598499962401</id>
+    <published>2009-03-02T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:08.713Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 3 - Paros</title>
+    <summary type="text">Cycling around Paros.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315159598499962401"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece3Paros"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315159598499962401"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315159598499962401</gphoto:id>
+    <gphoto:name>Greece3Paros</gphoto:name>
+    <gphoto:location>Paros</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235980800000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cE91dKzGmMo/ScM9fnEZHiE/AAAAAAAAAzA/DWkbn-Q04Bg/Greece3Paros.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">Cycling around Paros.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cE91dKzGmMo/ScM9fnEZHiE/AAAAAAAAAzA/DWkbn-Q04Bg/s160-c/Greece3Paros.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 3 - Paros</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.9333975 25.267572</gml:lowerCorner>
+        <gml:upperCorner>37.2176945 25.7738999</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.075546 25.520736</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315155456485751953</id>
+    <published>2009-02-28T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:06.580Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 2 - Santorini</title>
+    <summary type="text">2 days in Santoniri.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315155456485751953"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece2Santorini"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315155456485751953"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315155456485751953</gphoto:id>
+    <gphoto:name>Greece2Santorini</gphoto:name>
+    <gphoto:location>Santorini</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235808000000</gphoto:timestamp>
+    <gphoto:numphotos>231</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MsMUpODVSKw/ScM5ug3P_JE/AAAAAAAADnU/m5dNAPSKj2Q/Greece2Santorini.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">2 days in Santoniri.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MsMUpODVSKw/ScM5ug3P_JE/AAAAAAAADnU/m5dNAPSKj2Q/s160-c/Greece2Santorini.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 2 - Santorini</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.3174439 25.3928245</gml:lowerCorner>
+        <gml:upperCorner>36.468868 25.5301935</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>36.393156 25.461509</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315152555936898161</id>
+    <published>2009-02-26T08:00:00.000Z</published>
+    <updated>2013-05-12T09:06:04.579Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Greece 1 - Pireas</title>
+    <summary type="text">Tour in Greece starts.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/njun.greece/albumid/5315152555936898161"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/njun.greece/Greece1Pireas"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/njun.greece/albumid/5315152555936898161"/>
+    <author>
+      <name>njun.greece</name>
+      <uri>https://picasaweb.google.com/njun.greece</uri>
+    </author>
+    <gphoto:id>5315152555936898161</gphoto:id>
+    <gphoto:name>Greece1Pireas</gphoto:name>
+    <gphoto:location>Pireas</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235635200000</gphoto:timestamp>
+    <gphoto:numphotos>48</gphoto:numphotos>
+    <gphoto:user>njun.greece</gphoto:user>
+    <gphoto:nickname>njun.greece</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YGYsX3NJCR4/ScM3Freg3HE/AAAAAAAAAKM/dGjA_FAvA2I/Greece1Pireas.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>njun.greece</media:credit>
+      <media:description type="plain">Tour in Greece starts.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YGYsX3NJCR4/ScM3Freg3HE/AAAAAAAAAKM/dGjA_FAvA2I/s160-c/Greece1Pireas.jpg" height="160" width="160"/>
+      <media:title type="plain">Greece 1 - Pireas</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>37.9311649 23.5900462</gml:lowerCorner>
+        <gml:upperCorner>37.970639 23.6921598</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>37.950902 23.641103</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

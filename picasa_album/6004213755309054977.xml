@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977</id>
+  <updated>2015-10-04T23:29:50.358Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2014 4/20 震撼サイクリング</title>
+  <subtitle type="text">新歓してない</subtitle>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-9DQwAslgfkE/U1NAmUi13AE/AAAAAAAAFBs/57a2VjeUAH0/s160-c/2014420.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Shigeru Kawaguchi</name>
+    <uri>https://picasaweb.google.com/100636863090895823868</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>24</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6004213755309054977</gphoto:id>
+  <gphoto:name>2014420</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1397977200000</gphoto:timestamp>
+  <gphoto:numphotos>24</gphoto:numphotos>
+  <gphoto:user>100636863090895823868</gphoto:user>
+  <gphoto:nickname>Shigeru Kawaguchi</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213769577637682</id>
+    <published>2014-04-20T03:35:56.000Z</published>
+    <updated>2014-04-20T03:41:46.171Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1268.JPG</title>
+    <summary type="text">出発前に筋トレ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-HxbuLqjKkZk/U1NAnJsvJzI/AAAAAAAAE7w/4nVj8BTpkk0/DSCN1268.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213769577637682"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213769577637682"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uNsrDbYLHIvHmbE2eiCJMNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213769577637682"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213769577637682"/>
+    <gphoto:id>6004213769577637682</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>275666</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a0ca12c</gphoto:checksum>
+    <gphoto:timestamp>1397954795000</gphoto:timestamp>
+    <gphoto:imageVersion>5052</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213769577637682</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987195000</exif:time>
+      <exif:imageUniqueID>3a91faaca020831a029fd9c4c3456020</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HxbuLqjKkZk/U1NAnJsvJzI/AAAAAAAAE7w/4nVj8BTpkk0/DSCN1268.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">出発前に筋トレ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HxbuLqjKkZk/U1NAnJsvJzI/AAAAAAAAE7w/4nVj8BTpkk0/s72/DSCN1268.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HxbuLqjKkZk/U1NAnJsvJzI/AAAAAAAAE7w/4nVj8BTpkk0/s144/DSCN1268.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HxbuLqjKkZk/U1NAnJsvJzI/AAAAAAAAE7w/4nVj8BTpkk0/s288/DSCN1268.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1268.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213782636472146</id>
+    <published>2014-04-20T03:35:59.000Z</published>
+    <updated>2014-04-20T03:41:46.171Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1269.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nYmNuuyCWCs/U1NAn6WNJ1I/AAAAAAAAE74/AagDV3DYwh4/DSCN1269.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213782636472146"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213782636472146"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6AWFgH_jzvO4H0lmvCQ_BtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213782636472146"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213782636472146"/>
+    <gphoto:id>6004213782636472146</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>290536</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7538012c</gphoto:checksum>
+    <gphoto:timestamp>1397954800000</gphoto:timestamp>
+    <gphoto:imageVersion>5054</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213782636472146</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987200000</exif:time>
+      <exif:imageUniqueID>efb0f5bb336dd311952508d75d3e291d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nYmNuuyCWCs/U1NAn6WNJ1I/AAAAAAAAE74/AagDV3DYwh4/DSCN1269.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nYmNuuyCWCs/U1NAn6WNJ1I/AAAAAAAAE74/AagDV3DYwh4/s72/DSCN1269.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nYmNuuyCWCs/U1NAn6WNJ1I/AAAAAAAAE74/AagDV3DYwh4/s144/DSCN1269.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nYmNuuyCWCs/U1NAn6WNJ1I/AAAAAAAAE74/AagDV3DYwh4/s288/DSCN1269.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1269.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213791543021506</id>
+    <published>2014-04-20T03:36:01.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1270.JPG</title>
+    <summary type="text">mtok</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zJw9m8GobbM/U1NAobhsT8I/AAAAAAAAE8E/hKflYDBZujY/DSCN1270.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213791543021506"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213791543021506"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GmLtx0FIXw6m6TIt3sdApNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213791543021506"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213791543021506"/>
+    <gphoto:id>6004213791543021506</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>206459</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a0ae12c</gphoto:checksum>
+    <gphoto:timestamp>1397954823000</gphoto:timestamp>
+    <gphoto:imageVersion>5057</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213791543021506</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.7</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>22.9</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987223000</exif:time>
+      <exif:imageUniqueID>0f8aee2d67ecdf1419c35681cd0b75f5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zJw9m8GobbM/U1NAobhsT8I/AAAAAAAAE8E/hKflYDBZujY/DSCN1270.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">mtok</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zJw9m8GobbM/U1NAobhsT8I/AAAAAAAAE8E/hKflYDBZujY/s72/DSCN1270.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zJw9m8GobbM/U1NAobhsT8I/AAAAAAAAE8E/hKflYDBZujY/s144/DSCN1270.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zJw9m8GobbM/U1NAobhsT8I/AAAAAAAAE8E/hKflYDBZujY/s288/DSCN1270.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1270.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213806707490226</id>
+    <published>2014-04-20T03:36:05.000Z</published>
+    <updated>2014-04-20T03:41:46.171Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1271.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hg7Ob1YTGLU/U1NApUBLvbI/AAAAAAAAE8I/o8eKJIzC1Bo/DSCN1271.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213806707490226"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213806707490226"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/M4VmphbI7xiyaw2qPa7_YNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213806707490226"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213806707490226"/>
+    <gphoto:id>6004213806707490226</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>259977</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7545012c</gphoto:checksum>
+    <gphoto:timestamp>1397954841000</gphoto:timestamp>
+    <gphoto:imageVersion>5058</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213806707490226</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987241000</exif:time>
+      <exif:imageUniqueID>47cbd7f868beaaaa18884a8ffbd10003</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hg7Ob1YTGLU/U1NApUBLvbI/AAAAAAAAE8I/o8eKJIzC1Bo/DSCN1271.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hg7Ob1YTGLU/U1NApUBLvbI/AAAAAAAAE8I/o8eKJIzC1Bo/s72/DSCN1271.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hg7Ob1YTGLU/U1NApUBLvbI/AAAAAAAAE8I/o8eKJIzC1Bo/s144/DSCN1271.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hg7Ob1YTGLU/U1NApUBLvbI/AAAAAAAAE8I/o8eKJIzC1Bo/s288/DSCN1271.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1271.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213822284743442</id>
+    <published>2014-04-20T03:36:08.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1272.JPG</title>
+    <summary type="text">主将</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MTpRL-WWkt8/U1NAqODFwxI/AAAAAAAAE8Q/PqZnpIjjWts/DSCN1272.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213822284743442"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213822284743442"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AmfUXf-g9oOU4nLLExO3hdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213822284743442"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213822284743442"/>
+    <gphoto:id>6004213822284743442</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>362082</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a08412c</gphoto:checksum>
+    <gphoto:timestamp>1397955399000</gphoto:timestamp>
+    <gphoto:imageVersion>5060</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213822284743442</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987799000</exif:time>
+      <exif:imageUniqueID>2f02a873ffddfb97ec0e352d88b1f10d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MTpRL-WWkt8/U1NAqODFwxI/AAAAAAAAE8Q/PqZnpIjjWts/DSCN1272.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">主将</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MTpRL-WWkt8/U1NAqODFwxI/AAAAAAAAE8Q/PqZnpIjjWts/s72/DSCN1272.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MTpRL-WWkt8/U1NAqODFwxI/AAAAAAAAE8Q/PqZnpIjjWts/s144/DSCN1272.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MTpRL-WWkt8/U1NAqODFwxI/AAAAAAAAE8Q/PqZnpIjjWts/s288/DSCN1272.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1272.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213836926667170</id>
+    <published>2014-04-20T03:36:12.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1273.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-efDczgOv4Kc/U1NArEl_yaI/AAAAAAAAE8c/CLwehrQZxpg/DSCN1273.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213836926667170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213836926667170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/x3bGvSjXyr_UKp0eezgVo9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213836926667170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213836926667170"/>
+    <gphoto:id>6004213836926667170</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>418562</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>758f812c</gphoto:checksum>
+    <gphoto:timestamp>1397955404000</gphoto:timestamp>
+    <gphoto:imageVersion>5063</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213836926667170</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1397987804000</exif:time>
+      <exif:imageUniqueID>0b9f69769a1a1b209b13a8314bb7b9a6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-efDczgOv4Kc/U1NArEl_yaI/AAAAAAAAE8c/CLwehrQZxpg/DSCN1273.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-efDczgOv4Kc/U1NArEl_yaI/AAAAAAAAE8c/CLwehrQZxpg/s72/DSCN1273.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-efDczgOv4Kc/U1NArEl_yaI/AAAAAAAAE8c/CLwehrQZxpg/s144/DSCN1273.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-efDczgOv4Kc/U1NArEl_yaI/AAAAAAAAE8c/CLwehrQZxpg/s288/DSCN1273.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1273.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213850898044594</id>
+    <published>2014-04-20T03:36:15.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1274.JPG</title>
+    <summary type="text">副将</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5PqCcZ6jp3Q/U1NAr4pCFrI/AAAAAAAAE-s/v-a_6gaaAf8/DSCN1274.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213850898044594"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213850898044594"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8qFHtECjj7CMhoVamorMhdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213850898044594"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213850898044594"/>
+    <gphoto:id>6004213850898044594</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>319497</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a09a12c</gphoto:checksum>
+    <gphoto:timestamp>1397955411000</gphoto:timestamp>
+    <gphoto:imageVersion>5099</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213850898044594</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>140</exif:iso>
+      <exif:time>1397987811000</exif:time>
+      <exif:imageUniqueID>d0e1caa529f3ca3eeb79edd4dc9eca58</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5PqCcZ6jp3Q/U1NAr4pCFrI/AAAAAAAAE-s/v-a_6gaaAf8/DSCN1274.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">副将</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5PqCcZ6jp3Q/U1NAr4pCFrI/AAAAAAAAE-s/v-a_6gaaAf8/s72/DSCN1274.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5PqCcZ6jp3Q/U1NAr4pCFrI/AAAAAAAAE-s/v-a_6gaaAf8/s144/DSCN1274.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5PqCcZ6jp3Q/U1NAr4pCFrI/AAAAAAAAE-s/v-a_6gaaAf8/s288/DSCN1274.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1274.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.02733 135.772635</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213861537715010</id>
+    <published>2014-04-20T03:36:18.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1275.JPG</title>
+    <summary type="text">主務</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7oHiJJSMgME/U1NAsgRuk0I/AAAAAAAAE8s/3J1Hsbtxsgs/DSCN1275.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213861537715010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213861537715010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ZBbNilMGADlBKEN0VZLEidMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213861537715010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213861537715010"/>
+    <gphoto:id>6004213861537715010</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>301245</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a16612c</gphoto:checksum>
+    <gphoto:timestamp>1397955415000</gphoto:timestamp>
+    <gphoto:imageVersion>5067</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213861537715010</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987815000</exif:time>
+      <exif:imageUniqueID>aed74104852fdc36eb8e2793ff92afde</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7oHiJJSMgME/U1NAsgRuk0I/AAAAAAAAE8s/3J1Hsbtxsgs/DSCN1275.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">主務</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7oHiJJSMgME/U1NAsgRuk0I/AAAAAAAAE8s/3J1Hsbtxsgs/s72/DSCN1275.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7oHiJJSMgME/U1NAsgRuk0I/AAAAAAAAE8s/3J1Hsbtxsgs/s144/DSCN1275.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7oHiJJSMgME/U1NAsgRuk0I/AAAAAAAAE8s/3J1Hsbtxsgs/s288/DSCN1275.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1275.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.02728 135.7725419</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213881054326242</id>
+    <published>2014-04-20T03:36:22.000Z</published>
+    <updated>2014-04-20T03:41:46.171Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1276.JPG</title>
+    <summary type="text">平部員</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NmO9WU_iHyY/U1NAto-2beI/AAAAAAAAE8w/GryOYvzUevw/DSCN1276.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213881054326242"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213881054326242"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/K5cIKM-2cF8-1_0c__W7gNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213881054326242"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213881054326242"/>
+    <gphoto:id>6004213881054326242</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>286186</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a17c12c</gphoto:checksum>
+    <gphoto:timestamp>1397955441000</gphoto:timestamp>
+    <gphoto:imageVersion>5068</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213881054326242</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987841000</exif:time>
+      <exif:imageUniqueID>633bbdac6d542c7a9d09626754545eff</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NmO9WU_iHyY/U1NAto-2beI/AAAAAAAAE8w/GryOYvzUevw/DSCN1276.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">平部員</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NmO9WU_iHyY/U1NAto-2beI/AAAAAAAAE8w/GryOYvzUevw/s72/DSCN1276.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NmO9WU_iHyY/U1NAto-2beI/AAAAAAAAE8w/GryOYvzUevw/s144/DSCN1276.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NmO9WU_iHyY/U1NAto-2beI/AAAAAAAAE8w/GryOYvzUevw/s288/DSCN1276.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1276.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213890813394514</id>
+    <published>2014-04-20T03:36:24.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1277.JPG</title>
+    <summary type="text">北山行きを画策する老人たち</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jqys3P4se9c/U1NAuNVl_lI/AAAAAAAAE84/z3MNRQouLEg/DSCN1277.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213890813394514"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213890813394514"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/nQ3ayPRFhZPhi4myejpAcdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213890813394514"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213890813394514"/>
+    <gphoto:id>6004213890813394514</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>258811</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a12212c</gphoto:checksum>
+    <gphoto:timestamp>1397955481000</gphoto:timestamp>
+    <gphoto:imageVersion>5070</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213890813394514</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987881000</exif:time>
+      <exif:imageUniqueID>62051ed3c75487c07508e76227f26a13</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jqys3P4se9c/U1NAuNVl_lI/AAAAAAAAE84/z3MNRQouLEg/DSCN1277.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">北山行きを画策する老人たち</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jqys3P4se9c/U1NAuNVl_lI/AAAAAAAAE84/z3MNRQouLEg/s72/DSCN1277.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jqys3P4se9c/U1NAuNVl_lI/AAAAAAAAE84/z3MNRQouLEg/s144/DSCN1277.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jqys3P4se9c/U1NAuNVl_lI/AAAAAAAAE84/z3MNRQouLEg/s288/DSCN1277.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1277.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.026927 135.778398</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213907436813906</id>
+    <published>2014-04-20T03:36:28.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1278.JPG</title>
+    <summary type="text">若い人々</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-25kg0EeOlvY/U1NAvLQ7PlI/AAAAAAAAFA4/R4ssc1NGdoM/DSCN1278.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213907436813906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213907436813906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/gJ1_uVsqarevUJlOh6r8U9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213907436813906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213907436813906"/>
+    <gphoto:id>6004213907436813906</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>337713</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a13212c</gphoto:checksum>
+    <gphoto:timestamp>1397955498000</gphoto:timestamp>
+    <gphoto:imageVersion>5134</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213907436813906</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987898000</exif:time>
+      <exif:imageUniqueID>05759ed61c38e8ee02f5ebeb96099b73</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-25kg0EeOlvY/U1NAvLQ7PlI/AAAAAAAAFA4/R4ssc1NGdoM/DSCN1278.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">若い人々</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-25kg0EeOlvY/U1NAvLQ7PlI/AAAAAAAAFA4/R4ssc1NGdoM/s72/DSCN1278.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-25kg0EeOlvY/U1NAvLQ7PlI/AAAAAAAAFA4/R4ssc1NGdoM/s144/DSCN1278.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-25kg0EeOlvY/U1NAvLQ7PlI/AAAAAAAAFA4/R4ssc1NGdoM/s288/DSCN1278.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1278.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.026927 135.77837</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213919781942018</id>
+    <published>2014-04-20T03:36:31.000Z</published>
+    <updated>2014-04-22T12:17:25.802Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1279.JPG</title>
+    <summary type="text">う○こ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-CrNfOP17yB8/U1NAv5QO8wI/AAAAAAAAFA8/phbbriRZC9g/DSCN1279.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213919781942018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213919781942018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/u9yhNy5pE3GQv1JHGP4MxtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213919781942018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213919781942018"/>
+    <gphoto:id>6004213919781942018</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>245971</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a10c11c</gphoto:checksum>
+    <gphoto:timestamp>1397955538000</gphoto:timestamp>
+    <gphoto:imageVersion>5135</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213919781942018</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397987938000</exif:time>
+      <exif:imageUniqueID>2b9e3a4a48f0a6405a43f56ea060d464</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CrNfOP17yB8/U1NAv5QO8wI/AAAAAAAAFA8/phbbriRZC9g/DSCN1279.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">う○こ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CrNfOP17yB8/U1NAv5QO8wI/AAAAAAAAFA8/phbbriRZC9g/s72/DSCN1279.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CrNfOP17yB8/U1NAv5QO8wI/AAAAAAAAFA8/phbbriRZC9g/s144/DSCN1279.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CrNfOP17yB8/U1NAv5QO8wI/AAAAAAAAFA8/phbbriRZC9g/s288/DSCN1279.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1279.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.026897 135.778423</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213938639992850</id>
+    <published>2014-04-20T03:36:35.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1280.JPG</title>
+    <summary type="text">現役部員過剰だったので上回生は別働隊で</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vfgimDPTVmY/U1NAw_gV-BI/AAAAAAAAFBA/NZcPfc3f4r4/DSCN1280.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213938639992850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213938639992850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/V0-QhBroTPsUNwwQCWrtkdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213938639992850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213938639992850"/>
+    <gphoto:id>6004213938639992850</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>391008</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a1fa12c</gphoto:checksum>
+    <gphoto:timestamp>1397956158000</gphoto:timestamp>
+    <gphoto:imageVersion>5136</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213938639992850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397988558000</exif:time>
+      <exif:imageUniqueID>8a6904a54b1cddda51b79d423976bbdb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vfgimDPTVmY/U1NAw_gV-BI/AAAAAAAAFBA/NZcPfc3f4r4/DSCN1280.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">現役部員過剰だったので上回生は別働隊で</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vfgimDPTVmY/U1NAw_gV-BI/AAAAAAAAFBA/NZcPfc3f4r4/s72/DSCN1280.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vfgimDPTVmY/U1NAw_gV-BI/AAAAAAAAFBA/NZcPfc3f4r4/s144/DSCN1280.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vfgimDPTVmY/U1NAw_gV-BI/AAAAAAAAFBA/NZcPfc3f4r4/s288/DSCN1280.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1280.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213952889177778</id>
+    <published>2014-04-20T03:36:39.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1281.JPG</title>
+    <summary type="text">体調不良（寝不足）を訴える副将</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--HapiPaAkbQ/U1NAx0lnRrI/AAAAAAAAFBE/9j8u-rH2ybs/DSCN1281.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213952889177778"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213952889177778"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sej9KWQn6K69KIsOejZSENMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213952889177778"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213952889177778"/>
+    <gphoto:id>6004213952889177778</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>770367</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a1d412c</gphoto:checksum>
+    <gphoto:timestamp>1397957981000</gphoto:timestamp>
+    <gphoto:imageVersion>5137</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213952889177778</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397990381000</exif:time>
+      <exif:imageUniqueID>471acff2145b1a5b427b3e6f6f0a1ab7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--HapiPaAkbQ/U1NAx0lnRrI/AAAAAAAAFBE/9j8u-rH2ybs/DSCN1281.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">体調不良（寝不足）を訴える副将</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--HapiPaAkbQ/U1NAx0lnRrI/AAAAAAAAFBE/9j8u-rH2ybs/s72/DSCN1281.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--HapiPaAkbQ/U1NAx0lnRrI/AAAAAAAAFBE/9j8u-rH2ybs/s144/DSCN1281.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--HapiPaAkbQ/U1NAx0lnRrI/AAAAAAAAFBE/9j8u-rH2ybs/s288/DSCN1281.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1281.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213969448953986</id>
+    <published>2014-04-20T03:36:43.000Z</published>
+    <updated>2014-04-22T12:18:23.903Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1282.JPG</title>
+    <summary type="text">さよなら</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-NaiiaBW3VXM/U1NAyyRxaII/AAAAAAAAFBI/Hk22-icz3y4/DSCN1282.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213969448953986"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213969448953986"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/vb_6CqqjOnpXaAQipBbdQdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213969448953986"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213969448953986"/>
+    <gphoto:id>6004213969448953986</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>655403</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a1de12c</gphoto:checksum>
+    <gphoto:timestamp>1397958451000</gphoto:timestamp>
+    <gphoto:imageVersion>5138</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213969448953986</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397990851000</exif:time>
+      <exif:imageUniqueID>835df39b596cf8c0e4d94c1a5def8760</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-NaiiaBW3VXM/U1NAyyRxaII/AAAAAAAAFBI/Hk22-icz3y4/DSCN1282.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">さよなら</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NaiiaBW3VXM/U1NAyyRxaII/AAAAAAAAFBI/Hk22-icz3y4/s72/DSCN1282.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NaiiaBW3VXM/U1NAyyRxaII/AAAAAAAAFBI/Hk22-icz3y4/s144/DSCN1282.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-NaiiaBW3VXM/U1NAyyRxaII/AAAAAAAAFBI/Hk22-icz3y4/s288/DSCN1282.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1282.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213987500784994</id>
+    <published>2014-04-20T03:36:47.000Z</published>
+    <updated>2014-04-22T12:18:31.959Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1283.JPG</title>
+    <summary type="text">集団で山中を登る</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-H4_YW-6-oQA/U1NAz1hqfWI/AAAAAAAAFBM/ZlNSo7rX_V8/DSCN1283.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213987500784994"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004213987500784994"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ptCAghaI1nKMZ1U9pHoQq9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004213987500784994"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004213987500784994"/>
+    <gphoto:id>6004213987500784994</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>559773</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a1bc12c</gphoto:checksum>
+    <gphoto:timestamp>1397958478000</gphoto:timestamp>
+    <gphoto:imageVersion>5139</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004213987500784994</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1397990878000</exif:time>
+      <exif:imageUniqueID>3bcdec0005680c23a51a4877f26361ed</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-H4_YW-6-oQA/U1NAz1hqfWI/AAAAAAAAFBM/ZlNSo7rX_V8/DSCN1283.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">集団で山中を登る</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H4_YW-6-oQA/U1NAz1hqfWI/AAAAAAAAFBM/ZlNSo7rX_V8/s72/DSCN1283.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H4_YW-6-oQA/U1NAz1hqfWI/AAAAAAAAFBM/ZlNSo7rX_V8/s144/DSCN1283.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-H4_YW-6-oQA/U1NAz1hqfWI/AAAAAAAAFBM/ZlNSo7rX_V8/s288/DSCN1283.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1283.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>35.040973 135.817123</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214002417162034</id>
+    <published>2014-04-20T03:36:50.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1284.JPG</title>
+    <summary type="text">カメラサービスを忘れない主将</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-FSsPT4mPSzU/U1NA0tGAVzI/AAAAAAAAFBQ/l1arW6Vm0kU/DSCN1284.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214002417162034"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214002417162034"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Nu_uOHgeSHgdV0A2tw0B19MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214002417162034"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214002417162034"/>
+    <gphoto:id>6004214002417162034</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>356809</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a26412c</gphoto:checksum>
+    <gphoto:timestamp>1397958977000</gphoto:timestamp>
+    <gphoto:imageVersion>5140</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214002417162034</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>180</exif:iso>
+      <exif:time>1397991377000</exif:time>
+      <exif:imageUniqueID>71592bf7d8693e12aed070144048fa0b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FSsPT4mPSzU/U1NA0tGAVzI/AAAAAAAAFBQ/l1arW6Vm0kU/DSCN1284.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">カメラサービスを忘れない主将</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FSsPT4mPSzU/U1NA0tGAVzI/AAAAAAAAFBQ/l1arW6Vm0kU/s72/DSCN1284.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FSsPT4mPSzU/U1NA0tGAVzI/AAAAAAAAFBQ/l1arW6Vm0kU/s144/DSCN1284.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FSsPT4mPSzU/U1NA0tGAVzI/AAAAAAAAFBQ/l1arW6Vm0kU/s288/DSCN1284.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1284.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214014890391138</id>
+    <published>2014-04-20T03:36:53.000Z</published>
+    <updated>2014-04-22T12:18:53.390Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1285.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Vw63qIB3KGA/U1NA1bj2tmI/AAAAAAAAFBU/aCqmrcZUvTc/DSCN1285.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214014890391138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214014890391138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7-QAr3mdxRCSepl55FNSgdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214014890391138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214014890391138"/>
+    <gphoto:id>6004214014890391138</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>372764</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>781cc12c</gphoto:checksum>
+    <gphoto:timestamp>1397960662000</gphoto:timestamp>
+    <gphoto:imageVersion>5141</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214014890391138</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>8.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397993062000</exif:time>
+      <exif:imageUniqueID>10f11dfeec6861b28146bfa63f5a9110</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Vw63qIB3KGA/U1NA1bj2tmI/AAAAAAAAFBU/aCqmrcZUvTc/DSCN1285.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Vw63qIB3KGA/U1NA1bj2tmI/AAAAAAAAFBU/aCqmrcZUvTc/s72/DSCN1285.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Vw63qIB3KGA/U1NA1bj2tmI/AAAAAAAAFBU/aCqmrcZUvTc/s144/DSCN1285.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Vw63qIB3KGA/U1NA1bj2tmI/AAAAAAAAFBU/aCqmrcZUvTc/s288/DSCN1285.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1285.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214031565447538</id>
+    <published>2014-04-20T03:36:57.000Z</published>
+    <updated>2014-04-22T12:18:59.523Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1286.JPG</title>
+    <summary type="text">不要だと言われた上回生達は離脱して裏山中へ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-A0Wc1htI36M/U1NA2Zrf4XI/AAAAAAAAFBY/_VNSAWesB_c/DSCN1286.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214031565447538"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214031565447538"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9-TyHp_AenRHOaAQRfvextMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214031565447538"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214031565447538"/>
+    <gphoto:id>6004214031565447538</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>490318</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a23012c</gphoto:checksum>
+    <gphoto:timestamp>1397961345000</gphoto:timestamp>
+    <gphoto:imageVersion>5142</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214031565447538</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>220</exif:iso>
+      <exif:time>1397993745000</exif:time>
+      <exif:imageUniqueID>c41152b9158898cfba3eaa65ba401b06</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-A0Wc1htI36M/U1NA2Zrf4XI/AAAAAAAAFBY/_VNSAWesB_c/DSCN1286.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">不要だと言われた上回生達は離脱して裏山中へ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A0Wc1htI36M/U1NA2Zrf4XI/AAAAAAAAFBY/_VNSAWesB_c/s72/DSCN1286.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A0Wc1htI36M/U1NA2Zrf4XI/AAAAAAAAFBY/_VNSAWesB_c/s144/DSCN1286.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A0Wc1htI36M/U1NA2Zrf4XI/AAAAAAAAFBY/_VNSAWesB_c/s288/DSCN1286.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1286.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214045921740498</id>
+    <published>2014-04-20T03:37:00.000Z</published>
+    <updated>2014-04-22T12:19:03.684Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1287.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-KO3LcOrZPJY/U1NA3PKThtI/AAAAAAAAFBc/la78kcnUi7s/DSCN1287.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214045921740498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214045921740498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8lE2lNBlEWht2DJIBZ72VdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214045921740498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214045921740498"/>
+    <gphoto:id>6004214045921740498</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>438392</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7900012c</gphoto:checksum>
+    <gphoto:timestamp>1397962544000</gphoto:timestamp>
+    <gphoto:imageVersion>5143</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214045921740498</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1397994944000</exif:time>
+      <exif:imageUniqueID>8d9528f2efa9b701bfd7ed2a6afd6c1d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KO3LcOrZPJY/U1NA3PKThtI/AAAAAAAAFBc/la78kcnUi7s/DSCN1287.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KO3LcOrZPJY/U1NA3PKThtI/AAAAAAAAFBc/la78kcnUi7s/s72/DSCN1287.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KO3LcOrZPJY/U1NA3PKThtI/AAAAAAAAFBc/la78kcnUi7s/s144/DSCN1287.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KO3LcOrZPJY/U1NA3PKThtI/AAAAAAAAFBc/la78kcnUi7s/s288/DSCN1287.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1287.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214058933065794</id>
+    <published>2014-04-20T03:37:03.000Z</published>
+    <updated>2014-04-22T12:19:17.200Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1288.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-g1Puu6z94yE/U1NA3_ocmEI/AAAAAAAAFBg/F58vGkCZxWc/DSCN1288.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214058933065794"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214058933065794"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GYpYjxNuzB2beYN-PotNYdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214058933065794"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214058933065794"/>
+    <gphoto:id>6004214058933065794</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>313216</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7901012c</gphoto:checksum>
+    <gphoto:timestamp>1397962553000</gphoto:timestamp>
+    <gphoto:imageVersion>5144</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214058933065794</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1397994953000</exif:time>
+      <exif:imageUniqueID>0bc4fe6077dda4975a0f1cad35d6f190</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-g1Puu6z94yE/U1NA3_ocmEI/AAAAAAAAFBg/F58vGkCZxWc/DSCN1288.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-g1Puu6z94yE/U1NA3_ocmEI/AAAAAAAAFBg/F58vGkCZxWc/s72/DSCN1288.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-g1Puu6z94yE/U1NA3_ocmEI/AAAAAAAAFBg/F58vGkCZxWc/s144/DSCN1288.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-g1Puu6z94yE/U1NA3_ocmEI/AAAAAAAAFBg/F58vGkCZxWc/s288/DSCN1288.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1288.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214073711868978</id>
+    <published>2014-04-20T03:37:07.000Z</published>
+    <updated>2014-04-22T12:19:19.692Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1289.JPG</title>
+    <summary type="text">ローアングルを楽しむ変態</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-T_qn_d_AcEI/U1NA42r_PDI/AAAAAAAAFBk/MY-8sWqsLzk/DSCN1289.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214073711868978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214073711868978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/djwy0RlTOntz1I1OqAWdctMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214073711868978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214073711868978"/>
+    <gphoto:id>6004214073711868978</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>480051</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a2e212c</gphoto:checksum>
+    <gphoto:timestamp>1397962556000</gphoto:timestamp>
+    <gphoto:imageVersion>5145</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214073711868978</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>140</exif:iso>
+      <exif:time>1397994956000</exif:time>
+      <exif:imageUniqueID>9190b8c189044e3d864ae5be51dc38f6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-T_qn_d_AcEI/U1NA42r_PDI/AAAAAAAAFBk/MY-8sWqsLzk/DSCN1289.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">ローアングルを楽しむ変態</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-T_qn_d_AcEI/U1NA42r_PDI/AAAAAAAAFBk/MY-8sWqsLzk/s72/DSCN1289.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-T_qn_d_AcEI/U1NA42r_PDI/AAAAAAAAFBk/MY-8sWqsLzk/s144/DSCN1289.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-T_qn_d_AcEI/U1NA42r_PDI/AAAAAAAAFBk/MY-8sWqsLzk/s288/DSCN1289.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1289.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214085448698162</id>
+    <published>2014-04-20T03:37:10.000Z</published>
+    <updated>2015-10-04T23:29:50.358Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1290.JPG</title>
+    <summary type="text">爽やかサイクリングですね</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-UL4GP6ttAi0/U1NA5iaRCTI/AAAAAAAAFBo/IM5Bi5TH1yg/DSCN1290.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214085448698162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214085448698162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/yqiJkq5HFV3jHvTCCLYAvNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214085448698162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214085448698162"/>
+    <gphoto:id>6004214085448698162</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>377824</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a2fa12c</gphoto:checksum>
+    <gphoto:timestamp>1397962864000</gphoto:timestamp>
+    <gphoto:imageVersion>5146</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214085448698162</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.001</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397995264000</exif:time>
+      <exif:imageUniqueID>b4345b2eaa05a137f09d9fae96e2406a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-UL4GP6ttAi0/U1NA5iaRCTI/AAAAAAAAFBo/IM5Bi5TH1yg/DSCN1290.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">爽やかサイクリングですね</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UL4GP6ttAi0/U1NA5iaRCTI/AAAAAAAAFBo/IM5Bi5TH1yg/s72/DSCN1290.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UL4GP6ttAi0/U1NA5iaRCTI/AAAAAAAAFBo/IM5Bi5TH1yg/s144/DSCN1290.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UL4GP6ttAi0/U1NA5iaRCTI/AAAAAAAAFBo/IM5Bi5TH1yg/s288/DSCN1290.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1290.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214102431124498</id>
+    <published>2014-04-20T03:37:14.000Z</published>
+    <updated>2014-04-22T12:19:26.706Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1291.JPG</title>
+    <summary type="text">山中のダウン中にパンク→落車→ポテチのコンボを食らったktgs。ご愁傷さまです。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Lzv-dR2qx3E/U1NA6hrMTBI/AAAAAAAAFBs/aobJO2tk92w/DSCN1291.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214102431124498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/100636863090895823868/2014420#6004214102431124498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tKrbSyn1x7fi_loBEQaxeNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/100636863090895823868/albumid/6004213755309054977/photoid/6004214102431124498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=100636863090895823868&amp;aid=6004213755309054977&amp;iid=6004214102431124498"/>
+    <gphoto:id>6004214102431124498</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>6004213755309054977</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>658914</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7a28012c</gphoto:checksum>
+    <gphoto:timestamp>1397963360000</gphoto:timestamp>
+    <gphoto:imageVersion>5147</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6004214102431124498</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>NIKON</exif:make>
+      <exif:model>COOLPIX AW100  </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.0</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1397995760000</exif:time>
+      <exif:imageUniqueID>a48c260066a5e67de4f801313c3e2466</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Lzv-dR2qx3E/U1NA6hrMTBI/AAAAAAAAFBs/aobJO2tk92w/DSCN1291.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Shigeru Kawaguchi</media:credit>
+      <media:description type="plain">山中のダウン中にパンク→落車→ポテチのコンボを食らったktgs。ご愁傷さまです。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Lzv-dR2qx3E/U1NA6hrMTBI/AAAAAAAAFBs/aobJO2tk92w/s72/DSCN1291.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Lzv-dR2qx3E/U1NA6hrMTBI/AAAAAAAAFBs/aobJO2tk92w/s144/DSCN1291.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Lzv-dR2qx3E/U1NA6hrMTBI/AAAAAAAAFBs/aobJO2tk92w/s288/DSCN1291.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1291.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

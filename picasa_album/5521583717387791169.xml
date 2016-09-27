@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169</id>
+  <updated>2015-10-06T13:56:33.624Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2010TQR</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-7XTfSNE3XwE/TKCbIuh660E/AAAAAAAAB1U/e6Zyc49Ce64/s160-c/2010TQR.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>r.kishimoto</name>
+    <uri>https://picasaweb.google.com/103698838754303137820</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>18</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5521583717387791169</gphoto:id>
+  <gphoto:name>2010TQR</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1285383600000</gphoto:timestamp>
+  <gphoto:numphotos>18</gphoto:numphotos>
+  <gphoto:user>103698838754303137820</gphoto:user>
+  <gphoto:nickname>r.kishimoto</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583726819909362</id>
+    <published>2010-09-27T13:24:53.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3056.JPG</title>
+    <summary type="text">スタート地点</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nPMPsEIlueg/TKCbJRqtnvI/AAAAAAAAArc/hWcE5AMaMjw/DSCF3056.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583726819909362"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583726819909362"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jYhb6F96x94kjVH4R8n6SdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583726819909362"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583726819909362"/>
+    <gphoto:id>5521583726819909362</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>188558</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f081918</gphoto:checksum>
+    <gphoto:timestamp>1285390211000</gphoto:timestamp>
+    <gphoto:imageVersion>695</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.25</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>1600</exif:iso>
+      <exif:time>1285390211000</exif:time>
+      <exif:imageUniqueID>6bbc9d7d773f041160ab61b83711ea62</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nPMPsEIlueg/TKCbJRqtnvI/AAAAAAAAArc/hWcE5AMaMjw/DSCF3056.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">スタート地点</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nPMPsEIlueg/TKCbJRqtnvI/AAAAAAAAArc/hWcE5AMaMjw/s72/DSCF3056.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nPMPsEIlueg/TKCbJRqtnvI/AAAAAAAAArc/hWcE5AMaMjw/s144/DSCF3056.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nPMPsEIlueg/TKCbJRqtnvI/AAAAAAAAArc/hWcE5AMaMjw/s288/DSCF3056.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3056.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583737828724018</id>
+    <published>2010-09-27T13:24:55.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3059.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Wwd_bAJOFl4/TKCbJ6razTI/AAAAAAAAArg/yis8wdAbvvs/DSCF3059.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583737828724018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583737828724018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EHpVvlushhtupDycSxbMatMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583737828724018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583737828724018"/>
+    <gphoto:id>5521583737828724018</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>85160</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f081918</gphoto:checksum>
+    <gphoto:timestamp>1285390533000</gphoto:timestamp>
+    <gphoto:imageVersion>696</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>14.4</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1285390533000</exif:time>
+      <exif:imageUniqueID>9a6bd780503166ffcb77b0b191d2337e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Wwd_bAJOFl4/TKCbJ6razTI/AAAAAAAAArg/yis8wdAbvvs/DSCF3059.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wwd_bAJOFl4/TKCbJ6razTI/AAAAAAAAArg/yis8wdAbvvs/s72/DSCF3059.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wwd_bAJOFl4/TKCbJ6razTI/AAAAAAAAArg/yis8wdAbvvs/s144/DSCF3059.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Wwd_bAJOFl4/TKCbJ6razTI/AAAAAAAAArg/yis8wdAbvvs/s288/DSCF3059.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3059.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583751848769714</id>
+    <published>2010-09-27T13:24:58.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3061.JPG</title>
+    <summary type="text">Aコース　スタート</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-KXcxlCXcGCc/TKCbKu6DuLI/AAAAAAAAAro/AwMGwI975Xs/DSCF3061.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583751848769714"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583751848769714"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ZK0TYhAFBUnq7gjGJ5zbs9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583751848769714"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583751848769714"/>
+    <gphoto:id>5521583751848769714</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>78247</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f087918</gphoto:checksum>
+    <gphoto:timestamp>1285390551000</gphoto:timestamp>
+    <gphoto:imageVersion>698</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>14.4</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1285390551000</exif:time>
+      <exif:imageUniqueID>9cd7a3bb94e125d321c457e17a00c878</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KXcxlCXcGCc/TKCbKu6DuLI/AAAAAAAAAro/AwMGwI975Xs/DSCF3061.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">Aコース　スタート</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KXcxlCXcGCc/TKCbKu6DuLI/AAAAAAAAAro/AwMGwI975Xs/s72/DSCF3061.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KXcxlCXcGCc/TKCbKu6DuLI/AAAAAAAAAro/AwMGwI975Xs/s144/DSCF3061.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KXcxlCXcGCc/TKCbKu6DuLI/AAAAAAAAAro/AwMGwI975Xs/s288/DSCF3061.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3061.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583760538864002</id>
+    <published>2010-09-27T13:25:00.000Z</published>
+    <updated>2014-03-08T09:59:30.344Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3063.JPG</title>
+    <summary type="text">Bコース　メンバー</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-e1-3xEVYCAU/TKCbLPR8CYI/AAAAAAAAByY/HP0kjwn_8GU/DSCF3063.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583760538864002"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583760538864002"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/eJL-vyjIZZCXCbGJleK6ddMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583760538864002"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583760538864002"/>
+    <gphoto:id>5521583760538864002</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>85972</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f089918</gphoto:checksum>
+    <gphoto:timestamp>1285390606000</gphoto:timestamp>
+    <gphoto:imageVersion>1830</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1285390606000</exif:time>
+      <exif:imageUniqueID>18665e1a142d9069a4f33b204d5b1b06</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e1-3xEVYCAU/TKCbLPR8CYI/AAAAAAAAByY/HP0kjwn_8GU/DSCF3063.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">Bコース　メンバー</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e1-3xEVYCAU/TKCbLPR8CYI/AAAAAAAAByY/HP0kjwn_8GU/s72/DSCF3063.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e1-3xEVYCAU/TKCbLPR8CYI/AAAAAAAAByY/HP0kjwn_8GU/s144/DSCF3063.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e1-3xEVYCAU/TKCbLPR8CYI/AAAAAAAAByY/HP0kjwn_8GU/s288/DSCF3063.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3063.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583785602322002</id>
+    <published>2010-09-27T13:25:06.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3066.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-HCNv-r1gRXY/TKCbMspiDlI/AAAAAAAAAr4/2QAN3iO6vE8/DSCF3066.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583785602322002"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583785602322002"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/E6zyRLw99EAkkuojWNE_wNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583785602322002"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583785602322002"/>
+    <gphoto:id>5521583785602322002</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>146926</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f089918</gphoto:checksum>
+    <gphoto:timestamp>1285391313000</gphoto:timestamp>
+    <gphoto:imageVersion>702</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.25</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.5</exif:focallength>
+      <exif:iso>1600</exif:iso>
+      <exif:time>1285391313000</exif:time>
+      <exif:imageUniqueID>e7dba6c4ccf44f263f084b9a667a41e0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HCNv-r1gRXY/TKCbMspiDlI/AAAAAAAAAr4/2QAN3iO6vE8/DSCF3066.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HCNv-r1gRXY/TKCbMspiDlI/AAAAAAAAAr4/2QAN3iO6vE8/s72/DSCF3066.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HCNv-r1gRXY/TKCbMspiDlI/AAAAAAAAAr4/2QAN3iO6vE8/s144/DSCF3066.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HCNv-r1gRXY/TKCbMspiDlI/AAAAAAAAAr4/2QAN3iO6vE8/s288/DSCF3066.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3066.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583790877143490</id>
+    <published>2010-09-27T13:25:08.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3068.JPG</title>
+    <summary type="text">Bコース　スタート</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nQW76WNrleo/TKCbNATJccI/AAAAAAAAAr8/8vOtR3xfxLY/DSCF3068.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583790877143490"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583790877143490"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8Oqmd2ZYc1HfSnIltyGEA9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583790877143490"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583790877143490"/>
+    <gphoto:id>5521583790877143490</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>135885</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f08b918</gphoto:checksum>
+    <gphoto:timestamp>1285391450000</gphoto:timestamp>
+    <gphoto:imageVersion>703</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>9.2</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1285391450000</exif:time>
+      <exif:imageUniqueID>3f3f7fb52a8c1064144b8bc7ddde72b0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nQW76WNrleo/TKCbNATJccI/AAAAAAAAAr8/8vOtR3xfxLY/DSCF3068.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">Bコース　スタート</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nQW76WNrleo/TKCbNATJccI/AAAAAAAAAr8/8vOtR3xfxLY/s72/DSCF3068.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nQW76WNrleo/TKCbNATJccI/AAAAAAAAAr8/8vOtR3xfxLY/s144/DSCF3068.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nQW76WNrleo/TKCbNATJccI/AAAAAAAAAr8/8vOtR3xfxLY/s288/DSCF3068.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3068.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583802525682546</id>
+    <published>2010-09-27T13:25:10.000Z</published>
+    <updated>2014-03-08T09:59:47.052Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3071.JPG</title>
+    <summary type="text">4rdCP　喜多が最初に到着！！</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0saO8CP4_ag/TKCbNrsYC3I/AAAAAAAAByc/SviATZPY6c4/DSCF3071.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583802525682546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583802525682546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IG7pe3LxrreYYGV6_H_b5NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583802525682546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583802525682546"/>
+    <gphoto:id>5521583802525682546</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>288637</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f08f918</gphoto:checksum>
+    <gphoto:timestamp>1285415516000</gphoto:timestamp>
+    <gphoto:imageVersion>1831</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.0023809525</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.5</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1285415516000</exif:time>
+      <exif:imageUniqueID>4988b07019316d842aad506a922810c2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0saO8CP4_ag/TKCbNrsYC3I/AAAAAAAAByc/SviATZPY6c4/DSCF3071.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">4rdCP　喜多が最初に到着！！</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0saO8CP4_ag/TKCbNrsYC3I/AAAAAAAAByc/SviATZPY6c4/s72/DSCF3071.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0saO8CP4_ag/TKCbNrsYC3I/AAAAAAAAByc/SviATZPY6c4/s144/DSCF3071.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0saO8CP4_ag/TKCbNrsYC3I/AAAAAAAAByc/SviATZPY6c4/s288/DSCF3071.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3071.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583815954102642</id>
+    <published>2010-09-27T13:25:13.000Z</published>
+    <updated>2014-03-08T09:59:47.052Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3072.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WaJ0wGhct1A/TKCbOdt9eXI/AAAAAAAAByc/tHv8ghWFNCY/DSCF3072.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583815954102642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583815954102642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fSXunTImqW77XUbq5EJUetMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583815954102642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583815954102642"/>
+    <gphoto:id>5521583815954102642</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>285965</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f08f918</gphoto:checksum>
+    <gphoto:timestamp>1285415613000</gphoto:timestamp>
+    <gphoto:imageVersion>1831</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.0022222223</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1285415613000</exif:time>
+      <exif:imageUniqueID>dc4d4f0562b0c147173059cadd9aeba8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WaJ0wGhct1A/TKCbOdt9eXI/AAAAAAAAByc/tHv8ghWFNCY/DSCF3072.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WaJ0wGhct1A/TKCbOdt9eXI/AAAAAAAAByc/tHv8ghWFNCY/s72/DSCF3072.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WaJ0wGhct1A/TKCbOdt9eXI/AAAAAAAAByc/tHv8ghWFNCY/s144/DSCF3072.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WaJ0wGhct1A/TKCbOdt9eXI/AAAAAAAAByc/tHv8ghWFNCY/s288/DSCF3072.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3072.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583821753880098</id>
+    <published>2010-09-27T13:25:15.000Z</published>
+    <updated>2014-03-08T09:59:47.052Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3073.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XFzO8dZYU0o/TKCbOzUvDiI/AAAAAAAAByc/8E2PVPdtMNs/DSCF3073.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583821753880098"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583821753880098"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YWur5T75tokisKif93jHRdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583821753880098"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583821753880098"/>
+    <gphoto:id>5521583821753880098</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>264131</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f08f918</gphoto:checksum>
+    <gphoto:timestamp>1285415618000</gphoto:timestamp>
+    <gphoto:imageVersion>1831</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.7</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.0029411765</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>20.1</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1285415618000</exif:time>
+      <exif:imageUniqueID>f0ff84f6ef9d3eda8823aa7d63539b21</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XFzO8dZYU0o/TKCbOzUvDiI/AAAAAAAAByc/8E2PVPdtMNs/DSCF3073.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XFzO8dZYU0o/TKCbOzUvDiI/AAAAAAAAByc/8E2PVPdtMNs/s72/DSCF3073.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XFzO8dZYU0o/TKCbOzUvDiI/AAAAAAAAByc/8E2PVPdtMNs/s144/DSCF3073.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XFzO8dZYU0o/TKCbOzUvDiI/AAAAAAAAByc/8E2PVPdtMNs/s288/DSCF3073.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3073.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583832877459938</id>
+    <published>2010-09-27T13:25:17.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3075.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-o8cI1ZrfFA8/TKCbPcwzaeI/AAAAAAAAAsM/Kye80FZ-tUs/DSCF3075.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583832877459938"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583832877459938"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/U7Si0c6E9P6f_9UjyCXeEtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583832877459938"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583832877459938"/>
+    <gphoto:id>5521583832877459938</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>217422</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f08f918</gphoto:checksum>
+    <gphoto:timestamp>1285416552000</gphoto:timestamp>
+    <gphoto:imageVersion>707</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1285416552000</exif:time>
+      <exif:imageUniqueID>fd17b4e3dc8aed1e67a3d2213888f877</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-o8cI1ZrfFA8/TKCbPcwzaeI/AAAAAAAAAsM/Kye80FZ-tUs/DSCF3075.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-o8cI1ZrfFA8/TKCbPcwzaeI/AAAAAAAAAsM/Kye80FZ-tUs/s72/DSCF3075.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-o8cI1ZrfFA8/TKCbPcwzaeI/AAAAAAAAAsM/Kye80FZ-tUs/s144/DSCF3075.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-o8cI1ZrfFA8/TKCbPcwzaeI/AAAAAAAAAsM/Kye80FZ-tUs/s288/DSCF3075.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3075.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584337911074482</id>
+    <published>2010-09-27T13:27:15.000Z</published>
+    <updated>2015-10-06T13:56:33.622Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3079.AVI</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Djh_gXl_npQ/TKCbs2KMzrI/AAAAAAAAAsc/EPXXOt9Zz1Y/DSCF3079.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584337911074482"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521584337911074482"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JxiB821tDKl1qnYFlXaySNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584337911074482"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521584337911074482"/>
+    <gphoto:id>5521584337911074482</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>13.125</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="640" height="480" type="AVI" duration="20" channels="1" samplingrate="11.024" videoCodec="MJPEG" audioCodec="PCM_U8" fps="25.0"/>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>20420298</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8f383918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>711</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:time>1285507025000</exif:time>
+      <exif:imageUniqueID>1bc8affb768afa5db3bb6905673f5f79</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Djh_gXl_npQ/TKCbs2KMzrI/AAAAAAAAAsc/EPXXOt9Zz1Y/DSCF3079.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/KT4p9bvt-aNQVRUtWWUCepmb6vkX5GXhVMAjDXhZUG0=m18" height="360" width="480" type="video/mpeg4" medium="video"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>ムービー</media:keywords>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Djh_gXl_npQ/TKCbs2KMzrI/AAAAAAAAAsc/EPXXOt9Zz1Y/s72/DSCF3079.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Djh_gXl_npQ/TKCbs2KMzrI/AAAAAAAAAsc/EPXXOt9Zz1Y/s144/DSCF3079.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Djh_gXl_npQ/TKCbs2KMzrI/AAAAAAAAAsc/EPXXOt9Zz1Y/s288/DSCF3079.jpg" height="216" width="288"/>
+      <media:title type="plain">DSCF3079.AVI</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584503180413762</id>
+    <published>2010-09-27T13:27:53.000Z</published>
+    <updated>2015-10-06T13:56:33.623Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3083.AVI</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-5jiATJsKKis/TKCb2d1ey0I/AAAAAAAAAsk/RQUdo4Plu3M/DSCF3083.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584503180413762"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521584503180413762"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/URPzmbX3DEcZd4vkQwagKtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521584503180413762"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521584503180413762"/>
+    <gphoto:id>5521584503180413762</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>13.25</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="640" height="480" type="AVI" duration="6" channels="1" samplingrate="11.024" videoCodec="MJPEG" audioCodec="PCM_U8" fps="25.0"/>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>6797636</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8f39d918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>713</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:time>1285507038000</exif:time>
+      <exif:imageUniqueID>0600601d6bc0f4ac7e88172da1c916bb</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5jiATJsKKis/TKCb2d1ey0I/AAAAAAAAAsk/RQUdo4Plu3M/DSCF3083.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/d-8n9YglEF7JY2NV-kK0biryxZ_73q9rYOaEqXyJWY0=m18" height="360" width="480" type="video/mpeg4" medium="video"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>ムービー</media:keywords>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5jiATJsKKis/TKCb2d1ey0I/AAAAAAAAAsk/RQUdo4Plu3M/s72/DSCF3083.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5jiATJsKKis/TKCb2d1ey0I/AAAAAAAAAsk/RQUdo4Plu3M/s144/DSCF3083.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5jiATJsKKis/TKCb2d1ey0I/AAAAAAAAAsk/RQUdo4Plu3M/s288/DSCF3083.jpg" height="216" width="288"/>
+      <media:title type="plain">DSCF3083.AVI</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521585733767061170</id>
+    <published>2010-09-27T13:32:40.000Z</published>
+    <updated>2015-10-06T13:56:33.623Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3091.AVI</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-O1-1K4BjgzE/TKCc-GIM3rI/AAAAAAAAAsw/Uh2kGv9878c/DSCF3091.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521585733767061170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521585733767061170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/P5GOC_06IfNa5Zrgyn-sFtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521585733767061170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521585733767061170"/>
+    <gphoto:id>5521585733767061170</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>13.375</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="640" height="480" type="AVI" duration="55" channels="1" samplingrate="11.024" videoCodec="MJPEG" audioCodec="PCM_U8" fps="25.0"/>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>54394904</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8f3eb918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>716</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:time>1285507077000</exif:time>
+      <exif:imageUniqueID>609d5111cc7a2cb524a4ca26dffb40c1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-O1-1K4BjgzE/TKCc-GIM3rI/AAAAAAAAAsw/Uh2kGv9878c/DSCF3091.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/Py2LSsve25Lt1P9SW-UvIkR7G5XeT6BPP50mJ5GcZ0k=m18" height="360" width="480" type="video/mpeg4" medium="video"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>ムービー</media:keywords>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O1-1K4BjgzE/TKCc-GIM3rI/AAAAAAAAAsw/Uh2kGv9878c/s72/DSCF3091.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O1-1K4BjgzE/TKCc-GIM3rI/AAAAAAAAAsw/Uh2kGv9878c/s144/DSCF3091.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O1-1K4BjgzE/TKCc-GIM3rI/AAAAAAAAAsw/Uh2kGv9878c/s288/DSCF3091.jpg" height="216" width="288"/>
+      <media:title type="plain">DSCF3091.AVI</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586157806241378</id>
+    <published>2010-09-27T13:34:19.000Z</published>
+    <updated>2015-10-06T13:56:33.623Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3092.AVI</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-K-xVmLPwkWA/TKCdWxzBRmI/AAAAAAAAAs4/zy0puTskV-E/DSCF3092.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586157806241378"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521586157806241378"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QTS5Iya77mV9qF8-VfUK-NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586157806241378"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521586157806241378"/>
+    <gphoto:id>5521586157806241378</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>13.5</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="640" height="480" type="AVI" duration="18" channels="1" samplingrate="11.024" videoCodec="MJPEG" audioCodec="PCM_U8" fps="25.0"/>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>18466754</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8f3fb918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>718</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:time>1285507085000</exif:time>
+      <exif:imageUniqueID>3479f89f3f947d08129e25ea4a5a15f1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K-xVmLPwkWA/TKCdWxzBRmI/AAAAAAAAAs4/zy0puTskV-E/DSCF3092.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/MgnR4biccQQEJDgscJht-ZfdvTa1E8EU6jRk9HEQPdg=m18" height="360" width="480" type="video/mpeg4" medium="video"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>ムービー</media:keywords>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K-xVmLPwkWA/TKCdWxzBRmI/AAAAAAAAAs4/zy0puTskV-E/s72/DSCF3092.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K-xVmLPwkWA/TKCdWxzBRmI/AAAAAAAAAs4/zy0puTskV-E/s144/DSCF3092.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K-xVmLPwkWA/TKCdWxzBRmI/AAAAAAAAAs4/zy0puTskV-E/s288/DSCF3092.jpg" height="216" width="288"/>
+      <media:title type="plain">DSCF3092.AVI</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583842781051282</id>
+    <published>2010-09-27T13:25:20.000Z</published>
+    <updated>2014-03-08T09:59:47.052Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3093.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-mXXzOcymtpU/TKCbQBqAOZI/AAAAAAAAByc/HNVr5wfhGk0/DSCF3093.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583842781051282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583842781051282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/fY_XLfjR6dphWggcfHlSYNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583842781051282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583842781051282"/>
+    <gphoto:id>5521583842781051282</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.625</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>379330</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f091918</gphoto:checksum>
+    <gphoto:timestamp>1285424954000</gphoto:timestamp>
+    <gphoto:imageVersion>1831</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.0</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1285424954000</exif:time>
+      <exif:imageUniqueID>f8cda7319718047a47ea70d13685f2d1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mXXzOcymtpU/TKCbQBqAOZI/AAAAAAAAByc/HNVr5wfhGk0/DSCF3093.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXXzOcymtpU/TKCbQBqAOZI/AAAAAAAAByc/HNVr5wfhGk0/s72/DSCF3093.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXXzOcymtpU/TKCbQBqAOZI/AAAAAAAAByc/HNVr5wfhGk0/s144/DSCF3093.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mXXzOcymtpU/TKCbQBqAOZI/AAAAAAAAByc/HNVr5wfhGk0/s288/DSCF3093.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3093.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583858328192786</id>
+    <published>2010-09-27T13:25:23.000Z</published>
+    <updated>2013-05-11T04:50:41.955Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3094.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4ueRJLLn068/TKCbQ7kuxxI/AAAAAAAAAsU/bEgVNKafzL4/DSCF3094.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583858328192786"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583858328192786"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/n1nmQs5QnS2OHQ5wji2b8NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583858328192786"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583858328192786"/>
+    <gphoto:id>5521583858328192786</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.75</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>351109</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f091918</gphoto:checksum>
+    <gphoto:timestamp>1285425061000</gphoto:timestamp>
+    <gphoto:imageVersion>709</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.2</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1285425061000</exif:time>
+      <exif:imageUniqueID>864c0d9400470796f35dc841923cdeb1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4ueRJLLn068/TKCbQ7kuxxI/AAAAAAAAAsU/bEgVNKafzL4/DSCF3094.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4ueRJLLn068/TKCbQ7kuxxI/AAAAAAAAAsU/bEgVNKafzL4/s72/DSCF3094.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4ueRJLLn068/TKCbQ7kuxxI/AAAAAAAAAsU/bEgVNKafzL4/s144/DSCF3094.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4ueRJLLn068/TKCbQ7kuxxI/AAAAAAAAAsU/bEgVNKafzL4/s288/DSCF3094.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3094.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583869875774306</id>
+    <published>2010-09-27T13:25:26.000Z</published>
+    <updated>2014-03-08T09:59:47.052Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3097.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lpYrW1Zfa70/TKCbRml442I/AAAAAAAAByc/iW8dwQREUbI/DSCF3097.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583869875774306"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521583869875774306"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6wb6jJbMdc45qu3J6LWWRtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521583869875774306"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521583869875774306"/>
+    <gphoto:id>5521583869875774306</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.875</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>235483</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f093918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>1831</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F50fd  </exif:model>
+      <exif:exposure>0.006666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>16.3</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>1285425306000</exif:time>
+      <exif:imageUniqueID>b6058ce226de28c9a921c4d73459f36a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lpYrW1Zfa70/TKCbRml442I/AAAAAAAAByc/iW8dwQREUbI/DSCF3097.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lpYrW1Zfa70/TKCbRml442I/AAAAAAAAByc/iW8dwQREUbI/s72/DSCF3097.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lpYrW1Zfa70/TKCbRml442I/AAAAAAAAByc/iW8dwQREUbI/s144/DSCF3097.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lpYrW1Zfa70/TKCbRml442I/AAAAAAAAByc/iW8dwQREUbI/s288/DSCF3097.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF3097.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586303673584258</id>
+    <published>2010-09-27T13:34:53.000Z</published>
+    <updated>2015-10-06T13:56:33.624Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF3098.AVI</title>
+    <summary type="text">おまけ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-68CRE6c4V1E/TKCdfRMgSoI/AAAAAAAAAtA/_W_LUjykiSg/DSCF3098.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586303673584258"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103698838754303137820/2010TQR#5521586303673584258"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/jB9BW2SK82dANp_lGdrj_tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103698838754303137820/albumid/5521583717387791169/photoid/5521586303673584258"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=103698838754303137820&amp;aid=5521583717387791169&amp;iid=5521586303673584258"/>
+    <gphoto:id>5521586303673584258</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5521583717387791169</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="640" height="480" type="AVI" duration="5" channels="1" samplingrate="11.024" videoCodec="MJPEG" audioCodec="PCM_U8" fps="25.0"/>
+    <gphoto:width>640</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>5842750</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>8f401918</gphoto:checksum>
+    <gphoto:timestamp>1285425306000</gphoto:timestamp>
+    <gphoto:imageVersion>720</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:time>1285507088000</exif:time>
+      <exif:imageUniqueID>17d94113d27e67f303a0a1fcda6ab1ea</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-68CRE6c4V1E/TKCdfRMgSoI/AAAAAAAAAtA/_W_LUjykiSg/DSCF3098.jpg" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/VmmGFBFwTqN_-fTAeyV9OeKdad6yznuiHv5sRfbAw_8=m18" height="360" width="480" type="video/mpeg4" medium="video"/>
+      <media:credit>r.kishimoto</media:credit>
+      <media:description type="plain">おまけ</media:description>
+      <media:keywords>ムービー</media:keywords>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-68CRE6c4V1E/TKCdfRMgSoI/AAAAAAAAAtA/_W_LUjykiSg/s72/DSCF3098.jpg" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-68CRE6c4V1E/TKCdfRMgSoI/AAAAAAAAAtA/_W_LUjykiSg/s144/DSCF3098.jpg" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-68CRE6c4V1E/TKCdfRMgSoI/AAAAAAAAAtA/_W_LUjykiSg/s288/DSCF3098.jpg" height="216" width="288"/>
+      <media:title type="plain">DSCF3098.AVI</media:title>
+    </media:group>
+  </entry>
+</feed>

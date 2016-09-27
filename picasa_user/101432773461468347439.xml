@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101432773461468347439</id>
+  <updated>2015-10-15T22:34:54.020Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">101432773461468347439</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-7z6KB8woT-A/AAAAAAAAAAI/AAAAAAAAAAA/M4y2DNMS1qU/s64-c/101432773461468347439.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101432773461468347439?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>f Kawauchiya</name>
+    <uri>https://picasaweb.google.com/101432773461468347439</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>28</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>101432773461468347439</gphoto:user>
+  <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-7z6KB8woT-A/AAAAAAAAAAI/AAAAAAAAAAA/M4y2DNMS1qU/s64-c/101432773461468347439.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6205096500278557025</id>
+    <published>2015-10-10T07:00:00.000Z</published>
+    <updated>2015-10-13T13:30:16.111Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">15.1010-12 るりツアー南紀</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6205096500278557025"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/15101012"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6205096500278557025"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6205096500278557025</gphoto:id>
+    <gphoto:name>15101012</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1444460400000</gphoto:timestamp>
+    <gphoto:numphotos>63</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-c9qNigDVvNM/VhzuZBgfeWE/AAAAAAAANhU/bDoPUUSEdYQ/15101012.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-c9qNigDVvNM/VhzuZBgfeWE/AAAAAAAANhU/bDoPUUSEdYQ/s160-c/15101012.jpg" height="160" width="160"/>
+      <media:title type="plain">15.1010-12 るりツアー南紀</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069596623977269105</id>
+    <published>2014-10-11T07:00:00.000Z</published>
+    <updated>2014-10-16T13:24:13.238Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.1010-12 女子ツアー(大弛, 勝沼)</title>
+    <summary type="text">迫り来る台風に翻弄されながら、色々と初の試みでした。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6069596623977269105"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/14101012"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069596623977269105"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6069596623977269105</gphoto:id>
+    <gphoto:name>14101012</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1413010800000</gphoto:timestamp>
+    <gphoto:numphotos>123</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-79El2T-ucIE/VDuJ-K4TR3E/AAAAAAAAL5A/tHBUA_I2rck/14101012.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">迫り来る台風に翻弄されながら、色々と初の試みでした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-79El2T-ucIE/VDuJ-K4TR3E/AAAAAAAAL5A/tHBUA_I2rck/s160-c/14101012.jpg" height="160" width="160"/>
+      <media:title type="plain">14.1010-12 女子ツアー(大弛, 勝沼)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069911709170135185</id>
+    <published>2014-09-27T07:00:00.000Z</published>
+    <updated>2014-10-16T00:55:46.729Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.0927 TQR.1st→sng</title>
+    <summary type="text">アップしようか迷ったんですが、基本ノー編であげときます</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6069911709170135185"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/140927TQR1stSng"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069911709170135185"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6069911709170135185</gphoto:id>
+    <gphoto:name>140927TQR1stSng</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1411801200000</gphoto:timestamp>
+    <gphoto:numphotos>157</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Yp68vpeLt40/VDyoiisR8JE/AAAAAAAALwk/ManbCZUikoc/140927TQR1stSng.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">アップしようか迷ったんですが、基本ノー編であげときます</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Yp68vpeLt40/VDyoiisR8JE/AAAAAAAALwk/ManbCZUikoc/s160-c/140927TQR1stSng.jpg" height="160" width="160"/>
+      <media:title type="plain">14.0927 TQR.1st→sng</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6076035024742187697</id>
+    <published>2014-09-16T07:00:00.000Z</published>
+    <updated>2014-10-30T18:04:38.939Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.0905-19 アメリカ(yellowstone他)</title>
+    <summary type="text">やっとうｐします.. 動画は後日.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6076035024742187697"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/14090519Yellowstone"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6076035024742187697"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6076035024742187697</gphoto:id>
+    <gphoto:name>14090519Yellowstone</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1410850800000</gphoto:timestamp>
+    <gphoto:numphotos>460</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Q2WlxBBWXNo/VFJpqayXArE/AAAAAAAANN4/j5SI8q1OsUg/14090519Yellowstone.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">やっとうｐします.. 動画は後日.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Q2WlxBBWXNo/VFJpqayXArE/AAAAAAAANN4/j5SI8q1OsUg/s160-c/14090519Yellowstone.jpg" height="160" width="160"/>
+      <media:title type="plain">14.0905-19 アメリカ(yellowstone他)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6054050797558919361</id>
+    <published>2014-08-21T07:00:00.000Z</published>
+    <updated>2014-09-01T17:28:22.198Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.0820-23-26 夏合宿春木班[四国] +α</title>
+    <summary type="text">~(学生最後の)夏の思い出~</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6054050797558919361"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/1408202326"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6054050797558919361"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6054050797558919361</gphoto:id>
+    <gphoto:name>1408202326</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1408604400000</gphoto:timestamp>
+    <gphoto:numphotos>211</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OV6htV4LwSI/VARPH-ircME/AAAAAAAAK40/z-qUn0JRv5U/1408202326.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">~(学生最後の)夏の思い出~</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OV6htV4LwSI/VARPH-ircME/AAAAAAAAK40/z-qUn0JRv5U/s160-c/1408202326.jpg" height="160" width="160"/>
+      <media:title type="plain">14.0820-23-26 夏合宿春木班[四国] +α</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6043959185905119137</id>
+    <published>2014-07-30T23:05:17.000Z</published>
+    <updated>2015-02-27T17:45:24.712Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.0731-0802 ブナオォォァ！</title>
+    <summary type="text">やっと行けました。ありがとう</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6043959185905119137"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/1407310802"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6043959185905119137"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6043959185905119137</gphoto:id>
+    <gphoto:name>1407310802</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1406761517000</gphoto:timestamp>
+    <gphoto:numphotos>116</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HuaQkszzniU/U-B023jVb6E/AAAAAAAAJgM/gu6gT4WS5AE/1407310802.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">やっと行けました。ありがとう</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HuaQkszzniU/U-B023jVb6E/AAAAAAAAJgM/gu6gT4WS5AE/s160-c/1407310802.jpg" height="160" width="160"/>
+      <media:title type="plain">14.0731-0802 ブナオォォァ！</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6043960993730912113</id>
+    <published>2014-07-25T19:19:46.000Z</published>
+    <updated>2015-02-27T17:45:19.125Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">14.0726-27 剱岳(早月小屋まで)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6043960993730912113"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/14072627"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6043960993730912113"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6043960993730912113</gphoto:id>
+    <gphoto:name>14072627</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1406315986000</gphoto:timestamp>
+    <gphoto:numphotos>54</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8Z_NKB5HjKI/U-B2gGOl33E/AAAAAAAAJf4/vnouy79JhhI/14072627.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8Z_NKB5HjKI/U-B2gGOl33E/AAAAAAAAJf4/vnouy79JhhI/s160-c/14072627.jpg" height="160" width="160"/>
+      <media:title type="plain">14.0726-27 剱岳(早月小屋まで)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5950004959199816529</id>
+    <published>2013-11-24T03:20:47.000Z</published>
+    <updated>2014-10-13T08:13:19.527Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">13.1123~24 OBOGラン(鈴鹿スカイライン)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5950004959199816529"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/13112324OBOG"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5950004959199816529"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5950004959199816529</gphoto:id>
+    <gphoto:name>13112324OBOG</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1385263247000</gphoto:timestamp>
+    <gphoto:numphotos>11</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iJSxbVLzBGA/UpKp_GTq61E/AAAAAAAAJM8/Wqc435vQgh8/13112324OBOG.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iJSxbVLzBGA/UpKp_GTq61E/AAAAAAAAJM8/Wqc435vQgh8/s160-c/13112324OBOG.jpg" height="160" width="160"/>
+      <media:title type="plain">13.1123~24 OBOGラン(鈴鹿スカイライン)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5902699753887991681</id>
+    <published>2013-07-20T07:00:00.000Z</published>
+    <updated>2014-10-13T08:14:06.098Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">13.0720 白山登山</title>
+    <summary type="text">by iPhone3GS..
+お花とかもっっと綺麗に見えたよ!!!</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5902699753887991681"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/130720"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5902699753887991681"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5902699753887991681</gphoto:id>
+    <gphoto:name>130720</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1374303600000</gphoto:timestamp>
+    <gphoto:numphotos>31</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mcOukntIT6A/UeqaJv5Hh4E/AAAAAAAAJTM/m8w-BG7WsFQ/130720.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">by iPhone3GS..
+お花とかもっっと綺麗に見えたよ!!!</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mcOukntIT6A/UeqaJv5Hh4E/AAAAAAAAJTM/m8w-BG7WsFQ/s160-c/130720.jpg" height="160" width="160"/>
+      <media:title type="plain">13.0720 白山登山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5740947549238129873</id>
+    <published>2012-03-25T07:00:00.000Z</published>
+    <updated>2014-10-13T08:13:48.194Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">12.0319~25 春合宿(しまなみ)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5740947549238129873"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/12031925"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5740947549238129873"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5740947549238129873</gphoto:id>
+    <gphoto:name>12031925</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1332658800000</gphoto:timestamp>
+    <gphoto:numphotos>27</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WaJjCNnNu2k/T6vxYRJ89NE/AAAAAAAAJTQ/mstrRP62__Q/12031925.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WaJjCNnNu2k/T6vxYRJ89NE/AAAAAAAAJTQ/mstrRP62__Q/s160-c/12031925.jpg" height="160" width="160"/>
+      <media:title type="plain">12.0319~25 春合宿(しまなみ)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5708601159969371121</id>
+    <published>2012-02-13T08:00:00.000Z</published>
+    <updated>2014-08-13T01:49:43.053Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">12.0210-13 白川郷&amp;スキーツアー</title>
+    <summary type="text">金沢→福光→白川郷→ひるがの→岐阜</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5708601159969371121"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/12021013"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5708601159969371121"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5708601159969371121</gphoto:id>
+    <gphoto:name>12021013</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1329120000000</gphoto:timestamp>
+    <gphoto:numphotos>100</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WhvGqbF4o90/TzkGgnBbc_E/AAAAAAAAKxM/Y0gOY3QhGYg/12021013.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">金沢→福光→白川郷→ひるがの→岐阜</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WhvGqbF4o90/TzkGgnBbc_E/AAAAAAAAKxM/Y0gOY3QhGYg/s160-c/12021013.jpg" height="160" width="160"/>
+      <media:title type="plain">12.0210-13 白川郷&amp;スキーツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5684802115847962817</id>
+    <published>2011-12-11T08:00:00.000Z</published>
+    <updated>2014-08-13T02:07:37.197Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11.1211 クラブラン(芹生),α</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5684802115847962817"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/111211"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5684802115847962817"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5684802115847962817</gphoto:id>
+    <gphoto:name>111211</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1323590400000</gphoto:timestamp>
+    <gphoto:numphotos>27</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5HRg_PTsolo/TuR5Z62BwME/AAAAAAAAHEw/daYBvzI4cXA/111211.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5HRg_PTsolo/TuR5Z62BwME/AAAAAAAAHEw/daYBvzI4cXA/s160-c/111211.jpg" height="160" width="160"/>
+      <media:title type="plain">11.1211 クラブラン(芹生),α</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5650788580374357281</id>
+    <published>2011-08-23T07:00:00.000Z</published>
+    <updated>2014-08-13T01:55:04.182Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11.0824~26 キプロス(北&amp;南)</title>
+    <summary type="text">イズミルから飛行機でレフコシャ→ギルネ→ガズィマウサ(オセロー！)→レフコシャ(首都北半分)→ニコシア(首都南半分)！</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5650788580374357281"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/11082426"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5650788580374357281"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5650788580374357281</gphoto:id>
+    <gphoto:name>11082426</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1314082800000</gphoto:timestamp>
+    <gphoto:numphotos>168</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fBF2lBI4JXY/TmuiRlIMJSE/AAAAAAAAIH4/x0gOfbAD248/11082426.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">イズミルから飛行機でレフコシャ→ギルネ→ガズィマウサ(オセロー！)→レフコシャ(首都北半分)→ニコシア(首都南半分)！</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fBF2lBI4JXY/TmuiRlIMJSE/AAAAAAAAIH4/x0gOfbAD248/s160-c/11082426.jpg" height="160" width="160"/>
+      <media:title type="plain">11.0824~26 キプロス(北&amp;南)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5650766153257987185</id>
+    <published>2011-08-06T07:00:00.000Z</published>
+    <updated>2014-08-13T01:49:21.174Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11.0807~0901 夏合宿藤村班(トルコ)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5650766153257987185"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/1108070901"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5650766153257987185"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5650766153257987185</gphoto:id>
+    <gphoto:name>1108070901</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1312614000000</gphoto:timestamp>
+    <gphoto:numphotos>521</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wKG-tPwpa38/TmuN4Jm-LHE/AAAAAAAAKzg/qw_NnkfMZXI/1108070901.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wKG-tPwpa38/TmuN4Jm-LHE/AAAAAAAAKzg/qw_NnkfMZXI/s160-c/1108070901.jpg" height="160" width="160"/>
+      <media:title type="plain">11.0807~0901 夏合宿藤村班(トルコ)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5594675729703313169</id>
+    <published>2011-04-09T07:00:00.000Z</published>
+    <updated>2014-08-13T01:49:07.505Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11.0409 新歓サイクリング(琵琶湖＆寺社観光)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5594675729703313169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/110409"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5594675729703313169"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5594675729703313169</gphoto:id>
+    <gphoto:name>110409</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1302332400000</gphoto:timestamp>
+    <gphoto:numphotos>21</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-UHgXbzl9b7Q/TaRH7y53HxE/AAAAAAAABy4/Hoo5Vzb_zTg/110409.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UHgXbzl9b7Q/TaRH7y53HxE/AAAAAAAABy4/Hoo5Vzb_zTg/s160-c/110409.jpg" height="160" width="160"/>
+      <media:title type="plain">11.0409 新歓サイクリング(琵琶湖＆寺社観光)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5594692119590356705</id>
+    <published>2011-03-25T07:00:00.000Z</published>
+    <updated>2014-08-13T01:49:00.446Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11.0325~28 春合宿→ﾅｶﾞｽﾊﾟ!!</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5594692119590356705"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/11032528"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5594692119590356705"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5594692119590356705</gphoto:id>
+    <gphoto:name>11032528</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1301036400000</gphoto:timestamp>
+    <gphoto:numphotos>180</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xRzusuffF3Q/TaRW1z_cRuE/AAAAAAAAHJM/VgeY4wuobVU/11032528.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xRzusuffF3Q/TaRW1z_cRuE/AAAAAAAAHJM/VgeY4wuobVU/s160-c/11032528.jpg" height="160" width="160"/>
+      <media:title type="plain">11.0325~28 春合宿→ﾅｶﾞｽﾊﾟ!!</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985</id>
+    <published>2010-12-03T08:00:00.000Z</published>
+    <updated>2014-08-13T01:48:31.563Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.1204 クラブラン(高雄・愛宕)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5546994529345853985"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101204"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5546994529345853985"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5546994529345853985</gphoto:id>
+    <gphoto:name>101204</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291363200000</gphoto:timestamp>
+    <gphoto:numphotos>10</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-HD-B5a7NRBk/TPriIpyx2iE/AAAAAAAAHyk/gTiRiK67YUc/101204.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-HD-B5a7NRBk/TPriIpyx2iE/AAAAAAAAHyk/gTiRiK67YUc/s160-c/101204.jpg" height="160" width="160"/>
+      <media:title type="plain">10.1204 クラブラン(高雄・愛宕)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543640830799080977</id>
+    <published>2010-11-19T08:00:00.000Z</published>
+    <updated>2014-08-05T06:36:24.624Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.1119-24 NF台湾</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543640830799080977"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/10111924NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543640830799080977"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5543640830799080977</gphoto:id>
+    <gphoto:name>10111924NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1290153600000</gphoto:timestamp>
+    <gphoto:numphotos>380</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Y6NrEyKAuV8/TO739tIhbhE/AAAAAAAAKkw/7S61WFT9CpU/10111924NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Y6NrEyKAuV8/TO739tIhbhE/AAAAAAAAKkw/7S61WFT9CpU/s160-c/10111924NF.jpg" height="160" width="160"/>
+      <media:title type="plain">10.1119-24 NF台湾</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543691795433824369</id>
+    <published>2010-11-05T07:00:00.000Z</published>
+    <updated>2014-08-05T06:33:02.923Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.1105 クラブラン(唐櫃越え)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543691795433824369"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/101105"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543691795433824369"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5543691795433824369</gphoto:id>
+    <gphoto:name>101105</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1288940400000</gphoto:timestamp>
+    <gphoto:numphotos>17</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-eRT0ZNOBIm0/TO8mUPMUoHE/AAAAAAAAHyc/j3_FOtuveOY/101105.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eRT0ZNOBIm0/TO8mUPMUoHE/AAAAAAAAHyc/j3_FOtuveOY/s160-c/101105.jpg" height="160" width="160"/>
+      <media:title type="plain">10.1105 クラブラン(唐櫃越え)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695349210602665393</id>
+    <published>2010-08-10T07:00:00.000Z</published>
+    <updated>2014-08-05T06:29:54.024Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.0810~22 夏合宿うちや班 / 大畑班奥穂</title>
+    <summary type="text">確かデジカメをザックの奥底にしまっていて、全然撮らなかったんだと思う..</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5695349210602665393"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/10081022"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695349210602665393"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5695349210602665393</gphoto:id>
+    <gphoto:name>10081022</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1281423600000</gphoto:timestamp>
+    <gphoto:numphotos>10</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YQxptNvZVRE/Twnx7onF9bE/AAAAAAAAIVw/ybX8y5ehZas/10081022.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">確かデジカメをザックの奥底にしまっていて、全然撮らなかったんだと思う..</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YQxptNvZVRE/Twnx7onF9bE/AAAAAAAAIVw/ybX8y5ehZas/s160-c/10081022.jpg" height="160" width="160"/>
+      <media:title type="plain">10.0810~22 夏合宿うちや班 / 大畑班奥穂</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695336342536017441</id>
+    <published>2010-05-01T07:00:00.000Z</published>
+    <updated>2014-08-05T06:28:58.624Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.0501~05 GW信州</title>
+    <summary type="text">①長野→渋→草津
+②→車坂→
+③→武石峠→美ヶ原(ビーナスライン)→諏訪湖
+(④→杖突峠→駒ヶ根)(※私は輪行)
+⑤→権兵衛トンネル→輪行
+
+意外にうｐしてなかったんですね。
+全部ババ晴れだったのに、写真全然とれてない、。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5695336342536017441"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/10050105GW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695336342536017441"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5695336342536017441</gphoto:id>
+    <gphoto:name>10050105GW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1272697200000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-EKtwJBbKmXg/TwnmOnU7ViE/AAAAAAAAHuo/caH4cTdrvwA/10050105GW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">①長野→渋→草津
+②→車坂→
+③→武石峠→美ヶ原(ビーナスライン)→諏訪湖
+(④→杖突峠→駒ヶ根)(※私は輪行)
+⑤→権兵衛トンネル→輪行
+
+意外にうｐしてなかったんですね。
+全部ババ晴れだったのに、写真全然とれてない、。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EKtwJBbKmXg/TwnmOnU7ViE/AAAAAAAAHuo/caH4cTdrvwA/s160-c/10050105GW.jpg" height="160" width="160"/>
+      <media:title type="plain">10.0501~05 GW信州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695346239756047665</id>
+    <published>2010-04-10T07:00:00.000Z</published>
+    <updated>2014-08-05T06:31:02.078Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.04 新歓 (大文字・琵琶湖・上賀茂)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5695346239756047665"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/1004"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695346239756047665"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5695346239756047665</gphoto:id>
+    <gphoto:name>1004</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1270882800000</gphoto:timestamp>
+    <gphoto:numphotos>9</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-oOmqefy7fe4/TwnvOtWEFTE/AAAAAAAAHx8/xCsa5XvmbQk/1004.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oOmqefy7fe4/TwnvOtWEFTE/AAAAAAAAHx8/xCsa5XvmbQk/s160-c/1004.jpg" height="160" width="160"/>
+      <media:title type="plain">10.04 新歓 (大文字・琵琶湖・上賀茂)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695341924469259601</id>
+    <published>2010-03-25T07:00:00.000Z</published>
+    <updated>2014-08-15T16:40:39.098Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.0324~29 プレ春 / 春合宿(富士山周辺)</title>
+    <summary type="text">写真を撮りまくるようになったのは、'10NF台湾からなのね。。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5695341924469259601"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/10032429"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5695341924469259601"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5695341924469259601</gphoto:id>
+    <gphoto:name>10032429</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1269500400000</gphoto:timestamp>
+    <gphoto:numphotos>16</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LPvKjt_Lluo/TwnrThphPVE/AAAAAAAAJU8/O8Crxiev9UE/10032429.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">写真を撮りまくるようになったのは、'10NF台湾からなのね。。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LPvKjt_Lluo/TwnrThphPVE/AAAAAAAAJU8/O8Crxiev9UE/s160-c/10032429.jpg" height="160" width="160"/>
+      <media:title type="plain">10.0324~29 プレ春 / 春合宿(富士山周辺)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5449425516641577921</id>
+    <published>2010-02-22T08:00:00.000Z</published>
+    <updated>2014-10-13T08:13:44.228Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10.0210-26 冬北海道&amp;ソロ道南</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5449425516641577921"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/10021026"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5449425516641577921"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5449425516641577921</gphoto:id>
+    <gphoto:name>10021026</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1266825600000</gphoto:timestamp>
+    <gphoto:numphotos>20</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rtRxz_qpOZo/S6A_opVe68E/AAAAAAAAHyM/MHnf4HYRz2w/10021026.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rtRxz_qpOZo/S6A_opVe68E/AAAAAAAAHyM/MHnf4HYRz2w/s160-c/10021026.jpg" height="160" width="160"/>
+      <media:title type="plain">10.0210-26 冬北海道&amp;ソロ道南</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345</id>
+    <published>2009-11-14T08:00:00.000Z</published>
+    <updated>2014-10-13T08:13:36.169Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09.1114 クラブラン(芹生)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5543687230273777345"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/091114"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5543687230273777345"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5543687230273777345</gphoto:id>
+    <gphoto:name>091114</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1258185600000</gphoto:timestamp>
+    <gphoto:numphotos>18</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-oMQ0MB8wJwk/TO8iKgpWbsE/AAAAAAAAIXk/FC3b4lqFiKg/091114.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oMQ0MB8wJwk/TO8iKgpWbsE/AAAAAAAAIXk/FC3b4lqFiKg/s160-c/091114.jpg" height="160" width="160"/>
+      <media:title type="plain">09.1114 クラブラン(芹生)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5427137182683763089</id>
+    <published>2009-08-10T07:00:00.000Z</published>
+    <updated>2014-10-13T08:14:17.535Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09.0810~0903 夏合宿広木班 (関東/信州)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/5427137182683763089"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/0908100903"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/5427137182683763089"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>5427137182683763089</gphoto:id>
+    <gphoto:name>0908100903</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1249887600000</gphoto:timestamp>
+    <gphoto:numphotos>64</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-w7rHjSJjc8o/S1EQg3EuEZE/AAAAAAAAIXc/aQqvwj0LRg4/0908100903.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-w7rHjSJjc8o/S1EQg3EuEZE/AAAAAAAAIXc/aQqvwj0LRg4/s160-c/0908100903.jpg" height="160" width="160"/>
+      <media:title type="plain">09.0810~0903 夏合宿広木班 (関東/信州)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069837608460401233</id>
+    <published>1980-10-13T23:49:57.000Z</published>
+    <updated>2015-02-27T17:45:00.732Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Scrapbook Photos</title>
+    <summary type="text">Album for scrapbook photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6069837608460401233"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/ScrapbookPhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069837608460401233"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6069837608460401233</gphoto:id>
+    <gphoto:name>ScrapbookPhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>340328997000</gphoto:timestamp>
+    <gphoto:numphotos>1</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <gphoto:albumType>ScrapBook</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_wGPWwCcmqU/VDxlJUCWulE/AAAAAAAAL4s/T1rhCUy2ghA/ScrapbookPhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain">Scrapbook Photos</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_wGPWwCcmqU/VDxlJUCWulE/AAAAAAAAL4s/T1rhCUy2ghA/s160-c/ScrapbookPhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Scrapbook Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069837471629909217</id>
+    <published>1980-09-16T16:30:09.000Z</published>
+    <updated>2015-02-27T17:45:08.117Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101432773461468347439/albumid/6069837471629909217"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101432773461468347439/ProfilePhotos02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101432773461468347439/albumid/6069837471629909217"/>
+    <author>
+      <name>f Kawauchiya</name>
+      <uri>https://picasaweb.google.com/101432773461468347439</uri>
+    </author>
+    <gphoto:id>6069837471629909217</gphoto:id>
+    <gphoto:name>ProfilePhotos02</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>337969809000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>101432773461468347439</gphoto:user>
+    <gphoto:nickname>f Kawauchiya</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Ss87oKz_MBw/VDxlBWTbHOE/AAAAAAAANIw/-mtjk0kT7UU/ProfilePhotos02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>f Kawauchiya</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Ss87oKz_MBw/VDxlBWTbHOE/AAAAAAAANIw/-mtjk0kT7UU/s160-c/ProfilePhotos02.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+</feed>

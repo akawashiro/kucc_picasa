@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/103406754517492444784</id>
+  <updated>2015-10-11T09:09:33.004Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">103406754517492444784</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-7Icsc1xLCDw/AAAAAAAAAAI/AAAAAAAAAAA/yZ0jW2qhfgs/s64-c/103406754517492444784.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103406754517492444784?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>遠山秀旦</name>
+    <uri>https://picasaweb.google.com/103406754517492444784</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>5</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>103406754517492444784</gphoto:user>
+  <gphoto:nickname>遠山秀旦</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-7Icsc1xLCDw/AAAAAAAAAAI/AAAAAAAAAAA/yZ0jW2qhfgs/s64-c/103406754517492444784.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5994789713165772001</id>
+    <published>2014-03-25T18:05:46.000Z</published>
+    <updated>2014-03-25T18:05:46.938Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784/albumid/5994789713165772001"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5994789713165772001"/>
+    <author>
+      <name>遠山秀旦</name>
+      <uri>https://picasaweb.google.com/103406754517492444784</uri>
+    </author>
+    <gphoto:id>5994789713165772001</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395770746000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>103406754517492444784</gphoto:user>
+    <gphoto:nickname>遠山秀旦</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-V8kFeWQdHIg/UzHFe3xpZOE/AAAAAAAABOI/tjc30vifpT4/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>遠山秀旦</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-V8kFeWQdHIg/UzHFe3xpZOE/AAAAAAAABOI/tjc30vifpT4/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5936859533233143233</id>
+    <published>2013-10-20T15:27:06.000Z</published>
+    <updated>2013-10-20T15:55:46.233Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013夏</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784/albumid/5936859533233143233"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784/2013"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5936859533233143233"/>
+    <author>
+      <name>遠山秀旦</name>
+      <uri>https://picasaweb.google.com/103406754517492444784</uri>
+    </author>
+    <gphoto:id>5936859533233143233</gphoto:id>
+    <gphoto:name>2013</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1382282826000</gphoto:timestamp>
+    <gphoto:numphotos>167</gphoto:numphotos>
+    <gphoto:user>103406754517492444784</gphoto:user>
+    <gphoto:nickname>遠山秀旦</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IqDagRDbXkw/UmP2SmfAvcE/AAAAAAAABLU/7kDWZdSGxhc/2013.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>遠山秀旦</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IqDagRDbXkw/UmP2SmfAvcE/AAAAAAAABLU/7kDWZdSGxhc/s160-c/2013.jpg" height="160" width="160"/>
+      <media:title type="plain">2013夏</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5926789814443836433</id>
+    <published>2013-09-24T07:00:00.000Z</published>
+    <updated>2013-09-24T12:21:52.383Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">TQR2013photo</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784/albumid/5926789814443836433"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784/TQR2013photo"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5926789814443836433"/>
+    <author>
+      <name>遠山秀旦</name>
+      <uri>https://picasaweb.google.com/103406754517492444784</uri>
+    </author>
+    <gphoto:id>5926789814443836433</gphoto:id>
+    <gphoto:name>TQR2013photo</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1380006000000</gphoto:timestamp>
+    <gphoto:numphotos>23</gphoto:numphotos>
+    <gphoto:user>103406754517492444784</gphoto:user>
+    <gphoto:nickname>遠山秀旦</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2XPaARCNlEc/UkAv70xUBBE/AAAAAAAABiI/MtmS-J5qeWA/TQR2013photo.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>遠山秀旦</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2XPaARCNlEc/UkAv70xUBBE/AAAAAAAABiI/MtmS-J5qeWA/s160-c/TQR2013photo.jpg" height="160" width="160"/>
+      <media:title type="plain">TQR2013photo</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5862297719187495281</id>
+    <published>2013-04-02T17:09:11.000Z</published>
+    <updated>2013-10-20T15:01:30.518Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2013年4月3日</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784/albumid/5862297719187495281"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784/201343"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5862297719187495281"/>
+    <author>
+      <name>遠山秀旦</name>
+      <uri>https://picasaweb.google.com/103406754517492444784</uri>
+    </author>
+    <gphoto:id>5862297719187495281</gphoto:id>
+    <gphoto:name>201343</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1364922551000</gphoto:timestamp>
+    <gphoto:numphotos>79</gphoto:numphotos>
+    <gphoto:user>103406754517492444784</gphoto:user>
+    <gphoto:nickname>遠山秀旦</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iz3rr6YOkA4/UVsQtz_A2XE/AAAAAAAABfQ/0MsGvwIs4Wo/201343.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>遠山秀旦</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iz3rr6YOkA4/UVsQtz_A2XE/AAAAAAAABfQ/0MsGvwIs4Wo/s160-c/201343.jpg" height="160" width="160"/>
+      <media:title type="plain">2013年4月3日</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5862279713447816097</id>
+    <published>2013-04-02T15:59:18.000Z</published>
+    <updated>2013-10-20T15:02:14.561Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春ニュージー’１３</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103406754517492444784/albumid/5862279713447816097"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103406754517492444784/DlXNUB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103406754517492444784/albumid/5862279713447816097"/>
+    <author>
+      <name>遠山秀旦</name>
+      <uri>https://picasaweb.google.com/103406754517492444784</uri>
+    </author>
+    <gphoto:id>5862279713447816097</gphoto:id>
+    <gphoto:name>DlXNUB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1364918358000</gphoto:timestamp>
+    <gphoto:numphotos>240</gphoto:numphotos>
+    <gphoto:user>103406754517492444784</gphoto:user>
+    <gphoto:nickname>遠山秀旦</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sMTUHt37xuk/UVsAVvYJK6E/AAAAAAAABgg/xV285qQuoSg/DlXNUB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>遠山秀旦</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sMTUHt37xuk/UVsAVvYJK6E/AAAAAAAABgg/xV285qQuoSg/s160-c/DlXNUB.jpg" height="160" width="160"/>
+      <media:title type="plain">春ニュージー’１３</media:title>
+    </media:group>
+  </entry>
+</feed>

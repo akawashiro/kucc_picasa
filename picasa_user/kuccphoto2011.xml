@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/kuccphoto2011</id>
+  <updated>2015-09-06T13:05:57.424Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">118244886890128639145</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/--8i_qP3REYs/AAAAAAAAAAI/AAAAAAAAAAA/Uf9vRMuRpak/s64-c/118244886890128639145.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/118244886890128639145?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kucc kuccphoto</name>
+    <uri>https://picasaweb.google.com/118244886890128639145</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>15</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>118244886890128639145</gphoto:user>
+  <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/--8i_qP3REYs/AAAAAAAAAAI/AAAAAAAAAAA/Uf9vRMuRpak/s64-c/118244886890128639145.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5994964071289543313</id>
+    <published>2014-03-26T05:22:23.000Z</published>
+    <updated>2014-03-26T05:22:23.574Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5994964071289543313"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5994964071289543313"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5994964071289543313</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1395811343000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QC8LsQhXT0U/UzJkD2ZxWpE/AAAAAAAADLs/NJ3jTjwbtOs/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QC8LsQhXT0U/UzJkD2ZxWpE/AAAAAAAADLs/NJ3jTjwbtOs/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148346190975537</id>
+    <published>2011-11-12T08:00:00.000Z</published>
+    <updated>2013-09-25T08:30:56.344Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2011_A 自転車のある風景部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5672148346190975537"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011_A"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148346190975537"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5672148346190975537</gphoto:id>
+    <gphoto:name>2011_A</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1321084800000</gphoto:timestamp>
+    <gphoto:numphotos>28</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qbz7i0YpbO8/TreE3lgIUjE/AAAAAAAADLc/4QO5C06ao9w/2011_A.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qbz7i0YpbO8/TreE3lgIUjE/AAAAAAAADLc/4QO5C06ao9w/s160-c/2011_A.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2011_A 自転車のある風景部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148598939551553</id>
+    <published>2011-11-10T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:49.733Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2011_B 風景(自転車なし)部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5672148598939551553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011_B"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148598939551553"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5672148598939551553</gphoto:id>
+    <gphoto:name>2011_B</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1320912000000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Rc77PIXZsms/TreFGTEFh0E/AAAAAAAACqk/7zPiTMwL5eg/2011_B.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Rc77PIXZsms/TreFGTEFh0E/AAAAAAAACqk/7zPiTMwL5eg/s160-c/2011_B.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2011_B 風景(自転車なし)部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148841941467393</id>
+    <published>2011-11-09T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:51.733Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2011_C 海外部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5672148841941467393"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011_C"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672148841941467393"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5672148841941467393</gphoto:id>
+    <gphoto:name>2011_C</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1320825600000</gphoto:timestamp>
+    <gphoto:numphotos>21</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gwFfyAXQ5NY/TreFUcUQgQE/AAAAAAAADMc/rHdzstRCvpk/2011_C.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gwFfyAXQ5NY/TreFUcUQgQE/AAAAAAAADMc/rHdzstRCvpk/s160-c/2011_C.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2011_C 海外部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672149021074850193</id>
+    <published>2011-11-08T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:53.732Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2011_D 人物部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5672149021074850193"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011_D"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672149021074850193"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5672149021074850193</gphoto:id>
+    <gphoto:name>2011_D</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1320739200000</gphoto:timestamp>
+    <gphoto:numphotos>44</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Skjx26M1eX0/TreFe3o_AZE/AAAAAAAACuw/lky8iA63dKg/2011_D.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Skjx26M1eX0/TreFe3o_AZE/AAAAAAAACuw/lky8iA63dKg/s160-c/2011_D.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2011_D 人物部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672149405667435841</id>
+    <published>2011-11-07T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:55.732Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2011_E 自由部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5672149405667435841"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011_E"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5672149405667435841"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5672149405667435841</gphoto:id>
+    <gphoto:name>2011_E</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1320652800000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e0xSGWtCafQ/TreF1QXAJUE/AAAAAAAACwg/wRzpbXgtgvs/2011_E.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e0xSGWtCafQ/TreF1QXAJUE/AAAAAAAACwg/wRzpbXgtgvs/s160-c/2011_E.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2011_E 自由部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5669142972344584513</id>
+    <published>2011-10-14T07:00:00.000Z</published>
+    <updated>2013-05-12T00:08:46.113Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">田渕写真集</title>
+    <summary type="text">※フォトコンとは関係のない、有志による田渕写真集です。みんなで投稿しよう！（笑）</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5669142972344584513"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/nFhhrF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5669142972344584513"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5669142972344584513</gphoto:id>
+    <gphoto:name>nFhhrF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1318575600000</gphoto:timestamp>
+    <gphoto:numphotos>34</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZLRgzSpmoAg/TqzXfzeASUE/AAAAAAAADL0/tOBUgUOGb0w/nFhhrF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain">※フォトコンとは関係のない、有志による田渕写真集です。みんなで投稿しよう！（笑）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZLRgzSpmoAg/TqzXfzeASUE/AAAAAAAADL0/tOBUgUOGb0w/s160-c/nFhhrF.jpg" height="160" width="160"/>
+      <media:title type="plain">田渕写真集</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5657054659631755857</id>
+    <published>2011-10-01T07:00:00.000Z</published>
+    <updated>2013-05-12T00:08:42.433Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2011 耐久ラン　コース説明</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5657054659631755857"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/201102"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5657054659631755857"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5657054659631755857</gphoto:id>
+    <gphoto:name>201102</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1317452400000</gphoto:timestamp>
+    <gphoto:numphotos>165</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K0PmKlP8BqI/ToHlPZZRslE/AAAAAAAABZ0/jUKjeGcPtds/201102.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K0PmKlP8BqI/ToHlPZZRslE/AAAAAAAABZ0/jUKjeGcPtds/s160-c/201102.jpg" height="160" width="160"/>
+      <media:title type="plain">2011 耐久ラン　コース説明</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5665237255611137441</id>
+    <published>2011-10-01T07:00:00.000Z</published>
+    <updated>2013-05-12T00:08:44.487Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2011TQR 3rdCP</title>
+    <summary type="text">選手、スタッフの皆様、そして副将様、お疲れさまでした。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5665237255611137441"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011TQR3rdCP"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5665237255611137441"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5665237255611137441</gphoto:id>
+    <gphoto:name>2011TQR3rdCP</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1317452400000</gphoto:timestamp>
+    <gphoto:numphotos>62</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ElcqiWmlYjE/Tp73RK0CvaE/AAAAAAAACm8/3vhp-853xcY/2011TQR3rdCP.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain">選手、スタッフの皆様、そして副将様、お疲れさまでした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ElcqiWmlYjE/Tp73RK0CvaE/AAAAAAAACm8/3vhp-853xcY/s160-c/2011TQR3rdCP.jpg" height="160" width="160"/>
+      <media:title type="plain">2011TQR 3rdCP</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5628041906729203969</id>
+    <published>2011-07-09T00:05:12.000Z</published>
+    <updated>2013-05-12T00:08:40.732Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">たなコンTT+大見尾根</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5628041906729203969"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5628041906729203969"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5628041906729203969</gphoto:id>
+    <gphoto:name>TT</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1310169912000</gphoto:timestamp>
+    <gphoto:numphotos>108</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wSfYCbbKqFk/ThrSS6ebOQE/AAAAAAAABMo/yC-ZoGb98N4/TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wSfYCbbKqFk/ThrSS6ebOQE/AAAAAAAABMo/yC-ZoGb98N4/s160-c/TT.jpg" height="160" width="160"/>
+      <media:title type="plain">たなコンTT+大見尾根</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5601754236142594913</id>
+    <published>2011-04-29T04:12:02.000Z</published>
+    <updated>2013-05-12T00:08:34.440Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">廃村ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5601754236142594913"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/ctgaUB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5601754236142594913"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5601754236142594913</gphoto:id>
+    <gphoto:name>ctgaUB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1304050322000</gphoto:timestamp>
+    <gphoto:numphotos>130</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-EM1M9Ww0NjM/Tb1tzGRRq2E/AAAAAAAADLk/nvj8IlGK5iQ/ctgaUB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-EM1M9Ww0NjM/Tb1tzGRRq2E/AAAAAAAADLk/nvj8IlGK5iQ/s160-c/ctgaUB.jpg" height="160" width="160"/>
+      <media:title type="plain">廃村ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5590032049823478113</id>
+    <published>2011-03-26T07:00:00.000Z</published>
+    <updated>2013-05-12T00:08:32.441Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2011春合宿</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5590032049823478113"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/2011"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5590032049823478113"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5590032049823478113</gphoto:id>
+    <gphoto:name>2011</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1301122800000</gphoto:timestamp>
+    <gphoto:numphotos>46</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-OQO_g_8AYiU/TZPIiDTG8WE/AAAAAAAABFE/2bg1nD_EV18/2011.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-OQO_g_8AYiU/TZPIiDTG8WE/AAAAAAAABFE/2bg1nD_EV18/s160-c/2011.jpg" height="160" width="160"/>
+      <media:title type="plain">2011春合宿</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5570249403382922177</id>
+    <published>2011-02-05T03:21:53.000Z</published>
+    <updated>2013-05-12T00:08:30.441Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110205雪合戦＠滝谷</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5570249403382922177"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/20110205"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5570249403382922177"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5570249403382922177</gphoto:id>
+    <gphoto:name>20110205</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1296876113000</gphoto:timestamp>
+    <gphoto:numphotos>59</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-slRIXp-xy0M/TU2AUeb4e8E/AAAAAAAAAf8/wWsqldDBUvI/20110205.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-slRIXp-xy0M/TU2AUeb4e8E/AAAAAAAAAf8/wWsqldDBUvI/s160-c/20110205.jpg" height="160" width="160"/>
+      <media:title type="plain">20110205雪合戦＠滝谷</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5550115170835730689</id>
+    <published>2010-12-11T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:28.441Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2010-12-11 追いコン</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5550115170835730689"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/20101211"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5550115170835730689"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5550115170835730689</gphoto:id>
+    <gphoto:name>20101211</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1292054400000</gphoto:timestamp>
+    <gphoto:numphotos>85</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-M2TbFLUHXzs/TQX4V5QrkQE/AAAAAAAAAlA/456qSJ1iowE/20101211.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-M2TbFLUHXzs/TQX4V5QrkQE/AAAAAAAAAlA/456qSJ1iowE/s160-c/20101211.jpg" height="160" width="160"/>
+      <media:title type="plain">2010-12-11 追いコン</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5547566162629398273</id>
+    <published>2010-12-04T08:00:00.000Z</published>
+    <updated>2013-05-12T00:08:26.440Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">221204,MtAtago,KUCC,ByAndrey</title>
+    <summary type="text">Photos taken by Andrey.
+Uploaded by Hisa.</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/118244886890128639145/albumid/5547566162629398273"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/118244886890128639145/221204MtAtagoKUCCByAndrey"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/118244886890128639145/albumid/5547566162629398273"/>
+    <author>
+      <name>kucc kuccphoto</name>
+      <uri>https://picasaweb.google.com/118244886890128639145</uri>
+    </author>
+    <gphoto:id>5547566162629398273</gphoto:id>
+    <gphoto:name>221204MtAtagoKUCCByAndrey</gphoto:name>
+    <gphoto:location>Mt. Atago, Kyoto</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291449600000</gphoto:timestamp>
+    <gphoto:numphotos>76</gphoto:numphotos>
+    <gphoto:user>118244886890128639145</gphoto:user>
+    <gphoto:nickname>kucc kuccphoto</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DThqbLdGqEw/TPzqCFuAjwE/AAAAAAAAAGE/KkMIY7up0wA/221204MtAtagoKUCCByAndrey.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kucc kuccphoto</media:credit>
+      <media:description type="plain">Photos taken by Andrey.
+Uploaded by Hisa.</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DThqbLdGqEw/TPzqCFuAjwE/AAAAAAAAAGE/KkMIY7up0wA/s160-c/221204MtAtagoKUCCByAndrey.jpg" height="160" width="160"/>
+      <media:title type="plain">221204,MtAtago,KUCC,ByAndrey</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.0591585 135.6250189</gml:lowerCorner>
+        <gml:upperCorner>35.0680104 135.6440734</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.0635845 135.6345462</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

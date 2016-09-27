@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/ssso.andy</id>
+  <updated>2015-09-13T04:41:49.207Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">111282471885939060161</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-KEl9ftWi34U/AAAAAAAAAAI/AAAAAAAAAAA/7H2FetSxD0c/s64-c/111282471885939060161.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/111282471885939060161?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Soichi Ando</name>
+    <uri>https://picasaweb.google.com/111282471885939060161</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>25</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>111282471885939060161</gphoto:user>
+  <gphoto:nickname>Soichi Ando</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-KEl9ftWi34U/AAAAAAAAAAI/AAAAAAAAAAA/7H2FetSxD0c/s64-c/111282471885939060161.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5773580939781472833</id>
+    <published>2012-08-06T07:00:00.000Z</published>
+    <updated>2013-10-26T08:50:24.046Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">12 Shine Kinabalu</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5773580939781472833"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/12ShineKinabalu"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5773580939781472833"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5773580939781472833</gphoto:id>
+    <gphoto:name>12ShineKinabalu</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1344236400000</gphoto:timestamp>
+    <gphoto:numphotos>175</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KdfS1xMGDIg/UB_hRmWkAkE/AAAAAAAAIpw/4qsswz-npas/12ShineKinabalu.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KdfS1xMGDIg/UB_hRmWkAkE/AAAAAAAAIpw/4qsswz-npas/s160-c/12ShineKinabalu.jpg" height="160" width="160"/>
+      <media:title type="plain">12 Shine Kinabalu</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5682664970558428561</id>
+    <published>2011-11-22T02:38:20.000Z</published>
+    <updated>2013-05-11T17:58:51.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">NF水俣毎木ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5682664970558428561"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5682664970558428561"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5682664970558428561</gphoto:id>
+    <gphoto:name>NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1321929500000</gphoto:timestamp>
+    <gphoto:numphotos>42</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P6pdrjQ3H_o/TtzhrsOw1ZE/AAAAAAAAHqk/wWT1G2E4r-0/NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P6pdrjQ3H_o/TtzhrsOw1ZE/AAAAAAAAHqk/wWT1G2E4r-0/s160-c/NF.jpg" height="160" width="160"/>
+      <media:title type="plain">NF水俣毎木ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5593008231979810529</id>
+    <published>2011-04-03T07:00:00.000Z</published>
+    <updated>2013-10-26T08:51:48.970Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11 ラニーニャのMt.Kinabalu</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5593008231979810529"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/11MtKinabalu"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5593008231979810529"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5593008231979810529</gphoto:id>
+    <gphoto:name>11MtKinabalu</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1301814000000</gphoto:timestamp>
+    <gphoto:numphotos>85</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZLcyF1Ue5GQ/TZ5bWpz9_uE/AAAAAAAAIqc/b8yvOoblDwY/11MtKinabalu.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZLcyF1Ue5GQ/TZ5bWpz9_uE/AAAAAAAAIqc/b8yvOoblDwY/s160-c/11MtKinabalu.jpg" height="160" width="160"/>
+      <media:title type="plain">11 ラニーニャのMt.Kinabalu</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5534182818131451889</id>
+    <published>2010-10-24T07:00:00.000Z</published>
+    <updated>2013-05-11T17:58:45.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10北山サバイバル Survival Game in North of Kyoto</title>
+    <summary type="text">あんまり写真撮っていないうえに、グロい写真は上げていないので枚数少なめです。詳しくは今泉か水田のをどうぞ。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5534182818131451889"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/10SurvivalGameInNorthOfKyoto"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5534182818131451889"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5534182818131451889</gphoto:id>
+    <gphoto:name>10SurvivalGameInNorthOfKyoto</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1287903600000</gphoto:timestamp>
+    <gphoto:numphotos>17</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mZSUPNDpBuM/TM1d86TLn_E/AAAAAAAAHIM/Qh5KbZ9x3FA/10SurvivalGameInNorthOfKyoto.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">あんまり写真撮っていないうえに、グロい写真は上げていないので枚数少なめです。詳しくは今泉か水田のをどうぞ。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mZSUPNDpBuM/TM1d86TLn_E/AAAAAAAAHIM/Qh5KbZ9x3FA/s160-c/10SurvivalGameInNorthOfKyoto.jpg" height="160" width="160"/>
+      <media:title type="plain">10北山サバイバル Survival Game in North of Kyoto</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5534169310335926385</id>
+    <published>2010-08-21T07:00:00.000Z</published>
+    <updated>2013-10-26T08:53:35.295Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10キナバル山 卒論調査inマレーシア</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5534169310335926385"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/10In"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5534169310335926385"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5534169310335926385</gphoto:id>
+    <gphoto:name>10In</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1282374000000</gphoto:timestamp>
+    <gphoto:numphotos>201</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-60xxVMqXRbM/TM1Rqp1xAHE/AAAAAAAAIrE/V6wX9TyRMY0/10In.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-60xxVMqXRbM/TM1Rqp1xAHE/AAAAAAAAIrE/V6wX9TyRMY0/s160-c/10In.jpg" height="160" width="160"/>
+      <media:title type="plain">10キナバル山 卒論調査inマレーシア</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5483592867177594241</id>
+    <published>2010-06-11T07:00:00.000Z</published>
+    <updated>2013-05-11T17:58:41.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10 回生ツアー 梅雨の中央分水嶺</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5483592867177594241"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/1003"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5483592867177594241"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5483592867177594241</gphoto:id>
+    <gphoto:name>1003</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1276239600000</gphoto:timestamp>
+    <gphoto:numphotos>44</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-a4qq9B3YgSo/TBmiqMz8fYE/AAAAAAAAGl4/N5TLB1lSpWM/1003.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-a4qq9B3YgSo/TBmiqMz8fYE/AAAAAAAAGl4/N5TLB1lSpWM/s160-c/1003.jpg" height="160" width="160"/>
+      <media:title type="plain">10 回生ツアー 梅雨の中央分水嶺</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5471698705085901137</id>
+    <published>2010-05-07T07:00:00.000Z</published>
+    <updated>2013-05-11T17:58:39.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10PostGW残雪と新緑の北関東</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5471698705085901137"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/10PostGW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5471698705085901137"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5471698705085901137</gphoto:id>
+    <gphoto:name>10PostGW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1273215600000</gphoto:timestamp>
+    <gphoto:numphotos>95</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-aBlANtYXC6A/S-9g-2KcKVE/AAAAAAAAGWI/Z5sT-aWfPyo/10PostGW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-aBlANtYXC6A/S-9g-2KcKVE/AAAAAAAAGWI/Z5sT-aWfPyo/s160-c/10PostGW.jpg" height="160" width="160"/>
+      <media:title type="plain">10PostGW残雪と新緑の北関東</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5471692726011263905</id>
+    <published>2010-03-25T07:00:00.000Z</published>
+    <updated>2013-05-11T17:58:37.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10春合宿＆京都雪桜</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5471692726011263905"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/1002"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5471692726011263905"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5471692726011263905</gphoto:id>
+    <gphoto:name>1002</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1269500400000</gphoto:timestamp>
+    <gphoto:numphotos>59</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3eI-9GWKo04/S-9bi0X9e6E/AAAAAAAAGeE/Oq8UB-VgZzc/1002.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3eI-9GWKo04/S-9bi0X9e6E/AAAAAAAAGeE/Oq8UB-VgZzc/s160-c/1002.jpg" height="160" width="160"/>
+      <media:title type="plain">10春合宿＆京都雪桜</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5444335727409644817</id>
+    <published>2010-02-22T02:14:58.000Z</published>
+    <updated>2013-05-11T17:58:35.334Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">研究林実習IV</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5444335727409644817"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/IV"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5444335727409644817"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5444335727409644817</gphoto:id>
+    <gphoto:name>IV</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1266804898000</gphoto:timestamp>
+    <gphoto:numphotos>75</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-rDMcjreMIag/S44qf644RRE/AAAAAAAAGGk/exfbiQyy36M/IV.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-rDMcjreMIag/S44qf644RRE/AAAAAAAAGGk/exfbiQyy36M/s160-c/IV.jpg" height="160" width="160"/>
+      <media:title type="plain">研究林実習IV</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5444303452166738657</id>
+    <published>2010-02-07T00:02:55.000Z</published>
+    <updated>2013-05-11T17:58:33.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">10冬の北海道</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5444303452166738657"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/10"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5444303452166738657"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5444303452166738657</gphoto:id>
+    <gphoto:name>10</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1265500975000</gphoto:timestamp>
+    <gphoto:numphotos>268</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-brmubveJ29E/S44NJQPU0uE/AAAAAAAAIx0/BaHvSOQCPAQ/10.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-brmubveJ29E/S44NJQPU0uE/AAAAAAAAIx0/BaHvSOQCPAQ/s160-c/10.jpg" height="160" width="160"/>
+      <media:title type="plain">10冬の北海道</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5427313602575047953</id>
+    <published>2009-12-22T08:00:00.000Z</published>
+    <updated>2013-05-11T17:58:31.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09Xmas 旧鯖街道探訪ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5427313602575047953"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/09Xmas"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5427313602575047953"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5427313602575047953</gphoto:id>
+    <gphoto:name>09Xmas</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1261468800000</gphoto:timestamp>
+    <gphoto:numphotos>54</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lNwRXDdfN2c/S1Gw92YhnRE/AAAAAAAAFe4/SHIj6tLcf5A/09Xmas.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lNwRXDdfN2c/S1Gw92YhnRE/AAAAAAAAFe4/SHIj6tLcf5A/s160-c/09Xmas.jpg" height="160" width="160"/>
+      <media:title type="plain">09Xmas 旧鯖街道探訪ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5407641327290422353</id>
+    <published>2009-11-18T08:00:00.000Z</published>
+    <updated>2013-05-11T17:58:29.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09NF大台・熊野縦断ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5407641327290422353"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/09NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5407641327290422353"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5407641327290422353</gphoto:id>
+    <gphoto:name>09NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1258531200000</gphoto:timestamp>
+    <gphoto:numphotos>92</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-h5h3DYU_Zcc/SwvNIuHeFFE/AAAAAAAAIwM/dUEkopokVGI/09NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-h5h3DYU_Zcc/SwvNIuHeFFE/AAAAAAAAIwM/dUEkopokVGI/s160-c/09NF.jpg" height="160" width="160"/>
+      <media:title type="plain">09NF大台・熊野縦断ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5393953226836752897</id>
+    <published>2009-10-09T07:00:00.000Z</published>
+    <updated>2013-05-11T17:58:27.551Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09岩木さん白馬岳登山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5393953226836752897"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/0902"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5393953226836752897"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5393953226836752897</gphoto:id>
+    <gphoto:name>0902</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1255071600000</gphoto:timestamp>
+    <gphoto:numphotos>79</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-W_avUAtjhZI/Stsr4aStOgE/AAAAAAAAFFY/SyWq3ip0w8A/0902.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-W_avUAtjhZI/Stsr4aStOgE/AAAAAAAAFFY/SyWq3ip0w8A/s160-c/0902.jpg" height="160" width="160"/>
+      <media:title type="plain">09岩木さん白馬岳登山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5387625582572406641</id>
+    <published>2009-08-08T08:43:55.000Z</published>
+    <updated>2013-05-11T17:58:26.045Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09夏合宿喜多班</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5387625582572406641"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/09"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5387625582572406641"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5387625582572406641</gphoto:id>
+    <gphoto:name>09</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1249721035000</gphoto:timestamp>
+    <gphoto:numphotos>265</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-haKbbIuMEYU/SsSw7CgJB3E/AAAAAAAAIsU/Cfm3ivXaDkY/09.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-haKbbIuMEYU/SsSw7CgJB3E/AAAAAAAAIsU/Cfm3ivXaDkY/s160-c/09.jpg" height="160" width="160"/>
+      <media:title type="plain">09夏合宿喜多班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5324938161766127745</id>
+    <published>2009-02-23T08:00:00.000Z</published>
+    <updated>2014-08-29T06:31:48.503Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Italia alla Primavera</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5324938161766127745"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/ItaliaAllaPrimavera"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5324938161766127745"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5324938161766127745</gphoto:id>
+    <gphoto:name>ItaliaAllaPrimavera</gphoto:name>
+    <gphoto:location>イタリア</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235376000000</gphoto:timestamp>
+    <gphoto:numphotos>269</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YpbX5EsT_QU/SeX7C5792IE/AAAAAAAAI4E/mroxrrjEg3k/ItaliaAllaPrimavera.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YpbX5EsT_QU/SeX7C5792IE/AAAAAAAAI4E/mroxrrjEg3k/s160-c/ItaliaAllaPrimavera.jpg" height="160" width="160"/>
+      <media:title type="plain">Italia alla Primavera</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.0721658 6.6205189</gml:lowerCorner>
+        <gml:upperCorner>47.6717141 18.5142411</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>41.87194 12.56738</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5277431279319894913</id>
+    <published>2008-11-21T22:01:15.000Z</published>
+    <updated>2013-05-11T17:58:19.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08NF氷ノ山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5277431279319894913"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/08NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5277431279319894913"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5277431279319894913</gphoto:id>
+    <gphoto:name>08NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1227304875000</gphoto:timestamp>
+    <gphoto:numphotos>48</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ulyIwPiuUe0/ST0zyZply4E/AAAAAAAAIsQ/cLcEunMHkgI/08NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ulyIwPiuUe0/ST0zyZply4E/AAAAAAAAIsQ/cLcEunMHkgI/s160-c/08NF.jpg" height="160" width="160"/>
+      <media:title type="plain">08NF氷ノ山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5258838554040197777</id>
+    <published>2008-10-19T00:30:15.000Z</published>
+    <updated>2013-05-11T17:58:15.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08シクロ日吉</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5258838554040197777"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/0803"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5258838554040197777"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5258838554040197777</gphoto:id>
+    <gphoto:name>0803</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1224376215000</gphoto:timestamp>
+    <gphoto:numphotos>38</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8A1NDXikc6c/SPslzWix4pE/AAAAAAAACBs/SC2QYYmo_FQ/0803.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8A1NDXikc6c/SPslzWix4pE/AAAAAAAACBs/SC2QYYmo_FQ/s160-c/0803.jpg" height="160" width="160"/>
+      <media:title type="plain">08シクロ日吉</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5256997166599507297</id>
+    <published>2008-10-11T01:43:40.000Z</published>
+    <updated>2013-05-11T17:58:14.225Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08中央構造線</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5256997166599507297"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/0802"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5256997166599507297"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5256997166599507297</gphoto:id>
+    <gphoto:name>0802</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1223689420000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-crwxxhEWoKU/SPSbEfxmDWE/AAAAAAAACyk/p-HAoPfmfTk/0802.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-crwxxhEWoKU/SPSbEfxmDWE/AAAAAAAACyk/p-HAoPfmfTk/s160-c/0802.jpg" height="160" width="160"/>
+      <media:title type="plain">08中央構造線</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5262202201404031361</id>
+    <published>2008-08-29T01:39:32.000Z</published>
+    <updated>2013-05-11T17:58:17.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">０８夏合宿安藤班by成田</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5262202201404031361"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/By"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5262202201404031361"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5262202201404031361</gphoto:id>
+    <gphoto:name>By</gphoto:name>
+    <gphoto:location>南東北</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1219973972000</gphoto:timestamp>
+    <gphoto:numphotos>49</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-q7lnwphcxJ8/SQcZBZb3QYE/AAAAAAAAI1M/UVfGwa9PLG0/By.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-q7lnwphcxJ8/SQcZBZb3QYE/AAAAAAAAI1M/UVfGwa9PLG0/s160-c/By.jpg" height="160" width="160"/>
+      <media:title type="plain">０８夏合宿安藤班by成田</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>38.1090449 140.876579</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5253168669653330769</id>
+    <published>2008-08-13T23:20:31.000Z</published>
+    <updated>2013-05-11T17:58:09.893Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08夏合宿安藤班 by金子</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5253168669653330769"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/08By"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5253168669653330769"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5253168669653330769</gphoto:id>
+    <gphoto:name>08By</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1218669631000</gphoto:timestamp>
+    <gphoto:numphotos>290</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XBRI3olD5kE/SOcBEpPl61E/AAAAAAAABfw/PT2t_e8CgoQ/08By.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XBRI3olD5kE/SOcBEpPl61E/AAAAAAAABfw/PT2t_e8CgoQ/s160-c/08By.jpg" height="160" width="160"/>
+      <media:title type="plain">08夏合宿安藤班 by金子</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5254030042142116865</id>
+    <published>2008-08-11T22:43:43.000Z</published>
+    <updated>2013-05-11T17:58:11.895Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08夏合宿安藤班 by今脇</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5254030042142116865"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/08By02"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5254030042142116865"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5254030042142116865</gphoto:id>
+    <gphoto:name>08By02</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1218494623000</gphoto:timestamp>
+    <gphoto:numphotos>76</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jjDtN6NKLTU/SOoQfH0cjAE/AAAAAAAAIsQ/6F_f8f3miI4/08By02.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jjDtN6NKLTU/SOoQfH0cjAE/AAAAAAAAIsQ/6F_f8f3miI4/s160-c/08By02.jpg" height="160" width="160"/>
+      <media:title type="plain">08夏合宿安藤班 by今脇</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5177849062258031665</id>
+    <published>2007-01-20T03:40:48.000Z</published>
+    <updated>2013-05-11T17:58:03.899Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">07・08関西シクロ第７戦</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5177849062258031665"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/0708"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5177849062258031665"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5177849062258031665</gphoto:id>
+    <gphoto:name>0708</gphoto:name>
+    <gphoto:location>桂川</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1169264448000</gphoto:timestamp>
+    <gphoto:numphotos>13</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6sz798OwFac/R9tqSeh6vDE/AAAAAAAAAaY/kb5RXxYsGEE/0708.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6sz798OwFac/R9tqSeh6vDE/AAAAAAAAAaY/kb5RXxYsGEE/s160-c/0708.jpg" height="160" width="160"/>
+      <media:title type="plain">07・08関西シクロ第７戦</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>33.584674 130.66243</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569</id>
+    <published>1999-12-31T17:05:05.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08.2冬祖父谷峠、白川郷</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5172754236695225569</gphoto:id>
+    <gphoto:name>082</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>946659905000</gphoto:timestamp>
+    <gphoto:numphotos>9</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SbSO4KMgEmU/R8lQkmSdpOE/AAAAAAAAAPY/tfEr1xD_LbI/082.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SbSO4KMgEmU/R8lQkmSdpOE/AAAAAAAAAPY/tfEr1xD_LbI/s160-c/082.jpg" height="160" width="160"/>
+      <media:title type="plain">08.2冬祖父谷峠、白川郷</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5230658011443195345</id>
+    <published>1999-12-31T15:00:13.000Z</published>
+    <updated>2013-05-11T17:58:07.893Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">08プレ夏 福井・白山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5230658011443195345"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/08"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5230658011443195345"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5230658011443195345</gphoto:id>
+    <gphoto:name>08</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>946652413000</gphoto:timestamp>
+    <gphoto:numphotos>50</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9LHv7ldxH1w/SJcHv4mfbdE/AAAAAAAAAz8/kQ3qdlrKoiE/08.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9LHv7ldxH1w/SJcHv4mfbdE/AAAAAAAAAz8/kQ3qdlrKoiE/s160-c/08.jpg" height="160" width="160"/>
+      <media:title type="plain">08プレ夏 福井・白山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5189092293575077809</id>
+    <published>1999-12-31T15:00:10.000Z</published>
+    <updated>2013-05-11T17:58:06.378Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">07NF五島列島</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5189092293575077809"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/07NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5189092293575077809"/>
+    <author>
+      <name>Soichi Ando</name>
+      <uri>https://picasaweb.google.com/111282471885939060161</uri>
+    </author>
+    <gphoto:id>5189092293575077809</gphoto:id>
+    <gphoto:name>07NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>946652410000</gphoto:timestamp>
+    <gphoto:numphotos>48</gphoto:numphotos>
+    <gphoto:user>111282471885939060161</gphoto:user>
+    <gphoto:nickname>Soichi Ando</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-L4rscAN7fU0/SANb8rFCb7E/AAAAAAAAIsQ/OnT3v7s6lIk/07NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L4rscAN7fU0/SANb8rFCb7E/AAAAAAAAIsQ/OnT3v7s6lIk/s160-c/07NF.jpg" height="160" width="160"/>
+      <media:title type="plain">07NF五島列島</media:title>
+    </media:group>
+  </entry>
+</feed>

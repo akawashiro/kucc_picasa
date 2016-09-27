@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/flarekanon</id>
+  <updated>2015-09-03T23:13:01.161Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">flarekanon</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-7ovoJOOXNJU/AAAAAAAAAAA/AAAAAAAAAAA/66ir2-BFcvY/s64-c/flarekanon.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/flarekanon?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>flarekanon</name>
+    <uri>https://picasaweb.google.com/flarekanon</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>50</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>flarekanon</gphoto:user>
+  <gphoto:nickname>flarekanon</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-7ovoJOOXNJU/AAAAAAAAAAA/AAAAAAAAAAA/66ir2-BFcvY/s64-c/flarekanon.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5840726555320287473</id>
+    <published>2013-02-03T00:47:27.000Z</published>
+    <updated>2013-05-13T16:09:38.648Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20130203 関西シクロクロス桂川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5840726555320287473"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20130203"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5840726555320287473"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5840726555320287473</gphoto:id>
+    <gphoto:name>20130203</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1359852447000</gphoto:timestamp>
+    <gphoto:numphotos>75</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_pip7YAkhNA/UQ5t20gOgPE/AAAAAAAAIEg/qKXAVuw7rVw/20130203.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_pip7YAkhNA/UQ5t20gOgPE/AAAAAAAAIEg/qKXAVuw7rVw/s160-c/20130203.jpg" height="160" width="160"/>
+      <media:title type="plain">20130203 関西シクロクロス桂川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5835572684917137489</id>
+    <published>2013-01-19T23:55:07.000Z</published>
+    <updated>2013-05-13T16:09:36.647Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20130120 関西シクロクロス堺</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5835572684917137489"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20130120"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5835572684917137489"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5835572684917137489</gphoto:id>
+    <gphoto:name>20130120</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1358639707000</gphoto:timestamp>
+    <gphoto:numphotos>116</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-v-ZUOLS6YRE/UPwecFF1YFE/AAAAAAAAH6Y/Fm9MHI7pAtc/20130120.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-v-ZUOLS6YRE/UPwecFF1YFE/AAAAAAAAH6Y/Fm9MHI7pAtc/s160-c/20130120.jpg" height="160" width="160"/>
+      <media:title type="plain">20130120 関西シクロクロス堺</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5825152570273092113</id>
+    <published>2012-12-23T00:29:01.000Z</published>
+    <updated>2013-05-08T18:06:29.849Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121223 関西シクロクロスくろんど池</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5825152570273092113"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121223"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5825152570273092113"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5825152570273092113</gphoto:id>
+    <gphoto:name>20121223</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1356222541000</gphoto:timestamp>
+    <gphoto:numphotos>98</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e42a9otxGeg/UNcZZlGU0hE/AAAAAAAAILw/ysj7-6-0ZbE/20121223.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e42a9otxGeg/UNcZZlGU0hE/AAAAAAAAILw/ysj7-6-0ZbE/s160-c/20121223.jpg" height="160" width="160"/>
+      <media:title type="plain">20121223 関西シクロクロスくろんど池</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5821016336906690481</id>
+    <published>2012-12-07T15:48:46.000Z</published>
+    <updated>2013-05-08T18:06:27.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121209 全日本シクロクロス選手権</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5821016336906690481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121209"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5821016336906690481"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5821016336906690481</gphoto:id>
+    <gphoto:name>20121209</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1354895326000</gphoto:timestamp>
+    <gphoto:numphotos>55</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-DYvghBtBrzw/UMhnhHERn7E/AAAAAAAAHeM/9CaUS0C03EQ/20121209.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-DYvghBtBrzw/UMhnhHERn7E/AAAAAAAAHeM/9CaUS0C03EQ/s160-c/20121209.jpg" height="160" width="160"/>
+      <media:title type="plain">20121209 全日本シクロクロス選手権</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5817354108857656593</id>
+    <published>2012-12-02T00:13:33.000Z</published>
+    <updated>2013-05-08T18:06:25.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121202 関西シクロクロス由良川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5817354108857656593"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121202"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5817354108857656593"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5817354108857656593</gphoto:id>
+    <gphoto:name>20121202</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1354407213000</gphoto:timestamp>
+    <gphoto:numphotos>90</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BQpMEt2FL1M/ULtkvYcepRE/AAAAAAAAHWg/Gou-8mqcrdc/20121202.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BQpMEt2FL1M/ULtkvYcepRE/AAAAAAAAHWg/Gou-8mqcrdc/s160-c/20121202.jpg" height="160" width="160"/>
+      <media:title type="plain">20121202 関西シクロクロス由良川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5814746287521880529</id>
+    <published>2012-11-25T00:25:36.000Z</published>
+    <updated>2013-05-08T18:06:23.974Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121125 関西シクロクロスマイアミ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5814746287521880529"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121125"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5814746287521880529"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5814746287521880529</gphoto:id>
+    <gphoto:name>20121125</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1353803136000</gphoto:timestamp>
+    <gphoto:numphotos>74</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6LporDKESbA/ULIg8M7DWdE/AAAAAAAAHKo/Pb7gylm0ZQw/20121125.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6LporDKESbA/ULIg8M7DWdE/AAAAAAAAHKo/Pb7gylm0ZQw/s160-c/20121125.jpg" height="160" width="160"/>
+      <media:title type="plain">20121125 関西シクロクロスマイアミ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5812210053409737489</id>
+    <published>2012-11-16T09:31:27.000Z</published>
+    <updated>2013-05-08T18:06:21.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121118 野辺山シクロクロス</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5812210053409737489"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121118"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5812210053409737489"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5812210053409737489</gphoto:id>
+    <gphoto:name>20121118</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1353058287000</gphoto:timestamp>
+    <gphoto:numphotos>135</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FdS2e1MMcVc/UKkeP8lxCxE/AAAAAAAAHAs/koaTH8iTJ_4/20121118.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FdS2e1MMcVc/UKkeP8lxCxE/AAAAAAAAHAs/koaTH8iTJ_4/s160-c/20121118.jpg" height="160" width="160"/>
+      <media:title type="plain">20121118 野辺山シクロクロス</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5806989375487214001</id>
+    <published>2012-11-04T00:51:37.000Z</published>
+    <updated>2013-05-08T18:06:19.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121104 関西シクロクロス日吉</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5806989375487214001"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121104"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5806989375487214001"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5806989375487214001</gphoto:id>
+    <gphoto:name>20121104</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1351990297000</gphoto:timestamp>
+    <gphoto:numphotos>78</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MLfV9wof2t0/UJaSEfxiAbE/AAAAAAAAGuo/j8uTi5Nr_Ng/20121104.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MLfV9wof2t0/UJaSEfxiAbE/AAAAAAAAGuo/j8uTi5Nr_Ng/s160-c/20121104.jpg" height="160" width="160"/>
+      <media:title type="plain">20121104 関西シクロクロス日吉</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5804229115005041217</id>
+    <published>2012-10-27T04:10:05.000Z</published>
+    <updated>2013-05-08T18:06:17.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121027 ウェルドワン見学</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5804229115005041217"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121027"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5804229115005041217"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5804229115005041217</gphoto:id>
+    <gphoto:name>20121027</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1351311005000</gphoto:timestamp>
+    <gphoto:numphotos>67</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-d0OQVPuG4rA/UIzDoMLa-kE/AAAAAAAAGkg/6hkAM4SvsTc/20121027.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-d0OQVPuG4rA/UIzDoMLa-kE/AAAAAAAAGkg/6hkAM4SvsTc/s160-c/20121027.jpg" height="160" width="160"/>
+      <media:title type="plain">20121027 ウェルドワン見学</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5799531006636016737</id>
+    <published>2012-10-14T01:34:21.000Z</published>
+    <updated>2013-05-08T18:06:15.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121014 関西シクロクロスプロローグ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5799531006636016737"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121014"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5799531006636016737"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5799531006636016737</gphoto:id>
+    <gphoto:name>20121014</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1350178461000</gphoto:timestamp>
+    <gphoto:numphotos>49</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kaWgPfbbOS4/UHwSuSpnRGE/AAAAAAAAGb0/sQmBO7_-MTk/20121014.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kaWgPfbbOS4/UHwSuSpnRGE/AAAAAAAAGb0/sQmBO7_-MTk/s160-c/20121014.jpg" height="160" width="160"/>
+      <media:title type="plain">20121014 関西シクロクロスプロローグ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5796812126755609505</id>
+    <published>2012-10-08T00:05:09.000Z</published>
+    <updated>2013-05-08T18:06:13.737Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121008 堺浜with土井選手</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5796812126755609505"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121008With"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5796812126755609505"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5796812126755609505</gphoto:id>
+    <gphoto:name>20121008With</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1349654709000</gphoto:timestamp>
+    <gphoto:numphotos>27</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PvTbn11T7Qs/UHJp6pzx26E/AAAAAAAAGVY/luS8MQF6rtI/20121008With.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PvTbn11T7Qs/UHJp6pzx26E/AAAAAAAAGVY/luS8MQF6rtI/s160-c/20121008With.jpg" height="160" width="160"/>
+      <media:title type="plain">20121008 堺浜with土井選手</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5796241551494134561</id>
+    <published>2012-10-06T04:54:01.000Z</published>
+    <updated>2013-05-08T18:06:11.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20121007 サイクルモードフェスタ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5796241551494134561"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20121007"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5796241551494134561"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5796241551494134561</gphoto:id>
+    <gphoto:name>20121007</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1349499241000</gphoto:timestamp>
+    <gphoto:numphotos>122</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GTU_68sjFOE/UHBi-zUquyE/AAAAAAAAGRo/EioknjaRcdI/20121007.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GTU_68sjFOE/UHBi-zUquyE/AAAAAAAAGRo/EioknjaRcdI/s160-c/20121007.jpg" height="160" width="160"/>
+      <media:title type="plain">20121007 サイクルモードフェスタ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065</id>
+    <published>2012-09-17T01:57:31.000Z</published>
+    <updated>2013-05-08T18:06:07.839Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120917 けいはんなサイクルレース</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789181921175542065"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120917"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789181921175542065"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5789181921175542065</gphoto:id>
+    <gphoto:name>20120917</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1347847051000</gphoto:timestamp>
+    <gphoto:numphotos>17</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CQU_JgO1-IE/UFdOSO_IGTE/AAAAAAAAGCA/f4y8T2D5Y1k/20120917.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CQU_JgO1-IE/UFdOSO_IGTE/AAAAAAAAGCA/f4y8T2D5Y1k/s160-c/20120917.jpg" height="160" width="160"/>
+      <media:title type="plain">20120917 けいはんなサイクルレース</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789182156372606545</id>
+    <published>2012-09-16T00:51:08.000Z</published>
+    <updated>2013-05-08T18:06:09.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120916 舞洲クリテリウム</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5789182156372606545"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120916"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5789182156372606545"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5789182156372606545</gphoto:id>
+    <gphoto:name>20120916</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1347756668000</gphoto:timestamp>
+    <gphoto:numphotos>57</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-UxWikYgcMp0/UFdOf7KeflE/AAAAAAAAGCE/9bxhbHBeOeI/20120916.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-UxWikYgcMp0/UFdOf7KeflE/AAAAAAAAGCE/9bxhbHBeOeI/s160-c/20120916.jpg" height="160" width="160"/>
+      <media:title type="plain">20120916 舞洲クリテリウム</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5705553119146515329</id>
+    <published>2012-02-04T08:00:00.000Z</published>
+    <updated>2013-05-08T18:06:06.633Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120205 関西シクロクロス桂川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5705553119146515329"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120205"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5705553119146515329"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5705553119146515329</gphoto:id>
+    <gphoto:name>20120205</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1328342400000</gphoto:timestamp>
+    <gphoto:numphotos>99</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-13aFtAvSge0/Ty4yVSHZm4E/AAAAAAAAIK4/cJYV40O2ZQY/20120205.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-13aFtAvSge0/Ty4yVSHZm4E/AAAAAAAAIK4/cJYV40O2ZQY/s160-c/20120205.jpg" height="160" width="160"/>
+      <media:title type="plain">20120205 関西シクロクロス桂川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5700449185214820481</id>
+    <published>2012-01-21T08:00:00.000Z</published>
+    <updated>2013-05-08T18:06:03.665Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120122 関西シクロクロス堺</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5700449185214820481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120122"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5700449185214820481"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5700449185214820481</gphoto:id>
+    <gphoto:name>20120122</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1327132800000</gphoto:timestamp>
+    <gphoto:numphotos>122</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gqiwCTF578s/TxwQVOjk8IE/AAAAAAAAFe4/2iVo5BQdrt0/20120122.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gqiwCTF578s/TxwQVOjk8IE/AAAAAAAAFe4/2iVo5BQdrt0/s160-c/20120122.jpg" height="160" width="160"/>
+      <media:title type="plain">20120122 関西シクロクロス堺</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5698246732919252289</id>
+    <published>2012-01-15T00:39:28.000Z</published>
+    <updated>2013-05-08T18:06:02.240Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120115 関西シクロクロス北神戸</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5698246732919252289"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120115"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5698246732919252289"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5698246732919252289</gphoto:id>
+    <gphoto:name>20120115</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1326587968000</gphoto:timestamp>
+    <gphoto:numphotos>100</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cwI39jMAmVY/TxQ9NoYupUE/AAAAAAAAFO4/Zrkkb0zyq1w/20120115.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cwI39jMAmVY/TxQ9NoYupUE/AAAAAAAAFO4/Zrkkb0zyq1w/s160-c/20120115.jpg" height="160" width="160"/>
+      <media:title type="plain">20120115 関西シクロクロス北神戸</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5695286468012558897</id>
+    <published>2012-01-08T01:00:12.000Z</published>
+    <updated>2013-05-08T18:05:58.919Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120108 関西シクロクロス希望が丘</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5695286468012558897"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20120108"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5695286468012558897"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5695286468012558897</gphoto:id>
+    <gphoto:name>20120108</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1325984412000</gphoto:timestamp>
+    <gphoto:numphotos>228</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vUzZLcWRaVM/Twm43iP6SjE/AAAAAAAAFII/_ZDGAznP-M0/20120108.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vUzZLcWRaVM/Twm43iP6SjE/AAAAAAAAFII/_ZDGAznP-M0/s160-c/20120108.jpg" height="160" width="160"/>
+      <media:title type="plain">20120108 関西シクロクロス希望が丘</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5690060777600035249</id>
+    <published>2011-12-25T00:43:21.000Z</published>
+    <updated>2013-05-11T05:39:32.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111225 関西シクロクロスくろんど池</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5690060777600035249"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111225"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5690060777600035249"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5690060777600035249</gphoto:id>
+    <gphoto:name>20111225</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1324773801000</gphoto:timestamp>
+    <gphoto:numphotos>96</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-v5t5t0Cs49c/TvcoIUc7qbE/AAAAAAAAE5k/4DZQxyqMJSU/20111225.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-v5t5t0Cs49c/TvcoIUc7qbE/AAAAAAAAE5k/4DZQxyqMJSU/s160-c/20111225.jpg" height="160" width="160"/>
+      <media:title type="plain">20111225 関西シクロクロスくろんど池</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5689380935339451217</id>
+    <published>2011-12-23T00:39:31.000Z</published>
+    <updated>2013-05-11T05:39:30.035Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111223 京都サイクルフェスタ・キャノボオフ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5689380935339451217"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111223"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5689380935339451217"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5689380935339451217</gphoto:id>
+    <gphoto:name>20111223</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1324600771000</gphoto:timestamp>
+    <gphoto:numphotos>92</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-FTVuOL79lbM/TvS90SrJo1E/AAAAAAAAEzU/HfA6u-RLdGs/20111223.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-FTVuOL79lbM/TvS90SrJo1E/AAAAAAAAEzU/HfA6u-RLdGs/s160-c/20111223.jpg" height="160" width="160"/>
+      <media:title type="plain">20111223 京都サイクルフェスタ・キャノボオフ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5687392100647953569</id>
+    <published>2011-12-18T01:23:35.000Z</published>
+    <updated>2014-10-26T02:59:53.190Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111218 関西シクロクロス丹波</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5687392100647953569"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111218"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5687392100647953569"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5687392100647953569</gphoto:id>
+    <gphoto:name>20111218</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1324171415000</gphoto:timestamp>
+    <gphoto:numphotos>71</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RtpATTVLzA4/Tu2s-4F75KE/AAAAAAAAIMI/sqj3s03TKrw/20111218.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RtpATTVLzA4/Tu2s-4F75KE/AAAAAAAAIMI/sqj3s03TKrw/s160-c/20111218.jpg" height="160" width="160"/>
+      <media:title type="plain">20111218 関西シクロクロス丹波</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5684869986424879425</id>
+    <published>2011-12-10T20:44:59.000Z</published>
+    <updated>2013-05-11T05:39:26.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111211 全日本シクロクロス選手権</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5684869986424879425"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111211"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5684869986424879425"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5684869986424879425</gphoto:id>
+    <gphoto:name>20111211</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1323549899000</gphoto:timestamp>
+    <gphoto:numphotos>36</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-oRwKvxYPpic/TuS3IgcieUE/AAAAAAAAIJM/75jTrZx76pw/20111211.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oRwKvxYPpic/TuS3IgcieUE/AAAAAAAAIJM/75jTrZx76pw/s160-c/20111211.jpg" height="160" width="160"/>
+      <media:title type="plain">20111211 全日本シクロクロス選手権</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5680816111580614577</id>
+    <published>2011-11-27T08:00:00.000Z</published>
+    <updated>2013-05-11T05:39:24.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111127 野辺山シクロクロスlite</title>
+    <summary type="text">野辺山シクロクロス2011</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5680816111580614577"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111127Lite"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5680816111580614577"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5680816111580614577</gphoto:id>
+    <gphoto:name>20111127Lite</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1322380800000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XpXOkcrJpBE/TtZQJ70UD7E/AAAAAAAAEkY/jm-JXX6ohw4/20111127Lite.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">野辺山シクロクロス2011</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XpXOkcrJpBE/TtZQJ70UD7E/AAAAAAAAEkY/jm-JXX6ohw4/s160-c/20111127Lite.jpg" height="160" width="160"/>
+      <media:title type="plain">20111127 野辺山シクロクロスlite</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5677113279656890705</id>
+    <published>2011-11-20T01:18:26.000Z</published>
+    <updated>2013-05-11T05:39:22.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111120 関西シクロクロスマイアミ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5677113279656890705"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111120"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5677113279656890705"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5677113279656890705</gphoto:id>
+    <gphoto:name>20111120</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1321751906000</gphoto:timestamp>
+    <gphoto:numphotos>29</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cFPla68q1a0/Tskocv-aEVE/AAAAAAAAEe8/zQF40solT_s/20111120.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cFPla68q1a0/Tskocv-aEVE/AAAAAAAAEe8/zQF40solT_s/s160-c/20111120.jpg" height="160" width="160"/>
+      <media:title type="plain">20111120 関西シクロクロスマイアミ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5674515049539353617</id>
+    <published>2011-11-13T00:57:34.000Z</published>
+    <updated>2013-05-11T05:39:20.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111113 関西シクロクロスマキノ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5674515049539353617"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111113"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5674515049539353617"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5674515049539353617</gphoto:id>
+    <gphoto:name>20111113</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1321145854000</gphoto:timestamp>
+    <gphoto:numphotos>40</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qq2A9hdJflM/Tr_tX2hmvBE/AAAAAAAAEco/gkMgEGA5o_w/20111113.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qq2A9hdJflM/Tr_tX2hmvBE/AAAAAAAAEco/gkMgEGA5o_w/s160-c/20111113.jpg" height="160" width="160"/>
+      <media:title type="plain">20111113 関西シクロクロスマキノ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5671911776497351089</id>
+    <published>2011-11-06T07:00:00.000Z</published>
+    <updated>2013-05-11T05:39:18.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20111106 関西シクロクロス日吉</title>
+    <summary type="text">2011-2012関西シクロクロス第1戦　府民の森ひよし</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5671911776497351089"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20111106"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5671911776497351089"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5671911776497351089</gphoto:id>
+    <gphoto:name>20111106</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1320562800000</gphoto:timestamp>
+    <gphoto:numphotos>77</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Bkr-OBifpv0/Trattat6ubE/AAAAAAAAEZ4/E2nt_-36Zew/20111106.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">2011-2012関西シクロクロス第1戦　府民の森ひよし</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Bkr-OBifpv0/Trattat6ubE/AAAAAAAAEZ4/E2nt_-36Zew/s160-c/20111106.jpg" height="160" width="160"/>
+      <media:title type="plain">20111106 関西シクロクロス日吉</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5642926228458246721</id>
+    <published>2011-08-10T08:07:39.000Z</published>
+    <updated>2013-05-11T05:39:16.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110810 夏合宿山田班lite</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5642926228458246721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110810Lite"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5642926228458246721"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5642926228458246721</gphoto:id>
+    <gphoto:name>20110810Lite</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1312963659000</gphoto:timestamp>
+    <gphoto:numphotos>225</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BkW3dmKmSYM/Tk-zgdz9EkE/AAAAAAAAIIg/Ql6MkxASyJo/20110810Lite.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BkW3dmKmSYM/Tk-zgdz9EkE/AAAAAAAAIIg/Ql6MkxASyJo/s160-c/20110810Lite.jpg" height="160" width="160"/>
+      <media:title type="plain">20110810 夏合宿山田班lite</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5595451756419863041</id>
+    <published>2011-04-01T06:49:05.000Z</published>
+    <updated>2013-05-11T05:39:14.198Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110401 Cannonball</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5595451756419863041"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110401Cannonball"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5595451756419863041"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5595451756419863041</gphoto:id>
+    <gphoto:name>20110401Cannonball</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1301640545000</gphoto:timestamp>
+    <gphoto:numphotos>73</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lomMfLOwiJ8/TacJufs90gE/AAAAAAAAD_0/GEkoZ0iJaC0/20110401Cannonball.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lomMfLOwiJ8/TacJufs90gE/AAAAAAAAD_0/GEkoZ0iJaC0/s160-c/20110401Cannonball.jpg" height="160" width="160"/>
+      <media:title type="plain">20110401 Cannonball</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5588031773845627393</id>
+    <published>2011-03-21T05:12:04.000Z</published>
+    <updated>2013-05-11T05:39:12.844Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110321 瀬戸内ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5588031773845627393"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110321"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5588031773845627393"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5588031773845627393</gphoto:id>
+    <gphoto:name>20110321</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1300684324000</gphoto:timestamp>
+    <gphoto:numphotos>185</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lHLPkNfB48M/TYytSqmqIgE/AAAAAAAAILY/a5yN0w-tsE4/20110321.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lHLPkNfB48M/TYytSqmqIgE/AAAAAAAAILY/a5yN0w-tsE4/s160-c/20110321.jpg" height="160" width="160"/>
+      <media:title type="plain">20110321 瀬戸内ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5580994377607161217</id>
+    <published>2011-03-04T23:18:35.000Z</published>
+    <updated>2013-05-11T05:39:10.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110305 天橋立・城崎ツアー</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5580994377607161217"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110305"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5580994377607161217"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5580994377607161217</gphoto:id>
+    <gphoto:name>20110305</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1299280715000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xed0IEzHBVk/TXOs0Sq6JYE/AAAAAAAADq8/2txmWQ2pQYo/20110305.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xed0IEzHBVk/TXOs0Sq6JYE/AAAAAAAADq8/2txmWQ2pQYo/s160-c/20110305.jpg" height="160" width="160"/>
+      <media:title type="plain">20110305 天橋立・城崎ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5577902678340268609</id>
+    <published>2011-02-26T01:03:22.000Z</published>
+    <updated>2013-05-11T05:39:08.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110226 西山トレイルwith松井さん</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5577902678340268609"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110226With"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5577902678340268609"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5577902678340268609</gphoto:id>
+    <gphoto:name>20110226With</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1298682202000</gphoto:timestamp>
+    <gphoto:numphotos>38</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jDXZ9GfNYUM/TWiw7tYr8kE/AAAAAAAADio/vMSU4kTIqi8/20110226With.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jDXZ9GfNYUM/TWiw7tYr8kE/AAAAAAAADio/vMSU4kTIqi8/s160-c/20110226With.jpg" height="160" width="160"/>
+      <media:title type="plain">20110226 西山トレイルwith松井さん</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5575275579054715857</id>
+    <published>2011-02-18T23:31:24.000Z</published>
+    <updated>2013-05-11T05:39:06.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110219 新歓サイクリング</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5575275579054715857"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110219"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5575275579054715857"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5575275579054715857</gphoto:id>
+    <gphoto:name>20110219</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1298071884000</gphoto:timestamp>
+    <gphoto:numphotos>41</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_UaxqevBKIo/TV9bmZ53c9E/AAAAAAAADfo/NEviuU_pnMc/20110219.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_UaxqevBKIo/TV9bmZ53c9E/AAAAAAAADfo/NEviuU_pnMc/s160-c/20110219.jpg" height="160" width="160"/>
+      <media:title type="plain">20110219 新歓サイクリング</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5570591873953200721</id>
+    <published>2011-02-06T01:03:53.000Z</published>
+    <updated>2013-05-11T05:39:04.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110206 関西シクロクロス桂川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5570591873953200721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110206"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5570591873953200721"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5570591873953200721</gphoto:id>
+    <gphoto:name>20110206</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1296954233000</gphoto:timestamp>
+    <gphoto:numphotos>35</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ql9NrpgwvaQ/TU63y4uoelE/AAAAAAAADbg/dru6_eFh_Q0/20110206.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ql9NrpgwvaQ/TU63y4uoelE/AAAAAAAADbg/dru6_eFh_Q0/s160-c/20110206.jpg" height="160" width="160"/>
+      <media:title type="plain">20110206 関西シクロクロス桂川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5565803505875457969</id>
+    <published>2011-01-23T00:46:14.000Z</published>
+    <updated>2013-05-11T05:39:02.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110123 関西シクロクロス堺</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5565803505875457969"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110123"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5565803505875457969"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5565803505875457969</gphoto:id>
+    <gphoto:name>20110123</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1295743574000</gphoto:timestamp>
+    <gphoto:numphotos>31</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fRDapRaHp7U/TT20zLlUl7E/AAAAAAAADYA/FPse9patciQ/20110123.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fRDapRaHp7U/TT20zLlUl7E/AAAAAAAADYA/FPse9patciQ/s160-c/20110123.jpg" height="160" width="160"/>
+      <media:title type="plain">20110123 関西シクロクロス堺</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5562931981669815729</id>
+    <published>2011-01-16T01:09:38.000Z</published>
+    <updated>2013-05-11T05:39:00.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110116 関西シクロクロス野洲川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5562931981669815729"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110116"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5562931981669815729"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5562931981669815729</gphoto:id>
+    <gphoto:name>20110116</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1295140178000</gphoto:timestamp>
+    <gphoto:numphotos>30</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2CnoA9R8J2Q/TTOBKeUW1bE/AAAAAAAADVM/fEa6Q1rOKDA/20110116.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2CnoA9R8J2Q/TTOBKeUW1bE/AAAAAAAADVM/fEa6Q1rOKDA/s160-c/20110116.jpg" height="160" width="160"/>
+      <media:title type="plain">20110116 関西シクロクロス野洲川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5562342681952766465</id>
+    <published>2011-01-15T01:27:50.000Z</published>
+    <updated>2013-05-11T05:38:58.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110115 クラブラン雪合戦</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5562342681952766465"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110115"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5562342681952766465"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5562342681952766465</gphoto:id>
+    <gphoto:name>20110115</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1295054870000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ovVDSWvQ8Mc/TTFpMtzJygE/AAAAAAAADS0/490J-TH1Sq4/20110115.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ovVDSWvQ8Mc/TTFpMtzJygE/AAAAAAAADS0/490J-TH1Sq4/s160-c/20110115.jpg" height="160" width="160"/>
+      <media:title type="plain">20110115 クラブラン雪合戦</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5560147483294037905</id>
+    <published>2011-01-09T01:13:16.000Z</published>
+    <updated>2013-05-11T05:38:56.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110109 関西シクロクロス希望が丘</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5560147483294037905"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110109"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5560147483294037905"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5560147483294037905</gphoto:id>
+    <gphoto:name>20110109</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1294535596000</gphoto:timestamp>
+    <gphoto:numphotos>29</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ozkJHC606SI/TSmcrViF95E/AAAAAAAADPQ/EAuu_n3LYCk/20110109.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ozkJHC606SI/TSmcrViF95E/AAAAAAAADPQ/EAuu_n3LYCk/s160-c/20110109.jpg" height="160" width="160"/>
+      <media:title type="plain">20110109 関西シクロクロス希望が丘</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5558759404630130369</id>
+    <published>2011-01-05T05:20:10.000Z</published>
+    <updated>2013-05-11T05:38:54.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110105 瓢箪崩トレイル</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5558759404630130369"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20110105"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5558759404630130369"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5558759404630130369</gphoto:id>
+    <gphoto:name>20110105</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1294204810000</gphoto:timestamp>
+    <gphoto:numphotos>15</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-f6AuYxSTgf8/TSSuOhjXPsE/AAAAAAAADME/0SqGFVayRTQ/20110105.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-f6AuYxSTgf8/TSSuOhjXPsE/AAAAAAAADME/0SqGFVayRTQ/s160-c/20110105.jpg" height="160" width="160"/>
+      <media:title type="plain">20110105 瓢箪崩トレイル</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5554975308220248561</id>
+    <published>2010-12-26T01:02:54.000Z</published>
+    <updated>2013-05-11T05:38:52.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101226 関西シクロクロス丹波</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5554975308220248561"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101226"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5554975308220248561"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5554975308220248561</gphoto:id>
+    <gphoto:name>20101226</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1293325374000</gphoto:timestamp>
+    <gphoto:numphotos>30</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gRp0p2JIxmw/TRc8nH6IsfE/AAAAAAAADKM/J3SWeC4QsSM/20101226.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gRp0p2JIxmw/TRc8nH6IsfE/AAAAAAAADKM/J3SWeC4QsSM/s160-c/20101226.jpg" height="160" width="160"/>
+      <media:title type="plain">20101226 関西シクロクロス丹波</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5552326920459216129</id>
+    <published>2010-12-19T01:01:56.000Z</published>
+    <updated>2013-05-11T05:38:50.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101219 関西シクロクロス北神戸</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5552326920459216129"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101219"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5552326920459216129"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5552326920459216129</gphoto:id>
+    <gphoto:name>20101219</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1292720516000</gphoto:timestamp>
+    <gphoto:numphotos>51</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AhIHFys8TDU/TQ3T6qrPZQE/AAAAAAAADHo/JIJx2G9Sqrs/20101219.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AhIHFys8TDU/TQ3T6qrPZQE/AAAAAAAADHo/JIJx2G9Sqrs/s160-c/20101219.jpg" height="160" width="160"/>
+      <media:title type="plain">20101219 関西シクロクロス北神戸</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5550170968009973169</id>
+    <published>2010-12-12T01:12:43.000Z</published>
+    <updated>2013-05-11T05:38:48.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101212 全日本シクロクロス選手権</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5550170968009973169"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101212"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5550170968009973169"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5550170968009973169</gphoto:id>
+    <gphoto:name>20101212</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1292116363000</gphoto:timestamp>
+    <gphoto:numphotos>57</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iIeGanxUVX8/TQYrFt7rnbE/AAAAAAAADMI/_kYLUyh4dLo/20101212.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iIeGanxUVX8/TQYrFt7rnbE/AAAAAAAADMI/_kYLUyh4dLo/s160-c/20101212.jpg" height="160" width="160"/>
+      <media:title type="plain">20101212 全日本シクロクロス選手権</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5547153578811558913</id>
+    <published>2010-12-05T00:55:04.000Z</published>
+    <updated>2013-05-11T05:38:46.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101205 関西シクロクロス由良川</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5547153578811558913"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101205"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5547153578811558913"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5547153578811558913</gphoto:id>
+    <gphoto:name>20101205</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291510504000</gphoto:timestamp>
+    <gphoto:numphotos>89</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-REl2Rqoo5bo/TPtyyjOZjAE/AAAAAAAAC6c/26qYt-2ESmI/20101205.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-REl2Rqoo5bo/TPtyyjOZjAE/AAAAAAAAC6c/26qYt-2ESmI/s160-c/20101205.jpg" height="160" width="160"/>
+      <media:title type="plain">20101205 関西シクロクロス由良川</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5542785059542792721</id>
+    <published>2010-11-30T08:00:00.000Z</published>
+    <updated>2013-05-11T05:38:44.037Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">My Bikes.</title>
+    <summary type="text">今まで乗り継いできた自転車たち</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5542785059542792721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/MyBikes"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5542785059542792721"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5542785059542792721</gphoto:id>
+    <gphoto:name>MyBikes</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291104000000</gphoto:timestamp>
+    <gphoto:numphotos>23</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Fjy6ogc5QEc/TOvtpQxj-hE/AAAAAAAACvA/iv4oks03usk/MyBikes.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">今まで乗り継いできた自転車たち</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Fjy6ogc5QEc/TOvtpQxj-hE/AAAAAAAACvA/iv4oks03usk/s160-c/MyBikes.jpg" height="160" width="160"/>
+      <media:title type="plain">My Bikes.</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5536718917603880049</id>
+    <published>2010-11-07T02:56:59.000Z</published>
+    <updated>2013-05-11T05:38:42.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101107 関西シクロクロス日吉</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5536718917603880049"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101107"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5536718917603880049"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5536718917603880049</gphoto:id>
+    <gphoto:name>20101107</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1289098619000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nHDXLDpqcbM/TNZghVD27HE/AAAAAAAACrQ/EzMb4Jxmb6U/20101107.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nHDXLDpqcbM/TNZghVD27HE/AAAAAAAACrQ/EzMb4Jxmb6U/s160-c/20101107.jpg" height="160" width="160"/>
+      <media:title type="plain">20101107 関西シクロクロス日吉</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5534140822616964449</id>
+    <published>2010-10-30T04:07:59.000Z</published>
+    <updated>2013-05-11T05:38:40.074Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101030 ミニ四駆大会</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5534140822616964449"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20101030"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5534140822616964449"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5534140822616964449</gphoto:id>
+    <gphoto:name>20101030</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1288411679000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ppTNr8i74uk/TM03wc0SfWE/AAAAAAAAClg/w1RCSfecMLo/20101030.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ppTNr8i74uk/TM03wc0SfWE/AAAAAAAAClg/w1RCSfecMLo/s160-c/20101030.jpg" height="160" width="160"/>
+      <media:title type="plain">20101030 ミニ四駆大会</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5533090423422807697</id>
+    <published>2010-10-21T07:19:19.000Z</published>
+    <updated>2013-05-11T05:38:39.036Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">201010 ダウンヒルTT</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5533090423422807697"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/201010TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5533090423422807697"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5533090423422807697</gphoto:id>
+    <gphoto:name>201010TT</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1287645559000</gphoto:timestamp>
+    <gphoto:numphotos>14</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nZWgIJaOY-I/TMl8bK47bpE/AAAAAAAACjQ/ayWHmMOwkms/201010TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nZWgIJaOY-I/TMl8bK47bpE/AAAAAAAACjQ/ayWHmMOwkms/s160-c/201010TT.jpg" height="160" width="160"/>
+      <media:title type="plain">201010 ダウンヒルTT</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5506744349071786273</id>
+    <published>2010-08-17T07:00:00.000Z</published>
+    <updated>2013-05-11T05:38:34.319Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2010年8月14～18日　夏合宿川内谷班</title>
+    <summary type="text">合流から空中分解に至るまでを描く。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5506744349071786273"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/201081418"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5506744349071786273"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5506744349071786273</gphoto:id>
+    <gphoto:name>201081418</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1282028400000</gphoto:timestamp>
+    <gphoto:numphotos>190</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-osBj6z54hEE/TGvizztQQSE/AAAAAAAAILQ/LFSgIzSsHw4/201081418.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">合流から空中分解に至るまでを描く。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-osBj6z54hEE/TGvizztQQSE/AAAAAAAAILQ/LFSgIzSsHw4/s160-c/201081418.jpg" height="160" width="160"/>
+      <media:title type="plain">2010年8月14～18日　夏合宿川内谷班</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5482611873133165185</id>
+    <published>2010-06-11T07:00:00.000Z</published>
+    <updated>2013-05-11T05:38:32.320Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">201006回生ツアー</title>
+    <summary type="text">6月12～13日。
+・鯖街道～トレイル～熊川宿
+・熊川宿～河内谷林道～高島トレイル～マキノ</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5482611873133165185"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/201006"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5482611873133165185"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5482611873133165185</gphoto:id>
+    <gphoto:name>201006</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1276239600000</gphoto:timestamp>
+    <gphoto:numphotos>154</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-R2qMzWbhAfY/TBYmc1Nw-oE/AAAAAAAAByE/bN5fK-BXigo/201006.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain">6月12～13日。
+・鯖街道～トレイル～熊川宿
+・熊川宿～河内谷林道～高島トレイル～マキノ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R2qMzWbhAfY/TBYmc1Nw-oE/AAAAAAAAByE/bN5fK-BXigo/s160-c/201006.jpg" height="160" width="160"/>
+      <media:title type="plain">201006回生ツアー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5471865766884726593</id>
+    <published>2010-05-15T07:00:00.000Z</published>
+    <updated>2013-05-11T05:38:30.320Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20100516新勧サイクリング</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5471865766884726593"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20100516"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5471865766884726593"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5471865766884726593</gphoto:id>
+    <gphoto:name>20100516</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1273906800000</gphoto:timestamp>
+    <gphoto:numphotos>15</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-KEl5ainBxvU/S-_47H3I10E/AAAAAAAABk0/WeKFJlaFz6s/20100516.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-KEl5ainBxvU/S-_47H3I10E/AAAAAAAABk0/WeKFJlaFz6s/s160-c/20100516.jpg" height="160" width="160"/>
+      <media:title type="plain">20100516新勧サイクリング</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5471865540144041473</id>
+    <published>2010-05-14T07:00:00.000Z</published>
+    <updated>2013-05-11T05:38:28.319Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20100515新勧サイクリング</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/flarekanon/albumid/5471865540144041473"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/flarekanon/20100515"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/flarekanon/albumid/5471865540144041473"/>
+    <author>
+      <name>flarekanon</name>
+      <uri>https://picasaweb.google.com/flarekanon</uri>
+    </author>
+    <gphoto:id>5471865540144041473</gphoto:id>
+    <gphoto:name>20100515</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1273820400000</gphoto:timestamp>
+    <gphoto:numphotos>26</gphoto:numphotos>
+    <gphoto:user>flarekanon</gphoto:user>
+    <gphoto:nickname>flarekanon</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6ZO_-x3H3cc/S-_4t7L8jgE/AAAAAAAABkw/31TO5eZ7gfs/20100515.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>flarekanon</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6ZO_-x3H3cc/S-_4t7L8jgE/AAAAAAAABkw/31TO5eZ7gfs/s160-c/20100515.jpg" height="160" width="160"/>
+      <media:title type="plain">20100515新勧サイクリング</media:title>
+    </media:group>
+  </entry>
+</feed>

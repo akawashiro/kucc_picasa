@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6095941016766219153</id>
+  <updated>2015-10-06T13:50:47.548Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">Year in Photos 2014</title>
+  <subtitle type="text">Year in Photos 2014</subtitle>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-Qa4BSOUr4ec/VJkiDpwVg5E/AAAAAAAArYM/wi39GLBh4PM/s160-c/YearInPhotos2014.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6095941016766219153"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/YearInPhotos2014"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6095941016766219153?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6095941016766219153"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6095941016766219153?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>あいただ</name>
+    <uri>https://picasaweb.google.com/101789004687109216019</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6095941016766219153</gphoto:id>
+  <gphoto:name>YearInPhotos2014</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1419321600000</gphoto:timestamp>
+  <gphoto:numphotos>1</gphoto:numphotos>
+  <gphoto:user>101789004687109216019</gphoto:user>
+  <gphoto:nickname>あいただ</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6095941016766219153/photoid/6095200812194701378</id>
+    <published>2014-12-21T08:12:08.000Z</published>
+    <updated>2015-10-06T13:50:47.548Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">Year in Photos 2014.m4v</title>
+    <summary type="text"/>
+    <content type="image/gif" src="https://lh3.googleusercontent.com/-ipBxtFuWUs0/VJaA2E2JoEI/AAAAAAAArN4/NwgQrcOVCzo/Year%252520in%252520Photos%2525202014.m4v.gif"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6095941016766219153/photoid/6095200812194701378"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/YearInPhotos2014#6095200812194701378"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ykB-RxWvW3verGAa7wqAotMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6095941016766219153/photoid/6095200812194701378"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6095941016766219153&amp;iid=6095200812194701378"/>
+    <gphoto:id>6095200812194701378</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6095941016766219153</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:videostatus>final</gphoto:videostatus>
+    <gphoto:originalvideo width="1280" height="720" type="MATROSKA" duration="45" channels="2" samplingrate="44.1" videoCodec="FLV1" audioCodec="FLAC" fps="30.0"/>
+    <gphoto:width>854</gphoto:width>
+    <gphoto:height>480</gphoto:height>
+    <gphoto:size>733</gphoto:size>
+    <gphoto:client/>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1419321869000</gphoto:timestamp>
+    <gphoto:imageVersion>44254</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>1</gphoto:commentCount>
+    <gphoto:streamId>yearbook14</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:imageUniqueID>edd326d0d24381f90000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ipBxtFuWUs0/VJaA2E2JoEI/AAAAAAAArN4/NwgQrcOVCzo/Year%252520in%252520Photos%2525202014.m4v.gif" height="288" width="512" type="image/gif" medium="image"/>
+      <media:content url="https://lh3.googleusercontent.com/ajJgNwIiiWr4JTxGtn0nMKrpB0AxuZjGeiqbtmpZHApo=m18" height="360" width="640" type="video/mpeg4" medium="video"/>
+      <media:content url="https://lh3.googleusercontent.com/ajJgNwIiiWr4JTxGtn0nMKrpB0AxuZjGeiqbtmpZHApo=m22" height="720" width="1280" type="video/mpeg4" medium="video"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ipBxtFuWUs0/VJaA2E2JoEI/AAAAAAAArN4/NwgQrcOVCzo/s72/Year%252520in%252520Photos%2525202014.m4v.png" height="41" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ipBxtFuWUs0/VJaA2E2JoEI/AAAAAAAArN4/NwgQrcOVCzo/s144/Year%252520in%252520Photos%2525202014.m4v.png" height="81" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ipBxtFuWUs0/VJaA2E2JoEI/AAAAAAAArN4/NwgQrcOVCzo/s288/Year%252520in%252520Photos%2525202014.m4v.png" height="162" width="288"/>
+      <media:title type="plain">Year in Photos 2014.m4v</media:title>
+    </media:group>
+  </entry>
+</feed>

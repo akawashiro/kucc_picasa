@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689</id>
+  <updated>2014-09-08T14:37:51.691Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">9月鳥越峠</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-jznOILf2clQ/SN-A-kaBrYE/AAAAAAAAIVc/4JiP4-4KEIQ/s160-c/903.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Kuro.tour1</name>
+    <uri>https://picasaweb.google.com/kuro.tour1</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>11</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5251057502950370689</gphoto:id>
+  <gphoto:name>903</gphoto:name>
+  <gphoto:location>奥伊吹スキー場</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1222585200000</gphoto:timestamp>
+  <gphoto:numphotos>11</gphoto:numphotos>
+  <gphoto:user>kuro.tour1</gphoto:user>
+  <gphoto:nickname>Kuro.tour1</gphoto:nickname>
+  <georss:where>
+    <gml:Point>
+      <gml:pos>35.522253 136.387426</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057550357212130</id>
+    <published>2008-09-28T13:05:09.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240100.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-eDY0SXTTiPs/SN-BBVAsq-I/AAAAAAAAGXs/pP00tfh7VnM/P9240100.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057550357212130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057550357212130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/W4PNelvedoprIhzH4r6Ad9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057550357212130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057550357212130"/>
+    <gphoto:id>5251057550357212130</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8891398E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>553578</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9aadf05c</gphoto:checksum>
+    <gphoto:timestamp>1222261803000</gphoto:timestamp>
+    <gphoto:imageVersion>6523</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222261803000</exif:time>
+      <exif:imageUniqueID>f66ded42b50d4d31228fd3ed86fa6ef4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-eDY0SXTTiPs/SN-BBVAsq-I/AAAAAAAAGXs/pP00tfh7VnM/P9240100.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eDY0SXTTiPs/SN-BBVAsq-I/AAAAAAAAGXs/pP00tfh7VnM/s72/P9240100.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eDY0SXTTiPs/SN-BBVAsq-I/AAAAAAAAGXs/pP00tfh7VnM/s144/P9240100.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eDY0SXTTiPs/SN-BBVAsq-I/AAAAAAAAGXs/pP00tfh7VnM/s288/P9240100.JPG" height="216" width="288"/>
+      <media:title type="plain">P9240100.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057581281068066</id>
+    <published>2008-09-28T13:05:16.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240101.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ixp8zCcrTpI/SN-BDINhRCI/AAAAAAAAGX0/N-sQWUlPfNs/P9240101.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057581281068066"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057581281068066"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/XsfOcHtYUpMIj6_SMkTw3tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057581281068066"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057581281068066"/>
+    <gphoto:id>5251057581281068066</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.889216E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>359010</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9ed1b3d0</gphoto:checksum>
+    <gphoto:timestamp>1222261882000</gphoto:timestamp>
+    <gphoto:imageVersion>6525</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222261882000</exif:time>
+      <exif:imageUniqueID>314110b906a36902a7c21dfe5c92a32a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ixp8zCcrTpI/SN-BDINhRCI/AAAAAAAAGX0/N-sQWUlPfNs/P9240101.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ixp8zCcrTpI/SN-BDINhRCI/AAAAAAAAGX0/N-sQWUlPfNs/s72/P9240101.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ixp8zCcrTpI/SN-BDINhRCI/AAAAAAAAGX0/N-sQWUlPfNs/s144/P9240101.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ixp8zCcrTpI/SN-BDINhRCI/AAAAAAAAGX0/N-sQWUlPfNs/s288/P9240101.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240101.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057602918307186</id>
+    <published>2008-09-28T13:05:21.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240102.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-ZkPrdNUu32Y/SN-BEY0PVXI/AAAAAAAAGX8/Y37xgRoMExY/P9240102.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057602918307186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057602918307186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/W1wGXgFxw4bx4Ap-qGNs8tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057602918307186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057602918307186"/>
+    <gphoto:id>5251057602918307186</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8892589E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>213492</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d39bb78c</gphoto:checksum>
+    <gphoto:timestamp>1222263743000</gphoto:timestamp>
+    <gphoto:imageVersion>6527</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>11.0</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.01</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222263743000</exif:time>
+      <exif:imageUniqueID>d9a20cc4151a250d96c080cc05eb030c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZkPrdNUu32Y/SN-BEY0PVXI/AAAAAAAAGX8/Y37xgRoMExY/P9240102.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZkPrdNUu32Y/SN-BEY0PVXI/AAAAAAAAGX8/Y37xgRoMExY/s72/P9240102.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZkPrdNUu32Y/SN-BEY0PVXI/AAAAAAAAGX8/Y37xgRoMExY/s144/P9240102.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZkPrdNUu32Y/SN-BEY0PVXI/AAAAAAAAGX8/Y37xgRoMExY/s288/P9240102.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240102.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057630262175074</id>
+    <published>2008-09-28T13:05:27.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240103.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lnDzKnVYFZ4/SN-BF-rhpWI/AAAAAAAAGYE/Z5_LsKrBDVg/P9240103.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057630262175074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057630262175074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Iuy8goBFBwY_XFDmjEYlvtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057630262175074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057630262175074"/>
+    <gphoto:id>5251057630262175074</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8893171E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>295229</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>1a0856b1</gphoto:checksum>
+    <gphoto:timestamp>1222264292000</gphoto:timestamp>
+    <gphoto:imageVersion>6529</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222264292000</exif:time>
+      <exif:imageUniqueID>7c17a4c766248dda08a674df56eb8b7f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lnDzKnVYFZ4/SN-BF-rhpWI/AAAAAAAAGYE/Z5_LsKrBDVg/P9240103.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lnDzKnVYFZ4/SN-BF-rhpWI/AAAAAAAAGYE/Z5_LsKrBDVg/s72/P9240103.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lnDzKnVYFZ4/SN-BF-rhpWI/AAAAAAAAGYE/Z5_LsKrBDVg/s144/P9240103.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lnDzKnVYFZ4/SN-BF-rhpWI/AAAAAAAAGYE/Z5_LsKrBDVg/s288/P9240103.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240103.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057644556268274</id>
+    <published>2008-09-28T13:05:31.000Z</published>
+    <updated>2014-09-08T14:37:41.504Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240104.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BVMsRsgb4w4/SN-BGz7gMvI/AAAAAAAAIVM/t5wHBDxr7TU/P9240104.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057644556268274"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057644556268274"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/A56vxbpcT-ynwu4ZrzeOINMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057644556268274"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057644556268274"/>
+    <gphoto:id>5251057644556268274</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.8893626E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>222961</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>b1d34462</gphoto:checksum>
+    <gphoto:timestamp>1222264740000</gphoto:timestamp>
+    <gphoto:imageVersion>8531</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222264740000</exif:time>
+      <exif:imageUniqueID>0f785dcf53194503026747294dc51031</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BVMsRsgb4w4/SN-BGz7gMvI/AAAAAAAAIVM/t5wHBDxr7TU/P9240104.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BVMsRsgb4w4/SN-BGz7gMvI/AAAAAAAAIVM/t5wHBDxr7TU/s72/P9240104.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BVMsRsgb4w4/SN-BGz7gMvI/AAAAAAAAIVM/t5wHBDxr7TU/s144/P9240104.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BVMsRsgb4w4/SN-BGz7gMvI/AAAAAAAAIVM/t5wHBDxr7TU/s288/P9240104.JPG" height="216" width="288"/>
+      <media:title type="plain">P9240104.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057670450927522</id>
+    <published>2008-09-28T13:05:37.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240105.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bMaULRyKeao/SN-BIUZRV6I/AAAAAAAAGYU/wcuyyPjx19k/P9240105.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057670450927522"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057670450927522"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/nNA5aTj7P11hNPioWczk8NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057670450927522"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057670450927522"/>
+    <gphoto:id>5251057670450927522</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8894157E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>231533</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>62fb888c</gphoto:checksum>
+    <gphoto:timestamp>1222264748000</gphoto:timestamp>
+    <gphoto:imageVersion>6533</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222264748000</exif:time>
+      <exif:imageUniqueID>30acef62e81aff725940b7a6bbe4a704</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bMaULRyKeao/SN-BIUZRV6I/AAAAAAAAGYU/wcuyyPjx19k/P9240105.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bMaULRyKeao/SN-BIUZRV6I/AAAAAAAAGYU/wcuyyPjx19k/s72/P9240105.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bMaULRyKeao/SN-BIUZRV6I/AAAAAAAAGYU/wcuyyPjx19k/s144/P9240105.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bMaULRyKeao/SN-BIUZRV6I/AAAAAAAAGYU/wcuyyPjx19k/s288/P9240105.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240105.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057716877791010</id>
+    <published>2008-09-28T13:05:48.000Z</published>
+    <updated>2014-09-08T14:37:51.691Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240106.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-QE5btBaNFN4/SN-BLBWTDyI/AAAAAAAAIVc/JULVU-_iKhc/P9240106.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057716877791010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057716877791010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8EirntsZWLtDmggQx7YANdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057716877791010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057716877791010"/>
+    <gphoto:id>5251057716877791010</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.8895341E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>622667</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ff55ad67</gphoto:checksum>
+    <gphoto:timestamp>1222265260000</gphoto:timestamp>
+    <gphoto:imageVersion>8535</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222265260000</exif:time>
+      <exif:imageUniqueID>e97be14a703b1eb0bc6b7ece25c5e96a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QE5btBaNFN4/SN-BLBWTDyI/AAAAAAAAIVc/JULVU-_iKhc/P9240106.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QE5btBaNFN4/SN-BLBWTDyI/AAAAAAAAIVc/JULVU-_iKhc/s72/P9240106.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QE5btBaNFN4/SN-BLBWTDyI/AAAAAAAAIVc/JULVU-_iKhc/s144/P9240106.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QE5btBaNFN4/SN-BLBWTDyI/AAAAAAAAIVc/JULVU-_iKhc/s288/P9240106.JPG" height="216" width="288"/>
+      <media:title type="plain">P9240106.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057758229440642</id>
+    <published>2008-09-28T13:05:57.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240107.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lN4CVLM6JBQ/SN-BNbZTKII/AAAAAAAAGYk/46uEsI8kyQ4/P9240107.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057758229440642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057758229440642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/n_7OyC7hYpYGVu2murGwFtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057758229440642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057758229440642"/>
+    <gphoto:id>5251057758229440642</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8896154E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>419754</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>97ba5afa</gphoto:checksum>
+    <gphoto:timestamp>1222265269000</gphoto:timestamp>
+    <gphoto:imageVersion>6537</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222265269000</exif:time>
+      <exif:imageUniqueID>fc234e188bc0e715f1ad360ebbf7796f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lN4CVLM6JBQ/SN-BNbZTKII/AAAAAAAAGYk/46uEsI8kyQ4/P9240107.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lN4CVLM6JBQ/SN-BNbZTKII/AAAAAAAAGYk/46uEsI8kyQ4/s72/P9240107.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lN4CVLM6JBQ/SN-BNbZTKII/AAAAAAAAGYk/46uEsI8kyQ4/s144/P9240107.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lN4CVLM6JBQ/SN-BNbZTKII/AAAAAAAAGYk/46uEsI8kyQ4/s288/P9240107.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240107.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057806464523426</id>
+    <published>2008-09-28T13:06:08.000Z</published>
+    <updated>2013-05-12T09:11:56.577Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240108.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1vLOacFFDMU/SN-BQPFcHKI/AAAAAAAAGYs/8IuaA6CoQ9M/P9240108.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057806464523426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057806464523426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EnQ10tY2LhSPRFv7NWqYodMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057806464523426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057806464523426"/>
+    <gphoto:id>5251057806464523426</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.8897306E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>540037</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>de2c2290</gphoto:checksum>
+    <gphoto:timestamp>1222265290000</gphoto:timestamp>
+    <gphoto:imageVersion>6539</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222265290000</exif:time>
+      <exif:imageUniqueID>191ec072b18f119a1e5cf05360f368e6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1vLOacFFDMU/SN-BQPFcHKI/AAAAAAAAGYs/8IuaA6CoQ9M/P9240108.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1vLOacFFDMU/SN-BQPFcHKI/AAAAAAAAGYs/8IuaA6CoQ9M/s72/P9240108.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1vLOacFFDMU/SN-BQPFcHKI/AAAAAAAAGYs/8IuaA6CoQ9M/s144/P9240108.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1vLOacFFDMU/SN-BQPFcHKI/AAAAAAAAGYs/8IuaA6CoQ9M/s288/P9240108.JPG" height="288" width="216"/>
+      <media:title type="plain">P9240108.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057836254289010</id>
+    <published>2008-09-28T13:06:15.000Z</published>
+    <updated>2014-09-08T14:37:43.193Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240109.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-JcY0xz7e4H0/SN-BR-D33HI/AAAAAAAAIVQ/agwgZQOWZPE/P9240109.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057836254289010"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057836254289010"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/s3u0TbdG0ThdLSVwBVOTKdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057836254289010"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057836254289010"/>
+    <gphoto:id>5251057836254289010</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.8898003E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>343192</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>ddde12f8</gphoto:checksum>
+    <gphoto:timestamp>1222265317000</gphoto:timestamp>
+    <gphoto:imageVersion>8532</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222265317000</exif:time>
+      <exif:imageUniqueID>fce902d0469c7e56b3ab0db06e91578f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-JcY0xz7e4H0/SN-BR-D33HI/AAAAAAAAIVQ/agwgZQOWZPE/P9240109.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JcY0xz7e4H0/SN-BR-D33HI/AAAAAAAAIVQ/agwgZQOWZPE/s72/P9240109.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JcY0xz7e4H0/SN-BR-D33HI/AAAAAAAAIVQ/agwgZQOWZPE/s144/P9240109.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JcY0xz7e4H0/SN-BR-D33HI/AAAAAAAAIVQ/agwgZQOWZPE/s288/P9240109.JPG" height="216" width="288"/>
+      <media:title type="plain">P9240109.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057850252587906</id>
+    <published>2008-09-28T13:06:19.000Z</published>
+    <updated>2014-09-08T14:37:43.934Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">P9240116.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-j7UIm___MtM/SN-BSyNU84I/AAAAAAAAIVU/HzNAOClEq3g/P9240116.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057850252587906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kuro.tour1/903#5251057850252587906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/H-Jxr8wxWfIpZqM9MTCpytMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kuro.tour1/albumid/5251057502950370689/photoid/5251057850252587906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kuro.tour1&amp;aid=5251057502950370689&amp;iid=5251057850252587906"/>
+    <gphoto:id>5251057850252587906</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.8898387E8</gphoto:position>
+    <gphoto:albumid>5251057502950370689</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>186111</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c054fcd9</gphoto:checksum>
+    <gphoto:timestamp>1222271686000</gphoto:timestamp>
+    <gphoto:imageVersion>8533</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>8.8</exif:fstop>
+      <exif:make>OLYMPUS CORPORATION    </exif:make>
+      <exif:model>u15D            </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1222271686000</exif:time>
+      <exif:imageUniqueID>39a49507c2ec869fb6939bb983adcf99</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-j7UIm___MtM/SN-BSyNU84I/AAAAAAAAIVU/HzNAOClEq3g/P9240116.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Kuro.tour1</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j7UIm___MtM/SN-BSyNU84I/AAAAAAAAIVU/HzNAOClEq3g/s72/P9240116.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j7UIm___MtM/SN-BSyNU84I/AAAAAAAAIVU/HzNAOClEq3g/s144/P9240116.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-j7UIm___MtM/SN-BSyNU84I/AAAAAAAAIVU/HzNAOClEq3g/s288/P9240116.JPG" height="216" width="288"/>
+      <media:title type="plain">P9240116.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

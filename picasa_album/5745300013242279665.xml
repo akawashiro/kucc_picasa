@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665</id>
+  <updated>2015-07-18T08:40:09.299Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2012/5/21金環日食</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-rAvc3XSy5EA/T7tn7BFaZvE/AAAAAAAABtQ/C4Ui-VdEY8U/s160-c/2012521.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>saori hirabayashi</name>
+    <uri>https://picasaweb.google.com/116400749270788944479</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>24</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5745300013242279665</gphoto:id>
+  <gphoto:name>2012521</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1337583600000</gphoto:timestamp>
+  <gphoto:numphotos>24</gphoto:numphotos>
+  <gphoto:user>116400749270788944479</gphoto:user>
+  <gphoto:nickname>saori hirabayashi</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300029956152450</id>
+    <published>2012-05-22T10:18:23.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1564.JPG</title>
+    <summary type="text">6:42:46</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-XRouxmXyRLE/T7tn7_WT3II/AAAAAAAABp4/s8--Nz9HSM8/DSCF1564.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300029956152450"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300029956152450"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Q6diezFgTEe9RxrqM4aI6NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300029956152450"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300029956152450"/>
+    <gphoto:id>5745300029956152450</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>179758</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ec480b9</gphoto:checksum>
+    <gphoto:timestamp>1337582566000</gphoto:timestamp>
+    <gphoto:imageVersion>1694</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337582566000</exif:time>
+      <exif:imageUniqueID>d7ba83aaac091a79630d37e6a1f4e3e6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-XRouxmXyRLE/T7tn7_WT3II/AAAAAAAABp4/s8--Nz9HSM8/DSCF1564.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">6:42:46</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XRouxmXyRLE/T7tn7_WT3II/AAAAAAAABp4/s8--Nz9HSM8/s72/DSCF1564.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XRouxmXyRLE/T7tn7_WT3II/AAAAAAAABp4/s8--Nz9HSM8/s144/DSCF1564.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-XRouxmXyRLE/T7tn7_WT3II/AAAAAAAABp4/s8--Nz9HSM8/s288/DSCF1564.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1564.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300041072708354</id>
+    <published>2012-05-22T10:18:26.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1565.JPG</title>
+    <summary type="text">欠け始め6:46:27　日食グラス越しで撮ることにした</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-cp_CropnpEA/T7tn8owtCwI/AAAAAAAABp8/QuDNT1REZjQ/DSCF1565.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300041072708354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300041072708354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/OqA6Bwx-4MLyn25xCwGnIdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300041072708354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300041072708354"/>
+    <gphoto:id>5745300041072708354</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>48959</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7eeac0b9</gphoto:checksum>
+    <gphoto:timestamp>1337582787000</gphoto:timestamp>
+    <gphoto:imageVersion>1695</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.25</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>33.8</exif:focallength>
+      <exif:iso>1600</exif:iso>
+      <exif:time>1337582787000</exif:time>
+      <exif:imageUniqueID>5e7c16c50e6be6f4c7c102c90c958d33</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-cp_CropnpEA/T7tn8owtCwI/AAAAAAAABp8/QuDNT1REZjQ/DSCF1565.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">欠け始め6:46:27　日食グラス越しで撮ることにした</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cp_CropnpEA/T7tn8owtCwI/AAAAAAAABp8/QuDNT1REZjQ/s72/DSCF1565.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cp_CropnpEA/T7tn8owtCwI/AAAAAAAABp8/QuDNT1REZjQ/s144/DSCF1565.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-cp_CropnpEA/T7tn8owtCwI/AAAAAAAABp8/QuDNT1REZjQ/s288/DSCF1565.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1565.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300053727502978</id>
+    <published>2012-05-22T10:18:29.000Z</published>
+    <updated>2015-07-18T08:40:09.299Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1566.JPG</title>
+    <summary type="text">サングラスはどうなのか</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YMlbTvR3A9M/T7tn9X514oI/AAAAAAAABqE/tAZ7ZX3canY/DSCF1566.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300053727502978"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300053727502978"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9ceUe3akRpPNR7tIhJdDFdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300053727502978"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300053727502978"/>
+    <gphoto:id>5745300053727502978</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>182473</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ed680b9</gphoto:checksum>
+    <gphoto:timestamp>1337582876000</gphoto:timestamp>
+    <gphoto:imageVersion>1697</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0016666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.9</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337582876000</exif:time>
+      <exif:imageUniqueID>f93b819a6209168711b01d345cb5b544</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YMlbTvR3A9M/T7tn9X514oI/AAAAAAAABqE/tAZ7ZX3canY/DSCF1566.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">サングラスはどうなのか</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YMlbTvR3A9M/T7tn9X514oI/AAAAAAAABqE/tAZ7ZX3canY/s72/DSCF1566.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YMlbTvR3A9M/T7tn9X514oI/AAAAAAAABqE/tAZ7ZX3canY/s144/DSCF1566.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YMlbTvR3A9M/T7tn9X514oI/AAAAAAAABqE/tAZ7ZX3canY/s288/DSCF1566.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1566.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300067471065330</id>
+    <published>2012-05-22T10:18:32.000Z</published>
+    <updated>2015-07-18T08:40:09.299Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1567.JPG</title>
+    <summary type="text">なかなか集まった</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--1JnM_nQwHo/T7tn-LGkAPI/AAAAAAAABqM/71MDUq3gLoo/DSCF1567.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300067471065330"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300067471065330"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/ANEdHN5Y13sIuDKx0cK60tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300067471065330"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300067471065330"/>
+    <gphoto:id>5745300067471065330</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>223582</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ed7e0b9</gphoto:checksum>
+    <gphoto:timestamp>1337583266000</gphoto:timestamp>
+    <gphoto:imageVersion>1699</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0022222223</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337583266000</exif:time>
+      <exif:imageUniqueID>e0a6c8d8766253e3f1c459fc53422ef9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--1JnM_nQwHo/T7tn-LGkAPI/AAAAAAAABqM/71MDUq3gLoo/DSCF1567.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">なかなか集まった</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1JnM_nQwHo/T7tn-LGkAPI/AAAAAAAABqM/71MDUq3gLoo/s72/DSCF1567.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1JnM_nQwHo/T7tn-LGkAPI/AAAAAAAABqM/71MDUq3gLoo/s144/DSCF1567.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--1JnM_nQwHo/T7tn-LGkAPI/AAAAAAAABqM/71MDUq3gLoo/s288/DSCF1567.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1567.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300086055627234</id>
+    <published>2012-05-22T10:18:37.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1569.JPG</title>
+    <summary type="text">新歓ラン班分け中</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4PEIGHLp6tw/T7tn_QVd6eI/AAAAAAAABqU/L99EBzsRFOM/DSCF1569.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300086055627234"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300086055627234"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/w-QN7VIx5mRAK5Ejr38_PNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300086055627234"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300086055627234"/>
+    <gphoto:id>5745300086055627234</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>306141</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ed2c0b9</gphoto:checksum>
+    <gphoto:timestamp>1337583562000</gphoto:timestamp>
+    <gphoto:imageVersion>1701</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.2</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.3</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337583562000</exif:time>
+      <exif:imageUniqueID>31664b41cef93e6fa41e9781c2d96c4a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4PEIGHLp6tw/T7tn_QVd6eI/AAAAAAAABqU/L99EBzsRFOM/DSCF1569.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">新歓ラン班分け中</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4PEIGHLp6tw/T7tn_QVd6eI/AAAAAAAABqU/L99EBzsRFOM/s72/DSCF1569.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4PEIGHLp6tw/T7tn_QVd6eI/AAAAAAAABqU/L99EBzsRFOM/s144/DSCF1569.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4PEIGHLp6tw/T7tn_QVd6eI/AAAAAAAABqU/L99EBzsRFOM/s288/DSCF1569.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1569.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300097729608850</id>
+    <published>2012-05-22T10:18:39.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1571.JPG</title>
+    <summary type="text">ピンホール</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6PaL5m3jduk/T7tn_70wvJI/AAAAAAAABqc/QxgHVWEqem4/DSCF1571.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300097729608850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300097729608850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DtREyStBLWvZE4Cf4LxQ1NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300097729608850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300097729608850"/>
+    <gphoto:id>5745300097729608850</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>76966</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ed040b9</gphoto:checksum>
+    <gphoto:timestamp>1337584272000</gphoto:timestamp>
+    <gphoto:imageVersion>1703</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.2</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.005882353</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>43.9</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337584272000</exif:time>
+      <exif:imageUniqueID>bec05f91d2491b088758f8fba5a3a3a1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6PaL5m3jduk/T7tn_70wvJI/AAAAAAAABqc/QxgHVWEqem4/DSCF1571.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">ピンホール</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6PaL5m3jduk/T7tn_70wvJI/AAAAAAAABqc/QxgHVWEqem4/s72/DSCF1571.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6PaL5m3jduk/T7tn_70wvJI/AAAAAAAABqc/QxgHVWEqem4/s144/DSCF1571.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6PaL5m3jduk/T7tn_70wvJI/AAAAAAAABqc/QxgHVWEqem4/s288/DSCF1571.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1571.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300107341554018</id>
+    <published>2012-05-22T10:18:41.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1572.JPG</title>
+    <summary type="text">だいぶ欠けてきた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PQOHAEXF4Ds/T7toAfobYWI/AAAAAAAABqk/MQ3QmRsxG1U/DSCF1572.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300107341554018"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300107341554018"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/o9aKobY1bjfPnKgmPt6WntMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300107341554018"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300107341554018"/>
+    <gphoto:id>5745300107341554018</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>53247</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ede80b9</gphoto:checksum>
+    <gphoto:timestamp>1337585081000</gphoto:timestamp>
+    <gphoto:imageVersion>1705</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.1</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.25</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>49.9</exif:focallength>
+      <exif:iso>800</exif:iso>
+      <exif:time>1337585081000</exif:time>
+      <exif:imageUniqueID>82a5185dc59e72286e16d45bf098ee44</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PQOHAEXF4Ds/T7toAfobYWI/AAAAAAAABqk/MQ3QmRsxG1U/DSCF1572.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">だいぶ欠けてきた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQOHAEXF4Ds/T7toAfobYWI/AAAAAAAABqk/MQ3QmRsxG1U/s72/DSCF1572.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQOHAEXF4Ds/T7toAfobYWI/AAAAAAAABqk/MQ3QmRsxG1U/s144/DSCF1572.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PQOHAEXF4Ds/T7toAfobYWI/AAAAAAAABqk/MQ3QmRsxG1U/s288/DSCF1572.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1572.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300122426309298</id>
+    <published>2012-05-22T10:18:45.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1573.JPG</title>
+    <summary type="text">シャッタースピードいじってみた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Y34wBH-xq0U/T7toBX06erI/AAAAAAAABqs/byDTZO24XI0/DSCF1573.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300122426309298"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300122426309298"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YY8TkAKrRcl6oFPIlBNsiNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300122426309298"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300122426309298"/>
+    <gphoto:id>5745300122426309298</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>27106</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7eda20b9</gphoto:checksum>
+    <gphoto:timestamp>1337585151000</gphoto:timestamp>
+    <gphoto:imageVersion>1707</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.2</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>5.0E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>45.8</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337585151000</exif:time>
+      <exif:imageUniqueID>e59259a7c7edc3bfc7150fed276810bd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Y34wBH-xq0U/T7toBX06erI/AAAAAAAABqs/byDTZO24XI0/DSCF1573.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">シャッタースピードいじってみた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Y34wBH-xq0U/T7toBX06erI/AAAAAAAABqs/byDTZO24XI0/s72/DSCF1573.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Y34wBH-xq0U/T7toBX06erI/AAAAAAAABqs/byDTZO24XI0/s144/DSCF1573.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Y34wBH-xq0U/T7toBX06erI/AAAAAAAABqs/byDTZO24XI0/s288/DSCF1573.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1573.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300132194829970</id>
+    <published>2012-05-22T10:18:47.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1575.JPG</title>
+    <summary type="text">これがよさげ7:27:46</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gzctTLu38e0/T7toB8N6RpI/AAAAAAAABq0/Y_ZIR7bC7tc/DSCF1575.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300132194829970"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300132194829970"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qF7gYP8EZO2MNJka9wuhhtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300132194829970"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300132194829970"/>
+    <gphoto:id>5745300132194829970</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>26345</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7eee00b9</gphoto:checksum>
+    <gphoto:timestamp>1337585266000</gphoto:timestamp>
+    <gphoto:imageVersion>1709</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337585266000</exif:time>
+      <exif:imageUniqueID>c98f8b02457fd71a182b3f209db9f626</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gzctTLu38e0/T7toB8N6RpI/AAAAAAAABq0/Y_ZIR7bC7tc/DSCF1575.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">これがよさげ7:27:46</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gzctTLu38e0/T7toB8N6RpI/AAAAAAAABq0/Y_ZIR7bC7tc/s72/DSCF1575.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gzctTLu38e0/T7toB8N6RpI/AAAAAAAABq0/Y_ZIR7bC7tc/s144/DSCF1575.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gzctTLu38e0/T7toB8N6RpI/AAAAAAAABq0/Y_ZIR7bC7tc/s288/DSCF1575.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1575.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300143365524834</id>
+    <published>2012-05-22T10:18:50.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1576.JPG</title>
+    <summary type="text">金環直前7:31:59</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pk8aB6ZA7oI/T7toCl1NjWI/AAAAAAAABq8/r9fJ4WilzZI/DSCF1576.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300143365524834"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300143365524834"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/syyG4WEgTfOg3g7Nm_LJQtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300143365524834"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300143365524834"/>
+    <gphoto:id>5745300143365524834</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>25319</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ef660b9</gphoto:checksum>
+    <gphoto:timestamp>1337585519000</gphoto:timestamp>
+    <gphoto:imageVersion>1711</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>62.3</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337585519000</exif:time>
+      <exif:imageUniqueID>b1ed76f75e6796c63d7f17780fec3309</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pk8aB6ZA7oI/T7toCl1NjWI/AAAAAAAABq8/r9fJ4WilzZI/DSCF1576.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">金環直前7:31:59</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pk8aB6ZA7oI/T7toCl1NjWI/AAAAAAAABq8/r9fJ4WilzZI/s72/DSCF1576.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pk8aB6ZA7oI/T7toCl1NjWI/AAAAAAAABq8/r9fJ4WilzZI/s144/DSCF1576.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pk8aB6ZA7oI/T7toCl1NjWI/AAAAAAAABq8/r9fJ4WilzZI/s288/DSCF1576.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1576.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300158005426834</id>
+    <published>2012-05-22T10:18:53.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1577.JPG</title>
+    <summary type="text">金環中</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Sw-qg8kntj4/T7toDcXoupI/AAAAAAAABrE/IgwHSOiVpNA/DSCF1577.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300158005426834"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300158005426834"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/OE2grjyDKKvjNJTtTkgZ5dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300158005426834"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300158005426834"/>
+    <gphoto:id>5745300158005426834</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>183102</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ef520b9</gphoto:checksum>
+    <gphoto:timestamp>1337585660000</gphoto:timestamp>
+    <gphoto:imageVersion>1713</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.00952381</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337585660000</exif:time>
+      <exif:imageUniqueID>6b38483c2c9ea227becb6a0d589c5247</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Sw-qg8kntj4/T7toDcXoupI/AAAAAAAABrE/IgwHSOiVpNA/DSCF1577.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">金環中</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Sw-qg8kntj4/T7toDcXoupI/AAAAAAAABrE/IgwHSOiVpNA/s72/DSCF1577.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Sw-qg8kntj4/T7toDcXoupI/AAAAAAAABrE/IgwHSOiVpNA/s144/DSCF1577.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Sw-qg8kntj4/T7toDcXoupI/AAAAAAAABrE/IgwHSOiVpNA/s288/DSCF1577.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1577.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300168640611282</id>
+    <published>2012-05-22T10:18:56.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1578.JPG</title>
+    <summary type="text">7:35:20</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--ZC_gGFsozI/T7toED_Qw9I/AAAAAAAABrM/Sx-yB_mqwGw/DSCF1578.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300168640611282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300168640611282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YsYsLsDvoo8nymba_9hGddMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300168640611282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300168640611282"/>
+    <gphoto:id>5745300168640611282</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>25492</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7ef100b9</gphoto:checksum>
+    <gphoto:timestamp>1337585720000</gphoto:timestamp>
+    <gphoto:imageVersion>1715</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.6</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>62.3</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337585720000</exif:time>
+      <exif:imageUniqueID>38a8a28dffb2d5a5d92a805ac0e97b8c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--ZC_gGFsozI/T7toED_Qw9I/AAAAAAAABrM/Sx-yB_mqwGw/DSCF1578.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">7:35:20</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--ZC_gGFsozI/T7toED_Qw9I/AAAAAAAABrM/Sx-yB_mqwGw/s72/DSCF1578.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--ZC_gGFsozI/T7toED_Qw9I/AAAAAAAABrM/Sx-yB_mqwGw/s144/DSCF1578.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--ZC_gGFsozI/T7toED_Qw9I/AAAAAAAABrM/Sx-yB_mqwGw/s288/DSCF1578.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1578.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300180599839794</id>
+    <published>2012-05-22T10:18:59.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1580.JPG</title>
+    <summary type="text">金環一分前に来た古市</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bfyQqX5HEAg/T7toEwikHDI/AAAAAAAABrU/bC22Q5gSJNw/DSCF1580.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300180599839794"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300180599839794"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/xIs0-eFofvp1m0oXX3I50dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300180599839794"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300180599839794"/>
+    <gphoto:id>5745300180599839794</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>189087</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7efc00b9</gphoto:checksum>
+    <gphoto:timestamp>1337586015000</gphoto:timestamp>
+    <gphoto:imageVersion>1717</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.00952381</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586015000</exif:time>
+      <exif:imageUniqueID>f1997786d46e6c20d66232cdd4b31d8d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bfyQqX5HEAg/T7toEwikHDI/AAAAAAAABrU/bC22Q5gSJNw/DSCF1580.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">金環一分前に来た古市</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bfyQqX5HEAg/T7toEwikHDI/AAAAAAAABrU/bC22Q5gSJNw/s72/DSCF1580.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bfyQqX5HEAg/T7toEwikHDI/AAAAAAAABrU/bC22Q5gSJNw/s144/DSCF1580.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bfyQqX5HEAg/T7toEwikHDI/AAAAAAAABrU/bC22Q5gSJNw/s288/DSCF1580.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1580.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300200037782722</id>
+    <published>2012-05-22T10:19:03.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1581.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-fYORYSuATlE/T7toF487lMI/AAAAAAAABrc/iaPUykQv1L4/DSCF1581.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300200037782722"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300200037782722"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/YlzGh2zXk_C5cUrwSf3OsNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300200037782722"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300200037782722"/>
+    <gphoto:id>5745300200037782722</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>258610</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>409780b9</gphoto:checksum>
+    <gphoto:timestamp>1337586198000</gphoto:timestamp>
+    <gphoto:imageVersion>1719</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0033333334</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586198000</exif:time>
+      <exif:imageUniqueID>d29d7344416147ca442526b38e7b3901</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fYORYSuATlE/T7toF487lMI/AAAAAAAABrc/iaPUykQv1L4/DSCF1581.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fYORYSuATlE/T7toF487lMI/AAAAAAAABrc/iaPUykQv1L4/s72/DSCF1581.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fYORYSuATlE/T7toF487lMI/AAAAAAAABrc/iaPUykQv1L4/s144/DSCF1581.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fYORYSuATlE/T7toF487lMI/AAAAAAAABrc/iaPUykQv1L4/s288/DSCF1581.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1581.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300212999938258</id>
+    <published>2012-05-22T10:19:06.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1582.JPG</title>
+    <summary type="text">金環後7:43:43</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-e9DPM4eNlEY/T7toGpPWYNI/AAAAAAAABrg/Nv4FFEDj4_w/DSCF1582.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300212999938258"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300212999938258"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/TfKbDCtko0a-I0izsYMwlNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300212999938258"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300212999938258"/>
+    <gphoto:id>5745300212999938258</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>28691</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7efb40b9</gphoto:checksum>
+    <gphoto:timestamp>1337586223000</gphoto:timestamp>
+    <gphoto:imageVersion>1720</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>6.1</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>47.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586223000</exif:time>
+      <exif:imageUniqueID>68b9fe89520db90fe5d42539043d1cdd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-e9DPM4eNlEY/T7toGpPWYNI/AAAAAAAABrg/Nv4FFEDj4_w/DSCF1582.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">金環後7:43:43</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e9DPM4eNlEY/T7toGpPWYNI/AAAAAAAABrg/Nv4FFEDj4_w/s72/DSCF1582.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e9DPM4eNlEY/T7toGpPWYNI/AAAAAAAABrg/Nv4FFEDj4_w/s144/DSCF1582.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-e9DPM4eNlEY/T7toGpPWYNI/AAAAAAAABrg/Nv4FFEDj4_w/s288/DSCF1582.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1582.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300221392206786</id>
+    <published>2012-05-22T10:19:08.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1584.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0uk4mu8sWVI/T7toHIgOO8I/AAAAAAAABro/U4qCQko6NNo/DSCF1584.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300221392206786"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300221392206786"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/M_sIVtEgENMcbzUYXtvo4dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300221392206786"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300221392206786"/>
+    <gphoto:id>5745300221392206786</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>26249</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>409080b9</gphoto:checksum>
+    <gphoto:timestamp>1337586239000</gphoto:timestamp>
+    <gphoto:imageVersion>1722</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586239000</exif:time>
+      <exif:imageUniqueID>d015645f24318697ed49a98fde0c6348</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0uk4mu8sWVI/T7toHIgOO8I/AAAAAAAABro/U4qCQko6NNo/DSCF1584.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0uk4mu8sWVI/T7toHIgOO8I/AAAAAAAABro/U4qCQko6NNo/s72/DSCF1584.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0uk4mu8sWVI/T7toHIgOO8I/AAAAAAAABro/U4qCQko6NNo/s144/DSCF1584.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0uk4mu8sWVI/T7toHIgOO8I/AAAAAAAABro/U4qCQko6NNo/s288/DSCF1584.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1584.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300231858745666</id>
+    <published>2012-05-22T10:19:10.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1585.JPG</title>
+    <summary type="text">だんだん戻ってくる7:46:14</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-gCINlxDPQAQ/T7toHvfo8UI/AAAAAAAABrw/8mTJQc4h8Dw/DSCF1585.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300231858745666"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300231858745666"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/G4LfS5ZsnRCI5jwwOz-MltMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300231858745666"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300231858745666"/>
+    <gphoto:id>5745300231858745666</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>28185</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f03c0b9</gphoto:checksum>
+    <gphoto:timestamp>1337586374000</gphoto:timestamp>
+    <gphoto:imageVersion>1724</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586374000</exif:time>
+      <exif:imageUniqueID>0bda8feb61c27841eded40ce709fe19d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gCINlxDPQAQ/T7toHvfo8UI/AAAAAAAABrw/8mTJQc4h8Dw/DSCF1585.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">だんだん戻ってくる7:46:14</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gCINlxDPQAQ/T7toHvfo8UI/AAAAAAAABrw/8mTJQc4h8Dw/s72/DSCF1585.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gCINlxDPQAQ/T7toHvfo8UI/AAAAAAAABrw/8mTJQc4h8Dw/s144/DSCF1585.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gCINlxDPQAQ/T7toHvfo8UI/AAAAAAAABrw/8mTJQc4h8Dw/s288/DSCF1585.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1585.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300237445344930</id>
+    <published>2012-05-22T10:19:12.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1587.JPG</title>
+    <summary type="text">7:55:30</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-D1edT5U8Faw/T7toIETlrqI/AAAAAAAABr0/8pOtt3AxWUM/DSCF1587.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300237445344930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300237445344930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/NHJV7F779Fu6jp2H1BAfCdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300237445344930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300237445344930"/>
+    <gphoto:id>5745300237445344930</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>29266</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f01c0b9</gphoto:checksum>
+    <gphoto:timestamp>1337586930000</gphoto:timestamp>
+    <gphoto:imageVersion>1725</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586930000</exif:time>
+      <exif:imageUniqueID>e4b74f9a8efd4b93d7989edd5a74e564</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-D1edT5U8Faw/T7toIETlrqI/AAAAAAAABr0/8pOtt3AxWUM/DSCF1587.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">7:55:30</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-D1edT5U8Faw/T7toIETlrqI/AAAAAAAABr0/8pOtt3AxWUM/s72/DSCF1587.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-D1edT5U8Faw/T7toIETlrqI/AAAAAAAABr0/8pOtt3AxWUM/s144/DSCF1587.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-D1edT5U8Faw/T7toIETlrqI/AAAAAAAABr0/8pOtt3AxWUM/s288/DSCF1587.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1587.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300245814313314</id>
+    <published>2012-05-22T10:19:14.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1589.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-SJJrNzL58VI/T7toIje6AWI/AAAAAAAABsA/rZaH_qs3cDA/DSCF1589.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300245814313314"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300245814313314"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/M-YXbiX_47JTWR8RHm4yxtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300245814313314"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300245814313314"/>
+    <gphoto:id>5745300245814313314</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>28084</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>40e8c0b9</gphoto:checksum>
+    <gphoto:timestamp>1337586945000</gphoto:timestamp>
+    <gphoto:imageVersion>1728</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.05</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337586945000</exif:time>
+      <exif:imageUniqueID>37c62e42b2e17783fd870cd8a1569f41</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-SJJrNzL58VI/T7toIje6AWI/AAAAAAAABsA/rZaH_qs3cDA/DSCF1589.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SJJrNzL58VI/T7toIje6AWI/AAAAAAAABsA/rZaH_qs3cDA/s72/DSCF1589.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SJJrNzL58VI/T7toIje6AWI/AAAAAAAABsA/rZaH_qs3cDA/s144/DSCF1589.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-SJJrNzL58VI/T7toIje6AWI/AAAAAAAABsA/rZaH_qs3cDA/s288/DSCF1589.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1589.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300273671443138</id>
+    <published>2012-05-22T10:19:20.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1590.JPG</title>
+    <summary type="text">こうやると</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-n4AM6-WyW6g/T7toKLQkEsI/AAAAAAAABsM/mzPHjJolFVY/DSCF1590.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300273671443138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300273671443138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/BdsY_g_87RddvP2YjtDtZdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300273671443138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300273671443138"/>
+    <gphoto:id>5745300273671443138</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>255738</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f0cc0b9</gphoto:checksum>
+    <gphoto:timestamp>1337587232000</gphoto:timestamp>
+    <gphoto:imageVersion>1731</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0010526315</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337587232000</exif:time>
+      <exif:imageUniqueID>53542e464764b68b679e4efdcfcaf989</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-n4AM6-WyW6g/T7toKLQkEsI/AAAAAAAABsM/mzPHjJolFVY/DSCF1590.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">こうやると</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-n4AM6-WyW6g/T7toKLQkEsI/AAAAAAAABsM/mzPHjJolFVY/s72/DSCF1590.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-n4AM6-WyW6g/T7toKLQkEsI/AAAAAAAABsM/mzPHjJolFVY/s144/DSCF1590.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-n4AM6-WyW6g/T7toKLQkEsI/AAAAAAAABsM/mzPHjJolFVY/s288/DSCF1590.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1590.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300279518867650</id>
+    <published>2012-05-22T10:19:22.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1592.JPG</title>
+    <summary type="text">こう見える</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-wApzgjoy2r0/T7toKhCssMI/AAAAAAAABsQ/ylzBATYbVPA/DSCF1592.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300279518867650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300279518867650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/vM67PbIF0I7dFt20RTTnzNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300279518867650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300279518867650"/>
+    <gphoto:id>5745300279518867650</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>112735</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f0d80b9</gphoto:checksum>
+    <gphoto:timestamp>1337587270000</gphoto:timestamp>
+    <gphoto:imageVersion>1732</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.9</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>13.6</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337587270000</exif:time>
+      <exif:imageUniqueID>8780683ce9a512d67fb50b601e3e5969</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wApzgjoy2r0/T7toKhCssMI/AAAAAAAABsQ/ylzBATYbVPA/DSCF1592.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">こう見える</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wApzgjoy2r0/T7toKhCssMI/AAAAAAAABsQ/ylzBATYbVPA/s72/DSCF1592.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wApzgjoy2r0/T7toKhCssMI/AAAAAAAABsQ/ylzBATYbVPA/s144/DSCF1592.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wApzgjoy2r0/T7toKhCssMI/AAAAAAAABsQ/ylzBATYbVPA/s288/DSCF1592.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1592.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300295979220402</id>
+    <published>2012-05-22T10:19:25.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1593.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-kZzs5IV1RRk/T7toLeXJvbI/AAAAAAAABsY/38_25zwe6k4/DSCF1593.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300295979220402"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300295979220402"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/3qdbbZFHkB931t-9USuGtNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300295979220402"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300295979220402"/>
+    <gphoto:id>5745300295979220402</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>118573</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>411ec0b9</gphoto:checksum>
+    <gphoto:timestamp>1337587282000</gphoto:timestamp>
+    <gphoto:imageVersion>1734</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337587282000</exif:time>
+      <exif:imageUniqueID>d904ace6988920e5d83f3190cce242e8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-kZzs5IV1RRk/T7toLeXJvbI/AAAAAAAABsY/38_25zwe6k4/DSCF1593.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZzs5IV1RRk/T7toLeXJvbI/AAAAAAAABsY/38_25zwe6k4/s72/DSCF1593.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZzs5IV1RRk/T7toLeXJvbI/AAAAAAAABsY/38_25zwe6k4/s144/DSCF1593.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-kZzs5IV1RRk/T7toLeXJvbI/AAAAAAAABsY/38_25zwe6k4/s288/DSCF1593.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1593.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300311272446162</id>
+    <published>2012-05-22T10:19:29.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1594.JPG</title>
+    <summary type="text">そして飽きる</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0xm0Q357KfY/T7toMXVV2NI/AAAAAAAABsg/agJxREygDSE/DSCF1594.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300311272446162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300311272446162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/_MKXf4UYCtVzEMbt_HueKdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300311272446162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300311272446162"/>
+    <gphoto:id>5745300311272446162</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>246817</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f1460b9</gphoto:checksum>
+    <gphoto:timestamp>1337587303000</gphoto:timestamp>
+    <gphoto:imageVersion>1736</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0018181818</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.4</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337587303000</exif:time>
+      <exif:imageUniqueID>6edbd94562ee01393d6677e3012396e5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0xm0Q357KfY/T7toMXVV2NI/AAAAAAAABsg/agJxREygDSE/DSCF1594.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">そして飽きる</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0xm0Q357KfY/T7toMXVV2NI/AAAAAAAABsg/agJxREygDSE/s72/DSCF1594.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0xm0Q357KfY/T7toMXVV2NI/AAAAAAAABsg/agJxREygDSE/s144/DSCF1594.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0xm0Q357KfY/T7toMXVV2NI/AAAAAAAABsg/agJxREygDSE/s288/DSCF1594.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1594.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300320806262450</id>
+    <published>2012-05-22T10:19:31.000Z</published>
+    <updated>2013-05-10T06:43:51.469Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF1599.JPG</title>
+    <summary type="text">8:12:24</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-p5JpOm-UboI/T7toM62YVrI/AAAAAAAABso/kVBdnudyg3g/DSCF1599.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300320806262450"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/116400749270788944479/2012521#5745300320806262450"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/f1_vVR2SkmhNlvx_TiW2d9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/116400749270788944479/albumid/5745300013242279665/photoid/5745300320806262450"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=116400749270788944479&amp;aid=5745300013242279665&amp;iid=5745300320806262450"/>
+    <gphoto:id>5745300320806262450</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>5745300013242279665</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>29660</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>7f1280b9</gphoto:checksum>
+    <gphoto:timestamp>1337587944000</gphoto:timestamp>
+    <gphoto:imageVersion>1738</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.3</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix F600EXR</exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>66.0</exif:focallength>
+      <exif:iso>100</exif:iso>
+      <exif:time>1337587944000</exif:time>
+      <exif:imageUniqueID>6448abdb381fab273c9113d98595d498</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-p5JpOm-UboI/T7toM62YVrI/AAAAAAAABso/kVBdnudyg3g/DSCF1599.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>saori hirabayashi</media:credit>
+      <media:description type="plain">8:12:24</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p5JpOm-UboI/T7toM62YVrI/AAAAAAAABso/kVBdnudyg3g/s72/DSCF1599.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p5JpOm-UboI/T7toM62YVrI/AAAAAAAABso/kVBdnudyg3g/s144/DSCF1599.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p5JpOm-UboI/T7toM62YVrI/AAAAAAAABso/kVBdnudyg3g/s288/DSCF1599.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF1599.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

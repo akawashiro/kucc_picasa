@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/2.ken.me</id>
+  <updated>2015-09-04T10:37:02.075Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">103453252048725289085</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-A7fYau90-cM/AAAAAAAAAAI/AAAAAAAAAAA/VeoM7l4FYjU/s64-c/103453252048725289085.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103453252048725289085?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>花井健佑</name>
+    <uri>https://picasaweb.google.com/103453252048725289085</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>12</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>103453252048725289085</gphoto:user>
+  <gphoto:nickname>花井健佑</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-A7fYau90-cM/AAAAAAAAAAI/AAAAAAAAAAA/VeoM7l4FYjU/s64-c/103453252048725289085.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5752406989126780561</id>
+    <published>2012-06-09T07:00:00.000Z</published>
+    <updated>2013-05-09T19:55:13.201Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20120610知多半島ぶらぶら</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5752406989126780561"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/20120610"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5752406989126780561"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5752406989126780561</gphoto:id>
+    <gphoto:name>20120610</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1339225200000</gphoto:timestamp>
+    <gphoto:numphotos>29</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-sS4Fql8Znko/T9SnrdZgRpE/AAAAAAAABws/emxrZzGnZE4/20120610.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-sS4Fql8Znko/T9SnrdZgRpE/AAAAAAAABws/emxrZzGnZE4/s160-c/20120610.jpg" height="160" width="160"/>
+      <media:title type="plain">20120610知多半島ぶらぶら</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5691472591428178401</id>
+    <published>2011-12-28T22:46:25.000Z</published>
+    <updated>2013-05-11T10:47:56.260Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">111229雲取山(敗退)</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5691472591428178401"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/111229"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5691472591428178401"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5691472591428178401</gphoto:id>
+    <gphoto:name>111229</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1325112385000</gphoto:timestamp>
+    <gphoto:numphotos>71</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1nBFaThsgGs/TvwsKszy0eE/AAAAAAAABss/tOCFAiI9U_U/111229.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1nBFaThsgGs/TvwsKszy0eE/AAAAAAAABss/tOCFAiI9U_U/s160-c/111229.jpg" height="160" width="160"/>
+      <media:title type="plain">111229雲取山(敗退)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5652326103489030321</id>
+    <published>2011-09-13T11:42:51.000Z</published>
+    <updated>2013-05-11T10:47:55.260Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ナイトラン日和</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5652326103489030321"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/GaRVvD"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5652326103489030321"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5652326103489030321</gphoto:id>
+    <gphoto:name>GaRVvD</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1315914171000</gphoto:timestamp>
+    <gphoto:numphotos>20</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1C18nmsK9c8/TnEYpNEhqLE/AAAAAAAABl0/8PHcSEHYvjw/GaRVvD.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1C18nmsK9c8/TnEYpNEhqLE/AAAAAAAABl0/8PHcSEHYvjw/s160-c/GaRVvD.jpg" height="160" width="160"/>
+      <media:title type="plain">ナイトラン日和</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550898932017137505</id>
+    <published>2011-02-19T08:00:00.000Z</published>
+    <updated>2013-05-11T10:47:05.991Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">北山への誘惑</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550898932017137505"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/FcsfnE"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550898932017137505"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550898932017137505</gphoto:id>
+    <gphoto:name>FcsfnE</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1298102400000</gphoto:timestamp>
+    <gphoto:numphotos>57</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-fY_h5jW3hLk/TQjBKzL6B2E/AAAAAAAABeQ/WsZZ2MyBcFc/FcsfnE.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-fY_h5jW3hLk/TQjBKzL6B2E/AAAAAAAABeQ/WsZZ2MyBcFc/s160-c/FcsfnE.jpg" height="160" width="160"/>
+      <media:title type="plain">北山への誘惑</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5576797183651501329</id>
+    <published>2011-02-19T08:00:00.000Z</published>
+    <updated>2013-05-11T10:47:12.001Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110219冬佐々里</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5576797183651501329"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/20110219"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5576797183651501329"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5576797183651501329</gphoto:id>
+    <gphoto:name>20110219</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1298102400000</gphoto:timestamp>
+    <gphoto:numphotos>75</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zwTUaHWbyZo/TWTDfcvyVRE/AAAAAAAABcU/OD_1P6-ndSs/20110219.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zwTUaHWbyZo/TWTDfcvyVRE/AAAAAAAABcU/OD_1P6-ndSs/s160-c/20110219.jpg" height="160" width="160"/>
+      <media:title type="plain">20110219冬佐々里</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5566053321461403025</id>
+    <published>2011-01-08T00:57:56.000Z</published>
+    <updated>2013-05-11T10:47:10.023Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2011-01-08,雪遊び＠愛宕山</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5566053321461403025"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/20110108"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5566053321461403025"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5566053321461403025</gphoto:id>
+    <gphoto:name>20110108</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1294448276000</gphoto:timestamp>
+    <gphoto:numphotos>69</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-F57mvmF7ILs/TT6YAXKXDZE/AAAAAAAAAqw/p4sMhEi3plU/20110108.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-F57mvmF7ILs/TT6YAXKXDZE/AAAAAAAAAqw/p4sMhEi3plU/s160-c/20110108.jpg" height="160" width="160"/>
+      <media:title type="plain">2011-01-08,雪遊び＠愛宕山</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5559249715296649137</id>
+    <published>2011-01-06T05:59:00.000Z</published>
+    <updated>2013-05-11T10:47:07.991Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20110106-天ヶ岳</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5559249715296649137"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/20110106"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5559249715296649137"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5559249715296649137</gphoto:id>
+    <gphoto:name>20110106</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1294293540000</gphoto:timestamp>
+    <gphoto:numphotos>8</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nNqskwRHksw/TSZsKXHyv7E/AAAAAAAAAlU/MlsCHwMVJEo/20110106.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nNqskwRHksw/TSZsKXHyv7E/AAAAAAAAAlU/MlsCHwMVJEo/s160-c/20110106.jpg" height="160" width="160"/>
+      <media:title type="plain">20110106-天ヶ岳</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550894423692472929</id>
+    <published>2010-12-10T08:00:00.000Z</published>
+    <updated>2013-05-11T10:46:20.170Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">20101211追いコンTT</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550894423692472929"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/20101211TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550894423692472929"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550894423692472929</gphoto:id>
+    <gphoto:name>20101211TT</gphoto:name>
+    <gphoto:location>花背峠</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1291968000000</gphoto:timestamp>
+    <gphoto:numphotos>83</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TNpJwO4Vt2g/TQi9EYXi8mE/AAAAAAAAATY/Lt-XQEQYNXw/20101211TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TNpJwO4Vt2g/TQi9EYXi8mE/AAAAAAAAATY/Lt-XQEQYNXw/s160-c/20101211TT.jpg" height="160" width="160"/>
+      <media:title type="plain">20101211追いコンTT</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550895655566079745</id>
+    <published>2010-11-05T07:00:00.000Z</published>
+    <updated>2013-05-11T10:46:22.145Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2010-11月C.R.@唐櫃越</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550895655566079745"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/201011CR"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550895655566079745"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550895655566079745</gphoto:id>
+    <gphoto:name>201011CR</gphoto:name>
+    <gphoto:location>唐櫃越</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1288940400000</gphoto:timestamp>
+    <gphoto:numphotos>50</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lI1vDwdKThU/TQi-MFdGdwE/AAAAAAAAAW0/82cTCE3OLiQ/201011CR.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lI1vDwdKThU/TQi-MFdGdwE/AAAAAAAAAW0/82cTCE3OLiQ/s160-c/201011CR.jpg" height="160" width="160"/>
+      <media:title type="plain">2010-11月C.R.@唐櫃越</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>34.9909754 135.6322111</gml:lowerCorner>
+        <gml:upperCorner>35.0097465 135.6426106</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.000361 135.6374109</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550896413807997857</id>
+    <published>2010-05-02T07:00:00.000Z</published>
+    <updated>2013-05-11T10:46:24.498Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">DEEPな北山遊び＠廃村八丁，2010.5</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550896413807997857"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/DEEP20105"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550896413807997857"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550896413807997857</gphoto:id>
+    <gphoto:name>DEEP20105</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1272783600000</gphoto:timestamp>
+    <gphoto:numphotos>80</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hM3RCVo-y3M/TQi-4OID86E/AAAAAAAAAcQ/O3vl89WF8QU/DEEP20105.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hM3RCVo-y3M/TQi-4OID86E/AAAAAAAAAcQ/O3vl89WF8QU/s160-c/DEEP20105.jpg" height="160" width="160"/>
+      <media:title type="plain">DEEPな北山遊び＠廃村八丁，2010.5</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550898601066405617</id>
+    <published>2007-12-14T08:00:00.000Z</published>
+    <updated>2013-05-11T10:47:03.992Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">野宿会＠愛宕山，2007.12</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550898601066405617"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/200712"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550898601066405617"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550898601066405617</gphoto:id>
+    <gphoto:name>200712</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1197619200000</gphoto:timestamp>
+    <gphoto:numphotos>21</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pgJL-DCXOp4/TQjA3iTGnvE/AAAAAAAAAf8/7Ssy9PduVho/200712.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pgJL-DCXOp4/TQjA3iTGnvE/AAAAAAAAAf8/7Ssy9PduVho/s160-c/200712.jpg" height="160" width="160"/>
+      <media:title type="plain">野宿会＠愛宕山，2007.12</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550897594772430305</id>
+    <published>2007-11-16T08:00:00.000Z</published>
+    <updated>2013-05-11T10:47:02.991Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">北山担ぎ＠廃八・小野村割岳，2007.11</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103453252048725289085/albumid/5550897594772430305"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103453252048725289085/200711"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103453252048725289085/albumid/5550897594772430305"/>
+    <author>
+      <name>花井健佑</name>
+      <uri>https://picasaweb.google.com/103453252048725289085</uri>
+    </author>
+    <gphoto:id>5550897594772430305</gphoto:id>
+    <gphoto:name>200711</gphoto:name>
+    <gphoto:location>廃村八丁</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1195200000000</gphoto:timestamp>
+    <gphoto:numphotos>27</gphoto:numphotos>
+    <gphoto:user>103453252048725289085</gphoto:user>
+    <gphoto:nickname>花井健佑</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dFrHcHK3Qoc/TQi_89j7HeE/AAAAAAAAAec/pNNdhJXXGwU/200711.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>花井健佑</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dFrHcHK3Qoc/TQi_89j7HeE/AAAAAAAAAec/pNNdhJXXGwU/s160-c/200711.jpg" height="160" width="160"/>
+      <media:title type="plain">北山担ぎ＠廃八・小野村割岳，2007.11</media:title>
+    </media:group>
+  </entry>
+</feed>

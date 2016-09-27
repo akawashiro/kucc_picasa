@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569</id>
+  <updated>2015-07-02T11:52:07.365Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">08.2冬祖父谷峠、白川郷</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-SbSO4KMgEmU/R8lQkmSdpOE/AAAAAAAAAPY/tfEr1xD_LbI/s160-c/082.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Soichi Ando</name>
+    <uri>https://picasaweb.google.com/111282471885939060161</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>9</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5172754236695225569</gphoto:id>
+  <gphoto:name>082</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>946659905000</gphoto:timestamp>
+  <gphoto:numphotos>9</gphoto:numphotos>
+  <gphoto:user>111282471885939060161</gphoto:user>
+  <gphoto:nickname>Soichi Ando</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863901808396178</id>
+    <published>2008-03-23T09:17:56.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0001.JPG</title>
+    <summary type="text">祖父谷峠南側</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-evsWjQBkzPs/R-YgRPDvB5I/AAAAAAAAAM0/xGzYhyVcOCI/DSCF0001.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863901808396178"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863901808396178"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9ukrPxUIiI-dTAlv0ztsn9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863901808396178"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863901808396178"/>
+    <gphoto:id>5180863901808396178</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>0.72727275</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>598991</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>1bd48ab2</gphoto:checksum>
+    <gphoto:timestamp>946711063000</gphoto:timestamp>
+    <gphoto:imageVersion>205</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>8.5014716E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946711063000</exif:time>
+      <exif:imageUniqueID>13e2d36bf386b8d75dcecde2e3a5345b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-evsWjQBkzPs/R-YgRPDvB5I/AAAAAAAAAM0/xGzYhyVcOCI/DSCF0001.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">祖父谷峠南側</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-evsWjQBkzPs/R-YgRPDvB5I/AAAAAAAAAM0/xGzYhyVcOCI/s72/DSCF0001.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-evsWjQBkzPs/R-YgRPDvB5I/AAAAAAAAAM0/xGzYhyVcOCI/s144/DSCF0001.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-evsWjQBkzPs/R-YgRPDvB5I/AAAAAAAAAM0/xGzYhyVcOCI/s288/DSCF0001.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0001.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863918988265378</id>
+    <published>2008-03-23T09:17:59.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0002.JPG</title>
+    <summary type="text">峠写真</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-RZ_RIa6lTuY/R-YgSPDvB6I/AAAAAAAAAM8/Mbm-ok2ocuQ/DSCF0002.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863918988265378"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863918988265378"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/NQQ7DkDg2eMGkSU2hH4atdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863918988265378"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863918988265378"/>
+    <gphoto:id>5180863918988265378</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>1.4545455</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>606534</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>12b6ab62</gphoto:checksum>
+    <gphoto:timestamp>946711077000</gphoto:timestamp>
+    <gphoto:imageVersion>207</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0011217756</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946711077000</exif:time>
+      <exif:imageUniqueID>1fb023da5fd7ae4d6154bd2d3e4b7c5a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RZ_RIa6lTuY/R-YgSPDvB6I/AAAAAAAAAM8/Mbm-ok2ocuQ/DSCF0002.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">峠写真</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RZ_RIa6lTuY/R-YgSPDvB6I/AAAAAAAAAM8/Mbm-ok2ocuQ/s72/DSCF0002.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RZ_RIa6lTuY/R-YgSPDvB6I/AAAAAAAAAM8/Mbm-ok2ocuQ/s144/DSCF0002.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RZ_RIa6lTuY/R-YgSPDvB6I/AAAAAAAAAM8/Mbm-ok2ocuQ/s288/DSCF0002.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0002.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863931873167282</id>
+    <published>2008-03-23T09:18:03.000Z</published>
+    <updated>2015-07-02T11:52:07.365Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0005.JPG</title>
+    <summary type="text">クラブランで昼飯食べたところ。ここまでで行程を諦める。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-p8AD2SSHwxI/R-YgS_DvB7I/AAAAAAAAANE/L7nEs5xZ_aE/DSCF0005.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863931873167282"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863931873167282"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/0-1GJaU6Zf2FCaU5wyagltMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863931873167282"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863931873167282"/>
+    <gphoto:id>5180863931873167282</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>2.1818182</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>616546</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>a09c6ebe</gphoto:checksum>
+    <gphoto:timestamp>946712890000</gphoto:timestamp>
+    <gphoto:imageVersion>209</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0012885816</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946712890000</exif:time>
+      <exif:imageUniqueID>ad38bc6c1c039a972b46f1bd27a91ae9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-p8AD2SSHwxI/R-YgS_DvB7I/AAAAAAAAANE/L7nEs5xZ_aE/DSCF0005.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">クラブランで昼飯食べたところ。ここまでで行程を諦める。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p8AD2SSHwxI/R-YgS_DvB7I/AAAAAAAAANE/L7nEs5xZ_aE/s72/DSCF0005.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p8AD2SSHwxI/R-YgS_DvB7I/AAAAAAAAANE/L7nEs5xZ_aE/s144/DSCF0005.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-p8AD2SSHwxI/R-YgS_DvB7I/AAAAAAAAANE/L7nEs5xZ_aE/s288/DSCF0005.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0005.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863944758069186</id>
+    <published>2008-03-23T09:18:06.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0006.JPG</title>
+    <summary type="text">新雪に人型</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8zQdlcyGiY4/R-YgTvDvB8I/AAAAAAAAANM/7bPcl2tisG8/DSCF0006.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863944758069186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863944758069186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sQf4yGt06UL4eZuTH8nDMdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863944758069186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863944758069186"/>
+    <gphoto:id>5180863944758069186</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>2.909091</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>597193</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6885c20c</gphoto:checksum>
+    <gphoto:timestamp>946714629000</gphoto:timestamp>
+    <gphoto:imageVersion>211</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0018223296</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946714629000</exif:time>
+      <exif:imageUniqueID>cc7f721a5fdfeb64f9c4c4bb5c32739b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8zQdlcyGiY4/R-YgTvDvB8I/AAAAAAAAANM/7bPcl2tisG8/DSCF0006.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">新雪に人型</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8zQdlcyGiY4/R-YgTvDvB8I/AAAAAAAAANM/7bPcl2tisG8/s72/DSCF0006.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8zQdlcyGiY4/R-YgTvDvB8I/AAAAAAAAANM/7bPcl2tisG8/s144/DSCF0006.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8zQdlcyGiY4/R-YgTvDvB8I/AAAAAAAAANM/7bPcl2tisG8/s288/DSCF0006.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0006.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754271054963970</id>
+    <published>2008-03-01T12:48:26.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0003.JPG</title>
+    <summary type="text">祖父谷峠の上から１</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vBj0PPVX544/R8lQmmSdpQI/AAAAAAAAAEY/hZ7CtgxVsWk/DSCF0003.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754271054963970"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5172754271054963970"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GHtQhwMFcCJgpCsx5P1AQ9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754271054963970"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5172754271054963970"/>
+    <gphoto:id>5172754271054963970</gphoto:id>
+    <gphoto:version>8</gphoto:version>
+    <gphoto:position>3.6363637</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>610812</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>43122634</gphoto:checksum>
+    <gphoto:timestamp>946712835000</gphoto:timestamp>
+    <gphoto:imageVersion>70</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>1</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0012022896</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946712835000</exif:time>
+      <exif:imageUniqueID>8be75ef3d2e7c54282667784c8439f58</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vBj0PPVX544/R8lQmmSdpQI/AAAAAAAAAEY/hZ7CtgxVsWk/DSCF0003.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">祖父谷峠の上から１</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vBj0PPVX544/R8lQmmSdpQI/AAAAAAAAAEY/hZ7CtgxVsWk/s72/DSCF0003.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vBj0PPVX544/R8lQmmSdpQI/AAAAAAAAAEY/hZ7CtgxVsWk/s144/DSCF0003.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vBj0PPVX544/R8lQmmSdpQI/AAAAAAAAAEY/hZ7CtgxVsWk/s288/DSCF0003.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0003.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.1514256 135.67008</gml:lowerCorner>
+        <gml:upperCorner>35.1779485 135.7495593</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.1646871 135.7098197</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754292529800466</id>
+    <published>2008-03-01T12:48:30.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0004.JPG</title>
+    <summary type="text">祖父谷峠の上から２</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-3XsJXIgynFM/R8lQn2SdpRI/AAAAAAAAAEg/yKOoWobhovI/DSCF0004.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754292529800466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5172754292529800466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/h_ipBoqg9kmmarvreNwNb9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754292529800466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5172754292529800466"/>
+    <gphoto:id>5172754292529800466</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>4.3636365</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>624232</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6556a7f7</gphoto:checksum>
+    <gphoto:timestamp>946712847000</gphoto:timestamp>
+    <gphoto:imageVersion>72</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>1</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0017002943</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946712847000</exif:time>
+      <exif:imageUniqueID>d0c39c1ddfefdf19b776b32727c85180</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-3XsJXIgynFM/R8lQn2SdpRI/AAAAAAAAAEg/yKOoWobhovI/DSCF0004.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">祖父谷峠の上から２</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3XsJXIgynFM/R8lQn2SdpRI/AAAAAAAAAEg/yKOoWobhovI/s72/DSCF0004.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3XsJXIgynFM/R8lQn2SdpRI/AAAAAAAAAEg/yKOoWobhovI/s144/DSCF0004.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-3XsJXIgynFM/R8lQn2SdpRI/AAAAAAAAAEg/yKOoWobhovI/s288/DSCF0004.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0004.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.1514256 135.6729983</gml:lowerCorner>
+        <gml:upperCorner>35.1779485 135.7524776</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.1646871 135.712738</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863949053036498</id>
+    <published>2008-03-23T09:18:07.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">白川郷手前の耕作地.jpg</title>
+    <summary type="text">白川郷付近</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-oo478SKi_CA/R-YgT_DvB9I/AAAAAAAAANU/oOXjYSiHuTo/%2525E7%252599%2525BD%2525E5%2525B7%25259D%2525E9%252583%2525B7%2525E6%252589%25258B%2525E5%252589%25258D%2525E3%252581%2525AE%2525E8%252580%252595%2525E4%2525BD%25259C%2525E5%25259C%2525B0.jpg"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863949053036498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863949053036498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SZzInGRy6JmLK3o5xdmWNNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863949053036498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863949053036498"/>
+    <gphoto:id>5180863949053036498</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.090909</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>240</gphoto:width>
+    <gphoto:height>320</gphoto:height>
+    <gphoto:size>24222</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>904f9b3</gphoto:checksum>
+    <gphoto:timestamp>1203352984000</gphoto:timestamp>
+    <gphoto:imageVersion>213</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.4</exif:fstop>
+      <exif:make>DoCoMo</exif:make>
+      <exif:model>SH703i</exif:model>
+      <exif:exposure>0.0025</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.7</exif:focallength>
+      <exif:time>1203352984000</exif:time>
+      <exif:imageUniqueID>8aa4538633b3239b2c744da3abe6347a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-oo478SKi_CA/R-YgT_DvB9I/AAAAAAAAANU/oOXjYSiHuTo/%2525E7%252599%2525BD%2525E5%2525B7%25259D%2525E9%252583%2525B7%2525E6%252589%25258B%2525E5%252589%25258D%2525E3%252581%2525AE%2525E8%252580%252595%2525E4%2525BD%25259C%2525E5%25259C%2525B0.jpg" height="320" width="240" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">白川郷付近</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oo478SKi_CA/R-YgT_DvB9I/AAAAAAAAANU/oOXjYSiHuTo/s72/%2525E7%252599%2525BD%2525E5%2525B7%25259D%2525E9%252583%2525B7%2525E6%252589%25258B%2525E5%252589%25258D%2525E3%252581%2525AE%2525E8%252580%252595%2525E4%2525BD%25259C%2525E5%25259C%2525B0.jpg" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oo478SKi_CA/R-YgT_DvB9I/AAAAAAAAANU/oOXjYSiHuTo/s144/%2525E7%252599%2525BD%2525E5%2525B7%25259D%2525E9%252583%2525B7%2525E6%252589%25258B%2525E5%252589%25258D%2525E3%252581%2525AE%2525E8%252580%252595%2525E4%2525BD%25259C%2525E5%25259C%2525B0.jpg" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oo478SKi_CA/R-YgT_DvB9I/AAAAAAAAANU/oOXjYSiHuTo/s288/%2525E7%252599%2525BD%2525E5%2525B7%25259D%2525E9%252583%2525B7%2525E6%252589%25258B%2525E5%252589%25258D%2525E3%252581%2525AE%2525E8%252580%252595%2525E4%2525BD%25259C%2525E5%25259C%2525B0.jpg" height="288" width="216"/>
+      <media:title type="plain">白川郷手前の耕作地.jpg</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863888923494274</id>
+    <published>2008-03-23T09:17:53.000Z</published>
+    <updated>2013-05-11T17:58:01.892Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0008.JPG</title>
+    <summary type="text">白川郷付近　２/１８</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-wIUrbFA_WiQ/R-YgQfDvB4I/AAAAAAAAAMs/w8fCFifSAx8/DSCF0008.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863888923494274"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5180863888923494274"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/X_Tb3smLI0ubypY_e2uDr9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5180863888923494274"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5180863888923494274"/>
+    <gphoto:id>5180863888923494274</gphoto:id>
+    <gphoto:version>7</gphoto:version>
+    <gphoto:position>5.818182</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>586035</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>36f75f51</gphoto:checksum>
+    <gphoto:timestamp>946684824000</gphoto:timestamp>
+    <gphoto:imageVersion>203</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.0</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.0025771633</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946684824000</exif:time>
+      <exif:imageUniqueID>993a491654bc9a5e2f5799786c51a8e1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-wIUrbFA_WiQ/R-YgQfDvB4I/AAAAAAAAAMs/w8fCFifSAx8/DSCF0008.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">白川郷付近　２/１８</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wIUrbFA_WiQ/R-YgQfDvB4I/AAAAAAAAAMs/w8fCFifSAx8/s72/DSCF0008.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wIUrbFA_WiQ/R-YgQfDvB4I/AAAAAAAAAMs/w8fCFifSAx8/s144/DSCF0008.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-wIUrbFA_WiQ/R-YgQfDvB4I/AAAAAAAAAMs/w8fCFifSAx8/s288/DSCF0008.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0008.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754253875094770</id>
+    <published>2008-03-01T12:48:22.000Z</published>
+    <updated>2015-07-02T11:52:07.365Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCF0009.JPG</title>
+    <summary type="text">白川郷で合流できた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-O9XMwrCIXtE/R8lQlmSdpPI/AAAAAAAAAEM/pvnUNCpAZFc/DSCF0009.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754253875094770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111282471885939060161/082#5172754253875094770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/O3eg_nnPFSKxLseCCqNVtNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111282471885939060161/albumid/5172754236695225569/photoid/5172754253875094770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=111282471885939060161&amp;aid=5172754236695225569&amp;iid=5172754253875094770"/>
+    <gphoto:id>5172754253875094770</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>6.545455</gphoto:position>
+    <gphoto:albumid>5172754236695225569</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1280</gphoto:width>
+    <gphoto:height>960</gphoto:height>
+    <gphoto:size>603108</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9952d361</gphoto:checksum>
+    <gphoto:timestamp>946692305000</gphoto:timestamp>
+    <gphoto:imageVersion>67</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>FUJIFILM</exif:make>
+      <exif:model>FinePix4700Z</exif:model>
+      <exif:exposure>0.02720471</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>9.4</exif:focallength>
+      <exif:iso>200</exif:iso>
+      <exif:time>946692305000</exif:time>
+      <exif:imageUniqueID>6b340b39b605c46dd7379cf402c47ac0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-O9XMwrCIXtE/R8lQlmSdpPI/AAAAAAAAAEM/pvnUNCpAZFc/DSCF0009.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>Soichi Ando</media:credit>
+      <media:description type="plain">白川郷で合流できた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O9XMwrCIXtE/R8lQlmSdpPI/AAAAAAAAAEM/pvnUNCpAZFc/s72/DSCF0009.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O9XMwrCIXtE/R8lQlmSdpPI/AAAAAAAAAEM/pvnUNCpAZFc/s144/DSCF0009.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-O9XMwrCIXtE/R8lQlmSdpPI/AAAAAAAAAEM/pvnUNCpAZFc/s288/DSCF0009.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCF0009.JPG</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>36.2489111 136.8861721</gml:lowerCorner>
+        <gml:upperCorner>36.2619924 136.9259118</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>36.2554518 136.906042</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+</feed>

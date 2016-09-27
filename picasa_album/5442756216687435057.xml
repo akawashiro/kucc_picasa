@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057</id>
+  <updated>2013-05-11T13:40:49.265Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">２回生ツアー2009</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-_crmaZyzP9Y/S4iN8S60HTE/AAAAAAAAFrE/nKaCwhR6oCQ/s160-c/200903.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>photo.2009</name>
+    <uri>https://picasaweb.google.com/kucc.photo.2009</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>21</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5442756216687435057</gphoto:id>
+  <gphoto:name>200903</gphoto:name>
+  <gphoto:location>山上ヶ岳</gphoto:location>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1245121032000</gphoto:timestamp>
+  <gphoto:numphotos>21</gphoto:numphotos>
+  <gphoto:user>kucc.photo.2009</gphoto:user>
+  <gphoto:nickname>photo.2009</gphoto:nickname>
+  <georss:where>
+    <gml:Point>
+      <gml:pos>34.252348 135.940762</gml:pos>
+    </gml:Point>
+  </georss:where>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756232059870546</id>
+    <published>2010-02-27T03:13:56.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1414.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-E-7RgghiV1o/S4iN9ML43VI/AAAAAAAAFpw/u7y1Coy1eCk/DSCN1414.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756232059870546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756232059870546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1V1u6LOyESNlmv3V3hau99MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756232059870546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756232059870546"/>
+    <gphoto:id>5442756232059870546</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>283326</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>67848008</gphoto:checksum>
+    <gphoto:timestamp>1253255588000</gphoto:timestamp>
+    <gphoto:imageVersion>5788</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.04761905</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253255588000</exif:time>
+      <exif:imageUniqueID>b31f42f1637bcc41fa903b3daa0b7085</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-E-7RgghiV1o/S4iN9ML43VI/AAAAAAAAFpw/u7y1Coy1eCk/DSCN1414.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E-7RgghiV1o/S4iN9ML43VI/AAAAAAAAFpw/u7y1Coy1eCk/s72/DSCN1414.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E-7RgghiV1o/S4iN9ML43VI/AAAAAAAAFpw/u7y1Coy1eCk/s144/DSCN1414.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E-7RgghiV1o/S4iN9ML43VI/AAAAAAAAFpw/u7y1Coy1eCk/s288/DSCN1414.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1414.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756240596012930</id>
+    <published>2010-02-27T03:13:58.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1415.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-E9zOIY7odoo/S4iN9r_ED4I/AAAAAAAAFp0/TNE82z8TMwI/DSCN1415.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756240596012930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756240596012930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/WkZ4VJysZjys-V3veNxertMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756240596012930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756240596012930"/>
+    <gphoto:id>5442756240596012930</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>438573</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>67850018</gphoto:checksum>
+    <gphoto:timestamp>1253255592000</gphoto:timestamp>
+    <gphoto:imageVersion>5789</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.035587188</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253255592000</exif:time>
+      <exif:imageUniqueID>5b2021d84945a406294e12546e69c252</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-E9zOIY7odoo/S4iN9r_ED4I/AAAAAAAAFp0/TNE82z8TMwI/DSCN1415.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E9zOIY7odoo/S4iN9r_ED4I/AAAAAAAAFp0/TNE82z8TMwI/s72/DSCN1415.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E9zOIY7odoo/S4iN9r_ED4I/AAAAAAAAFp0/TNE82z8TMwI/s144/DSCN1415.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-E9zOIY7odoo/S4iN9r_ED4I/AAAAAAAAFp0/TNE82z8TMwI/s288/DSCN1415.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1415.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756248399546850</id>
+    <published>2010-02-27T03:14:00.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1416.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6VofugutH-I/S4iN-JDkieI/AAAAAAAAFp4/P7UxqRG33pA/DSCN1416.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756248399546850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756248399546850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/6FlIqDqPQKyeEvAGkacBmtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756248399546850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756248399546850"/>
+    <gphoto:id>5442756248399546850</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>296806</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c49c018</gphoto:checksum>
+    <gphoto:timestamp>1253265423000</gphoto:timestamp>
+    <gphoto:imageVersion>5790</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.2</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253265423000</exif:time>
+      <exif:imageUniqueID>f559370b1b11a7b885c3f3ed742bb566</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6VofugutH-I/S4iN-JDkieI/AAAAAAAAFp4/P7UxqRG33pA/DSCN1416.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6VofugutH-I/S4iN-JDkieI/AAAAAAAAFp4/P7UxqRG33pA/s72/DSCN1416.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6VofugutH-I/S4iN-JDkieI/AAAAAAAAFp4/P7UxqRG33pA/s144/DSCN1416.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6VofugutH-I/S4iN-JDkieI/AAAAAAAAFp4/P7UxqRG33pA/s288/DSCN1416.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1416.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756252915062466</id>
+    <published>2010-02-27T03:14:01.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1417.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MuvtefMImRE/S4iN-Z4J1sI/AAAAAAAAFp8/Z-vhMu7FdCk/DSCN1417.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756252915062466"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756252915062466"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/GOcEsQWsMrOvX4-BDjUqytMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756252915062466"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756252915062466"/>
+    <gphoto:id>5442756252915062466</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>266270</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6c56c018</gphoto:checksum>
+    <gphoto:timestamp>1253265430000</gphoto:timestamp>
+    <gphoto:imageVersion>5791</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.0044483985</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.4</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253265430000</exif:time>
+      <exif:imageUniqueID>f192536d882082ff01bbdc045a849c39</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MuvtefMImRE/S4iN-Z4J1sI/AAAAAAAAFp8/Z-vhMu7FdCk/DSCN1417.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MuvtefMImRE/S4iN-Z4J1sI/AAAAAAAAFp8/Z-vhMu7FdCk/s72/DSCN1417.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MuvtefMImRE/S4iN-Z4J1sI/AAAAAAAAFp8/Z-vhMu7FdCk/s144/DSCN1417.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MuvtefMImRE/S4iN-Z4J1sI/AAAAAAAAFp8/Z-vhMu7FdCk/s288/DSCN1417.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1417.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756261157877042</id>
+    <published>2010-02-27T03:14:03.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1418.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-x4XzHL77Lwo/S4iN-4lZNTI/AAAAAAAAFqA/2CRtPH4IkVw/DSCN1418.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756261157877042"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756261157877042"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/4ZzPo5p0JpzUmuEMYOcaMtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756261157877042"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756261157877042"/>
+    <gphoto:id>5442756261157877042</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>312203</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>6d86c018</gphoto:checksum>
+    <gphoto:timestamp>1253267863000</gphoto:timestamp>
+    <gphoto:imageVersion>5792</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.2</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.003030303</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.7</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253267863000</exif:time>
+      <exif:imageUniqueID>34ac99433a6611e0a75fe594c6edd838</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-x4XzHL77Lwo/S4iN-4lZNTI/AAAAAAAAFqA/2CRtPH4IkVw/DSCN1418.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x4XzHL77Lwo/S4iN-4lZNTI/AAAAAAAAFqA/2CRtPH4IkVw/s72/DSCN1418.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x4XzHL77Lwo/S4iN-4lZNTI/AAAAAAAAFqA/2CRtPH4IkVw/s144/DSCN1418.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-x4XzHL77Lwo/S4iN-4lZNTI/AAAAAAAAFqA/2CRtPH4IkVw/s288/DSCN1418.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1418.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756263539283186</id>
+    <published>2010-02-27T03:14:04.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1419.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7XeynIwPyh0/S4iN_BdKlPI/AAAAAAAAFqE/zx6uqqJE3wM/DSCN1419.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756263539283186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756263539283186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QPtWj-jiS7Eis7kV6IphUNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756263539283186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756263539283186"/>
+    <gphoto:id>5442756263539283186</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>384773</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>950e0018</gphoto:checksum>
+    <gphoto:timestamp>1253348816000</gphoto:timestamp>
+    <gphoto:imageVersion>5793</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.5</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.003092146</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>8.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253348816000</exif:time>
+      <exif:imageUniqueID>61abd6a2b2167d8a038a436964a332c2</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7XeynIwPyh0/S4iN_BdKlPI/AAAAAAAAFqE/zx6uqqJE3wM/DSCN1419.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7XeynIwPyh0/S4iN_BdKlPI/AAAAAAAAFqE/zx6uqqJE3wM/s72/DSCN1419.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7XeynIwPyh0/S4iN_BdKlPI/AAAAAAAAFqE/zx6uqqJE3wM/s144/DSCN1419.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7XeynIwPyh0/S4iN_BdKlPI/AAAAAAAAFqE/zx6uqqJE3wM/s288/DSCN1419.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1419.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756274935966290</id>
+    <published>2010-02-27T03:14:06.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1423.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-lDXanVJ2m0Q/S4iN_r6WKlI/AAAAAAAAFqI/10fKEuNawnM/DSCN1423.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756274935966290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756274935966290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/7tmnIzhtQO7eyjDxkw2pxtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756274935966290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756274935966290"/>
+    <gphoto:id>5442756274935966290</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>304144</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>956f8018</gphoto:checksum>
+    <gphoto:timestamp>1253349597000</gphoto:timestamp>
+    <gphoto:imageVersion>5794</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>9.1</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.008038585</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>7.7</exif:focallength>
+      <exif:iso>81</exif:iso>
+      <exif:time>1253349597000</exif:time>
+      <exif:imageUniqueID>b214c2649bb2938f17ff73f22a2a9fd6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-lDXanVJ2m0Q/S4iN_r6WKlI/AAAAAAAAFqI/10fKEuNawnM/DSCN1423.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lDXanVJ2m0Q/S4iN_r6WKlI/AAAAAAAAFqI/10fKEuNawnM/s72/DSCN1423.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lDXanVJ2m0Q/S4iN_r6WKlI/AAAAAAAAFqI/10fKEuNawnM/s144/DSCN1423.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-lDXanVJ2m0Q/S4iN_r6WKlI/AAAAAAAAFqI/10fKEuNawnM/s288/DSCN1423.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1423.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756277006406626</id>
+    <published>2010-02-27T03:14:07.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1424.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-6FoHSeppuk0/S4iN_zn-k-I/AAAAAAAAFqM/UvXSTZRXMvU/DSCN1424.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756277006406626"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756277006406626"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/UgVfU0Ax8DSm6e2T4GHlBdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756277006406626"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756277006406626"/>
+    <gphoto:id>5442756277006406626</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>336203</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9d9d0018</gphoto:checksum>
+    <gphoto:timestamp>1253366377000</gphoto:timestamp>
+    <gphoto:imageVersion>5795</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.0025201612</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253366377000</exif:time>
+      <exif:imageUniqueID>b037acc7b297d674d40a5cb1e197cf59</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6FoHSeppuk0/S4iN_zn-k-I/AAAAAAAAFqM/UvXSTZRXMvU/DSCN1424.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6FoHSeppuk0/S4iN_zn-k-I/AAAAAAAAFqM/UvXSTZRXMvU/s72/DSCN1424.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6FoHSeppuk0/S4iN_zn-k-I/AAAAAAAAFqM/UvXSTZRXMvU/s144/DSCN1424.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6FoHSeppuk0/S4iN_zn-k-I/AAAAAAAAFqM/UvXSTZRXMvU/s288/DSCN1424.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1424.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756283846475074</id>
+    <published>2010-02-27T03:14:08.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1425.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-JSDo5euAcqk/S4iOANGxvUI/AAAAAAAAFqQ/V6RbMvkDdIU/DSCN1425.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756283846475074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756283846475074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/4JfZHKvI81tz6ZWB7nF7O9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756283846475074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756283846475074"/>
+    <gphoto:id>5442756283846475074</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>286792</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9db7c008</gphoto:checksum>
+    <gphoto:timestamp>1253366558000</gphoto:timestamp>
+    <gphoto:imageVersion>5796</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.1</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.10869565</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>12.2</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253366558000</exif:time>
+      <exif:imageUniqueID>8c0a6ae6ae50ddb5e1543935704b47c3</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-JSDo5euAcqk/S4iOANGxvUI/AAAAAAAAFqQ/V6RbMvkDdIU/DSCN1425.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JSDo5euAcqk/S4iOANGxvUI/AAAAAAAAFqQ/V6RbMvkDdIU/s72/DSCN1425.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JSDo5euAcqk/S4iOANGxvUI/AAAAAAAAFqQ/V6RbMvkDdIU/s144/DSCN1425.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JSDo5euAcqk/S4iOANGxvUI/AAAAAAAAFqQ/V6RbMvkDdIU/s288/DSCN1425.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1425.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756285373344658</id>
+    <published>2010-02-27T03:14:09.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1426.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-bipQDH5mnm8/S4iOASyz65I/AAAAAAAAFqY/Pd4QoQ76GXY/DSCN1426.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756285373344658"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756285373344658"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/x4Se7HB82ZgrlsS-mskw_9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756285373344658"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756285373344658"/>
+    <gphoto:id>5442756285373344658</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>199655</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9dc00008</gphoto:checksum>
+    <gphoto:timestamp>1253366721000</gphoto:timestamp>
+    <gphoto:imageVersion>5798</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.05376344</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.4</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253366721000</exif:time>
+      <exif:imageUniqueID>b200090a9733577770a8cd76e79adead</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bipQDH5mnm8/S4iOASyz65I/AAAAAAAAFqY/Pd4QoQ76GXY/DSCN1426.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bipQDH5mnm8/S4iOASyz65I/AAAAAAAAFqY/Pd4QoQ76GXY/s72/DSCN1426.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bipQDH5mnm8/S4iOASyz65I/AAAAAAAAFqY/Pd4QoQ76GXY/s144/DSCN1426.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bipQDH5mnm8/S4iOASyz65I/AAAAAAAAFqY/Pd4QoQ76GXY/s288/DSCN1426.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1426.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756291706557442</id>
+    <published>2010-02-27T03:14:10.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1427.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MX382s3euYo/S4iOAqYxFAI/AAAAAAAAFqc/VDJw58uXxZk/DSCN1427.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756291706557442"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756291706557442"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/JuJmfZ421PzW5BxmzqJHtNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756291706557442"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756291706557442"/>
+    <gphoto:id>5442756291706557442</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>281254</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9dc10008</gphoto:checksum>
+    <gphoto:timestamp>1253366729000</gphoto:timestamp>
+    <gphoto:imageVersion>5799</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.06329114</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.4</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253366729000</exif:time>
+      <exif:imageUniqueID>73557d4ba8987f7ffa3565e2eb71daa5</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MX382s3euYo/S4iOAqYxFAI/AAAAAAAAFqc/VDJw58uXxZk/DSCN1427.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MX382s3euYo/S4iOAqYxFAI/AAAAAAAAFqc/VDJw58uXxZk/s72/DSCN1427.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MX382s3euYo/S4iOAqYxFAI/AAAAAAAAFqc/VDJw58uXxZk/s144/DSCN1427.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MX382s3euYo/S4iOAqYxFAI/AAAAAAAAFqc/VDJw58uXxZk/s288/DSCN1427.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1427.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756293974251154</id>
+    <published>2010-02-27T03:14:11.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1428.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-GoKhYFtfqp8/S4iOAy1bVpI/AAAAAAAAFqg/34PpJKZWJ6I/DSCN1428.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756293974251154"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756293974251154"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/tK-sp8KIVu0gVLb44yFwINMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756293974251154"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756293974251154"/>
+    <gphoto:id>5442756293974251154</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>277690</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9dd68008</gphoto:checksum>
+    <gphoto:timestamp>1253366805000</gphoto:timestamp>
+    <gphoto:imageVersion>5800</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.0</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.08130081</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>17.4</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253366805000</exif:time>
+      <exif:imageUniqueID>cd04533af58a9e201a5d102d7654ea2f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-GoKhYFtfqp8/S4iOAy1bVpI/AAAAAAAAFqg/34PpJKZWJ6I/DSCN1428.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GoKhYFtfqp8/S4iOAy1bVpI/AAAAAAAAFqg/34PpJKZWJ6I/s72/DSCN1428.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GoKhYFtfqp8/S4iOAy1bVpI/AAAAAAAAFqg/34PpJKZWJ6I/s144/DSCN1428.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-GoKhYFtfqp8/S4iOAy1bVpI/AAAAAAAAFqg/34PpJKZWJ6I/s288/DSCN1428.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1428.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756298107540898</id>
+    <published>2010-02-27T03:14:12.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1429.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--6ffD4rk5oY/S4iOBCO4VaI/AAAAAAAAFqk/7YcTCDLjS1M/DSCN1429.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756298107540898"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756298107540898"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qw5318pzmmqo3Sbmmn2N49MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756298107540898"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756298107540898"/>
+    <gphoto:id>5442756298107540898</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>451938</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9df4c008</gphoto:checksum>
+    <gphoto:timestamp>1253367079000</gphoto:timestamp>
+    <gphoto:imageVersion>5801</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>4.5</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.006666667</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>14.3</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253367079000</exif:time>
+      <exif:imageUniqueID>756199e8240834f99c13b61c482500a7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--6ffD4rk5oY/S4iOBCO4VaI/AAAAAAAAFqk/7YcTCDLjS1M/DSCN1429.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--6ffD4rk5oY/S4iOBCO4VaI/AAAAAAAAFqk/7YcTCDLjS1M/s72/DSCN1429.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--6ffD4rk5oY/S4iOBCO4VaI/AAAAAAAAFqk/7YcTCDLjS1M/s144/DSCN1429.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--6ffD4rk5oY/S4iOBCO4VaI/AAAAAAAAFqk/7YcTCDLjS1M/s288/DSCN1429.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1429.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756302997339682</id>
+    <published>2010-02-27T03:14:13.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1430.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-VNuUtczZfuw/S4iOBUcsviI/AAAAAAAAFqo/SvkUMuOG8hw/DSCN1430.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756302997339682"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756302997339682"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/b_BFH7eDp2ZbC7Hje86QANMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756302997339682"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756302997339682"/>
+    <gphoto:id>5442756302997339682</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>457773</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9ef0c008</gphoto:checksum>
+    <gphoto:timestamp>1253369158000</gphoto:timestamp>
+    <gphoto:imageVersion>5802</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.008244023</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253369158000</exif:time>
+      <exif:imageUniqueID>ebba9a8820032e25da8a31a7f4f7c27e</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VNuUtczZfuw/S4iOBUcsviI/AAAAAAAAFqo/SvkUMuOG8hw/DSCN1430.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VNuUtczZfuw/S4iOBUcsviI/AAAAAAAAFqo/SvkUMuOG8hw/s72/DSCN1430.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VNuUtczZfuw/S4iOBUcsviI/AAAAAAAAFqo/SvkUMuOG8hw/s144/DSCN1430.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VNuUtczZfuw/S4iOBUcsviI/AAAAAAAAFqo/SvkUMuOG8hw/s288/DSCN1430.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1430.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756308805065266</id>
+    <published>2010-02-27T03:14:14.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1431.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-YraGuiCORS0/S4iOBqFXmjI/AAAAAAAAFqs/8E7QLuwCd-I/DSCN1431.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756308805065266"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756308805065266"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/A1kvesTjapJ8-izSR44He9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756308805065266"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756308805065266"/>
+    <gphoto:id>5442756308805065266</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>268247</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9efd0008</gphoto:checksum>
+    <gphoto:timestamp>1253369193000</gphoto:timestamp>
+    <gphoto:imageVersion>5803</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>10.5</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.008038585</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.1</exif:focallength>
+      <exif:iso>89</exif:iso>
+      <exif:time>1253369193000</exif:time>
+      <exif:imageUniqueID>731d05e31c7c1f2fd72d9fdf28f59ee8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-YraGuiCORS0/S4iOBqFXmjI/AAAAAAAAFqs/8E7QLuwCd-I/DSCN1431.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YraGuiCORS0/S4iOBqFXmjI/AAAAAAAAFqs/8E7QLuwCd-I/s72/DSCN1431.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YraGuiCORS0/S4iOBqFXmjI/AAAAAAAAFqs/8E7QLuwCd-I/s144/DSCN1431.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-YraGuiCORS0/S4iOBqFXmjI/AAAAAAAAFqs/8E7QLuwCd-I/s288/DSCN1431.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1431.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756313562658434</id>
+    <published>2010-02-27T03:14:15.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1432.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-R0J7W0TIvf8/S4iOB7zqtoI/AAAAAAAAFqw/-rrDTQJ2OGo/DSCN1432.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756313562658434"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756313562658434"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2vtivOQSgwk3a1X5ZhB2xdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756313562658434"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756313562658434"/>
+    <gphoto:id>5442756313562658434</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>190886</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>9f298008</gphoto:checksum>
+    <gphoto:timestamp>1253369613000</gphoto:timestamp>
+    <gphoto:imageVersion>5804</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.007142857</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253369613000</exif:time>
+      <exif:imageUniqueID>0a402a06795e6a5262c6c6800b844949</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-R0J7W0TIvf8/S4iOB7zqtoI/AAAAAAAAFqw/-rrDTQJ2OGo/DSCN1432.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R0J7W0TIvf8/S4iOB7zqtoI/AAAAAAAAFqw/-rrDTQJ2OGo/s72/DSCN1432.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R0J7W0TIvf8/S4iOB7zqtoI/AAAAAAAAFqw/-rrDTQJ2OGo/s144/DSCN1432.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-R0J7W0TIvf8/S4iOB7zqtoI/AAAAAAAAFqw/-rrDTQJ2OGo/s288/DSCN1432.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1432.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756316371396034</id>
+    <published>2010-02-27T03:14:16.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1433.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-hCIXr1MZ2Ow/S4iOCGRUpcI/AAAAAAAAFq0/FF03UJ_yNY4/DSCN1433.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756316371396034"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756316371396034"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/e8XzaHNxxqKFz90AbBbep9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756316371396034"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756316371396034"/>
+    <gphoto:id>5442756316371396034</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>201037</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>be290028</gphoto:checksum>
+    <gphoto:timestamp>1253433097000</gphoto:timestamp>
+    <gphoto:imageVersion>5805</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.7</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.0138121545</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.1</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253433097000</exif:time>
+      <exif:imageUniqueID>ebf79ab86c9b7916f7ffc4ce0d9bd8f4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-hCIXr1MZ2Ow/S4iOCGRUpcI/AAAAAAAAFq0/FF03UJ_yNY4/DSCN1433.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCIXr1MZ2Ow/S4iOCGRUpcI/AAAAAAAAFq0/FF03UJ_yNY4/s72/DSCN1433.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCIXr1MZ2Ow/S4iOCGRUpcI/AAAAAAAAFq0/FF03UJ_yNY4/s144/DSCN1433.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-hCIXr1MZ2Ow/S4iOCGRUpcI/AAAAAAAAFq0/FF03UJ_yNY4/s288/DSCN1433.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1433.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756325435629042</id>
+    <published>2010-02-27T03:14:18.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1434.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-oeleFBv1TUo/S4iOCoCZ3fI/AAAAAAAAFq4/RKUtdndGU6A/DSCN1434.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756325435629042"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756325435629042"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AAyOyHoMPVVjZSVYOaujctMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756325435629042"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756325435629042"/>
+    <gphoto:id>5442756325435629042</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1200</gphoto:width>
+    <gphoto:height>1600</gphoto:height>
+    <gphoto:size>190368</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>be370028</gphoto:checksum>
+    <gphoto:timestamp>1253433112000</gphoto:timestamp>
+    <gphoto:imageVersion>5806</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.7</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.019120459</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>10.1</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253433112000</exif:time>
+      <exif:imageUniqueID>91fcf717b221082efa713eaa56ec211a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-oeleFBv1TUo/S4iOCoCZ3fI/AAAAAAAAFq4/RKUtdndGU6A/DSCN1434.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oeleFBv1TUo/S4iOCoCZ3fI/AAAAAAAAFq4/RKUtdndGU6A/s72/DSCN1434.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oeleFBv1TUo/S4iOCoCZ3fI/AAAAAAAAFq4/RKUtdndGU6A/s144/DSCN1434.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-oeleFBv1TUo/S4iOCoCZ3fI/AAAAAAAAFq4/RKUtdndGU6A/s288/DSCN1434.JPG" height="288" width="216"/>
+      <media:title type="plain">DSCN1434.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756328779478546</id>
+    <published>2010-02-27T03:14:19.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1435.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-VRHK3uwnnpc/S4iOC0fo9hI/AAAAAAAAFq8/FaP0qh_H8RM/DSCN1435.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756328779478546"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756328779478546"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pxVSEzxuw65hOjeld5rxv9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756328779478546"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756328779478546"/>
+    <gphoto:id>5442756328779478546</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>422512</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c1128018</gphoto:checksum>
+    <gphoto:timestamp>1253439028000</gphoto:timestamp>
+    <gphoto:imageVersion>5807</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.8</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.011415525</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253439028000</exif:time>
+      <exif:imageUniqueID>8faa975e27ab55d3ab2c674e5610e632</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VRHK3uwnnpc/S4iOC0fo9hI/AAAAAAAAFq8/FaP0qh_H8RM/DSCN1435.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VRHK3uwnnpc/S4iOC0fo9hI/AAAAAAAAFq8/FaP0qh_H8RM/s72/DSCN1435.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VRHK3uwnnpc/S4iOC0fo9hI/AAAAAAAAFq8/FaP0qh_H8RM/s144/DSCN1435.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VRHK3uwnnpc/S4iOC0fo9hI/AAAAAAAAFq8/FaP0qh_H8RM/s288/DSCN1435.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1435.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756334689126498</id>
+    <published>2010-02-27T03:14:20.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN1436.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pwYrX_9yTH0/S4iODKgnCGI/AAAAAAAAFrA/xh4zcDh39e8/DSCN1436.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756334689126498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756334689126498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/qT_s5tPLEBQUcGI1OUz8TdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756334689126498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756334689126498"/>
+    <gphoto:id>5442756334689126498</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>361475</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>c3e74018</gphoto:checksum>
+    <gphoto:timestamp>1253444763000</gphoto:timestamp>
+    <gphoto:imageVersion>5808</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.0065487884</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>50</exif:iso>
+      <exif:time>1253444763000</exif:time>
+      <exif:imageUniqueID>37c6553d999129eb2ea93a031bf9e5ab</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pwYrX_9yTH0/S4iODKgnCGI/AAAAAAAAFrA/xh4zcDh39e8/DSCN1436.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwYrX_9yTH0/S4iODKgnCGI/AAAAAAAAFrA/xh4zcDh39e8/s72/DSCN1436.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwYrX_9yTH0/S4iODKgnCGI/AAAAAAAAFrA/xh4zcDh39e8/s144/DSCN1436.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwYrX_9yTH0/S4iODKgnCGI/AAAAAAAAFrA/xh4zcDh39e8/s288/DSCN1436.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN1436.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756337864620930</id>
+    <published>2010-02-27T03:14:21.000Z</published>
+    <updated>2013-05-11T13:40:49.265Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">DSCN0841.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-A3jlMohe65k/S4iODWVtO4I/AAAAAAAAFrE/HX3Y3qvVWvw/DSCN0841.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756337864620930"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.photo.2009/200903#5442756337864620930"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/f352aqsqm6I9ZnniXINfvtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.photo.2009/albumid/5442756216687435057/photoid/5442756337864620930"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=kucc.photo.2009&amp;aid=5442756216687435057&amp;iid=5442756337864620930"/>
+    <gphoto:id>5442756337864620930</gphoto:id>
+    <gphoto:version>2</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>5442756216687435057</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>293577</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>781a4008</gphoto:checksum>
+    <gphoto:timestamp>1244900978000</gphoto:timestamp>
+    <gphoto:imageVersion>5809</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>NIKON                  </exif:make>
+      <exif:model>COOLPIX S7c  </exif:model>
+      <exif:exposure>0.0080256825</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>5.8</exif:focallength>
+      <exif:iso>130</exif:iso>
+      <exif:time>1244900978000</exif:time>
+      <exif:imageUniqueID>d4fbbdd9bff762f684d04471da972848</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-A3jlMohe65k/S4iODWVtO4I/AAAAAAAAFrE/HX3Y3qvVWvw/DSCN0841.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>photo.2009</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A3jlMohe65k/S4iODWVtO4I/AAAAAAAAFrE/HX3Y3qvVWvw/s72/DSCN0841.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A3jlMohe65k/S4iODWVtO4I/AAAAAAAAFrE/HX3Y3qvVWvw/s144/DSCN0841.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-A3jlMohe65k/S4iODWVtO4I/AAAAAAAAFrE/HX3Y3qvVWvw/s288/DSCN0841.JPG" height="216" width="288"/>
+      <media:title type="plain">DSCN0841.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

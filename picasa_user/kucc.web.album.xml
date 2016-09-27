@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+  <id>https://picasaweb.google.com/data/feed/api/user/kucc.web.album</id>
+  <updated>2015-09-04T05:04:50.391Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">kucc.web.album</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-iCuWYEGWTsg/AAAAAAAAAAA/AAAAAAAAAAA/vs24Xm8jhpQ/s64-c/kucc.web.album.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/kucc.web.album?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>KUCC</name>
+    <uri>https://picasaweb.google.com/kucc.web.album</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>10</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>kucc.web.album</gphoto:user>
+  <gphoto:nickname>KUCC</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-iCuWYEGWTsg/AAAAAAAAAAA/AAAAAAAAAAA/vs24Xm8jhpQ/s64-c/kucc.web.album.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5141928219768594049</id>
+    <published>2007-11-30T08:00:00.000Z</published>
+    <updated>2013-05-12T12:40:12.599Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2007_12_01追いコンTT</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5141928219768594049"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/2007_12_01TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5141928219768594049"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5141928219768594049</gphoto:id>
+    <gphoto:name>2007_12_01TT</gphoto:name>
+    <gphoto:location>左京区</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1196409600000</gphoto:timestamp>
+    <gphoto:numphotos>67</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5YuJ6564fh0/R1vMeQfdHoE/AAAAAAAACdM/GVDuB3qvXPw/2007_12_01TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5YuJ6564fh0/R1vMeQfdHoE/AAAAAAAACdM/GVDuB3qvXPw/s160-c/2007_12_01TT.jpg" height="160" width="160"/>
+      <media:title type="plain">2007_12_01追いコンTT</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.1420206 135.7664251</gml:lowerCorner>
+        <gml:upperCorner>35.1597055 135.804448</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.1508631 135.7854366</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5085137922767916801</id>
+    <published>2007-07-09T07:00:00.000Z</published>
+    <updated>2013-05-12T12:40:06.598Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">北山 after 七コンT.T.(07/7/7)</title>
+    <summary type="text">07/7/7のTTの後行った北山の写真です．
+花脊集落 → 寺山峠 → 雲取山 → 芹生集落</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5085137922767916801"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/AfterTT0777"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5085137922767916801"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5085137922767916801</gphoto:id>
+    <gphoto:name>AfterTT0777</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1183964400000</gphoto:timestamp>
+    <gphoto:numphotos>46</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5yItobIF0RU/RpIJ_6BzDwE/AAAAAAAADxQ/MF-cFRnf9UI/AfterTT0777.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain">07/7/7のTTの後行った北山の写真です．
+花脊集落 → 寺山峠 → 雲取山 → 芹生集落</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5yItobIF0RU/RpIJ_6BzDwE/AAAAAAAADxQ/MF-cFRnf9UI/s160-c/AfterTT0777.jpg" height="160" width="160"/>
+      <media:title type="plain">北山 after 七コンT.T.(07/7/7)</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5085173712730396017</id>
+    <published>2007-07-09T07:00:00.000Z</published>
+    <updated>2013-05-12T12:40:10.603Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">七コンTT</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5085173712730396017"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/TT"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5085173712730396017"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5085173712730396017</gphoto:id>
+    <gphoto:name>TT</gphoto:name>
+    <gphoto:location>花脊峠</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1183964400000</gphoto:timestamp>
+    <gphoto:numphotos>86</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K8n1-TEXGXI/RpIqjKBzFXE/AAAAAAAABvc/vP8H79FSLWI/TT.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K8n1-TEXGXI/RpIqjKBzFXE/AAAAAAAABvc/vP8H79FSLWI/s160-c/TT.jpg" height="160" width="160"/>
+      <media:title type="plain">七コンTT</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>35.1575999 135.7836931</gml:lowerCorner>
+        <gml:upperCorner>35.1598104 135.788446</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>35.1587052 135.7860696</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5083581731562519089</id>
+    <published>2007-07-05T07:00:00.000Z</published>
+    <updated>2013-05-12T12:40:01.075Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">南紀2007年06月01-03日</title>
+    <summary type="text">竹中企画で高見峠、相津峠、藤坂峠、能見坂などに行きました。
+面子は笠原、西村、三宅、竹中、舟木、戸田さん、松田さん、裕一さん。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5083581731562519089"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/2007060103"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5083581731562519089"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5083581731562519089</gphoto:id>
+    <gphoto:name>2007060103</gphoto:name>
+    <gphoto:location>南紀</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1183618800000</gphoto:timestamp>
+    <gphoto:numphotos>52</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WF6N3GJzB5o/RoyCpqBy-jE/AAAAAAAAAxU/JYdgPiyMJEY/2007060103.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain">竹中企画で高見峠、相津峠、藤坂峠、能見坂などに行きました。
+面子は笠原、西村、三宅、竹中、舟木、戸田さん、松田さん、裕一さん。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WF6N3GJzB5o/RoyCpqBy-jE/AAAAAAAAAxU/JYdgPiyMJEY/s160-c/2007060103.jpg" height="160" width="160"/>
+      <media:title type="plain">南紀2007年06月01-03日</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>33.617311 135.9270709</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5083601187764370817</id>
+    <published>2007-07-05T07:00:00.000Z</published>
+    <updated>2013-05-12T12:40:02.607Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フユホク2007</title>
+    <summary type="text">舟木撮影。面子は舟木、酒井さん、大山さん。</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5083601187764370817"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/200702"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5083601187764370817"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5083601187764370817</gphoto:id>
+    <gphoto:name>200702</gphoto:name>
+    <gphoto:location>北海道</gphoto:location>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1183618800000</gphoto:timestamp>
+    <gphoto:numphotos>148</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0hZmQNReEBI/RoyUWKBy_YE/AAAAAAAAB1o/zT6jHT5mFNE/200702.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain">舟木撮影。面子は舟木、酒井さん、大山さん。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0hZmQNReEBI/RoyUWKBy_YE/AAAAAAAAB1o/zT6jHT5mFNE/s160-c/200702.jpg" height="160" width="160"/>
+      <media:title type="plain">フユホク2007</media:title>
+    </media:group>
+    <georss:where>
+      <gml:Envelope>
+        <gml:lowerCorner>41.0000664 138.693935</gml:lowerCorner>
+        <gml:upperCorner>45.1218655 145.099783</gml:upperCorner>
+      </gml:Envelope>
+      <gml:Point>
+        <gml:pos>43.060966 141.896859</gml:pos>
+      </gml:Point>
+    </georss:where>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5084035902879237841</id>
+    <published>2007-05-02T13:48:12.000Z</published>
+    <updated>2013-05-12T12:40:04.600Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">GW信州070503</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5084035902879237841"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/GW070503"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5084035902879237841"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5084035902879237841</gphoto:id>
+    <gphoto:name>GW070503</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1178113692000</gphoto:timestamp>
+    <gphoto:numphotos>37</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-baJNrXWD2ig/Ro4ft6BzBtE/AAAAAAAAB2E/TFbBaP8jBRs/GW070503.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-baJNrXWD2ig/Ro4ft6BzBtE/AAAAAAAAB2E/TFbBaP8jBRs/s160-c/GW070503.jpg" height="160" width="160"/>
+      <media:title type="plain">GW信州070503</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068420525118155777</id>
+    <published>2007-04-27T17:48:00.000Z</published>
+    <updated>2013-05-12T12:39:54.388Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">新歓サイクリング2007年4月28日</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5068420525118155777"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/2007428"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068420525118155777"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5068420525118155777</gphoto:id>
+    <gphoto:name>2007428</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1177696080000</gphoto:timestamp>
+    <gphoto:numphotos>44</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-CoU_0Zk_PsI/RlalnSv3bAE/AAAAAAAAAfQ/v-Jgn13uhKI/2007428.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-CoU_0Zk_PsI/RlalnSv3bAE/AAAAAAAAAfQ/v-Jgn13uhKI/s160-c/2007428.jpg" height="160" width="160"/>
+      <media:title type="plain">新歓サイクリング2007年4月28日</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068417312482617041</id>
+    <published>2007-04-20T18:22:34.000Z</published>
+    <updated>2013-05-12T12:39:52.366Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">新歓サイクリング2007年4月21日</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5068417312482617041"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/2007421"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068417312482617041"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5068417312482617041</gphoto:id>
+    <gphoto:name>2007421</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1177093354000</gphoto:timestamp>
+    <gphoto:numphotos>82</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-LvhFld8pRnk/RlaisSv3ZtE/AAAAAAAAAZs/Va_AThquf-g/2007421.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-LvhFld8pRnk/RlaisSv3ZtE/AAAAAAAAAZs/Va_AThquf-g/s160-c/2007421.jpg" height="160" width="160"/>
+      <media:title type="plain">新歓サイクリング2007年4月21日</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068414658192827201</id>
+    <published>2007-04-13T21:04:11.000Z</published>
+    <updated>2013-05-12T12:39:50.366Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">新歓サイクリング20074月14日</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5068414658192827201"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/2007414"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068414658192827201"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5068414658192827201</gphoto:id>
+    <gphoto:name>2007414</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1176498251000</gphoto:timestamp>
+    <gphoto:numphotos>56</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qJoWeWYO3kE/RlagRyv3Y0E/AAAAAAAAAPQ/dcu9RSzvhkw/2007414.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qJoWeWYO3kE/RlagRyv3Y0E/AAAAAAAAAPQ/dcu9RSzvhkw/s160-c/2007414.jpg" height="160" width="160"/>
+      <media:title type="plain">新歓サイクリング20074月14日</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068414065487340129</id>
+    <published>2007-04-06T17:34:37.000Z</published>
+    <updated>2013-05-12T12:39:48.369Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">新歓サイクリング2007年4月7日</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/kucc.web.album/albumid/5068414065487340129"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/kucc.web.album/200747"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/kucc.web.album/albumid/5068414065487340129"/>
+    <author>
+      <name>KUCC</name>
+      <uri>https://picasaweb.google.com/kucc.web.album</uri>
+    </author>
+    <gphoto:id>5068414065487340129</gphoto:id>
+    <gphoto:name>200747</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1175880877000</gphoto:timestamp>
+    <gphoto:numphotos>13</gphoto:numphotos>
+    <gphoto:user>kucc.web.album</gphoto:user>
+    <gphoto:nickname>KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-RtVWVYBfVvw/RlafvSv3YmE/AAAAAAAAAIM/xX5LP4iWciQ/200747.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-RtVWVYBfVvw/RlafvSv3YmE/AAAAAAAAAIM/xX5LP4iWciQ/s160-c/200747.jpg" height="160" width="160"/>
+      <media:title type="plain">新歓サイクリング2007年4月7日</media:title>
+    </media:group>
+  </entry>
+</feed>

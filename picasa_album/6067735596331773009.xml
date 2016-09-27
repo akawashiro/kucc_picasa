@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6067735596331773009</id>
+  <updated>2014-10-10T18:05:17.593Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2014-10-08</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-gK9XQfCJ9GU/VDTtYGpZLFE/AAAAAAAAAr4/eSmztceyxf4/s160-c/2014100802.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6067735596331773009"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/2014100802"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6067735596331773009?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6067735596331773009"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6067735596331773009?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Photo Kucc</name>
+    <uri>https://picasaweb.google.com/107884689343530610586</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6067735596331773009</gphoto:id>
+  <gphoto:name>2014100802</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1412754784000</gphoto:timestamp>
+  <gphoto:numphotos>1</gphoto:numphotos>
+  <gphoto:user>107884689343530610586</gphoto:user>
+  <gphoto:nickname>Photo Kucc</gphoto:nickname>
+  <gphoto:albumType>Buzz</gphoto:albumType>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6067735596331773009/photoid/6067735596129438354</id>
+    <published>2014-10-08T07:53:04.000Z</published>
+    <updated>2014-10-10T18:05:17.593Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">IMG_0738.JPG</title>
+    <summary type="text">これから、別世界へ。（梅木）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-JF7Gw6txnto/VDTtYF5JypI/AAAAAAAAAr4/t9OWOJXbYm8/IMG_0738.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/107884689343530610586/albumid/6067735596331773009/photoid/6067735596129438354"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/107884689343530610586/2014100802#6067735596129438354"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/5FPLUK6kCji4hlwRQq0_HdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/107884689343530610586/albumid/6067735596331773009/photoid/6067735596129438354"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=107884689343530610586&amp;aid=6067735596331773009&amp;iid=6067735596129438354"/>
+    <gphoto:id>6067735596129438354</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6067735596331773009</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>496078</gphoto:size>
+    <gphoto:client>es-pc-add-photos</gphoto:client>
+    <gphoto:checksum/>
+    <gphoto:timestamp>1408659635000</gphoto:timestamp>
+    <gphoto:imageVersion>702</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6067734555385809282</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>2.2</exif:fstop>
+      <exif:make>Apple</exif:make>
+      <exif:model>iPhone 5s</exif:model>
+      <exif:exposure>7.3099416E-4</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.12</exif:focallength>
+      <exif:iso>32</exif:iso>
+      <exif:time>1408692035000</exif:time>
+      <exif:imageUniqueID>ed56855cfe2918740000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-JF7Gw6txnto/VDTtYF5JypI/AAAAAAAAAr4/t9OWOJXbYm8/IMG_0738.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>Photo Kucc</media:credit>
+      <media:description type="plain">これから、別世界へ。（梅木）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JF7Gw6txnto/VDTtYF5JypI/AAAAAAAAAr4/t9OWOJXbYm8/s72/IMG_0738.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JF7Gw6txnto/VDTtYF5JypI/AAAAAAAAAr4/t9OWOJXbYm8/s144/IMG_0738.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-JF7Gw6txnto/VDTtYF5JypI/AAAAAAAAAr4/t9OWOJXbYm8/s288/IMG_0738.JPG" height="288" width="216"/>
+      <media:title type="plain">IMG_0738.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

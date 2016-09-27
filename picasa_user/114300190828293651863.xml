@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/114300190828293651863</id>
+  <updated>2015-09-05T21:30:27.516Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">114300190828293651863</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/--sjOslN2uTQ/AAAAAAAAAAI/AAAAAAAAAAA/QuQyZ-xJQZU/s64-c/114300190828293651863.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114300190828293651863"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114300190828293651863"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/114300190828293651863?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114300190828293651863?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>tomie keita</name>
+    <uri>https://picasaweb.google.com/114300190828293651863</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>3</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>114300190828293651863</gphoto:user>
+  <gphoto:nickname>tomie keita</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/--sjOslN2uTQ/AAAAAAAAAAI/AAAAAAAAAAA/QuQyZ-xJQZU/s64-c/114300190828293651863.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863642085827115473</id>
+    <published>2013-04-06T08:06:00.000Z</published>
+    <updated>2013-05-14T01:41:04.273Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">ケープタウン＋おまけ</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114300190828293651863/albumid/5863642085827115473"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114300190828293651863/cfXmsC"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863642085827115473"/>
+    <author>
+      <name>tomie keita</name>
+      <uri>https://picasaweb.google.com/114300190828293651863</uri>
+    </author>
+    <gphoto:id>5863642085827115473</gphoto:id>
+    <gphoto:name>cfXmsC</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1365235560000</gphoto:timestamp>
+    <gphoto:numphotos>57</gphoto:numphotos>
+    <gphoto:user>114300190828293651863</gphoto:user>
+    <gphoto:nickname>tomie keita</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-b3ko6fYsS54/UV_XaP_BedE/AAAAAAAAA-E/iUJo_klmhRA/cfXmsC.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>tomie keita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-b3ko6fYsS54/UV_XaP_BedE/AAAAAAAAA-E/iUJo_klmhRA/s160-c/cfXmsC.jpg" height="160" width="160"/>
+      <media:title type="plain">ケープタウン＋おまけ</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863638067858680945</id>
+    <published>2013-04-06T07:50:25.000Z</published>
+    <updated>2013-05-14T01:41:02.273Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">アフリカ後編</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114300190828293651863/albumid/5863638067858680945"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114300190828293651863/TPaxED"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863638067858680945"/>
+    <author>
+      <name>tomie keita</name>
+      <uri>https://picasaweb.google.com/114300190828293651863</uri>
+    </author>
+    <gphoto:id>5863638067858680945</gphoto:id>
+    <gphoto:name>TPaxED</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1365234625000</gphoto:timestamp>
+    <gphoto:numphotos>74</gphoto:numphotos>
+    <gphoto:user>114300190828293651863</gphoto:user>
+    <gphoto:nickname>tomie keita</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-04Y_IxHClNg/UV_TwX4srHE/AAAAAAAAA9c/pF0pStrqihg/TPaxED.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>tomie keita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-04Y_IxHClNg/UV_TwX4srHE/AAAAAAAAA9c/pF0pStrqihg/s160-c/TPaxED.jpg" height="160" width="160"/>
+      <media:title type="plain">アフリカ後編</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863631261707676337</id>
+    <published>2013-04-06T07:24:00.000Z</published>
+    <updated>2013-05-14T01:41:00.274Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">アフリカ前半</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114300190828293651863/albumid/5863631261707676337"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114300190828293651863/AFVyhG"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/114300190828293651863/albumid/5863631261707676337"/>
+    <author>
+      <name>tomie keita</name>
+      <uri>https://picasaweb.google.com/114300190828293651863</uri>
+    </author>
+    <gphoto:id>5863631261707676337</gphoto:id>
+    <gphoto:name>AFVyhG</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1365233040000</gphoto:timestamp>
+    <gphoto:numphotos>58</gphoto:numphotos>
+    <gphoto:user>114300190828293651863</gphoto:user>
+    <gphoto:nickname>tomie keita</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2H6MtVijP90/UV_NkM_2KrE/AAAAAAAAA-M/6vRs9mlhx44/AFVyhG.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>tomie keita</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2H6MtVijP90/UV_NkM_2KrE/AAAAAAAAA-M/6vRs9mlhx44/s160-c/AFVyhG.jpg" height="160" width="160"/>
+      <media:title type="plain">アフリカ前半</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825</id>
+  <updated>2015-09-16T17:24:14.069Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">2011.12.10 クラブラン</title>
+  <subtitle type="text"/>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-MCl66awadn0/VHg8HizAEhE/AAAAAAAAnBY/qJc1JvuSC4E/s160-c/20111210.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>あいただ</name>
+    <uri>https://picasaweb.google.com/101789004687109216019</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>36</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>6086680996688695825</gphoto:id>
+  <gphoto:name>20111210</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1323676800000</gphoto:timestamp>
+  <gphoto:numphotos>36</gphoto:numphotos>
+  <gphoto:user>101789004687109216019</gphoto:user>
+  <gphoto:nickname>あいただ</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681010416513746</id>
+    <published>2014-11-28T09:10:57.000Z</published>
+    <updated>2014-11-28T10:21:11.132Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1427.JPG</title>
+    <summary type="text">久々に登場</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-8OGorqfKnvs/VHg8IV798tI/AAAAAAAAmyE/Jei50UzSpNU/CIMG1427.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681010416513746"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681010416513746"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/zwnhdYOzk1MBh_j9MTyKpdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681010416513746"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681010416513746"/>
+    <gphoto:id>6086681010416513746</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>462036</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d97a409e</gphoto:checksum>
+    <gphoto:timestamp>1323478274000</gphoto:timestamp>
+    <gphoto:imageVersion>39713</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681010416513746</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323510674000</exif:time>
+      <exif:imageUniqueID>c2366ea07a93d046c5de199647cbe320</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-8OGorqfKnvs/VHg8IV798tI/AAAAAAAAmyE/Jei50UzSpNU/CIMG1427.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">久々に登場</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8OGorqfKnvs/VHg8IV798tI/AAAAAAAAmyE/Jei50UzSpNU/s72/CIMG1427.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8OGorqfKnvs/VHg8IV798tI/AAAAAAAAmyE/Jei50UzSpNU/s144/CIMG1427.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-8OGorqfKnvs/VHg8IV798tI/AAAAAAAAmyE/Jei50UzSpNU/s288/CIMG1427.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1427.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681026928164898</id>
+    <published>2014-11-28T09:11:01.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1422.JPG</title>
+    <summary type="text">出発前にジェンガで遊ぶ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4WPMMq_KBtY/VHg8JTcpwCI/AAAAAAAAmyM/FAB8EvbBR6I/CIMG1422.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681026928164898"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681026928164898"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/BWOD8eupOeNykjM0lSIIw9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681026928164898"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681026928164898"/>
+    <gphoto:id>6086681026928164898</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>390633</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a3009e</gphoto:checksum>
+    <gphoto:timestamp>1323475146000</gphoto:timestamp>
+    <gphoto:imageVersion>39715</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681026928164898</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1323507546000</exif:time>
+      <exif:imageUniqueID>a8050fab6beee894913e56cf7eea2a6c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4WPMMq_KBtY/VHg8JTcpwCI/AAAAAAAAmyM/FAB8EvbBR6I/CIMG1422.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">出発前にジェンガで遊ぶ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4WPMMq_KBtY/VHg8JTcpwCI/AAAAAAAAmyM/FAB8EvbBR6I/s72/CIMG1422.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4WPMMq_KBtY/VHg8JTcpwCI/AAAAAAAAmyM/FAB8EvbBR6I/s144/CIMG1422.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4WPMMq_KBtY/VHg8JTcpwCI/AAAAAAAAmyM/FAB8EvbBR6I/s288/CIMG1422.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1422.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681046928023730</id>
+    <published>2014-11-28T09:11:05.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1423.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BhBXU5l0ZoM/VHg8Kd8_YLI/AAAAAAAAmyU/GDhDsTJUMk0/CIMG1423.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681046928023730"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681046928023730"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/t8zGE-q8VIc-W4sbh-zGTdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681046928023730"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681046928023730"/>
+    <gphoto:id>6086681046928023730</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>417465</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a3a09e</gphoto:checksum>
+    <gphoto:timestamp>1323475185000</gphoto:timestamp>
+    <gphoto:imageVersion>39717</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681046928023730</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1323507585000</exif:time>
+      <exif:imageUniqueID>ca3ac72b7ee9a73b870f0c2da8c6c8ff</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BhBXU5l0ZoM/VHg8Kd8_YLI/AAAAAAAAmyU/GDhDsTJUMk0/CIMG1423.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BhBXU5l0ZoM/VHg8Kd8_YLI/AAAAAAAAmyU/GDhDsTJUMk0/s72/CIMG1423.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BhBXU5l0ZoM/VHg8Kd8_YLI/AAAAAAAAmyU/GDhDsTJUMk0/s144/CIMG1423.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BhBXU5l0ZoM/VHg8Kd8_YLI/AAAAAAAAmyU/GDhDsTJUMk0/s288/CIMG1423.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1423.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681061573120290</id>
+    <published>2014-11-28T09:11:09.000Z</published>
+    <updated>2015-09-16T17:23:08.651Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1424.JPG</title>
+    <summary type="text">今回は大石企画のトレイルです</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-P78dG3JQQew/VHg8LUgp0SI/AAAAAAAAmyc/fZBGASoXwV4/CIMG1424.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681061573120290"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681061573120290"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/AHJOfEKO44W4-w0QM36N7dMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681061573120290"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681061573120290"/>
+    <gphoto:id>6086681061573120290</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>343430</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a3809e</gphoto:checksum>
+    <gphoto:timestamp>1323476745000</gphoto:timestamp>
+    <gphoto:imageVersion>39719</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681061573120290</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323509145000</exif:time>
+      <exif:imageUniqueID>56a70bb894ef76ed49ec8e943ed27cf6</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P78dG3JQQew/VHg8LUgp0SI/AAAAAAAAmyc/fZBGASoXwV4/CIMG1424.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">今回は大石企画のトレイルです</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P78dG3JQQew/VHg8LUgp0SI/AAAAAAAAmyc/fZBGASoXwV4/s72/CIMG1424.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P78dG3JQQew/VHg8LUgp0SI/AAAAAAAAmyc/fZBGASoXwV4/s144/CIMG1424.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P78dG3JQQew/VHg8LUgp0SI/AAAAAAAAmyc/fZBGASoXwV4/s288/CIMG1424.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1424.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681079820814866</id>
+    <published>2014-11-28T09:11:13.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1425.JPG</title>
+    <summary type="text">ぞくぞくと集まる</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-pwDMDyUTtJU/VHg8MYfPihI/AAAAAAAAmyk/4RNCt9TUZdY/CIMG1425.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681079820814866"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681079820814866"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/SgP9Wf_kZtaBtcf0iW8s3tMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681079820814866"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681079820814866"/>
+    <gphoto:id>6086681079820814866</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>564014</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a1209e</gphoto:checksum>
+    <gphoto:timestamp>1323476784000</gphoto:timestamp>
+    <gphoto:imageVersion>39721</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681079820814866</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323509184000</exif:time>
+      <exif:imageUniqueID>bf17443317aacaa54b6b2db0ac2805dd</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-pwDMDyUTtJU/VHg8MYfPihI/AAAAAAAAmyk/4RNCt9TUZdY/CIMG1425.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">ぞくぞくと集まる</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwDMDyUTtJU/VHg8MYfPihI/AAAAAAAAmyk/4RNCt9TUZdY/s72/CIMG1425.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwDMDyUTtJU/VHg8MYfPihI/AAAAAAAAmyk/4RNCt9TUZdY/s144/CIMG1425.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-pwDMDyUTtJU/VHg8MYfPihI/AAAAAAAAmyk/4RNCt9TUZdY/s288/CIMG1425.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1425.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681102675156322</id>
+    <published>2014-11-28T09:11:18.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1426.JPG</title>
+    <summary type="text">どんどん写真をとりましょう。picasaにあげましょう。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2uu1PCJeg6s/VHg8NtoJHWI/AAAAAAAAmys/qQHSJicor0E/CIMG1426.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681102675156322"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681102675156322"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/d7-Sym8tHYYQgA8yV5EjudMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681102675156322"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681102675156322"/>
+    <gphoto:id>6086681102675156322</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>452555</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a1809e</gphoto:checksum>
+    <gphoto:timestamp>1323476993000</gphoto:timestamp>
+    <gphoto:imageVersion>39723</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681102675156322</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323509393000</exif:time>
+      <exif:imageUniqueID>626261e607c52dafd39c4c77275454a7</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2uu1PCJeg6s/VHg8NtoJHWI/AAAAAAAAmys/qQHSJicor0E/CIMG1426.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">どんどん写真をとりましょう。picasaにあげましょう。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2uu1PCJeg6s/VHg8NtoJHWI/AAAAAAAAmys/qQHSJicor0E/s72/CIMG1426.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2uu1PCJeg6s/VHg8NtoJHWI/AAAAAAAAmys/qQHSJicor0E/s144/CIMG1426.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2uu1PCJeg6s/VHg8NtoJHWI/AAAAAAAAmys/qQHSJicor0E/s288/CIMG1426.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1426.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681130215816530</id>
+    <published>2014-11-28T09:11:25.000Z</published>
+    <updated>2015-09-16T17:23:23.714Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1429.JPG</title>
+    <summary type="text">ジャン！（もちろんやらない）</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-VnEcwNM-wBk/VHg8PUOWPVI/AAAAAAAAmy0/Z3v4z7k7b2U/CIMG1429.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681130215816530"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681130215816530"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/-1czzXcwHemsHZaztFAUxdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681130215816530"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681130215816530"/>
+    <gphoto:id>6086681130215816530</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>998861</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d97b809e</gphoto:checksum>
+    <gphoto:timestamp>1323480902000</gphoto:timestamp>
+    <gphoto:imageVersion>39725</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681130215816530</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323513302000</exif:time>
+      <exif:imageUniqueID>28b3c8811dfef52a4a43b9407ce191a9</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-VnEcwNM-wBk/VHg8PUOWPVI/AAAAAAAAmy0/Z3v4z7k7b2U/CIMG1429.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">ジャン！（もちろんやらない）</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VnEcwNM-wBk/VHg8PUOWPVI/AAAAAAAAmy0/Z3v4z7k7b2U/s72/CIMG1429.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VnEcwNM-wBk/VHg8PUOWPVI/AAAAAAAAmy0/Z3v4z7k7b2U/s144/CIMG1429.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-VnEcwNM-wBk/VHg8PUOWPVI/AAAAAAAAmy0/Z3v4z7k7b2U/s288/CIMG1429.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1429.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681146391159474</id>
+    <published>2014-11-28T09:11:29.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1430.JPG</title>
+    <summary type="text">一騎討ち</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-QKGFY107LTg/VHg8QQe2YrI/AAAAAAAAmy8/kmrH38obK2Y/CIMG1430.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681146391159474"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681146391159474"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/y1Us-c-T0iZDgTFaWX7qsNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681146391159474"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681146391159474"/>
+    <gphoto:id>6086681146391159474</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>8.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>390758</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d97ba09e</gphoto:checksum>
+    <gphoto:timestamp>1323480922000</gphoto:timestamp>
+    <gphoto:imageVersion>39727</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681146391159474</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323513322000</exif:time>
+      <exif:imageUniqueID>2c95bcc66e3496a021be850a110390a4</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-QKGFY107LTg/VHg8QQe2YrI/AAAAAAAAmy8/kmrH38obK2Y/CIMG1430.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">一騎討ち</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QKGFY107LTg/VHg8QQe2YrI/AAAAAAAAmy8/kmrH38obK2Y/s72/CIMG1430.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QKGFY107LTg/VHg8QQe2YrI/AAAAAAAAmy8/kmrH38obK2Y/s144/CIMG1430.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-QKGFY107LTg/VHg8QQe2YrI/AAAAAAAAmy8/kmrH38obK2Y/s288/CIMG1430.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1430.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681166924350418</id>
+    <published>2014-11-28T09:11:33.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1428.JPG</title>
+    <summary type="text">近隣住民っぽいミムラ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-4K41V2QZn3U/VHg8Rc-WA9I/AAAAAAAAmzE/5QmOpMEhC2k/CIMG1428.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681166924350418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681166924350418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/9Se2IdpycsLRdqyWVhvDm9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681166924350418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681166924350418"/>
+    <gphoto:id>6086681166924350418</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>9.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>852269</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d97b409e</gphoto:checksum>
+    <gphoto:timestamp>1323480846000</gphoto:timestamp>
+    <gphoto:imageVersion>39729</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681166924350418</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.0015625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323513246000</exif:time>
+      <exif:imageUniqueID>99e7d263e0ab684f95ddeb390bb1a259</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-4K41V2QZn3U/VHg8Rc-WA9I/AAAAAAAAmzE/5QmOpMEhC2k/CIMG1428.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">近隣住民っぽいミムラ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4K41V2QZn3U/VHg8Rc-WA9I/AAAAAAAAmzE/5QmOpMEhC2k/s72/CIMG1428.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4K41V2QZn3U/VHg8Rc-WA9I/AAAAAAAAmzE/5QmOpMEhC2k/s144/CIMG1428.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-4K41V2QZn3U/VHg8Rc-WA9I/AAAAAAAAmzE/5QmOpMEhC2k/s288/CIMG1428.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1428.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681185350049874</id>
+    <published>2014-11-28T09:11:38.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1431.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-BgwwUmcisSg/VHg8ShnX4FI/AAAAAAAAmzM/YN5pyinrCkQ/CIMG1431.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681185350049874"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681185350049874"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/cE1o7at_u9pzP2K3Mnh-vNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681185350049874"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681185350049874"/>
+    <gphoto:id>6086681185350049874</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>10.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>850780</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d987a09e</gphoto:checksum>
+    <gphoto:timestamp>1323481562000</gphoto:timestamp>
+    <gphoto:imageVersion>39731</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681185350049874</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323513962000</exif:time>
+      <exif:imageUniqueID>40baad79797cc55cd08ab80e5e537b86</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-BgwwUmcisSg/VHg8ShnX4FI/AAAAAAAAmzM/YN5pyinrCkQ/CIMG1431.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BgwwUmcisSg/VHg8ShnX4FI/AAAAAAAAmzM/YN5pyinrCkQ/s72/CIMG1431.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BgwwUmcisSg/VHg8ShnX4FI/AAAAAAAAmzM/YN5pyinrCkQ/s144/CIMG1431.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-BgwwUmcisSg/VHg8ShnX4FI/AAAAAAAAmzM/YN5pyinrCkQ/s288/CIMG1431.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1431.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681206486650690</id>
+    <published>2014-11-28T09:11:43.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1437.JPG</title>
+    <summary type="text">12月でもガリガリ君をほおばる人</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Obhw_5VBjbI/VHg8TwWuz0I/AAAAAAAAmzU/CVbBOWxPz5U/CIMG1437.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681206486650690"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681206486650690"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/KTs9YvuJmApmZ-9BX_co09MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681206486650690"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681206486650690"/>
+    <gphoto:id>6086681206486650690</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>11.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>667429</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d983409e</gphoto:checksum>
+    <gphoto:timestamp>1323482005000</gphoto:timestamp>
+    <gphoto:imageVersion>39733</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681206486650690</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.004</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323514405000</exif:time>
+      <exif:imageUniqueID>ac2c00a3687b588ff47b954cbddf201d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Obhw_5VBjbI/VHg8TwWuz0I/AAAAAAAAmzU/CVbBOWxPz5U/CIMG1437.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">12月でもガリガリ君をほおばる人</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Obhw_5VBjbI/VHg8TwWuz0I/AAAAAAAAmzU/CVbBOWxPz5U/s72/CIMG1437.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Obhw_5VBjbI/VHg8TwWuz0I/AAAAAAAAmzU/CVbBOWxPz5U/s144/CIMG1437.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Obhw_5VBjbI/VHg8TwWuz0I/AAAAAAAAmzU/CVbBOWxPz5U/s288/CIMG1437.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1437.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681226235270626</id>
+    <published>2014-11-28T09:11:47.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1433.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7WM6d8o-we8/VHg8U57K1eI/AAAAAAAAmzc/UzIKC7HxgGM/CIMG1433.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681226235270626"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681226235270626"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/QL-Jcfuh_uKTbzw8PwwkV9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681226235270626"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681226235270626"/>
+    <gphoto:id>6086681226235270626</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>12.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>553000</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d987809e</gphoto:checksum>
+    <gphoto:timestamp>1323481627000</gphoto:timestamp>
+    <gphoto:imageVersion>39735</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681226235270626</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323514027000</exif:time>
+      <exif:imageUniqueID>5da64d40ed56e046be688343e8ecfa83</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7WM6d8o-we8/VHg8U57K1eI/AAAAAAAAmzc/UzIKC7HxgGM/CIMG1433.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7WM6d8o-we8/VHg8U57K1eI/AAAAAAAAmzc/UzIKC7HxgGM/s72/CIMG1433.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7WM6d8o-we8/VHg8U57K1eI/AAAAAAAAmzc/UzIKC7HxgGM/s144/CIMG1433.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7WM6d8o-we8/VHg8U57K1eI/AAAAAAAAmzc/UzIKC7HxgGM/s288/CIMG1433.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1433.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681248190546642</id>
+    <published>2014-11-28T09:11:52.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1436.JPG</title>
+    <summary type="text">猫がいた</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-xiFiYCc-aUQ/VHg8WLttwtI/AAAAAAAAmzk/XexpqAWvw50/CIMG1436.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681248190546642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681248190546642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/RFaryDiUJPlBTVqpSOJXodMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681248190546642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681248190546642"/>
+    <gphoto:id>6086681248190546642</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>13.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>940538</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d983e09e</gphoto:checksum>
+    <gphoto:timestamp>1323481674000</gphoto:timestamp>
+    <gphoto:imageVersion>39737</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681248190546642</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.002</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323514074000</exif:time>
+      <exif:imageUniqueID>1e8e91a3b3017c0b3b4491278f0a7180</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xiFiYCc-aUQ/VHg8WLttwtI/AAAAAAAAmzk/XexpqAWvw50/CIMG1436.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">猫がいた</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xiFiYCc-aUQ/VHg8WLttwtI/AAAAAAAAmzk/XexpqAWvw50/s72/CIMG1436.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xiFiYCc-aUQ/VHg8WLttwtI/AAAAAAAAmzk/XexpqAWvw50/s144/CIMG1436.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xiFiYCc-aUQ/VHg8WLttwtI/AAAAAAAAmzk/XexpqAWvw50/s288/CIMG1436.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1436.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681269560477570</id>
+    <published>2014-11-28T09:11:57.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1434.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-L9kn-2wizWU/VHg8XbUtB4I/AAAAAAAAmzs/Y32C-fpV7hU/CIMG1434.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681269560477570"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681269560477570"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/T5HrXU5vgbW4ubJT84jFYNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681269560477570"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681269560477570"/>
+    <gphoto:id>6086681269560477570</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>14.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1005975</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d984a09e</gphoto:checksum>
+    <gphoto:timestamp>1323481635000</gphoto:timestamp>
+    <gphoto:imageVersion>39739</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681269560477570</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323514035000</exif:time>
+      <exif:imageUniqueID>9010e6d41d1d22fdff986b7566cd2854</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-L9kn-2wizWU/VHg8XbUtB4I/AAAAAAAAmzs/Y32C-fpV7hU/CIMG1434.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L9kn-2wizWU/VHg8XbUtB4I/AAAAAAAAmzs/Y32C-fpV7hU/s72/CIMG1434.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L9kn-2wizWU/VHg8XbUtB4I/AAAAAAAAmzs/Y32C-fpV7hU/s144/CIMG1434.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L9kn-2wizWU/VHg8XbUtB4I/AAAAAAAAmzs/Y32C-fpV7hU/s288/CIMG1434.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1434.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681317494403906</id>
+    <published>2014-11-28T09:12:08.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1587.JPG</title>
+    <summary type="text">１回生のTQR一位とTQF一位</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vyYqkZhhjxU/VHg8aN5Cs0I/AAAAAAAAmz0/B_rmhNYU1H0/CIMG1587.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681317494403906"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681317494403906"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/8-61P5exAdGCYCCJ3bYVQdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681317494403906"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681317494403906"/>
+    <gphoto:id>6086681317494403906</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>15.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>2556353</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d982609e</gphoto:checksum>
+    <gphoto:timestamp>1323484348000</gphoto:timestamp>
+    <gphoto:imageVersion>39741</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681317494403906</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>7.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323516748000</exif:time>
+      <exif:imageUniqueID>acd07196a2122388b45d32baa5894308</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vyYqkZhhjxU/VHg8aN5Cs0I/AAAAAAAAmz0/B_rmhNYU1H0/CIMG1587.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">１回生のTQR一位とTQF一位</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vyYqkZhhjxU/VHg8aN5Cs0I/AAAAAAAAmz0/B_rmhNYU1H0/s72/CIMG1587.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vyYqkZhhjxU/VHg8aN5Cs0I/AAAAAAAAmz0/B_rmhNYU1H0/s144/CIMG1587.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vyYqkZhhjxU/VHg8aN5Cs0I/AAAAAAAAmz0/B_rmhNYU1H0/s288/CIMG1587.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1587.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681335559509106</id>
+    <published>2014-11-28T09:12:13.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1588.JPG</title>
+    <summary type="text">雪合戦がしたくてたまらないらしい</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Qv99hTWAJlI/VHg8bRMGVHI/AAAAAAAAmz8/cTPbD2Pnxks/CIMG1588.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681335559509106"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681335559509106"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/DJegXjuN3Gk_tJEgBVpE9NMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681335559509106"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681335559509106"/>
+    <gphoto:id>6086681335559509106</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>16.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>539600</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d981809e</gphoto:checksum>
+    <gphoto:timestamp>1323487334000</gphoto:timestamp>
+    <gphoto:imageVersion>39743</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681335559509106</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323519734000</exif:time>
+      <exif:imageUniqueID>b9ce6d7690b66be2a580f70c39a5ea48</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Qv99hTWAJlI/VHg8bRMGVHI/AAAAAAAAmz8/cTPbD2Pnxks/CIMG1588.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">雪合戦がしたくてたまらないらしい</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qv99hTWAJlI/VHg8bRMGVHI/AAAAAAAAmz8/cTPbD2Pnxks/s72/CIMG1588.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qv99hTWAJlI/VHg8bRMGVHI/AAAAAAAAmz8/cTPbD2Pnxks/s144/CIMG1588.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Qv99hTWAJlI/VHg8bRMGVHI/AAAAAAAAmz8/cTPbD2Pnxks/s288/CIMG1588.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1588.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681350317453138</id>
+    <published>2014-11-28T09:12:16.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1589.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-21-brNx2570/VHg8cIKqr1I/AAAAAAAAm0E/gVh8v37Jpq0/CIMG1589.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681350317453138"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681350317453138"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/s8iIR6oiniRg--fwGWABDdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681350317453138"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681350317453138"/>
+    <gphoto:id>6086681350317453138</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>17.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>517022</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d98e609e</gphoto:checksum>
+    <gphoto:timestamp>1323487358000</gphoto:timestamp>
+    <gphoto:imageVersion>39745</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681350317453138</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323519758000</exif:time>
+      <exif:imageUniqueID>6d15bd97c61f26e8c424bf788a574419</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-21-brNx2570/VHg8cIKqr1I/AAAAAAAAm0E/gVh8v37Jpq0/CIMG1589.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-21-brNx2570/VHg8cIKqr1I/AAAAAAAAm0E/gVh8v37Jpq0/s72/CIMG1589.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-21-brNx2570/VHg8cIKqr1I/AAAAAAAAm0E/gVh8v37Jpq0/s144/CIMG1589.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-21-brNx2570/VHg8cIKqr1I/AAAAAAAAm0E/gVh8v37Jpq0/s288/CIMG1589.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1589.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681367258312402</id>
+    <published>2014-11-28T09:12:20.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1590.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-24vndJZKAmI/VHg8dHRrrtI/AAAAAAAAm0M/E4XHVPnior0/CIMG1590.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681367258312402"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681367258312402"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/U9WG8THrSXm-zQ1D6OXQm9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681367258312402"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681367258312402"/>
+    <gphoto:id>6086681367258312402</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>18.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>566045</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d98f809e</gphoto:checksum>
+    <gphoto:timestamp>1323487365000</gphoto:timestamp>
+    <gphoto:imageVersion>39747</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681367258312402</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323519765000</exif:time>
+      <exif:imageUniqueID>fbf124f5040ccb21b77fe2e993ddb882</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-24vndJZKAmI/VHg8dHRrrtI/AAAAAAAAm0M/E4XHVPnior0/CIMG1590.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24vndJZKAmI/VHg8dHRrrtI/AAAAAAAAm0M/E4XHVPnior0/s72/CIMG1590.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24vndJZKAmI/VHg8dHRrrtI/AAAAAAAAm0M/E4XHVPnior0/s144/CIMG1590.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24vndJZKAmI/VHg8dHRrrtI/AAAAAAAAm0M/E4XHVPnior0/s288/CIMG1590.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1590.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681385609331650</id>
+    <published>2014-11-28T09:12:24.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1591.JPG</title>
+    <summary type="text">次回のクラブランが楽しみですね</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-PedVmOfdIMk/VHg8eLo6A8I/AAAAAAAAm0U/DBCcUHrD65k/CIMG1591.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681385609331650"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681385609331650"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/M_lWtxKIMRVylSNGAfnJatMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681385609331650"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681385609331650"/>
+    <gphoto:id>6086681385609331650</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>19.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>418267</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d98c609e</gphoto:checksum>
+    <gphoto:timestamp>1323487372000</gphoto:timestamp>
+    <gphoto:imageVersion>39749</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681385609331650</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323519772000</exif:time>
+      <exif:imageUniqueID>bad88d716a05bb79bb8b5317b622edde</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-PedVmOfdIMk/VHg8eLo6A8I/AAAAAAAAm0U/DBCcUHrD65k/CIMG1591.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">次回のクラブランが楽しみですね</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PedVmOfdIMk/VHg8eLo6A8I/AAAAAAAAm0U/DBCcUHrD65k/s72/CIMG1591.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PedVmOfdIMk/VHg8eLo6A8I/AAAAAAAAm0U/DBCcUHrD65k/s144/CIMG1591.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-PedVmOfdIMk/VHg8eLo6A8I/AAAAAAAAm0U/DBCcUHrD65k/s288/CIMG1591.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1591.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681404104895426</id>
+    <published>2014-11-28T09:12:29.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1592.JPG</title>
+    <summary type="text">雪トレイル怖い</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-zdW5wh6eICI/VHg8fQil68I/AAAAAAAAm0c/rUcPlY5IROU/CIMG1592.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681404104895426"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681404104895426"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/FtKBZvgPXx1nFIb40R5wHtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681404104895426"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681404104895426"/>
+    <gphoto:id>6086681404104895426</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>20.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>815051</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d98a609e</gphoto:checksum>
+    <gphoto:timestamp>1323489000000</gphoto:timestamp>
+    <gphoto:imageVersion>39751</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681404104895426</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323521400000</exif:time>
+      <exif:imageUniqueID>914806c71544a2a0a7d0dcb866c01d5d</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-zdW5wh6eICI/VHg8fQil68I/AAAAAAAAm0c/rUcPlY5IROU/CIMG1592.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">雪トレイル怖い</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zdW5wh6eICI/VHg8fQil68I/AAAAAAAAm0c/rUcPlY5IROU/s72/CIMG1592.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zdW5wh6eICI/VHg8fQil68I/AAAAAAAAm0c/rUcPlY5IROU/s144/CIMG1592.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-zdW5wh6eICI/VHg8fQil68I/AAAAAAAAm0c/rUcPlY5IROU/s288/CIMG1592.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1592.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681421797944130</id>
+    <published>2014-11-28T09:12:33.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1593.JPG</title>
+    <summary type="text">セリオで伊澤さん離脱</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-24icX3W72MY/VHg8gSc8a0I/AAAAAAAAm0k/DSqRFmV92JE/CIMG1593.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681421797944130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681421797944130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/lhOjfb8LZIDELneVMqcflNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681421797944130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681421797944130"/>
+    <gphoto:id>6086681421797944130</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>21.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>696224</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d98b009e</gphoto:checksum>
+    <gphoto:timestamp>1323489011000</gphoto:timestamp>
+    <gphoto:imageVersion>39753</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681421797944130</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.01</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323521411000</exif:time>
+      <exif:imageUniqueID>064e09e18d9ba6470000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-24icX3W72MY/VHg8gSc8a0I/AAAAAAAAm0k/DSqRFmV92JE/CIMG1593.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">セリオで伊澤さん離脱</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24icX3W72MY/VHg8gSc8a0I/AAAAAAAAm0k/DSqRFmV92JE/s72/CIMG1593.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24icX3W72MY/VHg8gSc8a0I/AAAAAAAAm0k/DSqRFmV92JE/s144/CIMG1593.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-24icX3W72MY/VHg8gSc8a0I/AAAAAAAAm0k/DSqRFmV92JE/s288/CIMG1593.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1593.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681445570898642</id>
+    <published>2014-11-28T09:12:38.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1594.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-TD55ANPPt2U/VHg8hrA26tI/AAAAAAAAm0s/vxxBZXSep8A/CIMG1594.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681445570898642"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681445570898642"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/D6Y61y2e1PxQn_GZY6V6v9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681445570898642"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681445570898642"/>
+    <gphoto:id>6086681445570898642</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>22.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>842424</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d989209e</gphoto:checksum>
+    <gphoto:timestamp>1323489032000</gphoto:timestamp>
+    <gphoto:imageVersion>39755</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681445570898642</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.00625</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323521432000</exif:time>
+      <exif:imageUniqueID>e6ab7f45c82c3d4099a03eb6336a5c3f</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TD55ANPPt2U/VHg8hrA26tI/AAAAAAAAm0s/vxxBZXSep8A/CIMG1594.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TD55ANPPt2U/VHg8hrA26tI/AAAAAAAAm0s/vxxBZXSep8A/s72/CIMG1594.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TD55ANPPt2U/VHg8hrA26tI/AAAAAAAAm0s/vxxBZXSep8A/s144/CIMG1594.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TD55ANPPt2U/VHg8hrA26tI/AAAAAAAAm0s/vxxBZXSep8A/s288/CIMG1594.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1594.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681466306453170</id>
+    <published>2014-11-28T09:12:43.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1595.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-IEdF20aYB_U/VHg8i4QmXrI/AAAAAAAAm00/54tJ_SgOpDs/CIMG1595.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681466306453170"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681466306453170"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/kSTC7xsXkaE726HtMzhaMtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681466306453170"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681466306453170"/>
+    <gphoto:id>6086681466306453170</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>23.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>1123777</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d997c09e</gphoto:checksum>
+    <gphoto:timestamp>1323489044000</gphoto:timestamp>
+    <gphoto:imageVersion>39757</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681466306453170</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323521444000</exif:time>
+      <exif:imageUniqueID>90d3a16649db79a90000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-IEdF20aYB_U/VHg8i4QmXrI/AAAAAAAAm00/54tJ_SgOpDs/CIMG1595.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEdF20aYB_U/VHg8i4QmXrI/AAAAAAAAm00/54tJ_SgOpDs/s72/CIMG1595.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEdF20aYB_U/VHg8i4QmXrI/AAAAAAAAm00/54tJ_SgOpDs/s144/CIMG1595.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-IEdF20aYB_U/VHg8i4QmXrI/AAAAAAAAm00/54tJ_SgOpDs/s288/CIMG1595.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1595.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681485750627794</id>
+    <published>2014-11-28T09:12:48.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1596.JPG</title>
+    <summary type="text">氷の皮</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-9yQPkmJP_Zw/VHg8kAsc7dI/AAAAAAAAm08/Jo_Lpv5yUo0/CIMG1596.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681485750627794"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681485750627794"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/vrOJC0esEvdv4-cl1VwkRtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681485750627794"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681485750627794"/>
+    <gphoto:id>6086681485750627794</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>24.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>825199</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d997c09e</gphoto:checksum>
+    <gphoto:timestamp>1323490547000</gphoto:timestamp>
+    <gphoto:imageVersion>39759</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681485750627794</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.005</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>80</exif:iso>
+      <exif:time>1323522947000</exif:time>
+      <exif:imageUniqueID>41a108ec3b4455f4b5495fd24b7d33e1</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-9yQPkmJP_Zw/VHg8kAsc7dI/AAAAAAAAm08/Jo_Lpv5yUo0/CIMG1596.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">氷の皮</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9yQPkmJP_Zw/VHg8kAsc7dI/AAAAAAAAm08/Jo_Lpv5yUo0/s72/CIMG1596.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9yQPkmJP_Zw/VHg8kAsc7dI/AAAAAAAAm08/Jo_Lpv5yUo0/s144/CIMG1596.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-9yQPkmJP_Zw/VHg8kAsc7dI/AAAAAAAAm08/Jo_Lpv5yUo0/s288/CIMG1596.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1596.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681511276897074</id>
+    <published>2014-11-28T09:12:53.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1597.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-WRh7lEHFMvA/VHg8lfyY4zI/AAAAAAAAm1E/2KELrUoeytQ/CIMG1597.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681511276897074"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681511276897074"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/pow07mtkAfPblnQMa1oAstMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681511276897074"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681511276897074"/>
+    <gphoto:id>6086681511276897074</gphoto:id>
+    <gphoto:version>6</gphoto:version>
+    <gphoto:position>25.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>762579</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d994a09e</gphoto:checksum>
+    <gphoto:timestamp>1323493201000</gphoto:timestamp>
+    <gphoto:imageVersion>39761</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681511276897074</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323525601000</exif:time>
+      <exif:imageUniqueID>8bdc930118e8f6f8df612655350d0458</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WRh7lEHFMvA/VHg8lfyY4zI/AAAAAAAAm1E/2KELrUoeytQ/CIMG1597.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WRh7lEHFMvA/VHg8lfyY4zI/AAAAAAAAm1E/2KELrUoeytQ/s72/CIMG1597.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WRh7lEHFMvA/VHg8lfyY4zI/AAAAAAAAm1E/2KELrUoeytQ/s144/CIMG1597.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WRh7lEHFMvA/VHg8lfyY4zI/AAAAAAAAm1E/2KELrUoeytQ/s288/CIMG1597.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1597.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681534816756130</id>
+    <published>2014-11-28T09:12:59.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1599.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-iR1sf9nFFxk/VHg8m3euoaI/AAAAAAAAm1M/pcWR2Ka923w/CIMG1599.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681534816756130"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681534816756130"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2G6XsvJT3QJCkOiG5OR4v9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681534816756130"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681534816756130"/>
+    <gphoto:id>6086681534816756130</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>26.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>854445</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d990409e</gphoto:checksum>
+    <gphoto:timestamp>1323493282000</gphoto:timestamp>
+    <gphoto:imageVersion>39763</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681534816756130</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323525682000</exif:time>
+      <exif:imageUniqueID>9fa448fe37f72b3502947670165c9f71</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iR1sf9nFFxk/VHg8m3euoaI/AAAAAAAAm1M/pcWR2Ka923w/CIMG1599.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iR1sf9nFFxk/VHg8m3euoaI/AAAAAAAAm1M/pcWR2Ka923w/s72/CIMG1599.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iR1sf9nFFxk/VHg8m3euoaI/AAAAAAAAm1M/pcWR2Ka923w/s144/CIMG1599.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iR1sf9nFFxk/VHg8m3euoaI/AAAAAAAAm1M/pcWR2Ka923w/s288/CIMG1599.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1599.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681555616484194</id>
+    <published>2014-11-28T09:13:04.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1601.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-0YQzNKLnDOM/VHg8oE9xS2I/AAAAAAAAm1U/UQBUxRgHXaM/CIMG1601.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681555616484194"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681555616484194"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/RwSTFGSaOG6fNxfQUlW8zNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681555616484194"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681555616484194"/>
+    <gphoto:id>6086681555616484194</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>27.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>570586</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d990209e</gphoto:checksum>
+    <gphoto:timestamp>1323493514000</gphoto:timestamp>
+    <gphoto:imageVersion>39765</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681555616484194</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323525914000</exif:time>
+      <exif:imageUniqueID>8e2a8242bc65319de68a67a4d8dd705a</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0YQzNKLnDOM/VHg8oE9xS2I/AAAAAAAAm1U/UQBUxRgHXaM/CIMG1601.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0YQzNKLnDOM/VHg8oE9xS2I/AAAAAAAAm1U/UQBUxRgHXaM/s72/CIMG1601.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0YQzNKLnDOM/VHg8oE9xS2I/AAAAAAAAm1U/UQBUxRgHXaM/s144/CIMG1601.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0YQzNKLnDOM/VHg8oE9xS2I/AAAAAAAAm1U/UQBUxRgHXaM/s288/CIMG1601.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1601.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681580726622498</id>
+    <published>2014-11-28T09:13:10.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1602.JPG</title>
+    <summary type="text">雪はなくなっても生チョコのような路面でとてもすべる。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-_ILBoVCAccA/VHg8pigfmSI/AAAAAAAAm1c/OEHE-nXGfFU/CIMG1602.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681580726622498"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681580726622498"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/V59fIYu4vIVliWp9e257BNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681580726622498"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681580726622498"/>
+    <gphoto:id>6086681580726622498</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>28.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>794411</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d99fa09e</gphoto:checksum>
+    <gphoto:timestamp>1323494235000</gphoto:timestamp>
+    <gphoto:imageVersion>39767</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681580726622498</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323526635000</exif:time>
+      <exif:imageUniqueID>88be6bfe3f5abc860000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-_ILBoVCAccA/VHg8pigfmSI/AAAAAAAAm1c/OEHE-nXGfFU/CIMG1602.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">雪はなくなっても生チョコのような路面でとてもすべる。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ILBoVCAccA/VHg8pigfmSI/AAAAAAAAm1c/OEHE-nXGfFU/s72/CIMG1602.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ILBoVCAccA/VHg8pigfmSI/AAAAAAAAm1c/OEHE-nXGfFU/s144/CIMG1602.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-_ILBoVCAccA/VHg8pigfmSI/AAAAAAAAm1c/OEHE-nXGfFU/s288/CIMG1602.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1602.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681597827256162</id>
+    <published>2014-11-28T09:13:14.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1603.JPG</title>
+    <summary type="text">攻める薗</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-eOyM6JJxoNQ/VHg8qiNmj2I/AAAAAAAAm1k/5Pm5wO3-9Ig/CIMG1603.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681597827256162"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681597827256162"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/HvUZRV7rQWniF8wyo9Z9BdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681597827256162"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681597827256162"/>
+    <gphoto:id>6086681597827256162</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>29.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>533680</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d99fe09e</gphoto:checksum>
+    <gphoto:timestamp>1323494263000</gphoto:timestamp>
+    <gphoto:imageVersion>39769</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681597827256162</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323526663000</exif:time>
+      <exif:imageUniqueID>c2dcbe046b47f097ef34389582b3670c</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-eOyM6JJxoNQ/VHg8qiNmj2I/AAAAAAAAm1k/5Pm5wO3-9Ig/CIMG1603.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">攻める薗</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eOyM6JJxoNQ/VHg8qiNmj2I/AAAAAAAAm1k/5Pm5wO3-9Ig/s72/CIMG1603.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eOyM6JJxoNQ/VHg8qiNmj2I/AAAAAAAAm1k/5Pm5wO3-9Ig/s144/CIMG1603.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eOyM6JJxoNQ/VHg8qiNmj2I/AAAAAAAAm1k/5Pm5wO3-9Ig/s288/CIMG1603.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1603.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681610962609506</id>
+    <published>2014-11-28T09:13:17.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1604.JPG</title>
+    <summary type="text">みなガンガン攻める</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-2IHIsnVb7_k/VHg8rTJUJWI/AAAAAAAAm1s/DY0FHaaiEAk/CIMG1604.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681610962609506"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681610962609506"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uqEQGx_zzzzoPivk7PZPmNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681610962609506"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681610962609506"/>
+    <gphoto:id>6086681610962609506</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>30.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>466910</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d99fe09e</gphoto:checksum>
+    <gphoto:timestamp>1323494279000</gphoto:timestamp>
+    <gphoto:imageVersion>39771</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681610962609506</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>true</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323526679000</exif:time>
+      <exif:imageUniqueID>91f00d7895e7824d5bfc85341002a1c8</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-2IHIsnVb7_k/VHg8rTJUJWI/AAAAAAAAm1s/DY0FHaaiEAk/CIMG1604.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">みなガンガン攻める</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2IHIsnVb7_k/VHg8rTJUJWI/AAAAAAAAm1s/DY0FHaaiEAk/s72/CIMG1604.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2IHIsnVb7_k/VHg8rTJUJWI/AAAAAAAAm1s/DY0FHaaiEAk/s144/CIMG1604.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-2IHIsnVb7_k/VHg8rTJUJWI/AAAAAAAAm1s/DY0FHaaiEAk/s288/CIMG1604.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1604.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681643971597314</id>
+    <published>2014-11-28T09:13:24.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1606.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-jtJzekF_oNQ/VHg8tOHRVAI/AAAAAAAAm10/Xm6nMFKzEBo/CIMG1606.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681643971597314"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681643971597314"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Za2m59h3JlSXLRP7PoYxbtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681643971597314"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681643971597314"/>
+    <gphoto:id>6086681643971597314</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>31.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>1188344</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d999409e</gphoto:checksum>
+    <gphoto:timestamp>1323497088000</gphoto:timestamp>
+    <gphoto:imageVersion>39773</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681643971597314</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1323529488000</exif:time>
+      <exif:imageUniqueID>be54124f640fa4020000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-jtJzekF_oNQ/VHg8tOHRVAI/AAAAAAAAm10/Xm6nMFKzEBo/CIMG1606.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jtJzekF_oNQ/VHg8tOHRVAI/AAAAAAAAm10/Xm6nMFKzEBo/s72/CIMG1606.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jtJzekF_oNQ/VHg8tOHRVAI/AAAAAAAAm10/Xm6nMFKzEBo/s144/CIMG1606.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-jtJzekF_oNQ/VHg8tOHRVAI/AAAAAAAAm10/Xm6nMFKzEBo/s288/CIMG1606.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1606.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681666937302050</id>
+    <published>2014-11-28T09:13:30.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1607.JPG</title>
+    <summary type="text"/>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-1eSkZijbKL4/VHg8ujquLCI/AAAAAAAAm18/qTh3UdyK24U/CIMG1607.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681666937302050"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681666937302050"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/4W3eaSJP36Pr2_RKneWZ79MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681666937302050"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681666937302050"/>
+    <gphoto:id>6086681666937302050</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>32.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>1053756</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d999409e</gphoto:checksum>
+    <gphoto:timestamp>1323497106000</gphoto:timestamp>
+    <gphoto:imageVersion>39775</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681666937302050</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1323529506000</exif:time>
+      <exif:imageUniqueID>7c97c1f9af4303c50000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-1eSkZijbKL4/VHg8ujquLCI/AAAAAAAAm18/qTh3UdyK24U/CIMG1607.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1eSkZijbKL4/VHg8ujquLCI/AAAAAAAAm18/qTh3UdyK24U/s72/CIMG1607.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1eSkZijbKL4/VHg8ujquLCI/AAAAAAAAm18/qTh3UdyK24U/s144/CIMG1607.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-1eSkZijbKL4/VHg8ujquLCI/AAAAAAAAm18/qTh3UdyK24U/s288/CIMG1607.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1607.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681695915787810</id>
+    <published>2014-11-28T09:13:36.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1608.JPG</title>
+    <summary type="text">くっついてる</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-Nh5dcEOJvA0/VHg8wPnuxiI/AAAAAAAAm2E/GpvTmwpM4d0/CIMG1608.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681695915787810"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681695915787810"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/1uxiBTgYetl-ooFJerIKZtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681695915787810"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681695915787810"/>
+    <gphoto:id>6086681695915787810</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>33.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>2048</gphoto:width>
+    <gphoto:height>1536</gphoto:height>
+    <gphoto:size>1028049</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a4209e</gphoto:checksum>
+    <gphoto:timestamp>1323497124000</gphoto:timestamp>
+    <gphoto:imageVersion>39777</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681695915787810</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>250</exif:iso>
+      <exif:time>1323529524000</exif:time>
+      <exif:imageUniqueID>2510467a36bfa117ab5f81091fa7b927</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Nh5dcEOJvA0/VHg8wPnuxiI/AAAAAAAAm2E/GpvTmwpM4d0/CIMG1608.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">くっついてる</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Nh5dcEOJvA0/VHg8wPnuxiI/AAAAAAAAm2E/GpvTmwpM4d0/s72/CIMG1608.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Nh5dcEOJvA0/VHg8wPnuxiI/AAAAAAAAm2E/GpvTmwpM4d0/s144/CIMG1608.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Nh5dcEOJvA0/VHg8wPnuxiI/AAAAAAAAm2E/GpvTmwpM4d0/s288/CIMG1608.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG1608.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681713798660786</id>
+    <published>2014-11-28T09:13:41.000Z</published>
+    <updated>2015-07-03T12:54:16.685Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1609.JPG</title>
+    <summary type="text">遮断機のない踏み切り</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-nks5Ek-Hdik/VHg8xSPVwrI/AAAAAAAAm2M/xlwnDx9nCo0/CIMG1609.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681713798660786"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681713798660786"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/uHBRxnGJOLOVykI7qyQurNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681713798660786"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681713798660786"/>
+    <gphoto:id>6086681713798660786</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>34.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>838426</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a4e09e</gphoto:checksum>
+    <gphoto:timestamp>1323499238000</gphoto:timestamp>
+    <gphoto:imageVersion>39779</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681713798660786</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>640</exif:iso>
+      <exif:time>1323531638000</exif:time>
+      <exif:imageUniqueID>725b5e2787b590220000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-nks5Ek-Hdik/VHg8xSPVwrI/AAAAAAAAm2M/xlwnDx9nCo0/CIMG1609.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">遮断機のない踏み切り</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nks5Ek-Hdik/VHg8xSPVwrI/AAAAAAAAm2M/xlwnDx9nCo0/s72/CIMG1609.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nks5Ek-Hdik/VHg8xSPVwrI/AAAAAAAAm2M/xlwnDx9nCo0/s144/CIMG1609.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-nks5Ek-Hdik/VHg8xSPVwrI/AAAAAAAAm2M/xlwnDx9nCo0/s288/CIMG1609.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1609.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681734974442850</id>
+    <published>2014-11-28T09:13:46.000Z</published>
+    <updated>2014-11-28T09:16:52.311Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1610.JPG</title>
+    <summary type="text">叡山電鉄乗ったことない</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/--WqYnEz5Xkk/VHg8yhICjWI/AAAAAAAAm2U/b_0uJGzysP0/CIMG1610.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681734974442850"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681734974442850"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/EZ9KFwO6MpGCZbC6-Twtf9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681734974442850"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681734974442850"/>
+    <gphoto:id>6086681734974442850</gphoto:id>
+    <gphoto:version>3</gphoto:version>
+    <gphoto:position>35.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>640789</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>d9a4c09e</gphoto:checksum>
+    <gphoto:timestamp>1323499431000</gphoto:timestamp>
+    <gphoto:imageVersion>39781</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681734974442850</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>400</exif:iso>
+      <exif:time>1323531831000</exif:time>
+      <exif:imageUniqueID>0c9cb18a2bdf5ac50000000000000000</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/--WqYnEz5Xkk/VHg8yhICjWI/AAAAAAAAm2U/b_0uJGzysP0/CIMG1610.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">叡山電鉄乗ったことない</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--WqYnEz5Xkk/VHg8yhICjWI/AAAAAAAAm2U/b_0uJGzysP0/s72/CIMG1610.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--WqYnEz5Xkk/VHg8yhICjWI/AAAAAAAAm2U/b_0uJGzysP0/s144/CIMG1610.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/--WqYnEz5Xkk/VHg8yhICjWI/AAAAAAAAm2U/b_0uJGzysP0/s288/CIMG1610.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1610.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681751739364914</id>
+    <published>2014-11-28T09:13:49.000Z</published>
+    <updated>2015-09-16T17:24:14.069Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG1616.JPG</title>
+    <summary type="text">made by GINGINさん
+おいしかったです。ごちそうさまでした。</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-iMvAygC-MBs/VHg8zflG9jI/AAAAAAAAm2g/-E2oF2oUr8M/CIMG1616.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681751739364914"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101789004687109216019/20111210#6086681751739364914"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/bv845mTJypqXlR2Y7kyUutMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101789004687109216019/albumid/6086680996688695825/photoid/6086681751739364914"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101789004687109216019&amp;aid=6086680996688695825&amp;iid=6086681751739364914"/>
+    <gphoto:id>6086681751739364914</gphoto:id>
+    <gphoto:version>5</gphoto:version>
+    <gphoto:position>36.0</gphoto:position>
+    <gphoto:albumid>6086680996688695825</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1536</gphoto:width>
+    <gphoto:height>2048</gphoto:height>
+    <gphoto:size>302888</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>da39c09e</gphoto:checksum>
+    <gphoto:timestamp>1323513695000</gphoto:timestamp>
+    <gphoto:imageVersion>39784</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:streamId>shared_group_6086681751739364914</gphoto:streamId>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.0</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-H30     </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>4.24</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1323546095000</exif:time>
+      <exif:imageUniqueID>de18e27a1399610a81252df304198411</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iMvAygC-MBs/VHg8zflG9jI/AAAAAAAAm2g/-E2oF2oUr8M/CIMG1616.JPG" height="512" width="384" type="image/jpeg" medium="image"/>
+      <media:credit>あいただ</media:credit>
+      <media:description type="plain">made by GINGINさん
+おいしかったです。ごちそうさまでした。</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMvAygC-MBs/VHg8zflG9jI/AAAAAAAAm2g/-E2oF2oUr8M/s72/CIMG1616.JPG" height="72" width="54"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMvAygC-MBs/VHg8zflG9jI/AAAAAAAAm2g/-E2oF2oUr8M/s144/CIMG1616.JPG" height="144" width="108"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iMvAygC-MBs/VHg8zflG9jI/AAAAAAAAm2g/-E2oF2oUr8M/s288/CIMG1616.JPG" height="288" width="216"/>
+      <media:title type="plain">CIMG1616.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

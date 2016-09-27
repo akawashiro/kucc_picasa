@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/103875078807201569995</id>
+  <updated>2015-09-16T17:21:32.331Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">103875078807201569995</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-fTCZH_3Pq0s/AAAAAAAAAAI/AAAAAAAAAAA/TnXPyoeF_ak/s64-c/103875078807201569995.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/103875078807201569995?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Kouta Konishi</name>
+    <uri>https://picasaweb.google.com/103875078807201569995</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>5</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>103875078807201569995</gphoto:user>
+  <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-fTCZH_3Pq0s/AAAAAAAAAAI/AAAAAAAAAAA/TnXPyoeF_ak/s64-c/103875078807201569995.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6152423213550179553</id>
+    <published>2015-05-24T13:04:16.000Z</published>
+    <updated>2015-05-25T10:12:53.499Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2015新歓ラン</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995/albumid/6152423213550179553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995/2015"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6152423213550179553"/>
+    <author>
+      <name>Kouta Konishi</name>
+      <uri>https://picasaweb.google.com/103875078807201569995</uri>
+    </author>
+    <gphoto:id>6152423213550179553</gphoto:id>
+    <gphoto:name>2015</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1432472656000</gphoto:timestamp>
+    <gphoto:numphotos>53</gphoto:numphotos>
+    <gphoto:user>103875078807201569995</gphoto:user>
+    <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-eb7h7bV6TSA/VWHMUNeGlOE/AAAAAAAAFCM/a_z_jHkDsco/2015.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kouta Konishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-eb7h7bV6TSA/VWHMUNeGlOE/AAAAAAAAFCM/a_z_jHkDsco/s160-c/2015.jpg" height="160" width="160"/>
+      <media:title type="plain">2015新歓ラン</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6086357336312118065</id>
+    <published>2014-11-27T12:14:56.000Z</published>
+    <updated>2014-12-01T09:13:19.631Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014 NF北関東</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995/albumid/6086357336312118065"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995/2014NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6086357336312118065"/>
+    <author>
+      <name>Kouta Konishi</name>
+      <uri>https://picasaweb.google.com/103875078807201569995</uri>
+    </author>
+    <gphoto:id>6086357336312118065</gphoto:id>
+    <gphoto:name>2014NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1417090496000</gphoto:timestamp>
+    <gphoto:numphotos>303</gphoto:numphotos>
+    <gphoto:user>103875078807201569995</gphoto:user>
+    <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P6xXNCEVWY4/VHcVwB75-zE/AAAAAAAACJc/dYvNS_HJRC0/2014NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kouta Konishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P6xXNCEVWY4/VHcVwB75-zE/AAAAAAAACJc/dYvNS_HJRC0/s160-c/2014NF.jpg" height="160" width="160"/>
+      <media:title type="plain">2014 NF北関東</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6079908235015625249</id>
+    <published>2014-11-10T03:09:07.000Z</published>
+    <updated>2014-12-01T09:36:39.172Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014/11 クラブラン</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995/albumid/6079908235015625249"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995/201411"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6079908235015625249"/>
+    <author>
+      <name>Kouta Konishi</name>
+      <uri>https://picasaweb.google.com/103875078807201569995</uri>
+    </author>
+    <gphoto:id>6079908235015625249</gphoto:id>
+    <gphoto:name>201411</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1415588947000</gphoto:timestamp>
+    <gphoto:numphotos>44</gphoto:numphotos>
+    <gphoto:user>103875078807201569995</gphoto:user>
+    <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-P9pbsX0fVrc/VGAsU7cUGiE/AAAAAAAAA8U/zqVsCpbHtYE/201411.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kouta Konishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-P9pbsX0fVrc/VGAsU7cUGiE/AAAAAAAAA8U/zqVsCpbHtYE/s160-c/201411.jpg" height="160" width="160"/>
+      <media:title type="plain">2014/11 クラブラン</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6064098583503623441</id>
+    <published>2014-09-28T12:39:36.000Z</published>
+    <updated>2015-05-25T13:38:24.456Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2014/8/16-29 夏合宿 西日本班+集合地</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995/albumid/6064098583503623441"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995/201481629"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6064098583503623441"/>
+    <author>
+      <name>Kouta Konishi</name>
+      <uri>https://picasaweb.google.com/103875078807201569995</uri>
+    </author>
+    <gphoto:id>6064098583503623441</gphoto:id>
+    <gphoto:name>201481629</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1411907976000</gphoto:timestamp>
+    <gphoto:numphotos>137</gphoto:numphotos>
+    <gphoto:user>103875078807201569995</gphoto:user>
+    <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-6K73YrLEhf8/VCgBiGCu1RE/AAAAAAAAFCY/KkknoCMzNJY/201481629.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kouta Konishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-6K73YrLEhf8/VCgBiGCu1RE/AAAAAAAAFCY/KkknoCMzNJY/s160-c/201481629.jpg" height="160" width="160"/>
+      <media:title type="plain">2014/8/16-29 夏合宿 西日本班+集合地</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6064095547506050209</id>
+    <published>2014-09-28T12:27:49.000Z</published>
+    <updated>2014-09-28T12:27:49.225Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/103875078807201569995/albumid/6064095547506050209"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/103875078807201569995/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/103875078807201569995/albumid/6064095547506050209"/>
+    <author>
+      <name>Kouta Konishi</name>
+      <uri>https://picasaweb.google.com/103875078807201569995</uri>
+    </author>
+    <gphoto:id>6064095547506050209</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1411907269000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>103875078807201569995</gphoto:user>
+    <gphoto:nickname>Kouta Konishi</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-iFrkIyO1tA4/VCf-xYEgRKE/AAAAAAAAAAU/HOfFBaaiWUM/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kouta Konishi</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-iFrkIyO1tA4/VCf-xYEgRKE/AAAAAAAAAAU/HOfFBaaiWUM/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101472613929297270382</id>
+  <updated>2015-10-16T02:20:08.919Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">101472613929297270382</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-8aYnQdVMSog/AAAAAAAAAAA/AAAAAAAAAAA/91lKQdWvXMs/s64-c/101472613929297270382.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101472613929297270382?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>photo2015 KUCC</name>
+    <uri>https://picasaweb.google.com/101472613929297270382</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>6</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>101472613929297270382</gphoto:user>
+  <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-8aYnQdVMSog/AAAAAAAAAAA/AAAAAAAAAAA/91lKQdWvXMs/s64-c/101472613929297270382.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6197874524896770721</id>
+    <published>2015-11-23T08:00:00.000Z</published>
+    <updated>2015-10-02T16:53:17.743Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 動画部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6197874524896770721"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/201506"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6197874524896770721"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6197874524896770721</gphoto:id>
+    <gphoto:name>201506</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1448265600000</gphoto:timestamp>
+    <gphoto:numphotos>10</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-gSOwwr7sSVk/VgNGCurqOqE/AAAAAAAABCw/l3BwyHcx2wg/201506.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-gSOwwr7sSVk/VgNGCurqOqE/AAAAAAAABCw/l3BwyHcx2wg/s160-c/201506.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 動画部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404416116176337</id>
+    <published>2015-10-31T07:00:00.000Z</published>
+    <updated>2015-10-15T23:08:26.779Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 人物部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6192404416116176337"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/2015"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404416116176337"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6192404416116176337</gphoto:id>
+    <gphoto:name>2015</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1446274800000</gphoto:timestamp>
+    <gphoto:numphotos>39</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-G1OoxEYr3VQ/Ve_XAfgqNdE/AAAAAAAABSo/m0tI00KftcU/2015.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-G1OoxEYr3VQ/Ve_XAfgqNdE/AAAAAAAABSo/m0tI00KftcU/s160-c/2015.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 人物部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404633786551937</id>
+    <published>2015-10-31T07:00:00.000Z</published>
+    <updated>2015-10-14T08:16:53.346Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 風景部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6192404633786551937"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/201502"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404633786551937"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6192404633786551937</gphoto:id>
+    <gphoto:name>201502</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1446274800000</gphoto:timestamp>
+    <gphoto:numphotos>23</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5ao6IS-ZnMk/Ve_XNKZUjoE/AAAAAAAABRY/OXDRITYoTkA/201502.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5ao6IS-ZnMk/Ve_XNKZUjoE/AAAAAAAABRY/OXDRITYoTkA/s160-c/201502.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 風景部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404989959459553</id>
+    <published>2015-10-31T07:00:00.000Z</published>
+    <updated>2015-10-14T07:58:01.884Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 自転車部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6192404989959459553"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/201503"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192404989959459553"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6192404989959459553</gphoto:id>
+    <gphoto:name>201503</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1446274800000</gphoto:timestamp>
+    <gphoto:numphotos>19</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-WzNFgRfu78s/Ve_Xh5Pj0uE/AAAAAAAABRw/11XLiD1jdp0/201503.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-WzNFgRfu78s/Ve_Xh5Pj0uE/AAAAAAAABRw/11XLiD1jdp0/s160-c/201503.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 自転車部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192405280224564769</id>
+    <published>2015-10-31T07:00:00.000Z</published>
+    <updated>2015-10-13T01:27:56.423Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 自由部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6192405280224564769"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/201504"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192405280224564769"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6192405280224564769</gphoto:id>
+    <gphoto:name>201504</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1446274800000</gphoto:timestamp>
+    <gphoto:numphotos>22</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-5w9yf8DE6lg/Ve_XyykJ1iE/AAAAAAAABNY/EKVaELY8w7A/201504.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-5w9yf8DE6lg/Ve_XyykJ1iE/AAAAAAAABNY/EKVaELY8w7A/s160-c/201504.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 自由部門</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192406007835767713</id>
+    <published>2015-10-31T07:00:00.000Z</published>
+    <updated>2015-10-06T15:49:34.121Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">フォトコン2015 道部門</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101472613929297270382/albumid/6192406007835767713"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101472613929297270382/201505"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101472613929297270382/albumid/6192406007835767713"/>
+    <author>
+      <name>photo2015 KUCC</name>
+      <uri>https://picasaweb.google.com/101472613929297270382</uri>
+    </author>
+    <gphoto:id>6192406007835767713</gphoto:id>
+    <gphoto:name>201505</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1446274800000</gphoto:timestamp>
+    <gphoto:numphotos>22</gphoto:numphotos>
+    <gphoto:user>101472613929297270382</gphoto:user>
+    <gphoto:nickname>photo2015 KUCC</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-yGLfPqFW8hI/Ve_YdJILs6E/AAAAAAAABLs/SGXd2GKy5iA/201505.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>photo2015 KUCC</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-yGLfPqFW8hI/Ve_YdJILs6E/AAAAAAAABLs/SGXd2GKy5iA/s160-c/201505.jpg" height="160" width="160"/>
+      <media:title type="plain">フォトコン2015 道部門</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi</id>
+  <updated>2015-10-14T04:11:50.655Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">tomato.banana.kiwi</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-zcnOYgagJK0/AAAAAAAAAAA/AAAAAAAAAAA/QfqCLI07SuY/s64-c/tomato.banana.kiwi.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/tomato.banana.kiwi"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kou</name>
+    <uri>https://picasaweb.google.com/tomato.banana.kiwi</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>4</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>tomato.banana.kiwi</gphoto:user>
+  <gphoto:nickname>kou</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-zcnOYgagJK0/AAAAAAAAAAA/AAAAAAAAAAA/QfqCLI07SuY/s64-c/tomato.banana.kiwi.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5468329920515672657</id>
+    <published>2010-04-30T22:24:16.000Z</published>
+    <updated>2013-05-11T21:17:54.182Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">'10 GW Shinshu</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi/albumid/5468329920515672657"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/tomato.banana.kiwi/10GWShinshu"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5468329920515672657"/>
+    <author>
+      <name>kou</name>
+      <uri>https://picasaweb.google.com/tomato.banana.kiwi</uri>
+    </author>
+    <gphoto:id>5468329920515672657</gphoto:id>
+    <gphoto:name>10GWShinshu</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1272666256000</gphoto:timestamp>
+    <gphoto:numphotos>69</gphoto:numphotos>
+    <gphoto:user>tomato.banana.kiwi</gphoto:user>
+    <gphoto:nickname>kou</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-qTtqqeTKQkw/S-NpFxr6ClE/AAAAAAAADvg/hevyAFSc5WU/10GWShinshu.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kou</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-qTtqqeTKQkw/S-NpFxr6ClE/AAAAAAAADvg/hevyAFSc5WU/s160-c/10GWShinshu.jpg" height="160" width="160"/>
+      <media:title type="plain">'10 GW Shinshu</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5408310657889442481</id>
+    <published>2009-11-20T08:00:00.000Z</published>
+    <updated>2013-05-12T15:26:13.801Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Shodoshima &amp; Okayama 09NF</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi/albumid/5408310657889442481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/tomato.banana.kiwi/ShodoshimaOkayama09NF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5408310657889442481"/>
+    <author>
+      <name>kou</name>
+      <uri>https://picasaweb.google.com/tomato.banana.kiwi</uri>
+    </author>
+    <gphoto:id>5408310657889442481</gphoto:id>
+    <gphoto:name>ShodoshimaOkayama09NF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1258704000000</gphoto:timestamp>
+    <gphoto:numphotos>63</gphoto:numphotos>
+    <gphoto:user>tomato.banana.kiwi</gphoto:user>
+    <gphoto:nickname>kou</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-xrPZpw8w4qc/Sw4t4451mrE/AAAAAAAACck/Iu3IkMcWJfc/ShodoshimaOkayama09NF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kou</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-xrPZpw8w4qc/Sw4t4451mrE/AAAAAAAACck/Iu3IkMcWJfc/s160-c/ShodoshimaOkayama09NF.jpg" height="160" width="160"/>
+      <media:title type="plain">Shodoshima &amp; Okayama 09NF</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5378895826287640273</id>
+    <published>2009-08-10T07:00:00.000Z</published>
+    <updated>2013-05-12T15:26:12.291Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Canadian Rockies '09</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi/albumid/5378895826287640273"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/tomato.banana.kiwi/CanadianRockies09"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5378895826287640273"/>
+    <author>
+      <name>kou</name>
+      <uri>https://picasaweb.google.com/tomato.banana.kiwi</uri>
+    </author>
+    <gphoto:id>5378895826287640273</gphoto:id>
+    <gphoto:name>CanadianRockies09</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1249887600000</gphoto:timestamp>
+    <gphoto:numphotos>256</gphoto:numphotos>
+    <gphoto:user>tomato.banana.kiwi</gphoto:user>
+    <gphoto:nickname>kou</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-mCjGWI54Y9s/SqWtQWG0vtE/AAAAAAAACSk/ny46Ri0yFQ8/CanadianRockies09.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kou</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-mCjGWI54Y9s/SqWtQWG0vtE/AAAAAAAACSk/ny46Ri0yFQ8/s160-c/CanadianRockies09.jpg" height="160" width="160"/>
+      <media:title type="plain">Canadian Rockies '09</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5330153622702202353</id>
+    <published>2009-02-25T08:00:00.000Z</published>
+    <updated>2013-05-12T15:26:09.801Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">India &amp; Nepal '09</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/tomato.banana.kiwi/albumid/5330153622702202353"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/tomato.banana.kiwi/IndiaNepal09"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/tomato.banana.kiwi/albumid/5330153622702202353"/>
+    <author>
+      <name>kou</name>
+      <uri>https://picasaweb.google.com/tomato.banana.kiwi</uri>
+    </author>
+    <gphoto:id>5330153622702202353</gphoto:id>
+    <gphoto:name>IndiaNepal09</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235548800000</gphoto:timestamp>
+    <gphoto:numphotos>380</gphoto:numphotos>
+    <gphoto:user>tomato.banana.kiwi</gphoto:user>
+    <gphoto:nickname>kou</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-L-YXUGWbNn0/SfiCer9tHfE/AAAAAAAAB38/VCFl2IroGKI/IndiaNepal09.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>kou</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-L-YXUGWbNn0/SfiCer9tHfE/AAAAAAAAB38/VCFl2IroGKI/s160-c/IndiaNepal09.jpg" height="160" width="160"/>
+      <media:title type="plain">India &amp; Nepal '09</media:title>
+    </media:group>
+  </entry>
+</feed>

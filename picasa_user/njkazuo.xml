@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/njkazuo</id>
+  <updated>2015-10-15T01:43:36.494Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">111786403026608526361</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-s1C4539_Msk/AAAAAAAAAAI/AAAAAAAAAAA/wLYpKi1dXh8/s64-c/111786403026608526361.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111786403026608526361"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111786403026608526361"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/111786403026608526361?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111786403026608526361?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Kazuo Nakajima</name>
+    <uri>https://picasaweb.google.com/111786403026608526361</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>111786403026608526361</gphoto:user>
+  <gphoto:nickname>Kazuo Nakajima</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-s1C4539_Msk/AAAAAAAAAAI/AAAAAAAAAAA/wLYpKi1dXh8/s64-c/111786403026608526361.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111786403026608526361/albumid/5643230883497159057</id>
+    <published>2011-08-21T07:00:00.000Z</published>
+    <updated>2015-10-07T17:31:42.124Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">11夏ピレネー</title>
+    <summary type="text">2011/08/14-21 関空 - (飛行機) - Barcelona - (鉄道) - Zaragoza - Huesca - Sallent de Gallego - Col de Pourtalet(1794m) - Col d' Aubisque(1709m) - Argeles=Gazost - Col de Tourmalet(2115m) - Lourdes - (鉄道) - Paris - (飛行機) - 関空 400km 5000up http://p.tl/qe6x</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111786403026608526361/albumid/5643230883497159057"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111786403026608526361/11"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111786403026608526361/albumid/5643230883497159057"/>
+    <author>
+      <name>Kazuo Nakajima</name>
+      <uri>https://picasaweb.google.com/111786403026608526361</uri>
+    </author>
+    <gphoto:id>5643230883497159057</gphoto:id>
+    <gphoto:name>11</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1313910000000</gphoto:timestamp>
+    <gphoto:numphotos>108</gphoto:numphotos>
+    <gphoto:user>111786403026608526361</gphoto:user>
+    <gphoto:nickname>Kazuo Nakajima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ZdbAR3PvFCo/TlDIluRcqZE/AAAAAAAAEmA/kIGKeH9DZJA/11.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kazuo Nakajima</media:credit>
+      <media:description type="plain">2011/08/14-21 関空 - (飛行機) - Barcelona - (鉄道) - Zaragoza - Huesca - Sallent de Gallego - Col de Pourtalet(1794m) - Col d' Aubisque(1709m) - Argeles=Gazost - Col de Tourmalet(2115m) - Lourdes - (鉄道) - Paris - (飛行機) - 関空 400km 5000up http://p.tl/qe6x</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ZdbAR3PvFCo/TlDIluRcqZE/AAAAAAAAEmA/kIGKeH9DZJA/s160-c/11.jpg" height="160" width="160"/>
+      <media:title type="plain">11夏ピレネー</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/111786403026608526361/albumid/5315542580391405649</id>
+    <published>2009-02-27T08:00:00.000Z</published>
+    <updated>2015-10-07T18:47:48.472Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">09春東南アジア</title>
+    <summary type="text">09/02/27-03/20
+関空－（飛行機）－バンコク－（電車）－（バス）－シェムリアップ－アンコール遺跡－トンレサップ湖－（飛行機）－ルアンパパーン－（スローボート）－ムアンゴイ－（スローボート）－（バス）－ウドムサイ－（バス）－パークベン－（スローボート）－フエイサイ－（渡し舟）－チェンコーン－（バス）－チェンライ－（バス）－チェンマイ－トレッキングツアー－タイ料理教室－（夜行バス）－バンコク－（飛行機）－関空</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/111786403026608526361/albumid/5315542580391405649"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/111786403026608526361/09"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/111786403026608526361/albumid/5315542580391405649"/>
+    <author>
+      <name>Kazuo Nakajima</name>
+      <uri>https://picasaweb.google.com/111786403026608526361</uri>
+    </author>
+    <gphoto:id>5315542580391405649</gphoto:id>
+    <gphoto:name>09</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1235721600000</gphoto:timestamp>
+    <gphoto:numphotos>141</gphoto:numphotos>
+    <gphoto:user>111786403026608526361</gphoto:user>
+    <gphoto:nickname>Kazuo Nakajima</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-Fe5ones1IRc/ScSZ0FyxaFE/AAAAAAAAF3w/TsAx6GOvHTY/09.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Kazuo Nakajima</media:credit>
+      <media:description type="plain">09/02/27-03/20
+関空－（飛行機）－バンコク－（電車）－（バス）－シェムリアップ－アンコール遺跡－トンレサップ湖－（飛行機）－ルアンパパーン－（スローボート）－ムアンゴイ－（スローボート）－（バス）－ウドムサイ－（バス）－パークベン－（スローボート）－フエイサイ－（渡し舟）－チェンコーン－（バス）－チェンライ－（バス）－チェンマイ－トレッキングツアー－タイ料理教室－（夜行バス）－バンコク－（飛行機）－関空</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-Fe5ones1IRc/ScSZ0FyxaFE/AAAAAAAAF3w/TsAx6GOvHTY/s160-c/09.jpg" height="160" width="160"/>
+      <media:title type="plain">09春東南アジア</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/106527423592569985031</id>
+  <updated>2015-09-04T02:46:18.659Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">106527423592569985031</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-p02h6Iem618/AAAAAAAAAAI/AAAAAAAAAAA/7Z1KnFzSg80/s64-c/106527423592569985031.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/106527423592569985031"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/106527423592569985031"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/106527423592569985031?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/106527423592569985031?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>Narutomo Ishikawa</name>
+    <uri>https://picasaweb.google.com/106527423592569985031</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>106527423592569985031</gphoto:user>
+  <gphoto:nickname>Narutomo Ishikawa</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-p02h6Iem618/AAAAAAAAAAI/AAAAAAAAAAA/7Z1KnFzSg80/s64-c/106527423592569985031.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/106527423592569985031/albumid/6012915597110876401</id>
+    <published>2014-05-13T14:23:28.000Z</published>
+    <updated>2014-05-13T14:50:05.170Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">TAKASHIMAトレイル　GW</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/106527423592569985031/albumid/6012915597110876401"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/106527423592569985031/TAKASHIMAGW"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/106527423592569985031/albumid/6012915597110876401"/>
+    <author>
+      <name>Narutomo Ishikawa</name>
+      <uri>https://picasaweb.google.com/106527423592569985031</uri>
+    </author>
+    <gphoto:id>6012915597110876401</gphoto:id>
+    <gphoto:name>TAKASHIMAGW</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1399991008000</gphoto:timestamp>
+    <gphoto:numphotos>127</gphoto:numphotos>
+    <gphoto:user>106527423592569985031</gphoto:user>
+    <gphoto:nickname>Narutomo Ishikawa</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TGz7m-_V3N0/U3Iq4LYzGPE/AAAAAAAAC8U/DmJ98xW-SI8/TAKASHIMAGW.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Narutomo Ishikawa</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TGz7m-_V3N0/U3Iq4LYzGPE/AAAAAAAAC8U/DmJ98xW-SI8/s160-c/TAKASHIMAGW.jpg" height="160" width="160"/>
+      <media:title type="plain">TAKASHIMAトレイル　GW</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/106527423592569985031/albumid/6004775353448871361</id>
+    <published>2014-04-21T07:00:00.000Z</published>
+    <updated>2014-04-21T16:23:59.181Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春ネパール 2013'</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/106527423592569985031/albumid/6004775353448871361"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/106527423592569985031/201302"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/106527423592569985031/albumid/6004775353448871361"/>
+    <author>
+      <name>Narutomo Ishikawa</name>
+      <uri>https://picasaweb.google.com/106527423592569985031</uri>
+    </author>
+    <gphoto:id>6004775353448871361</gphoto:id>
+    <gphoto:name>201302</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1398063600000</gphoto:timestamp>
+    <gphoto:numphotos>836</gphoto:numphotos>
+    <gphoto:user>106527423592569985031</gphoto:user>
+    <gphoto:nickname>Narutomo Ishikawa</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-y420ZqjofiM/U1U_XopXNcE/AAAAAAAAC8I/LH-l9esQD64/201302.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>Narutomo Ishikawa</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-y420ZqjofiM/U1U_XopXNcE/AAAAAAAAC8I/LH-l9esQD64/s160-c/201302.jpg" height="160" width="160"/>
+      <media:title type="plain">春ネパール 2013'</media:title>
+    </media:group>
+  </entry>
+</feed>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/114035269981782045994</id>
+  <updated>2015-10-13T17:44:30.846Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">114035269981782045994</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-SCyuK-xcdKE/AAAAAAAAAAI/AAAAAAAAAAA/7tku4-SlerI/s64-c/114035269981782045994.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114035269981782045994"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114035269981782045994"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/114035269981782045994?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114035269981782045994?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>asamunida</name>
+    <uri>https://picasaweb.google.com/114035269981782045994</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>114035269981782045994</gphoto:user>
+  <gphoto:nickname>asamunida</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-SCyuK-xcdKE/AAAAAAAAAAI/AAAAAAAAAAA/7tku4-SlerI/s64-c/114035269981782045994.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/114035269981782045994/albumid/6201034267800560753</id>
+    <published>2015-10-02T07:00:00.000Z</published>
+    <updated>2015-10-11T14:46:03.974Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">友ヶ島15/06/22</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/114035269981782045994/albumid/6201034267800560753"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/114035269981782045994/150622"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/114035269981782045994/albumid/6201034267800560753"/>
+    <author>
+      <name>asamunida</name>
+      <uri>https://picasaweb.google.com/114035269981782045994</uri>
+    </author>
+    <gphoto:id>6201034267800560753</gphoto:id>
+    <gphoto:name>150622</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1443769200000</gphoto:timestamp>
+    <gphoto:numphotos>50</gphoto:numphotos>
+    <gphoto:user>114035269981782045994</gphoto:user>
+    <gphoto:nickname>asamunida</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MNnRREs8wF0/Vg5_z-RG5HE/AAAAAAAAATw/kviTlCBRF5k/150622.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>asamunida</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MNnRREs8wF0/Vg5_z-RG5HE/AAAAAAAAATw/kviTlCBRF5k/s160-c/150622.jpg" height="160" width="160"/>
+      <media:title type="plain">友ヶ島15/06/22</media:title>
+    </media:group>
+  </entry>
+</feed>

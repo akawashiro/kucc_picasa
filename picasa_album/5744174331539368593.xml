@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:exif="http://schemas.google.com/photos/exif/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593</id>
+  <updated>2014-03-02T02:09:48.675Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+  <title type="text">20120114雪合戦</title>
+  <subtitle type="text">サイクリング部の活動の一環</subtitle>
+  <rights type="text">public</rights>
+  <icon>https://lh3.googleusercontent.com/-2nTD1h6tZxA/T7doHt9SKpE/AAAAAAAAGpk/S9QB65wgXRM/s160-c/20120114.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593?alt%3Drss"/>
+  <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>kazuki nagai</name>
+    <uri>https://picasaweb.google.com/101346018516456409490</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>7</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:id>5744174331539368593</gphoto:id>
+  <gphoto:name>20120114</gphoto:name>
+  <gphoto:location/>
+  <gphoto:access>public</gphoto:access>
+  <gphoto:timestamp>1326509028000</gphoto:timestamp>
+  <gphoto:numphotos>7</gphoto:numphotos>
+  <gphoto:user>101346018516456409490</gphoto:user>
+  <gphoto:nickname>kazuki nagai</gphoto:nickname>
+  <gphoto:allowPrints>true</gphoto:allowPrints>
+  <gphoto:allowDownloads>true</gphoto:allowDownloads>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174336848520450</id>
+    <published>2012-05-19T09:30:08.000Z</published>
+    <updated>2014-03-02T02:09:46.617Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0328.JPG</title>
+    <summary type="text">戦いの前</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-vpD4q1CdJDQ/T7doIBvFZQI/AAAAAAAAGpg/qwOXO0xFSKA/CIMG0328.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174336848520450"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174336848520450"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/IM6xL3Hx6Ubh2OsP9pKam9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174336848520450"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174336848520450"/>
+    <gphoto:id>5744174336848520450</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>1.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>270709</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2f9b00a4</gphoto:checksum>
+    <gphoto:timestamp>1326541428000</gphoto:timestamp>
+    <gphoto:imageVersion>6808</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.66</exif:focallength>
+      <exif:iso>320</exif:iso>
+      <exif:time>1326541428000</exif:time>
+      <exif:imageUniqueID>bbb0728c6400e84645768586660cafab</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-vpD4q1CdJDQ/T7doIBvFZQI/AAAAAAAAGpg/qwOXO0xFSKA/CIMG0328.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">戦いの前</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vpD4q1CdJDQ/T7doIBvFZQI/AAAAAAAAGpg/qwOXO0xFSKA/s72/CIMG0328.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vpD4q1CdJDQ/T7doIBvFZQI/AAAAAAAAGpg/qwOXO0xFSKA/s144/CIMG0328.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-vpD4q1CdJDQ/T7doIBvFZQI/AAAAAAAAGpg/qwOXO0xFSKA/s288/CIMG0328.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0328.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174351076439458</id>
+    <published>2012-05-19T09:30:11.000Z</published>
+    <updated>2013-05-09T15:33:20.842Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0329.JPG</title>
+    <summary type="text">ビニール袋で防水</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-V9i0J70IYCY/T7doI2vSNaI/AAAAAAAAAxM/v8QEYCOlwoE/CIMG0329.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174351076439458"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174351076439458"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/sq2eYC1EvFzAfbiVAUDOuNMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174351076439458"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174351076439458"/>
+    <gphoto:id>5744174351076439458</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>2.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>101629</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>2fdd80a4</gphoto:checksum>
+    <gphoto:timestamp>1326541930000</gphoto:timestamp>
+    <gphoto:imageVersion>787</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.0125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.66</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1326541930000</exif:time>
+      <exif:imageUniqueID>b2b2923a68230c0d3098ccce0168a348</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-V9i0J70IYCY/T7doI2vSNaI/AAAAAAAAAxM/v8QEYCOlwoE/CIMG0329.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">ビニール袋で防水</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-V9i0J70IYCY/T7doI2vSNaI/AAAAAAAAAxM/v8QEYCOlwoE/s72/CIMG0329.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-V9i0J70IYCY/T7doI2vSNaI/AAAAAAAAAxM/v8QEYCOlwoE/s144/CIMG0329.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-V9i0J70IYCY/T7doI2vSNaI/AAAAAAAAAxM/v8QEYCOlwoE/s288/CIMG0329.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0329.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174369965468770</id>
+    <published>2012-05-19T09:30:15.000Z</published>
+    <updated>2013-05-09T15:33:20.842Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0331.JPG</title>
+    <summary type="text">いざ戦場へ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-MophUFRMGvo/T7doJ9Gx7GI/AAAAAAAAAxU/usgWFvzemdM/CIMG0331.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174369965468770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174369965468770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/UfGerPs7Zbu28OeoYHP3jtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174369965468770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174369965468770"/>
+    <gphoto:id>5744174369965468770</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>3.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>250118</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>308000a4</gphoto:checksum>
+    <gphoto:timestamp>1326543295000</gphoto:timestamp>
+    <gphoto:imageVersion>789</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.66</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1326543295000</exif:time>
+      <exif:imageUniqueID>32cc3ed954d61c31ee17455b289417d0</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-MophUFRMGvo/T7doJ9Gx7GI/AAAAAAAAAxU/usgWFvzemdM/CIMG0331.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">いざ戦場へ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MophUFRMGvo/T7doJ9Gx7GI/AAAAAAAAAxU/usgWFvzemdM/s72/CIMG0331.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MophUFRMGvo/T7doJ9Gx7GI/AAAAAAAAAxU/usgWFvzemdM/s144/CIMG0331.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-MophUFRMGvo/T7doJ9Gx7GI/AAAAAAAAAxU/usgWFvzemdM/s288/CIMG0331.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0331.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174377106581186</id>
+    <published>2012-05-19T09:30:17.000Z</published>
+    <updated>2013-05-09T15:33:20.842Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0333.JPG</title>
+    <summary type="text">いくつになっても童心を</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-AtMq1g77_WQ/T7doKXtWpsI/AAAAAAAAAxc/4G244yTaYtw/CIMG0333.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174377106581186"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174377106581186"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/e1vKS7xGytx1jjrl_Y8SVdMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174377106581186"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174377106581186"/>
+    <gphoto:id>5744174377106581186</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>4.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>139836</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>30cd00a4</gphoto:checksum>
+    <gphoto:timestamp>1326543849000</gphoto:timestamp>
+    <gphoto:imageVersion>791</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.016666668</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.66</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1326543849000</exif:time>
+      <exif:imageUniqueID>07f9bb9dceba5d506539d30a5e4b6c8b</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-AtMq1g77_WQ/T7doKXtWpsI/AAAAAAAAAxc/4G244yTaYtw/CIMG0333.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">いくつになっても童心を</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AtMq1g77_WQ/T7doKXtWpsI/AAAAAAAAAxc/4G244yTaYtw/s72/CIMG0333.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AtMq1g77_WQ/T7doKXtWpsI/AAAAAAAAAxc/4G244yTaYtw/s144/CIMG0333.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-AtMq1g77_WQ/T7doKXtWpsI/AAAAAAAAAxc/4G244yTaYtw/s288/CIMG0333.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0333.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174395327290418</id>
+    <published>2012-05-19T09:30:21.000Z</published>
+    <updated>2014-03-02T02:09:48.675Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0334.JPG</title>
+    <summary type="text">雪深い</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-s82ASVg_g8c/T7doLblgnDI/AAAAAAAAGpk/B_RDS4so-Ik/CIMG0334.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174395327290418"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174395327290418"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/Fq5uNdTF85NVFvOQr6-3EtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174395327290418"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174395327290418"/>
+    <gphoto:id>5744174395327290418</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>5.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>214238</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>30cb00a4</gphoto:checksum>
+    <gphoto:timestamp>1326543858000</gphoto:timestamp>
+    <gphoto:imageVersion>6809</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.4</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>19.98</exif:focallength>
+      <exif:iso>160</exif:iso>
+      <exif:time>1326543858000</exif:time>
+      <exif:imageUniqueID>e6808ab33da29f2c7313e7159b9ada89</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-s82ASVg_g8c/T7doLblgnDI/AAAAAAAAGpk/B_RDS4so-Ik/CIMG0334.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">雪深い</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s82ASVg_g8c/T7doLblgnDI/AAAAAAAAGpk/B_RDS4so-Ik/s72/CIMG0334.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s82ASVg_g8c/T7doLblgnDI/AAAAAAAAGpk/B_RDS4so-Ik/s144/CIMG0334.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-s82ASVg_g8c/T7doLblgnDI/AAAAAAAAGpk/B_RDS4so-Ik/s288/CIMG0334.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0334.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174406421609474</id>
+    <published>2012-05-19T09:30:24.000Z</published>
+    <updated>2014-03-02T02:09:48.675Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0337.JPG</title>
+    <summary type="text">激戦中にぱしゃり</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-7HJhbCYf9cs/T7doME6mfAI/AAAAAAAAGpk/-32ZkpX1hxg/CIMG0337.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174406421609474"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174406421609474"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/2Po8msPnFoephvqhgyTHRtMTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174406421609474"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174406421609474"/>
+    <gphoto:id>5744174406421609474</gphoto:id>
+    <gphoto:version>9</gphoto:version>
+    <gphoto:position>6.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>110044</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>315ac0a4</gphoto:checksum>
+    <gphoto:timestamp>1326545009000</gphoto:timestamp>
+    <gphoto:imageVersion>6809</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>5.4</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.008</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>19.98</exif:focallength>
+      <exif:iso>125</exif:iso>
+      <exif:time>1326545009000</exif:time>
+      <exif:imageUniqueID>174d2089b609c6f0313c353c38619edf</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-7HJhbCYf9cs/T7doME6mfAI/AAAAAAAAGpk/-32ZkpX1hxg/CIMG0337.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">激戦中にぱしゃり</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7HJhbCYf9cs/T7doME6mfAI/AAAAAAAAGpk/-32ZkpX1hxg/s72/CIMG0337.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7HJhbCYf9cs/T7doME6mfAI/AAAAAAAAGpk/-32ZkpX1hxg/s144/CIMG0337.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-7HJhbCYf9cs/T7doME6mfAI/AAAAAAAAGpk/-32ZkpX1hxg/s288/CIMG0337.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0337.JPG</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174421198400770</id>
+    <published>2012-05-19T09:30:27.000Z</published>
+    <updated>2013-05-09T15:33:20.842Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#photo"/>
+    <title type="text">CIMG0339.JPG</title>
+    <summary type="text">雪降ってきたぁ</summary>
+    <content type="image/jpeg" src="https://lh3.googleusercontent.com/-82UWtxBgk9Q/T7doM79qbQI/AAAAAAAAAx0/tFumyhFFF0g/CIMG0339.JPG"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174421198400770"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/101346018516456409490/20120114#5744174421198400770"/>
+    <link rel="http://schemas.google.com/photos/2007#canonical" type="text/html" href="https://picasaweb.google.com/lh/photo/c7RFtAaBPdihyxLCifgXk9MTjNZETYmyPJy0liipFm0"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/101346018516456409490/albumid/5744174331539368593/photoid/5744174421198400770"/>
+    <link rel="http://schemas.google.com/photos/2007#report" type="text/html" href="https://picasaweb.google.com/lh/reportAbuse?uname=101346018516456409490&amp;aid=5744174331539368593&amp;iid=5744174421198400770"/>
+    <gphoto:id>5744174421198400770</gphoto:id>
+    <gphoto:version>4</gphoto:version>
+    <gphoto:position>7.0</gphoto:position>
+    <gphoto:albumid>5744174331539368593</gphoto:albumid>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:width>1600</gphoto:width>
+    <gphoto:height>1200</gphoto:height>
+    <gphoto:size>184999</gphoto:size>
+    <gphoto:client>picasa</gphoto:client>
+    <gphoto:checksum>359c80a4</gphoto:checksum>
+    <gphoto:timestamp>1326553699000</gphoto:timestamp>
+    <gphoto:imageVersion>797</gphoto:imageVersion>
+    <gphoto:commentingEnabled>true</gphoto:commentingEnabled>
+    <gphoto:commentCount>0</gphoto:commentCount>
+    <gphoto:license id="0" name="All Rights Reserved" url="">ALL_RIGHTS_RESERVED</gphoto:license>
+    <gphoto:shapes faces="done"/>
+    <exif:tags>
+      <exif:fstop>3.9</exif:fstop>
+      <exif:make>CASIO COMPUTER CO.,LTD.</exif:make>
+      <exif:model>EX-G1      </exif:model>
+      <exif:exposure>0.003125</exif:exposure>
+      <exif:flash>false</exif:flash>
+      <exif:focallength>6.66</exif:focallength>
+      <exif:iso>64</exif:iso>
+      <exif:time>1326553699000</exif:time>
+      <exif:imageUniqueID>6ef3c576fd22e820d2c37632f8e72f93</exif:imageUniqueID>
+    </exif:tags>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-82UWtxBgk9Q/T7doM79qbQI/AAAAAAAAAx0/tFumyhFFF0g/CIMG0339.JPG" height="384" width="512" type="image/jpeg" medium="image"/>
+      <media:credit>kazuki nagai</media:credit>
+      <media:description type="plain">雪降ってきたぁ</media:description>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-82UWtxBgk9Q/T7doM79qbQI/AAAAAAAAAx0/tFumyhFFF0g/s72/CIMG0339.JPG" height="54" width="72"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-82UWtxBgk9Q/T7doM79qbQI/AAAAAAAAAx0/tFumyhFFF0g/s144/CIMG0339.JPG" height="108" width="144"/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-82UWtxBgk9Q/T7doM79qbQI/AAAAAAAAAx0/tFumyhFFF0g/s288/CIMG0339.JPG" height="216" width="288"/>
+      <media:title type="plain">CIMG0339.JPG</media:title>
+    </media:group>
+  </entry>
+</feed>

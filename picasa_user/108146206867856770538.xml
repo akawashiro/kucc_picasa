@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007">
+  <id>https://picasaweb.google.com/data/feed/api/user/108146206867856770538</id>
+  <updated>2015-10-02T02:04:21.820Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">108146206867856770538</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-x0vYTPpkQa0/AAAAAAAAAAI/AAAAAAAAAAA/VlJcNuyOEGo/s64-c/108146206867856770538.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108146206867856770538"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108146206867856770538"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/108146206867856770538?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108146206867856770538?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>R Takayanagi</name>
+    <uri>https://picasaweb.google.com/108146206867856770538</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>0</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>108146206867856770538</gphoto:user>
+  <gphoto:nickname>R Takayanagi</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-x0vYTPpkQa0/AAAAAAAAAAI/AAAAAAAAAAA/VlJcNuyOEGo/s64-c/108146206867856770538.jpg</gphoto:thumbnail>
+</feed>

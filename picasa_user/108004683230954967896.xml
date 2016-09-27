@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/108004683230954967896</id>
+  <updated>2015-10-07T01:04:16.560Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">108004683230954967896</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-yMPXDEOjRhY/AAAAAAAAAAI/AAAAAAAAAAA/FMRe1vIOo8M/s64-c/108004683230954967896.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108004683230954967896"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108004683230954967896"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/108004683230954967896?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108004683230954967896?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>taishi ono</name>
+    <uri>https://picasaweb.google.com/108004683230954967896</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>1</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>108004683230954967896</gphoto:user>
+  <gphoto:nickname>taishi ono</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-yMPXDEOjRhY/AAAAAAAAAAI/AAAAAAAAAAA/FMRe1vIOo8M/s64-c/108004683230954967896.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/108004683230954967896/albumid/6061476421903196737</id>
+    <published>2014-09-17T22:53:10.000Z</published>
+    <updated>2014-09-22T10:45:53.196Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">耐久ラン</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/108004683230954967896/albumid/6061476421903196737"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/108004683230954967896/WFYIdI"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/108004683230954967896/albumid/6061476421903196737"/>
+    <author>
+      <name>taishi ono</name>
+      <uri>https://picasaweb.google.com/108004683230954967896</uri>
+    </author>
+    <gphoto:id>6061476421903196737</gphoto:id>
+    <gphoto:name>WFYIdI</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1410994390000</gphoto:timestamp>
+    <gphoto:numphotos>76</gphoto:numphotos>
+    <gphoto:user>108004683230954967896</gphoto:user>
+    <gphoto:nickname>taishi ono</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-TNUYpd2-f9c/VB6wsM3yIkE/AAAAAAAAAbM/PAOerjJNE-4/WFYIdI.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>taishi ono</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-TNUYpd2-f9c/VB6wsM3yIkE/AAAAAAAAAbM/PAOerjJNE-4/s160-c/WFYIdI.jpg" height="160" width="160"/>
+      <media:title type="plain">耐久ラン</media:title>
+    </media:group>
+  </entry>
+</feed>

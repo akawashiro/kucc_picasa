@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gphoto="http://schemas.google.com/photos/2007" xmlns:media="http://search.yahoo.com/mrss/">
+  <id>https://picasaweb.google.com/data/feed/api/user/117039540229506356507</id>
+  <updated>2015-10-16T06:54:11.428Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#user"/>
+  <title type="text">117039540229506356507</title>
+  <subtitle type="text"/>
+  <icon>https://lh3.googleusercontent.com/-Umj1uB-CctE/AAAAAAAAAAI/AAAAAAAAAAA/_aHS9s6jAfw/s64-c/117039540229506356507.jpg</icon>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507"/>
+  <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507"/>
+  <link rel="http://schemas.google.com/photos/2007#slideshow" type="application/x-shockwave-flash" href="https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/117039540229506356507?alt%3Drss"/>
+  <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507?start-index=1&amp;max-results=1000"/>
+  <author>
+    <name>岡本広</name>
+    <uri>https://picasaweb.google.com/117039540229506356507</uri>
+  </author>
+  <generator version="1.00" uri="http://picasaweb.google.com/">Picasaweb</generator>
+  <openSearch:totalResults>8</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+  <gphoto:user>117039540229506356507</gphoto:user>
+  <gphoto:nickname>岡本広</gphoto:nickname>
+  <gphoto:thumbnail>https://lh3.googleusercontent.com/-Umj1uB-CctE/AAAAAAAAAAI/AAAAAAAAAAA/_aHS9s6jAfw/s64-c/117039540229506356507.jpg</gphoto:thumbnail>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6206094363044952481</id>
+    <published>2015-10-15T07:00:00.000Z</published>
+    <updated>2015-10-16T05:04:32.161Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">１０月９～１０　ソロ信州</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6206094363044952481"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/uqPaVB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6206094363044952481"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6206094363044952481</gphoto:id>
+    <gphoto:name>uqPaVB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1444892400000</gphoto:timestamp>
+    <gphoto:numphotos>75</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-o3W_4qSGR2E/ViB58R_ZOaE/AAAAAAAATy0/I9fl6ZS91c8/uqPaVB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-o3W_4qSGR2E/ViB58R_ZOaE/AAAAAAAATy0/I9fl6ZS91c8/s160-c/uqPaVB.jpg" height="160" width="160"/>
+      <media:title type="plain">１０月９～１０　ソロ信州</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6196814237191587745</id>
+    <published>2015-09-20T07:00:00.000Z</published>
+    <updated>2015-10-02T14:14:37.150Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿ヨーロッパ班　アルプス編</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6196814237191587745"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/jNqXDC"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6196814237191587745"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6196814237191587745</gphoto:id>
+    <gphoto:name>jNqXDC</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1442732400000</gphoto:timestamp>
+    <gphoto:numphotos>336</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-bdLLLOE55m0/Vf-Bt3LjR6E/AAAAAAAATaQ/ZgwBSHqPYrs/jNqXDC.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-bdLLLOE55m0/Vf-Bt3LjR6E/AAAAAAAATaQ/ZgwBSHqPYrs/s160-c/jNqXDC.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿ヨーロッパ班　アルプス編</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6196230035111449809</id>
+    <published>2015-09-19T07:00:00.000Z</published>
+    <updated>2015-09-21T03:55:36.596Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">夏合宿ヨーロッパ班　オーストリア編</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6196230035111449809"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/DVzPvF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6196230035111449809"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6196230035111449809</gphoto:id>
+    <gphoto:name>DVzPvF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1442646000000</gphoto:timestamp>
+    <gphoto:numphotos>263</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-K6703kpUSVo/Vf1uY01slNE/AAAAAAAASLE/snxEDh3Dots/DVzPvF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-K6703kpUSVo/Vf1uY01slNE/AAAAAAAASLE/snxEDh3Dots/s160-c/DVzPvF.jpg" height="160" width="160"/>
+      <media:title type="plain">夏合宿ヨーロッパ班　オーストリア編</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143154326877805889</id>
+    <published>2015-04-29T07:00:00.000Z</published>
+    <updated>2015-04-29T14:08:15.707Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">新歓ツアー遠敷峠４月25ー26</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6143154326877805889"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/2526"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143154326877805889"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6143154326877805889</gphoto:id>
+    <gphoto:name>2526</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1430290800000</gphoto:timestamp>
+    <gphoto:numphotos>54</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-N2zU7DAyYIU/VUDeT_30nUE/AAAAAAAAP7Y/4aOh0UIYQKs/2526.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-N2zU7DAyYIU/VUDeT_30nUE/AAAAAAAAP7Y/4aOh0UIYQKs/s160-c/2526.jpg" height="160" width="160"/>
+      <media:title type="plain">新歓ツアー遠敷峠４月25ー26</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6142779879477548449</id>
+    <published>2015-04-28T07:00:00.000Z</published>
+    <updated>2015-04-29T03:05:42.928Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">2015年4月28日　春九州　前編</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6142779879477548449"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/201542803"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6142779879477548449"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6142779879477548449</gphoto:id>
+    <gphoto:name>201542803</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1430204400000</gphoto:timestamp>
+    <gphoto:numphotos>440</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ve4lEr68eA0/VT-JwSmtFaE/AAAAAAAAP-c/NJhWwepnRPE/201542803.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ve4lEr68eA0/VT-JwSmtFaE/AAAAAAAAP-c/NJhWwepnRPE/s160-c/201542803.jpg" height="160" width="160"/>
+      <media:title type="plain">2015年4月28日　春九州　前編</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143017071210545025</id>
+    <published>2015-04-28T07:00:00.000Z</published>
+    <updated>2015-04-30T15:54:20.285Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春九州中編（屋久島編）</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6143017071210545025"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/pqsLLF"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143017071210545025"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6143017071210545025</gphoto:id>
+    <gphoto:name>pqsLLF</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1430204400000</gphoto:timestamp>
+    <gphoto:numphotos>339</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-0N5goxL4A0c/VUBheqqqP4E/AAAAAAAAP_U/cjdRuBns1qA/pqsLLF.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-0N5goxL4A0c/VUBheqqqP4E/AAAAAAAAP_U/cjdRuBns1qA/s160-c/pqsLLF.jpg" height="160" width="160"/>
+      <media:title type="plain">春九州中編（屋久島編）</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143039596770295601</id>
+    <published>2015-04-28T07:00:00.000Z</published>
+    <updated>2015-04-29T13:03:46.518Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">春九州（後編）＆春合宿</title>
+    <summary type="text"/>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6143039596770295601"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/wHyTMB"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6143039596770295601"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6143039596770295601</gphoto:id>
+    <gphoto:name>wHyTMB</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1430204400000</gphoto:timestamp>
+    <gphoto:numphotos>264</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-dvTMhIOil_s/VUB1906m_zE/AAAAAAAAP_s/Ds65V7shjAU/wHyTMB.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-dvTMhIOil_s/VUB1906m_zE/AAAAAAAAP_s/Ds65V7shjAU/s160-c/wHyTMB.jpg" height="160" width="160"/>
+      <media:title type="plain">春九州（後編）＆春合宿</media:title>
+    </media:group>
+  </entry>
+  <entry>
+    <id>https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6140756925665930865</id>
+    <published>2015-04-23T02:33:06.000Z</published>
+    <updated>2015-04-23T02:33:06.725Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/photos/2007#album"/>
+    <title type="text">Profile Photos</title>
+    <summary type="text">Album for profile photos</summary>
+    <rights type="text">public</rights>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://picasaweb.google.com/data/feed/api/user/117039540229506356507/albumid/6140756925665930865"/>
+    <link rel="alternate" type="text/html" href="https://picasaweb.google.com/117039540229506356507/ProfilePhotos"/>
+    <link rel="self" type="application/atom+xml" href="https://picasaweb.google.com/data/entry/api/user/117039540229506356507/albumid/6140756925665930865"/>
+    <author>
+      <name>岡本広</name>
+      <uri>https://picasaweb.google.com/117039540229506356507</uri>
+    </author>
+    <gphoto:id>6140756925665930865</gphoto:id>
+    <gphoto:name>ProfilePhotos</gphoto:name>
+    <gphoto:location/>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>1429756386000</gphoto:timestamp>
+    <gphoto:numphotos>0</gphoto:numphotos>
+    <gphoto:user>117039540229506356507</gphoto:user>
+    <gphoto:nickname>岡本広</gphoto:nickname>
+    <gphoto:albumType>ProfilePhotos</gphoto:albumType>
+    <media:group>
+      <media:content url="https://lh3.googleusercontent.com/-ccAfa9ikUY8/VThZ44ZWbnE/AAAAAAAAAAY/BLBjwwwibTc/ProfilePhotos.jpg" type="image/jpeg" medium="image"/>
+      <media:credit>岡本広</media:credit>
+      <media:description type="plain"/>
+      <media:keywords/>
+      <media:thumbnail url="https://lh3.googleusercontent.com/-ccAfa9ikUY8/VThZ44ZWbnE/AAAAAAAAAAY/BLBjwwwibTc/s160-c/ProfilePhotos.jpg" height="160" width="160"/>
+      <media:title type="plain">Profile Photos</media:title>
+    </media:group>
+  </entry>
+</feed>
